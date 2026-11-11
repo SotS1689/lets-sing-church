@@ -1,0 +1,51 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=120] z c A c | d c B A | G2 F2 | A G F | G A B A | G2 |
+w: 1.~By grace I'm saved, grace free and bound- less; My soul, be- lieve and doubt it not;
+w: 2.~By grace! None dare lay claim to mer- it; Our works and con- duct have no worth,
+w: 3.~By grace! O, mark this word of pro- mise When thou art by thy sins op- pressed,
+w: 4.~By grace His Son, on earth ap- pear- ing, Vouch- safed be- neath thy woe to bend; 
+w: 5.~By grace! This ground of faith is cer- tain; So long as God is true, it stands.
+w: 6.~By grace! but think not, thou who liv- est Se- cure- ly on in god- less ways,
+w: 7.~By grace! They who have heard this sen- tence Must bid hy- po- cri- sy fare- well;
+w: 8.~By grace the ti- mid hearts that lan- guish, Find ac- cess to the Fa- ther's heart,
+w: 9.~By grace! on this in death I'll rest me, Re- joic- ing e'en though feel- ing naught;
+w: 10.~By grace! O sin and Sa- tan hear it! I bear my flag of faith in hand,
+[V: S1V2]  x F F F | F E F F | (F E) F2 | F E D | E F F F | E2 |
+[V: S2V1]  z A, C C | B, G, D C | C2 A,2 | C C A, | B, C D C | C2 |
+[V: S2V2]  x F,, F, A,, | B,, C, D, F, | C,2 F,,2 | F, C, D, | G, F, B,, F, | C,2 |
+[V: S1V1]  c A c | d c B A | G2 F2 | A G F | G A B A | G2 |
+w: Why stag- ger at this word of pro- mise? Hath Scrip- ture ev- er false- hood taught?
+w: God in His love sent our Re- deem- er, Christ Je- sus, to this sin- ful earth;
+w: When Sa- tan plagues thy troub- led con- science, And when thy heart is seek- ing rest.
+w: Hadst thou, dam- na- tion just- ly fear- ing, Done aught to ren- der Him thy friend? 
+w: What saints have penned by in- spi- ra- tion, What in His Word our God com- mands,
+w: That thou, though all are called, re- cei- vest The pro- mised rest that wakes our praise:
+w: For on- ly af- ter deep re- pen- tance The soul what grace im- ports can tell;
+w: When con- flicts fierce and bit- ter an- guish Bid all their joy and hopes de- part.
+w: I know my sin it oft op- pressed me But Him, too, who my soul hath bought:
+w: And pass, in spite of doubts, nor fear it, The Red Sea to the pro- mised land;
+[V: S1V2]  F F F | F E F F | (F E) F2 | F E D | E F F F | E2 |
+[V: S2V1]  A, C C | B, G, D C | C2 A,2 | C C A, | B, C D C | C2 |
+[V: S2V2]  F,, F, A,, | B,, C, D, F, | C,2 F,,2 | F, C, D, | G, F, B,, F, | C,2 |
+[V: S1V1]  G G G | A c c =B | c2 c | A F d B | A2 G2 | F4 |]
+w: Nay; then this word must true re- main: By grace thou, too, shalt Heav'n ob- tain.
+w: His death did for our sins a- tone, And we are saved by grace a- lone.
+w: What rea- son can- not com- pre- hend God by His grace to thee doth send.
+w: Was't not that He thy wel- fare sought, And but by grace de- liv'r- ance wrought? 
+w: What our whole faith must rest up- on, Is grace a- lone, grace in His Son.
+w: By grace none find in heaven a place Who live in sin in hope of grace.
+w: To sin while grace a tri- fle seems, To faith it bright with glo- ry beams.
+w: Where, of- times, should I strength ob- tain, Bid grace my an- chor not re- main!
+w: My heart e- xults grief flees a- pace Be- cause my soul is saved by grace.
+w: I hold the word my Sa- vior taught As cer- tain, whe- ther felt or not.
+[V: S1V2]  E D C | C G F D | E2 G | F F F G | (G F) (F E) | C4 |]
+[V: S2V1]  C =B, G, | F, G, A, G, | G,2 C | C C B, D | C2 B,2 | A,4 |]
+[V: S2V2]  C, D, E, | F, E, F, G, | C,2 E, | F, A,, B,, A,, | C,2 C,,2 | F,,4 |]

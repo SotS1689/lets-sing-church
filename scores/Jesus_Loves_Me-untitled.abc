@@ -1,0 +1,27 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves S1 | S2 
+V: S1 clef=treble 
+V: S2 clef=bass 
+K: Eb
+[V: S1] [Q:1/4=120]  [GB] [EG] [EG] [DF] | [EG] [GB] [G2B2] | [Ac] [Ac] [ce] [Ac] | [Ac] [GB] [G2B2] |
+w: 1.~Je- sus loves me! This I know, For the Bi- ble tells me so. 
+w: 2.~Je- sus loves me! He who died Hea- ven's gate to o- pen wide;
+w: 3.~Je- sus loves me! He will stay Close be- side me all the way;
+[V: S2]   [E,B,] [E,B,] [E,B,] [B,,B,] | [E,B,] [E,B,] [E,2B,2] | [A,,A,] [A,,A,] [A,,A,] [C,A,] | [E,A,] [E,B,] [E,2B,2] |
+[V: S1]  [GB] [EG] [EG] [DF] | [EG] [GB] [G2B2] | [Ac] [Ac] [GB] E | [EG] [DF] E2 |
+w: Lit- tle ones to Him be- long; They are weak, but He is strong. 
+w: He will wash a- way my sin, Let His lit- tle child come in.
+w: Thou hast bled and died for me, I will hence- forth live for Thee.
+[V: S2]  [E,B,] [E,B,] [E,B,] [B,,B,] | [E,B,] [E,B,] [E,2B,2] | [A,,A,] [C,A,] [E,G,] [E,G,] | B, [B,,A,] [E,2G,2] |
+[V: S1]  [G2B2] [EG] [GB] | [Ac] [c3e3] | [G2B2] [EG] E | [EG] [D3F3] |
+w: Yes, Je- sus loves me! Yes, Je- sus loves me! 
+w: Yes, Je- sus loves me! Yes, Je- sus loves me!
+w: Yes, Je- sus loves me! Yes, Je- sus loves me!
+[V: S2]  [E,2G,2] [E,B,] [E,E] | [A,,E] [A,,3E3] | [E,2E2] [E,B,] [G,B,] | [B,,B,] [B,,3B,3] |
+[V: S1]  [E2B2] [EG] [GB] | [Ac] [c2e2] [Ac] | [GB] E [E3/2G3/2] [D/F/] | E4 |]
+w: Yes, Je- sus loves me! The Bi- ble tells me so. 
+w: Yes, Je- sus loves me! The Bi- ble tells me so.
+w: Yes, Je- sus loves me! The Bi- ble tells me so.
+[V: S2]  [G,2B,2] [E,B,] [E,E] | [A,,E] [A,,2E2] [C,E] | [E,E] [G,B,] B,3/2 [B,,/A,/] | [E,4G,4] |]

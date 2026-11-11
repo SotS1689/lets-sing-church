@@ -1,0 +1,25 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] G B B B | (c/ B/) A A A | d ^c d (c/ B/) | (A/ G/) F E D- | D D F G | A (F/ G/) A B | c B E F | (G/ B/) (d/ c/) B A | G4 |]
+w: 1.~A- wake, my soul, and _ with the sun Thy dai- ly stage _ of _ du- ty run; _ Shake off dull sloth, and _ joy- ful rise, To pay thy morn- _ ing _ sac- ri- fice.
+w: 2.~Thy pre- cious time mis- _ spent, re- deem, Each pre- sent day _ thy _ last es- teem, _ Im- prove thy tal- ent _ with due care; For the great day _ thy- _ self pre- pare.
+w: 3.~By in- flu- ence of _ Light di- vine Let thy own light _ to _ o- thers shine. _ Re- flect all Heaven's pro- _ pit- ious ways In ar- dent love, _ and _ cheer- ful praise.
+w: 4.~In con- ver- sa- tion _ be sin- cere; Keep con- science as _ the _ noon- tide clear; _ Think how all see- ing _ God thy ways And all thy sec- _ ret _ thoughts sur- veys.
+w: 5.~Wake, and lift up thy- _ self, my heart, And with the an- _ gels _ bear thy part, _ Who all night long un- _ wear- ied sing High praise to the _ e- _ ter- nal King.
+w: 6.~All praise to Thee, Who _ safe has kept And hast re- freshed _ me _ while I slept _ Grant, Lord, when I from _ death shall wake I may of end- _ less _ light par- take.
+w: 7.~Heav'n is, dear Lord, wher- _ e'er Thou art, O ne- ver then _ from _ me de- part; _ For to my soul 'tis _ hell to be But for one mo- _ ment _ void of Thee.
+w: 8.~Lord, I my vows to _ Thee re- new; Dis- perse my sins _ as _ morn- ing dew. _ Guard my first springs of _ thought and will, And with Thy- self _ my _ spi- rit fill.
+w: 9.~Di- rect, con- trol, sug- _ gest, this day, All I de- sign, _ or _ do, or say, _ That all my powers, with _ all their might, In Thy sole glo- _ ry _ may u- nite.
+w: 10.~I would not wake nor _ rise a- gain And Heaven it- self _ I _ would dis- dain, _ Wert Thou not there to _ be en- joyed, And I in hymns _ to _ be em- ployed.
+w: 11.~Praise God, from Whom all _ bless- ings flow; Praise Him, all crea- _ tures _ here be- low; _ Praise Him a- bove, ye _ heaven- ly host; Praise Fa- ther, Son, _ and _ Ho- ly Ghost.
+[V:A] D G G G | A/ G/ F G F | D E F A/ G/ | F/ E/ D ^C D- | D D D D | D D E E | E/ F/ G E D | D D/ E/ D D/ C/ | B,4 |]
+[V:T] B, D D D | E A, ^C D | A, G, A,/ D/ D | B, A, G, F,- | F, F, A, B, | F, C/ B,/ A, ^G, | A, D C A, | G, G, G, F, | G,4 |]
+[V:B] G, G, D, G,, | C, D, E, D, | F, E, D, G, | G, A, A,, D,- | D, D, D, D, | D, D, C, B,, | A,, B,, C, C, | B,, B,,/ C,/ D, D, | G,,4 |]

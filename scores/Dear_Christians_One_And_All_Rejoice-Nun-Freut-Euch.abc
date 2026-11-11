@@ -1,0 +1,65 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=140] G2 G D | G c B A | G2 z G | A c B A | (E F) G2 |
+w: 1.~Dear Christ- ians, one and all re- joice, With ex- ul- ta- tion spring- * ing, 
+w: 2.~Fast bound in Sa- tan's chains I lay, Death brood- ed dark- ly o'er _ me,
+w: 3.~My own good works a- vailed me naught, No mer- it they at- tai- _ ning;
+w: 4.~But God be- held my wre- tched state Be- fore the world's foun- da- _ tion,
+w: 5.~He spoke to His be- lov- èd Son: 'Tis time to have com- pas- _ sion.
+w: 6.~The Son o- beyed His Fa- ther's will, Was born of vir- gin mo- _ ther,
+w: 7.~To me He spake: Hold fast to Me, I am thy rock and cast- _ le;
+w: 8.~The foe shall shed my pre- cious blood, Me of My life be- rea- _ ving.
+w: 9.~Now to my Fa- ther I de- part, The Ho- ly Spi- rit sen- _ ding
+w: 10.~What I have done and taught, teach thou, My ways for- sake thou ne- _ ver;
+[V: S1V2]  D2 D A, | B, E D D | [B,2D2] x D | F A G F | (E D) D2 |
+[V: S2V1]  B,2 B, A, | G, G, G, F, | G,2 z B, | D E D A, | A,2 B,2 |
+[V: S2V2]  G,2 G, F, | E, C, D, D, | G,,2 x G, | D, A,, B,, D, | (C, D,) G,,2 |
+[V: S1V1]  G2 G D | G c B A | G2 z G | A c B A | (E F) G2 |
+w: And with u- ni- ted heart and voice And ho- ly rap- ture sing- * ing, 
+w: Sin was my tor- ment night and day, In sin my mo- ther bore _ me;
+w: Free will a- gainst God's judg- ment fought, Dead to all good re- mai- _ ning.
+w: And, mind- ful of His mer- cies great, He planned my soul's sal- va- _ tion.
+w: Then go, bright Je- wel of My crown, And bring to man sal- va- _ tion;
+w: And God's good plea- sure to ful- fill, He came to be my bro- _ ther.
+w: Thy ran- som I My- self will be, For thee I strive and wrest- _ le;
+w: All this I suf- fer for thy good; Be stead- fast and be- liev- _ ing.
+w: And, heav'n- ly wis- dom to im- part, My help to thee ex- ten- _ ding.
+w: So shall My king- dom flour- ish now And God be praised for- ev- _ er.
+[V: S1V2]  D2 D A, | B, E D D | [B,2D2] x D | F A G F | (E D) D2 |
+[V: S2V1]  B,2 B, A, | G, G, G, F, | G,2 z B, | D E D A, | A,2 B,2 |
+[V: S2V2]  G,2 G, F, | E, C, D, D, | G,,2 x G, | D, A,, B,, D, | (C, D,) G,,2 |
+[V: S1V1]  z G c B | c d d ^c | d2 z d | e c d3/2 c/ |
+w: Pro- claim the won- ders God hath done, How his right arm the 
+w: Yea, deep and deep- er still I fell, Life had be- come a
+w: My fears in- creased till sheer des- pair Left naught but death to
+w: A fa- ther's heart He turned to me, Sought my re- demp- tion
+w: From sin and sor- row set him free, Slay bit- ter death for
+w: No garb of pomp or power He wore, A ser- vant's form, like
+w: For I am with thee, I am thine, And ev- er- more thou
+w: Life shall from death the vic- tory win, My in- no- cence shall
+w: He shall in trou- ble com- fort thee, Teach thee to know and
+w: Take heed lest men with base al- loy The heav'n- ly trea- sure
+[V: S1V2]  x D E D | G F E E | F2 x G | G =F =F E |
+[V: S2V1]  z B, G, G, | G, A, B, A, | A,2 z B, | C A, B, G, |
+[V: S2V2]  x G, C, G, | E, F, G, A, | D,2 x G, | C, =F, D, E, |
+[V: S1V1]  B A G2 | z B A D | G A (B A) | G4 |]
+w: vic- t'ry won; Right dear- ly it hath cost * him. 
+w: liv- ing hell, So firm- ly sin po- ssessed _ me.
+w: be my share; The pangs of hell I suf- _ fered.
+w: fer- vent- ly: He gave His dear- est trea- _ sure.
+w: him that he May live with Thee for- ev- _ er.
+w: mine, He bore, To lead the de- vil cap- _ tive.
+w: shalt be Mine: The foe shall not di- vide _ us.
+w: bear thy sin; So art Thou blest for- ev- _ er.
+w: fol- low Me, And in all truth shall guide _ thee.
+w: should de- stroy; This coun- sel I be- queath _ thee.
+[V: S1V2]  D D [B,2D2] | x D D D | E C D2 | [B,4D4] |]
+[V: S2V1]  G, F, G,2 | z G, F, G, | E, E, G, F, | G,4 |]
+[V: S2V2]  G, D, G,,2 | x G, D, B,, | C, A,, G,, D, | G,,4 |]

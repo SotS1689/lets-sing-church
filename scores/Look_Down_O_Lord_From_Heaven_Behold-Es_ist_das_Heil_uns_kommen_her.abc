@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=110] A | A A A =c | B A !fermata!G A | F D F ^G | (A B) !fermata!A
+w: 1.~Look down, O Lord, from heav'n be- hold, And let thy pit- y wa- * ken! 
+w: 2.~With frauds which they them- selves in- vent Thy truth they have con- foun- * ded; 
+w: 3.~God sure- ly will up- root all those With vain de- ceits who store * us, 
+w: 4.~For this, saith God, I will a- rise, These wolves my flock are ren- * ding; 
+w: 5.~The sil- ver sev'n times tried is pure From all a- dult- er- a- * tion; 
+w: 6.~Thy truth thou wilt pre- serve, O Lord, From this vile ge- ne- ra- _ tion;
+[V: S1V2]  D | D E D E | D D/=C/ !fermata!B, E | D D D D | (C E/D/) !fermata!C
+[V: S2V1]  F, | A, G, F, E,/F,/ | G, F, !invertedfermata!G, E, | A, B, A, B, | (A, ^G,) !invertedfermata!A,
+[V: S2V2]  D, | F, C, D, A,, | B,,/=C,/ D, !fermata!E, ^C, | D, G, D, B,, | (F, E,) !fermata!A,,
+[V: S1V1]  A | A A A =c | B A !fermata!G A | F D F ^G | (A B) !fermata!A
+w: How few the flock with- in thy fold, Ne- glec- ted and for- sa- * ken! 
+w: Their hearts are not with one con- sent On thy pure doc- trine ground- * ed; 
+w: With haugh- ty tongue who God o- ppose, And say, "Who'll stand be- fore * us? 
+w: I've heard my peo- ple's bit- ter sighs To heav'n my throne as- cend- * ing: 
+w: So, through God's word, shall men en- dure Each tri- al and temp- ta- * tion: 
+w: Make us to lean up- on thy word, With calm an- ti- ci- pa- _ tion.
+[V: S1V2]  D | D E D E | D D/=C/ !fermata!B, E | D D D D | (C E/D/) !fermata!C
+[V: S2V1]  F, | A, G, F, E,/F,/ | G, F, !invertedfermata!G, E, | A, B, A, B, | (A, ^G,) !invertedfermata!A,
+[V: S2V2]  D, | F, C, D, A,, | B,,/=C,/ D, !fermata!E, ^C, | D, G, D, B,, | (F, E,) !fermata!A,,
+[V: S1V1]  A | d c B c | d B !fermata!A A | d A B F |
+w: Al- most thou'lt seek for faith in vain, And those who should thy 
+w: And, whilst they gleam with out- ward show, They lead thy peo- ple 
+w: By right or might we will pre- vail; What we de- ter- mine 
+w: Now will I up, and set at rest Each wear- y soul by 
+w: Its worth gleams bright- er through the cross, And, pur- i- fied from 
+w: The wi- cked walk on ev- ery side When, 'mid thy flock, the
+[V: S1V2]  F | D E E E | F E !fermata!C E | D F D D |
+[V: S2V1]  A, | A, A, ^G, A, | A, ^G, !invertedfermata!A, C | A, A, G, D, |
+[V: S2V2]  D, | F, A, E, C, | B,, E, !fermata!A,, A, | F, D, G,, B,, |
+[V: S1V1]  A G !fermata!F F | E G F E | (D E) !fermata!D |]
+w: truth main- tain Thy Word from us have ta- * ken. 
+w: to and fro, In err- or's maze a- stound- * ed. 
+w: can- not fail, For who can lord it o'er * us?" 
+w: fraud op- prest, The poor with might de- fend- * ing. 
+w: hu- man dross, It shines through e- very na- * tion. 
+w: vile a- bide In pow'r and e- xal- ta- _ tion.
+[V: S1V2]  C B,/C/ !fermata!D D | C D D C | (B, C) !fermata!A, |]
+[V: S2V1]  E,/F,/ G,/A,/ !invertedfermata!B, A, | A, B, A, A,/G,/ | (F, G,) !invertedfermata!F, |]
+[V: S2V2]  A,, E, !fermata!B,, D, | A, G, D, A,, | (B,, A,,) !fermata!D, |]

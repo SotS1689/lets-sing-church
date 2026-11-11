@@ -1,0 +1,29 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] F | F E F A | G G F F | B A F G | A3
+w: 1.~Save me, O God, by thy great name, and judge me by thy strength:
+w: 2.~For they that stran- gers are to me do up a- gainst me rise;
+w: 3.~The Lord my God my help- er is, lo, there- fore I am bold:
+w: 4.~Un- to mine e- ne- mies he shall mis- chief and ill re- pay:
+w: 5.~I will a sac- ri- fice to thee give with free wil- ling- ness;
+w: 6.~Fo- r he hath me de- liv- ered from all ad- ver- si- ties;
+[V: S1V2]  C | C C C F | F E F F | F F F D | E3
+[V: S2V1]  A, | G, G, A, A, | D C A, A, | B, C D D | ^C3
+[V: S2V2]  F, | C, C, F, D, | B,, C, F, F, | D, F, B, B, | A,3
+[V: S1V1]  A | A B c A | F G A A | G F F E | F3 |]
+w: My pra- yer hear, O God; give ear un- to my words at length.
+w: Op- pres- sors seek my soul, and God set not be- fore their eyes.
+w: He ta- keth part with ev’- ry one that doth my soul up- hold.
+w: O for thy truth’s sake cut them off, and sweep them clean a- way.
+w: Thy name, O Lord, be- cause ’tis good, with praise I will con- fess.
+w: And his de- sire mine eye hath seen up- on mine e- ne- mies.
+[V: S1V2]  F | F F E E | D E F F | E D D C | C3 |]
+[V: S2V1]  =C | C B, G, A, | A, C C C | C A, G, G, | A,3 |]
+[V: S2V2]  F, | F, D, C, C, | D, C, F, F, | C, D, B,, C, | F,3 |]

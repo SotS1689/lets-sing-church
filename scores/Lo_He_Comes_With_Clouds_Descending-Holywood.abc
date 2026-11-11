@@ -1,0 +1,34 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=90
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] D E F D | E F G F | B A G F | E E D2 |
+w: 1.~Lo! he comes with clouds de- scend- ing, once for fa- vored sin- ners slain;
+w: 2.~Ev'- ry eye shall now be- hold him, robed in dread- ful ma- jes- ty;
+w: 3.~Ev'- ry is- land, sea, and moun- tain, heav'n and earth, shall flee a- way;
+w: 4.~Now Re- demp- tion, long ex- pect- ed, see in sol- emn pomp ap- pear!
+[V:A] A, C D D | A, D C D | D D (D/C/) D | D C D2 |
+[V:T] F, A, A, A, | A, A, A, A, | G, A, (B,/G,/) A, | A,3/2 G,/ F,2 |
+[V:B] D, A,, D, F, | C, D, E, D, | G, F, E, D, | A,, A,, D,2 |
+[V:S] d c d A | B A G F | B c d c | B B A2 |
+w: thou- sand thou- sand saints at- tend- ing swell the tri- umph of his train.
+w: those who set at naught and sold him, pierced, and nailed him to the tree,
+w: all who hate him must, con- found- ed, hear the trump pro- claim the day:
+w: All his saints, by man re- ject- ed, now shall meet him in the air.
+[V:A] F G A F | G D C D | F3/2 E/ D E | E3/2 D/ C2 |
+[V:T] A, A, A, D | D A, A, A, | D C B, A, | A, ^G, A,2 |
+[V:B] D, E, F, D, | G, F, E, D, | B,, ^A,, B,, C,/ D,/ | E, E,, A,,2 |
+[V:S] A A F D | E F G F | A F B (A/G/) | F E D2 |]
+w: Al- le- lu- ia! Al- le- lu- ia! God ap- pears on _ earth to reign.
+w: deep- ly wail- ing, deep- ly wail- ing, shall the true Mes- _ si- ah see.
+w: Come to judg- ment! Come to judg- ment! Come to judg- ment, _ come a- way!
+w: Al- le- lu- ia! Al- le- lu- ia! See the day of _ God ap- pear!
+[V:A] D E D D | C D (D/C/) D | D3/2 C/ B,/ C/ D | D C D2 |]
+[V:T] A, A, A, A, | A, A, G, A, | A, A, G, A,/ B,/ | A,3/2 G,/ F,2 |]
+[V:B] F, C, D, F, | G, F, E, D, | F, D, G, F,/ G,/ | A,, A,, D,2 |]

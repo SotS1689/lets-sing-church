@@ -1,0 +1,33 @@
+X:1
+M:3/2
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] A2 A2 A2 | A6 A2 A2 A2 | B8 B4 | A6 F2 D2 G2 |
+w: 1.~For- ev- er trust- ing in the Lord, Take heed to do His
+w: 2.~De- light thee in the Lord, and He Will grant thy heart's re-
+w: 3.~And He shall make your right- eous- ness Shine bright- ly as the
+w: 4.~Rest in the Lord with qui- et trust, Wait pa- tient- ly for
+[V:A] F2 F2 F2 | F6 ^F2 ^F2 ^F2 | G8 G4 | F6 C2 D2 D2 |
+[V:T] C2 C2 C2 | C6 D2 D2 D2 | D8 C4 | C6 C2 B,2 B,2 |
+[V:B] F,2 F,2 F,2 | F,6 D,2 D,2 D,2 | G,8 C,4 | F,6 A,,2 B,,2 G,,2 |
+[V:S] (F4 E2) G2 G2 G2 | c6 B2 A2 G2 | A6 A2 A2 A2 | d6 c2 B2 A2 |
+w: will; _ So shall you dwell with- in the land, So shall you dwell with- in the
+w: quest; _ To Him com- mit thy way in faith, To Him com- mit thy way in
+w: light, _ And as the burn- ing noon- day sun, And as the burn- ing noon- day
+w: Him; _ Tho' wick- ed- ness tri- um- phant seem, Tho' wick- ed- ness tri- um- phant
+[V:A] C6 E2 E2 E2 | E6 G2 F2 E2 | F6 ^F2 ^F2 ^F2 | ^F6 A2 G2 ^F2 |
+[V:T] (A,4 G,2) C2 C2 C2 | C6 C2 C2 C2 | C6 D2 D2 D2 | D6 D2 D2 D2 |
+[V:B] C,6 C,2 C,2 C,2 | C,6 C,2 C,2 C,2 | F,6 D,2 D,2 D,2 | D,6 D,2 D,2 D,2 |
+[V:S] (c4 B4) G4 | A2 G2 F4 E4 | F8 |]
+w: land, _ And He your needs shall fill.
+w: faith, _ And thus thou shalt be blessed.
+w: sun _ Thy judg- ment shall be bright.
+w: seem, _ Let not thy faith grow dim.
+[V:A] (A4 G4) E4 | F2 D2 C4 C4 | C8 |]
+[V:T] D8 C4 | C2 B,2 A,4 G,4 | A,8 |]
+[V:B] G,8 C,4 | F,2 B,,2 C,4 C,4 | F,8 |]

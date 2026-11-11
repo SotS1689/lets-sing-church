@@ -1,0 +1,46 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=130] F | c A/G/ F G | A3 A | A F/G/ A =B | c3
+w: 1.~Re- joice, O * pil- grim throng! Re- joice, give * thanks, and sing; 
+w: 2.~With all the _ an- gel choirs, With all the _ saints of earth,
+w: 3.~With voice as _ full and strong As o- cean's _ sur- ging praise,
+w: 4.~Still lift your _ stand- ard high, Still march in _ firm ar- ray,
+w: 5.~Yes, on through _ life's long path, Still chant- ing _ as ye go;
+w: 6.~Yes on- ward, _ on- ward still With hymn, and _ chant and song,
+w: 7.~At last the _ march shall end; The wea- ried _ ones shall rest;
+w: 8.~Then on, ye _ pure in heart! Re- joice, give _ thanks, and sing;
+[V: S1V2] C | C E F C | C3 =C | D D/E/ F F | E3
+[V: S2V1] A, | G, C/B,/ A, E, | F,3 G, | F, A,/G,/ F, G, | G,3
+[V: S2V2] F, | E, C, D, C, | F,3 E, | D, F,/E,/ D, D, | C,3
+[V: S1V1] c | d c/B/ A A | A/G/ =F/G/ A D | G A B A | G3
+w: Your fest- al * ban- ner wave * on * high, The cross of Christ your King. 
+w: Pour out the _ strains of joy _ and _ bliss, True rap- ture, nob- lest mirth.
+w: Send forth the _ hymns our fa- _ thers _ loved, The psalms of an- cient days.
+w: As war- riors _ through the dark- _ ness _ toil, Till dawns the gol- den day.
+w: From youth to _ age, by night _ and _ day, In glad- ness and in woe.
+w: Through gate, and _ porch and co- _ lumned _ aisle, The hal- lowed path- ways throng.
+w: The pil- grims _ find their Fa- _ ther's _ house, Je- ru- sa- lem the bless'd.
+w: Your fest- al _ ban- ner wave _ on _ high, The cross of Christ your King.
+[V: S1V2] _E | D D D D | D =C D D | D D D/C/ C | C3
+[V: S2V1] A, | B, A,/G,/ G, =F, | G, A,/G,/ =F, F, | G, _F, F,/E,/ F, | E,3
+[V: S2V2] F, | B,, B,, D, D, | E, A,, D, C, | B,, A,, G,, A,,/B,,/ | C,3
+[V: S1V1] c | c3 c | c3 c | B A/G/ A G | F3 |]
+w: Re- joice, re- joice, re- joice, Give * thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+w: Re- joice, re- joice, re- joice, Give _ thanks and sing.
+[V: S1V2] C | C3 C | C3 F | F F F E | F3 |]
+[V: S2V1] z | z E,/F,/ G,2 | z F,/G,/ A, A, | B, C/D/ C B, | A,3 |]
+w: Re- * joice, re- * joice, re- joice, Give * thanks and sing.
+[V: S2V2] x | x C,/D,/ E,2 | x D,/E,/ F, _E, | D, C,/B,,/ C, C, F,3 |]

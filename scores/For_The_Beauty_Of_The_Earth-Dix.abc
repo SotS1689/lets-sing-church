@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G F/G/ A G | c c B2 | E F G E | D D D2 |
+w: 1.~For the * beau- ty of the earth For the glo- ry of the skies, 
+w: 2.~For the _ beau- ty of each hour, Of the day and of the night,
+w: 3.~For the _ joy of ear and eye, For the heart and mind's de- light,
+w: 4.~For the _ joy of hu- man love, Bro- ther, sis- ter, pa- rent, child,
+w: 5.~For Thy _ Church, that ev- er- more Lift- eth ho- ly hands a- bove,
+w: 6.~For the _ mar- tyrs' crown of light, For Thy pro- phets' ea- gle eye,
+w: 7.~For Thy _ vir- gins' robes of snow, For Thy mai- den mo- ther mild,
+w: 8.~For each _ per- fect gift of Thine, To our race so free- ly given,
+[V: S1V2]  D D D D | C D D2 | E D D C | B, A, B,2 |
+[V: S2V1]  B, C/B,/ A, B, | G, A, G,2 | G, A, G, G, | G, F, G,2 |
+[V: S2V2]  G, A,/G,/ F, G, | E, F, G,2 | C, C, B,, C, | D, D, G,,2 |
+[V: S1V1]  G F/G/ A G | c c B2 | E F G E | D D D2 |
+w: For the * love which from our birth O- ver and a- round us lies. 
+w: Hill and _ vale, and tree and flow'r, Sun and moon, and stars of light.
+w: For the _ mys- tic har- mo- ny Link- ing sense to sound and sight.
+w: Friends on _ earth and friends a- bove, For all gen- tle thoughts and mild.
+w: Off'r- ing _ up on ev- ery shore Her pure sac- ri- fice of love.
+w: For Thy _ bold con- fes- sors' might, For the lips of in- fan- cy.
+w: For Thy- _ self, with hearts a- glow, Je- su, Vic- tim un- de- filed.
+w: Gra- ces _ hu- man and di- vine, Flowers of earth and buds of Heaven.
+[V: S1V2]  D D D D | C D D2 | E D D C | B, A, B,2 |
+[V: S2V1]  B, C/B,/ A, B, | G, A, G,2 | G, A, G, G, | G, F, G,2 |
+[V: S2V2]  G, A,/G,/ F, G, | E, F, G,2 | C, C, B,, C, | D, D, G,,2 |
+[V: S1V1]  B A G B | d3/2 c/ B2 | E F G c | B A G2 |]
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise. 
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+w: Lord of all, to Thee we raise, This our hymn of grate- ful praise.
+[V: S1V2]  D D D D | D D D2 | E D D C | D3/2 C/ B,2 |]
+[V: S2V1]  G, D/C/ B, G, | A, F, G,2 | G, A, G, G, | G, F, G,2 |]
+[V: S2V2]  G, F, G, G, | F, D, G,2 | C, C, B,, E, | D, D, G,,2 |]

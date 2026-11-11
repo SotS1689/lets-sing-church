@@ -1,0 +1,29 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] d/ | c B c A | B c d z/ d/ | d A A F | A G F z/
+w: 1.~To shep- herds as they watched by night Ap- peared a host of an- gels bright; 
+w: 2.~At Beth- le- hem, in Da- vid's town, As Mi- cah did of old make known; 
+w: 3.~Oh, then re- joice that through His Son God is with sin- ners now at one; 
+w: 4.~What harm can sin and death then do? The true God now a- bides with you. 
+w: 5.~Not one He will or can for- sake Who Him his con- fi- dence doth make. 
+w: 6.~Ye shall and must at last pre- vail; God's own ye are, ye can- not fail.
+[V: S1V2]  F/ | E E E F | D G F x/ F/ | F F E D | D B, D x/
+[V: S2V1]  A,/ | A, ^G, A, A, | G, G, A, z/ A,/ | B, C A, A, | F, G, A, z/
+[V: S2V2]  D,/ | A,, E, A,, D, | G, E, D, x/ D,/ | B,, F, C, D, | D, E, B,, x/
+[V: S1V1]  F/ | B B A c | d B A z/ d/ | c B A A | G/F/ E !fermata!D z/ |]
+w: Be- hold the ten- der Babe, they said, In yon- der low- ly man- * ger laid. 
+w: 'Tis Je- sus Christ, your Lord and King, Who doth to all sal- va- * tion bring. 
+w: Made like your- selves of flesh and blood, Your Bro- ther is th'e- ter- * nal God. 
+w: Let hell and Sa- tan rage and chafe, Christ is your Bro- ther ye * are safe. 
+w: Let all his wiles the Temp- ter try, You may his ut- most pow'rs * de- fy. 
+w: To God for- ev- er sing your praise With joy and pa- tience all _ your days.
+[V: S1V2]  D/ | F G E E | D E C x/ D/ | A G F E | D3/2 C/ !fermata!D x/ |]
+[V: S2V1]  B,/ | D D C A, | F, ^G, A, z/ F,/ | A, D D A, | B,/A,/ A, !invertedfermata!F, z/ |]
+[V: S2V2]  B,,/ | B,, G,, A,, A,, | B,, E, A,, x/ B,,/ | F, G, D, C, | B,,/D,/ A,, !fermata!D, x/ |]

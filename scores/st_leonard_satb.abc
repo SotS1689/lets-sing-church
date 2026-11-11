@@ -1,0 +1,55 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 | G2 B2 A2 G2 | G3 F F2 F2 | G2 G2 G2 G2 |
+w: 1.~O sing a new song to the Lord, Sing all the earth to
+w: 2.~The Lord is great a- bove all gods, Let glad ho- san- nas
+w: 3.~Let all the peo- ples of the earth Give glo- ry to the
+w: 4.~To all the na- tions of the earth The bless- ed ti- dings
+w: 5.~Let heav'n and earth and sound- ing sea To Him glad tri- bute
+[V:A] C2 | D2 F2 F2 F2 | E3 F F2 F2 | F2 F2 F2 F2 |
+[V:T] A,2 | B,2 D2 C2 =B,2 | B,3 A, A,2 A,2 | D2 G,2 D2 G,2 |
+[V:B] F,2 | F,2 F,2 F,2 F,2 | F,3 F, F,2 D,2 | B,,2 B,,2 =B,,2 =B,,2 |
+[V:S] G6 G2 | A2 c2 B2 A2 | A3 G G2 F2 | F2 F2 F2 E2 |
+w: God; In dai- ly prais- es bless His Name And tell His grace a-
+w: rise; The hea- then gods are i- dols vain; Je- ho- vah made the
+w: Lord, Give Him the glo- ry due His Name And strength to Him ac-
+w: bring; Tell all the world Je- ho- vah reigns, The u- ni- ver- sal
+w: bring; Let field and wood and all there- in Be- fore Je- ho- vah
+[V:A] E6 E2 | F2 _E2 D2 _E2 | D3 D D2 D2 | C2 C2 C2 C2 |
+[V:T] G,6 C2 | C2 A,2 B,2 C2 | B,3 B, B,2 _A,2 | G,2 A,2 B,2 B,2 |
+[V:B] C,6 C,2 | F,2 F,2 F,2 F,2 | B,,3 B,, B,,2 =B,,2 | C,2 C,2 C,2 C,2 |
+[V:S] F6 C2 | D2 E2 F2 F2 | G2 G2 A2 A2 | A2 A2 =B2 =B2 |
+w: broad. A- mong the na- tions far and wide His glo- ry ce- le-
+w: skies. Great hon- or is be- fore his face, And ma- jes- ty di-
+w: cord; With of- f'rings come ye to His courts, In ho- ly beau- ty
+w: King. The world shall there- fore stand un- moved, E- sta- blished by His
+w: sing; For, lo, He comes to judge the earth, And all the world shall
+[V:A] C6 C2 | B,2 C2 C2 D2 | F2 E2 F2 F2 | G2 F2 F2 F2 |
+[V:T] A,6 F,2 | F,2 G,2 F,2 A,2 | D2 C2 C2 C2 | ^C2 D2 D2 D2 |
+[V:B] F,,6 A,,2 | B,,2 B,,2 A,,2 D,2 | B,,2 C,2 F,2 F,2 | E,2 D,2 G,2 G,,2 |
+[V:S] c6 c2 | c2 _e2 d2 A2 | c2 B2 A2 G2 | F2 F2 F2 E2 |
+w: brate; To all the peo- ples of the earth His won- drous works re-
+w: vine; With- in His ho- ly dwel- ling\-- place Both strength and beau- ty
+w: bow, Let all the earth with rev'- rence come And serve Je- ho- vah
+w: might; And just is He to judge the wrong And vin- di- cate the
+w: see His ev- er- last- ing faith- ful- ness, His truth and e- qui-
+[V:A] E6 E2 | F2 A2 A2 ^F2 | ^F2 G2 ^F2 G2 | C2 D2 C2 C2 |
+[V:T] (C2 G,2 A,2) B,2 | A,2 C2 C2 D2 | A,2 B,2 C2 D2 | A,2 _A,2 G,2 G,2 |
+[V:B] C,6 C,2 | F,2 F,2 ^F,2 D,2 | G,2 G,,2 A,,2 B,,2 | C,2 =B,,2 C,2 C,2 |
+[V:S] F6 |]
+w: late.
+w: shine.
+w: now.
+w: right.
+w: ty.
+[V:A] A,6 |]
+[V:T] F,6 |]
+[V:B] F,,6 |]

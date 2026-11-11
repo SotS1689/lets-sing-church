@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] C | F A G B | A F E c | B A B c | A2 G 
+w: 1.~I walk in dan- ger all the way; The thought shall ne- ver leave me 
+w: 2.~I pass through tri- als all the way, With sin and ills con- ten- ding; 
+w: 3.~Death doth pur- sue me all the way, No- where I rest se- cure- ly, 
+w: 4.~I walk 'mongst an- gels all the way They shield me and be- friend me; 
+w: 5.~I walk with Je- sus all the way, His gui- dance ne- ver fails me, 
+w: 6.~My walk is heav'n- ward all the way, A- wait, my soul, the mor- row,
+[V: S1V2]  A, | A, C D D/E/ | F D C F | E F G G | (G F) E 
+[V: S2V1]  F, | F, E, D, G,/B,/ | C G, G, C | C C D G, | (A,3/2 =B,/) C 
+[V: S2V2]  F, | D, C, B,, G,, | A,, =B,, C, A, | G, F, F, E, | F,2 C, 
+[V: S1V1] C | F A G B | A F E c | B A B c | A2 G 
+w: That Sa- tan, who has marked his prey, Is plot- ting to de- ceive me. 
+w: In pa- tience I must bear each day The cross of God's own sen- ding; 
+w: He comes by night, he comes by day, He takes his prey most sure- ly; 
+w: All Sa- tan's pow'r is held at bay When heav'n- ly hosts at- tend me; 
+w: With- in His wounds I find a stay, When Sa- tan's pow'r as- sails me; 
+w: When thou shalt find re- lease for aye From all thy sin and sor- row;
+[V: S1V2] C | D F F F | E D ^C =C | D _E D C | (C3/2 D/) E 
+[V: S2V1] G, | A, C D D | ^C A, A, F, | F, F, F, G, | (A,3/2 =B,/) C 
+[V: S2V2] E, | D, C, B,, G,, | A,, D, A,, A,, | B,, C, D, =E, | F,2 C, 
+[V: S1V1]  G | G A B A | G2 x c | c d c B | A2 x 
+w: This foe with hid- den snares May seize me un- a- wares 
+w: Oft in ad- ver- si- ty I know not where to flee; 
+w: A fai- ling breath and I In death's strong grasp may lie 
+w: They are my sure de- fense, All fear and sor- row, hence! 
+w: And by His foot- steps led, My path I safe- ly tread, 
+w: All world- ly pomp, be- gone, To heav'n I now press on;
+[V: S1V2]  E | D ^F G/E/ =F | E2 z G | F F G E | F2 z 
+[V: S2V1]  C | D C D C | C2 x G, | A, B, G, C | C2 x 
+[V: S2V2]  C, | B,, A,, G,, A,,/=B,,/ | C,2 z E, | F, D, E, C, | F,2 z 
+[V: S1V1] A | D D G F | E D C c | c B B A | G G !fermata!F |]
+w: If e'er I fail to watch and pray: I walk in dan- ger all the way. 
+w: When storms of woe my soul dis- may, I pass through tri- als all the way. 
+w: To face e- ter- ni- ty for aye: Death doth pur- sue me all the way. 
+w: Un- harmed by foes, do what they may, I walk 'mongst an- gels all the way. 
+w: In spite of ills that threa- ten may, I walk with Je- sus all the way. 
+w: For all the world I would not stay, My walk is heav'n- ward all the way.
+[V: S1V2] C | C =B, C C/D/ | C =B, C F | F F G F | F E !fermata!C |]
+[V: S2V1] F, | A, G, G, A, |G, F, E, C | D D C C | C B, !fermata!A, |]
+[V: S2V2] F, | F, F, E, A,,/=B,,/ | C, G,, C, A,, | B,, D, E, F, | C, C, !invertedfermata!F, |]

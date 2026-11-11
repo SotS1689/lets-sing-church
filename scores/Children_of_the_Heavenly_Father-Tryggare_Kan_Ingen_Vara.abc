@@ -1,0 +1,37 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=95
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] D E | F2 F2 A F | F2 E2 E F | G2 B2 A G |
+w: 1.~Child- ren of the heav’n- ly Fa- ther Safe- ly in His bo- som
+w: 2.~God His own doth tend and nour- ish; In His ho- ly courts they
+w: 3.~Nei- ther life nor death shall ev- er From the Lord His child- ren
+w: 4.~Praise the Lord in joy- ful num- bers: Your pro- tec- tor ne- ver
+w: 5.~Though He gi- veth or He ta- keth, God His child- ren ne’er for-
+[V:A] D D | D2 D2 D D | D2 C2 C D | C2 C2 D E |
+[V:T] F, G, | A,2 A,2 A, A, | A,2 A,2 A, A, | A,2 G,2 F, A, |
+[V:B] D, D, | D,2 D,2 F, D, | A,,2 A,,2 G, F, | E,2 A,,2 B,, C, |
+[V:S] G2 F2 D D | B2 B2 d B | B2 A2 F A | A2 G2 C E |
+w: ga- ther; Nest- ling bird nor star in Hea- ven Such a re- fuge e’er was
+w: flour- ish; From all e- vil things He spares them; In His might- y arms He
+w: se- ver; Un- to them His grace He sho- weth, And their sor- rows all He
+w: slum- bers; At the will of your de- fen- der Ev- ery foe- man must sur-
+w: sa- keth; His the lov- ing pur- pose sole- ly To pre- serve them pure and
+[V:A] E2 D2 D D | D2 G2 G G | G2 F2 D ^D | E2 E2 C C |
+[V:T] A,2 A,2 D =C | B,2 D2 D D | D2 D2 A, B, | B,2 B,2 A, G, |
+[V:B] D,2 D,2 D, D, | G,2 G,2 B, G, | D,2 D,2 D, B,, | E,2 E,2 A, A,, |
+[V:S] E2 D2 |]
+w: gi- ven.
+w: bears them.
+w: know- eth.
+w: ren- der.
+w: ho- ly.
+[V:A] C2 D2 |]
+[V:T] G,2 F,2 |]
+[V:B] A,,2 D,2 |]

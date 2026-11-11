@@ -1,0 +1,22 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D | G2 E | D2 (G/ A/) | B2 A | G2 B | d2 (B/ A/) | G2 B | A3- | A2 d | B2 A | G2 B | c2 B | A2 B | (D E) (G/ A/) | B2 A | G2 |]
+w: 1.~Why dost thou boast, O _ might- y man, of mis- chief _ and of ill? _ The good- ness of Al- might- y God en- du- _ reth _ ev- er still.
+w: 2.~Thy tongue mis- chie- vous _ ca- lum- nies de- vi- seth _ sub- ti- lely, _ Like to a ra- zor sharp to cut, work- ing _ de- _ ceit- ful- ly.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 4.~So God shall thee de- _ stroy for aye, re- move thee, _ pluck thee out _ Quite from thy house, out of the land of life _ he _ shall thee root.
+w: 5.~The right- eous shall it _ see, and fear, and laugh at _ him they shall: _ Lo, this the man is that did not make God _ his _ strength at all:
+w: 6.~But he in his a- _ bun- dant wealth his con- fi- _ dence did place; _ And he took strength un- to him- self from his _ own _ wick- ed- ness.
+w: 7.~But I am in the _ house of God like to an _ ol- ive green: _ My con- fi- dence for ev- er hath up- on _ God’s _ mer- cy been.
+w: 8.~And I for ev- er _ will thee praise, be- cause thou _ hast done this: _ I on thy name will wait; for good be- fore _ thy _ saints it is.
+[V:A] B, | B,2 C | B,2 (D/ E/) | D2 C | B,2 D | G2 D | D2 D | D3- | D2 D | D2 C | B,2 =F | E2 D | D2 D | D C (D/ E/) | D2 C | B,2 |]
+[V:T] G, | D,2 G, | G,2 G, | G,2 F, | G,2 G, | B,2 (G,/ F,/) | G,2 G, | F,3- | F,2 A, | G,2 F, | G,2 G, | G,2 G, | F,2 G, | G,2 G, | G,2 F, | G,2 |]
+[V:B] G,, | G,,2 G,, | G,,2 (B,,/ C,/) | D,2 D, | G,,2 G, | G,2 (G,,/ A,,/) | B,,2 G,, | D,3- | D,2 F, | G,2 D, | E,2 D, | C,2 G,, | D,2 G,, | (B,, C,) (B,,/ C,/) | G,2 D, | G,,2 |]

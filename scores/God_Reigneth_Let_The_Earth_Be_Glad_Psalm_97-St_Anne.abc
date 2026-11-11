@@ -1,0 +1,37 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] G | E A G c | c B c G | c G A ^F | G3
+w: 1.~God reign- eth, let the earth be glad, and isles re- joice each one.
+w: 2.~Fire goes be- fore him, and his foes it burns up round a- bout:
+w: 3.~Hills at the pre- sence of the Lord, like wax, did melt a- way;
+w: 4.~The heav’ns de- clare his right- eous- ness, all men his glo- ry see.
+w: 5.~Who do of i- dols boast them- selves, let shame up- on them fall:
+w: 6.~Zi- on did hear, and joy- ful was, glad Ju- dah’s daugh- ters were;
+w: 7.~For thou, O Lord, art high a- bove all things on earth that are;
+w: 8.~Hate ill, all ye that love the Lord: his saints’ souls kee- peth he;
+w: 9.~Fo- r all those that be right- eous sown is a joy- ful light,
+w: 10.~Ye right- eous, in the Lord re- joice; ex- press your thank- ful- ness,
+[V: S1V2]  C | C C C E | D D E E | E E E D | D3
+[V: S2V1]  E, | G, A, C C | A, G, G, C | C B, A, A, | B,3
+[V: S2V2]  C, | C, F, E, A, | F, G, C, C, | A,, E, C, D, | G,,3
+[V: S1V1]  B | c A d B | c A B G | A c d B | c3 |]
+w: Dark clouds him com- pass; and in right with judg- ment dwells his throne.
+w: His ligh- tnings ligh- ten did the world; earth saw, and shook through- out.
+w: Ev’n at the pre- sence of the Lord of all the earth, I say.
+w: All who serve gra- ven i- ma- ges, con- found- ed let them be.
+w: Ye that are call- èd gods, see that ye do him wor- ship all.
+w: They much re- joiced, O Lord, be- cause thy judg- ments did ap- pear.
+w: A- bove all o- ther gods thou art ex- alt- ed ver- y far.
+w: And from the hands of wi- cked men he sets them safe and free.
+w: And glad- ness sown is for all those that are in heart u- pright.
+w: When ye in- to your me- mo- ry do call his ho- li- ness.
+[V: S1V2]  D | E C F D | E3/2 D/ B, C | F E D D | E3 |]
+[V: S2V1]  G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
+[V: S2V2]  G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]

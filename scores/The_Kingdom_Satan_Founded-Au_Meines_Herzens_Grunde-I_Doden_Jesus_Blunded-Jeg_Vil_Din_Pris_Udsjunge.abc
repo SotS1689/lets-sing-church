@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] F | F c A F | (F A) G A | c B A G | F2 z 
+w: 1.~The king- dom Sa- tan foun- * ded Shall now be o- ver- thrown, 
+w: 2.~Though he would bind fo- re- * ver Our lips with bands of hell, 
+w: 3.~O Je- sus! my dis- tres- * ses To Thee are known full well, 
+w: 4.~A- non my tongue he bind- * eth That God it shall not praise; 
+w: 5.~To God I raise my cry- * ing Be- fore the mer- cy seat, 
+w: 6.~God, let not love of sin- _ ning Thy fear drive from my breast,
+w: 7.~My heart must Thou have sole- _ ly, My Sa- vior and my God!
+[V: S1V2]  C | C E F D | C2 C C | G F F E | C2 x 
+[V: S2V1]  A, | A, B, C B, | (A, F,) E, F, | G,/A,/ B, C B, | A,2 z 
+[V: S2V2]  F,, | A,, G,, A,, B,, | C,2 C, F, | E, D, C, C, | F,2 x 
+[V: S1V1] F | F c A F | (F A) G A | c B A G | F2 z 
+w: For Christ its fall hath soun- * ded, And through His pow'r a- lone
+w: Yet Christ, sent to de- li- * ver, Can loose those bands full well, 
+w: Thou seest how Sa- tan pres- * ses My soul's weak ci- ta- del; 
+w: A- non my eyes he blin- * deth To hide the light of grace; 
+w: And on His Word re- ly- * ing I grace of Him en- treat, 
+w: Lest Sa- tan, tri- umph win- _ ning, Be of my heart po- ssessed;
+w: Come, Je- sus, take it whol- _ ly, And make it Thine a- bode!
+[V: S1V2] C | D C C C/=B,/ | (C D) E E | F G/F/ E E | F2 x 
+[V: S2V1] A, | A, G, F, F,/G,/ | (A, F,) E, C | C D C B, | A,2 z 
+[V: S2V2] F, | D, E, F, D, | (C, =B,,) C, C, | A,, B,, C, C, | F,,2 x 
+[V: S1V1]  A | A c c A | G2 z F | A B c G | A2 F 
+w: Shall Sa- tan meet his doom, And be for aye con- foun- ded; 
+w: That e'en the dumb may raise His voice with joy and plea- sure 
+w: His aim is to con- trol My mem- bers and my sen- ses, 
+w: Now he my ears doth close To hin- der me from hea- ring 
+w: That He for Je- sus' sake Would cleanse my soul and spi- rit 
+w: O let Thy chas't- ning rod Each day give me di- rec- tion,
+w: Mold it to Thy con- trol, That I, Thy Word re- cei- ving,
+[V: S1V2]  F | E E F F | E2 x D | C F E D | (^C E) D 
+[V: S2V1]  C | A, G, F, C | C2 z A, | F, F, G, D, | (E, A,) A,
+[V: S2V2]  F, | C, B,, A,, F,, | C,2 x D, | F, D, C, B,, | (A,, ^C,) D, 
+[V: S1V1]  A | c B A F | (F A) G A | c B A G | F2 z|]
+w: He from the souls he woun- * ded Shall flee in fear and gloom. 
+w: And sing in swee- test mea- * sure To God his thanks and praise. 
+w: With sin and with of- fen- * ses He steals in- to my soul. 
+w: The Gos- pel's sound so chee- * ring And soo- thing in my woes. 
+w: Through Je- sus' blood and me- * rit, And Sa- tan's po- wer break. 
+w: To seek Thy sure pro- tec- _ tion And tell Thy grace a- broad.
+w: May find, in Thee be- liev- _ ing, Sal- va- tion for my soul.
+[V: S1V2]  D | E D C C/=B,/ | C2 C C | C D/E/ F E C2 x |]
+[V: S2V1]  F, | G, F,/G,/ A, A,/G,/ | (A, F,) E, F, | G,/A,/ B, C B, | A,2 z |]
+[V: S2V2]  D, | C, D,/E,/ F, D, | C,2 C, F, | E, D, C, C, | F,,2 x |]

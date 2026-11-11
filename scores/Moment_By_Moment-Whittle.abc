@@ -1,0 +1,49 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=120] C F G | A A A  | B F G | A2 z | A G ^F | G A G | F E3/2
+w: 1.~Dy- ing with Je- sus, by death reck- oned mine; Liv- ing with Je- sus, a new life 
+w: 2.~Ne- ver a tri- al that He is not there, Ne- ver a bur- den that He doth
+w: 3.~Ne- ver a heart- ache, and ne- ver a groan, Ne- ver a tear- drop and ne- ver
+w: 4.~Ne- ver a weak- ness that He doth not feel, Ne- ver a sick- ness that He can-
+[V: S1V2] C C C | F F F | F F F | F2 x | E E ^D | E E E | C =B,3/2
+[V: S2V1] A, A, B, | C C ^C | D D D | C2 z | C B, A, | B, C B, | A, _A,3/2
+[V: S2V2] F, F, F, | F, F, F,  | F, F, F, | F,2 x | C, C, C, | C, C, C, | F, F,3/2
+[V: S1V1]  D/ | G3 | C F G | A A A  | B B =B | c2 z | c B A | D G/ z/ F |
+w: di- vine; Look- ing to Je- sus till glor- y doth shine, Mo- ment by mo- ment, O 
+w: not bear, Ne- ver a sor- row that He doth not share, Mo- ment by mo- ment, I'm
+w: a moan; Ne- ver a dan- ger but there on the throne, Mo- ment by mo- ment He
+w: not heal; Mo- ment by mo- ment, in woe or in weal, Je- sus my Sa- vior, a-
+[V: S1V2]  B,/ | C3 | C C C | F F F | F F F | F2 x | _E E E |  D D/ x/ D |
+[V: S2V1]  A,/ | (G,2 B,) | A, A, B, | C C C | B, B, ^G, | A,2 z | A, G, F, | G, G,/ x/ G, |
+[V: S2V2]  F,/ | E,3 | F, F, F, | F, F, _E, | D, D, _D, | C,2 x | F, F, F, | B,, B,,/ z/ =B,, |
+[V: S1V1] E !fermata!A G | F3 | A B c | A G F | E3/2 F/ G | A2 z |
+w: Lord, I am Thine. Mo- ment by mo- ment I'm kept in His love; 
+w: un- der His care. Mo- ment by mo- ment I'm kept in His love;
+w: thinks of His own. Mo- ment by mo- ment I'm kept in His love;
+w: bides with me still. Mo- ment by mo- ment I'm kept in His love;
+[V: S1V2] C !fermata!E E | C3 | F G A | F C C | C3/2 D/ E | F2 x |
+[V: S2V1] G, !fermata!C B, | A,3 | C C C | C B, A, | F,3/2 C/ C | C2 x |
+[V: S2V2] C, !invertedfermata!C, C, | F,,3 |F, F, F, F, F, F, | C,3/2 C,/ C | F,2 x |
+[V: S1V1] A B c | A G F | D3/2 E/ F | G3 | C F G |
+w: Mo- ment by mo- ment I've life from a- bove; Look- ing to 
+w: Mo- ment by mo- ment I've life from a- bove; Look- ing to
+w: Mo- ment by mo- ment I've life from a- bove; Look- ing to
+w: Mo- ment by mo- ment I've life from a- bove; Look- ing to
+[V: S1V2] F F F | F E D | =B,3/2 C/ D | E3 | C C C |
+[V: S2V1] C G, A, | C B, A, | G,3/2 G,/ G, | (G,2 B,) | A, A, B, |
+[V: S2V2] F, F, F, | F, C, D, | F,3/2 E,/ D, | C,3 | F, F, F, |
+[V: S1V1]  A A A | d d3/2 c/ | B2 z | B A G | D G/ z/ F | E A3/2 G/ | F3 |]
+w: Je- sus till glor- y doth shine; Mo- ment by mo- ment, O Lord, I am Thine. 
+w: Je- sus till glo- ry doth shine; Mo- ment by mo- ment, O Lord, I am Thine.
+w: Je- sus till glo- ry doth shine; Mo- ment by mo- ment, O Lord, I am Thine.
+w: Je- sus till glo- ry doth shine; Mo- ment by mo- ment, O Lord, I am Thine.
+[V: S1V2]  F F G | ^F F3/2 A/ | G2 x | D D D | D D D | C E3/2 C/ | C3 |]
+[V: S2V1]  C C C | A, A,3/2 D/ | D2 z | B, C B, | G, G,/ z/ G, | G, C3/2 B,/ | A,3 |]
+[V: S2V2]  F, F, _E, | D, D,3/2 D,/ | G,2 x | G,, A,, B,, | C, C,/ x/ C, | D, D,3/2 D,/ | F,,3 |]

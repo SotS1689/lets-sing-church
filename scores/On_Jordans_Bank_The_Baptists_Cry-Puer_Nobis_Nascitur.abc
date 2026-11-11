@@ -1,0 +1,36 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1]  [Q:1/4=120] D | D2 E | F2 G | F2 E | D2 D | A2 A |
+w: 1.~On Jor- dan's bank the Bap- tist's cry An- noun- ces 
+w: 2.~Then cleansed be ev- ery breast from sin; Make straight the 
+w: 3.~For Thou art our Sal- va- tion, Lord, Our Ref- uge, 
+w: 4.~Stretch forth Thine hand, to heal our sore, And make us 
+w: 5.~To Him Who left the throne of Heav'n To save man-
+[V: S1V2]  A, | B,2 C | D2 D | D2 A, | ^F,2 B, | (D G) F |
+[V: S2V1]  F, | F,2 A, | A,2 D, | (A, B,) C | D2 D | D2 A, |
+[V: S2V2]  D, | B,,2 A,, | (D, C,) B,, | (A,, G,,) A,, | D,2 G, | (F, E,) D, |
+[V: S1V1]  (A B) c | d2 d | d2 A | d2 d | c2 A |
+w: that * the Lord is nigh; Come, then, and hear- ken, 
+w: way * for God with- in; Pre- pare we in our 
+w: and * our great Re- ward. With- out Thy grace our 
+w: rise * and fall no more; Once more up- on Thy 
+w: kind, _ all praise be giv'n; Like praise be to the
+[V: S1V2]  E2 E | F2 G | F2 E | (D F) E | E2 D |
+[V: S2V1]  A,2 A, | A,2 B, | A,2 A, | B,2 B, | (A, G,) F, |
+[V: S2V2]  C,2 A,, | D,2 D, | D,2 C, | (B,, A,,) ^G,, | A,,2 D, |
+[V: S1V1]  B2 B | A2 G | A2 F | E2 F | D2 C | !fermata!D2 |]
+w: for he brings Glad ti- dings from the King of kings! 
+w: hearts a home, Where such a might- y Guest may come.  
+w: souls must fade And wi- ther like a flow'r de- cayed. 
+w: peo- ple shine, And fill the world with love di- vine. 
+w: Fa- ther done, And Ho- ly Spi- rit, Three in One.
+[V: S1V2]  B,2 D | D2 B, | E2 D | C2 D | B,2 A, | !fermata!A,2 |]
+[V: S2V1]  G,2 G, | F,2 G, | E,2 A, | A,2 A, | (G, F,) E, | !invertedfermata!F,2 |]
+[V: S2V2]  G,,2 B,, | D,2 E, | C,2 D, | (A,, G,,) F,, | G,,2 A,, | !fermata!D,2 |]

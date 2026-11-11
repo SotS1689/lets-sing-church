@@ -1,0 +1,19 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] C | A2 (B3/4 G1/4) | c2 (B/ G/) | F2 E | F2 A | (A G) G | =B2 B | c2 A | (A B) A | G2 A | (B c) B | A2 A | (G B) d | F2 E | F2 |]
+w: 1.~The Lord's my _ shep- herd, _ I'll not want. He makes _ me down to lie In pas- _ tures green: he lead- _ eth me The qui- _ et wa- ters by.
+w: 2.~My soul he _ doth re- _ store a- gain; and me _ to walk doth make With- in _ the paths of right- _ eous- ness, ev'n for _ his own name's sake.
+w: 3.~Yea, though I _ walk in _ death's dark vale, yet will _ I fear none ill: For thou _ art with me; and _ thy rod and staff _ me com- fort still.
+w: 4.~My ta- ble _ thou hast _ fur- nish- èd In pre- _ sence of my foes; My head _ thou dost with oil _ a- noint, And my _ cup o- ver- flows.
+w: 5.~Good- ness and _ mer- cy _ all my life Shall sure- _ ly fol- low me, And in _ God's house for- ev- _ er more My dwell- _ ing place shall be.
+[V:A] C | F2 E | F2 D | C2 C | C2 F | C2 C | (D G) F | E2 F | (F G) F | E2 F | (G E) G | F2 (F/ E/) | D2 D | C2 C | C2 |]
+[V:T] A, | C2 C | C2 (G,/ B,/) | A,2 G, | A,2 C | F, G, G, | G,2 G, | C2 C | C2 C | C2 C | (D C) C | C2 C | (B, G,) G, | A,2 G, | A,2 |]
+[V:B] F, | F,2 (G,3/4 B,1/4) | (A, A,,) B,, | C,2 C, | F,2 F, | (F, E,) E, | G,2 G,, | C,2 F, | (F, E,) F, | (C, B,) A, | (G, C,) (D,/ E,/) | F,2 F, | B,,2 B,, | C,2 C, | F,2 |]

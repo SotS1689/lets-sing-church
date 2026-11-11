@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] D D/E/ F/G/ A | F E D2 | F E D ^C | D/E/ F E2 |
+w: 1.~Sa- vior, _ when _ in dust to Thee Low we bow th'a- dor- _ ing knee,
+w: 2.~By Thy _ help- _ less in- fant years, By Thy life of want _ and tears,
+w: 3.~By the _ sac- _ red griefs that wept O'er the grave where La- _ z'rus slept,
+w: 4.~By Thine _ hour _ of dire des- pair, By Thine a- go- ny _ of prayer,
+w: 5.~By Thy _ deep _ ex- pir- ing groan, By the sad sep- ul- _ chral stone,
+[V: S1V2]  A, D/^C/ D/E/ F | D ^C A,2 | D ^C D A, | A, D ^C2 |
+[V: S2V1]  F, A, A, A, | A, A,/G,/ F,2 | A, A, A, A, | A, A, A,2 |
+[V: S2V2]  D, F,,/A,,/ D, F,,/G,,/ | A,, A,, D,2 | D, E, F, G, | F,/E,/ D, A,,2 |
+[V: S1V1]  D D/E/ F/G/ A | F E D2 | E F/G/ A G | F E D2 |
+w: When, re- _ pent- _ ant, to the skies Scarce we _ lift our weep- ing eyes,
+w: By Thy _ days _ of sore dis- tress In the _ sa- vage wild- er- ness,
+w: By the _ bod- _ ing tears that flowed O- ver _ Sa- lem's loved a- bode,
+w: By the _ cross, _ the nail, the thorn, Pier- cing _ spear, and tor- turing scorn,
+w: By the _ vault _ whose dark a- bode Held in _ vain the ris- ing God,
+[V: S1V2]  A, A,/^C/ D/E/ F | D ^C A,2 | ^C D/E/ F E | D ^C A,2 |
+[V: S2V1]  F,/G,/ A, A, A, | A, E,/G,/ F,2 | A, A,/=C/ C B, | A, A,/G,/ F,2 |
+[V: S2V2]  D,/E,/ F,/E,/ D, F,,/G,,/ | A,, A,, D,2 | A,, D,/=C,/ F, G, | A, A,, D,2 |
+[V: S1V1]  D C D E | F A/G/ F2 | F E F G | A c/=B/ A2 |
+w: O by all the pains and _ woes Suf- fered once for man be- _ low,
+w: By the dread mys- ter- ious _ hour Of th'in- sult- ing temp- ter's _ pow'r,
+w: By the an- guished sigh that _ told Treach- er- y lurked with- in Thy fold,
+w: By the gloom that veiled the _ skies O'er the dread- ful sac- ri- _ fice,
+w: O from earth to heaven re- _ stored, Might- y, re- as- cend- ed _ Lord,
+[V: S1V2]  B, A, B, B, | C E C2 | D ^C D E/=C/ | C E/D/ C2 |
+[V: S2V1]  F, F, F, G, | A, C/B,/ A,2 | A, A, A, C | F,/ (A, ^G,/) A,2 |
+[V: S2V2]  B,, F,, B,,/A,,/ G,, | F,, C, F,,2 | D, A,, D, C,/E,/ | F, E, A,,2 |
+[V: S1V1]  d d c A | F G A2 | D D/E/ F/G/ A | F E D2 |]
+w: Bend- ing from Thy throne on high, Hear our _ sol- _ emn li- ta- ny!
+w: Turn, O turn a fav'r- ing eye, Hear our _ sol- _ emn li- ta- ny!
+w: From Thy seat a- bove the sky, Hear our _ sol- _ emn li- ta- ny!
+w: Lis- ten to our hum- ble cry, Hear our _ sol- _ emn li- ta- ny!
+w: Lis- ten, lis- ten to the cry Of our _ sol- _ emn li- ta- ny!
+[V: S1V2]  D F/E/ F C | D D E2 | D D/^C/ D/E/ F | D ^C A,2 |]
+[V: S2V1]  F, B, C F, | A, D ^C2 | A,/B,/ A,/G,/ A, A, | A, E,//F,//G,/ F,2 |]
+[V: S2V2]  B,, B, A, F, | D, B,, A,,2 | F,/G,/ F,/E,/ D, F,,/G,,/ | A,, A,, D,2 |]

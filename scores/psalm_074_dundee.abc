@@ -1,0 +1,38 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:E
+[V:S] E | G A B E | F G A G | F E E D | E3 B | e d c B | B =A B G | F E E D | E3 |]
+w: 1.~O God, why hast thou cast us off? is it for ev- er- more? A- gainst thy pa- sture\-- sheep why doth thine an- ger smoke so sore?
+w: 2.~O call to thy re- mem- be- rance thy con- gre- ga- ti- on, Which thou hast pur- chas- èd of old; still think the same up- on:
+w: 3.~The rod of thine in- her- i- tance, which thou re- deem- èd hast, This Zi- on hill, where- in thou hadst thy dwell- ing in times past.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 5.~A- midst thy cong- re- ga- ti- ons thine e- ne- mies do roar: Their en- signs they set up for signs of tri- umph thee be- fore.
+w: 6.~A man was fa- mous, and was had in e- sti- ma- ti- on, Ac- cor- ding as he lift- ed up his axe thick trees up- on.
+w: 7.~But all at once with a- xes now and ham- mers they go to, And down the carv- èd work there- of they break, and quite un- do.
+w: 8.~They fired have thy sanc- tu- a- ry, and have de- filed the same, By cast- ing down un- to the ground the place where dwelt thy name.
+w: 9.~Thus said they in their hearts, Let us de- stroy them out of hand: They burnt up all the sy- na- gogues of God with- in the land.
+w: 10.~Our signs we do not now be- hold; there is not us a- mong A pro- phet more, nor a- ny one that knows the time how long.
+w: 11.~How long, Lord, shall the e- ne- my thus in re- proach ex- claim? And shall the ad- ver- sa- ry thus al- ways blas- pheme thy name?
+w: 12.~Thy hand, ev'n thy right hand of might, why dost thou thus draw back? O from thy bo- som pluck it out for our de- liv'r- ance sake.
+w: 13.~For cer- tain- ly God is my King, ev'n from the times of old, Work- ing in midst of all the earth sal- va- tion man- i- fold.
+w: 14.~The sea, by thy great pow'r, to part a- sun- der thou didst make; And thou the dra- gons' heads, O Lord, with- in the wa- ters brake.
+w: 15.~The le- vi- a- than's head thou brak'st in piec- es, and didst give Him to be meat un- to the folk in wild- er- ness that live.
+w: 16.~Thou clav'st the foun- tain and the flood, which did with streams a- bound: Thou dry'dst the might- y wa- ters up un- to the ver- y ground.
+w: 17.~Thine on- ly is the day, O Lord, thine al- so is the night; And thou a- lone pre- par- èd hast the sun and shin- ing light.
+w: 18.~By thee the bor- ders of the earth were set- tled ev'- ry where: The sum- mer and the win- ter both by thee cre- a- ted were.
+w: 19.~That th'e- ne- my re- proach- èd hath, O keep it in re- cord; And that the fool- ish peo- ple have blas- phemed thy name, O Lord.
+w: 20.~Un- to the mul- ti- tude do not thy turt- le's soul de- liver: The con- gre- ga- tion of thy poor do not for- get for ever.
+w: 21.~Un- to thy cov'- nant have re- spect; for earth's dark pla- ces be Full o- f the ha- bi- ta- tions of hor- rid cru- el- ty.
+w: 22.~O let not those that be op- pressed re- turn a- gain with shame: Let those that poor and need- y are give praise un- to thy name.
+w: 23.~Do thou, O God, a- rise and plead the cause that is thine own: Re- mem- ber how thou art re- proached still by the fool- ish one.
+w: 24.~Do not for- get the voice of those that are thine e- ne- mies: Of those the tu- mult ev- er grows that do a- gainst thee rise.
+[V:A] B, | E E D E | D E E E | D C C B, | B,3 E | G F E D | C C D E | C B, C B, | B,3 |]
+[V:T] G, | B, E, F, B, | A, B, C B, | B, G, A, F, | G,3 G, | B, B, G, F, | G, F, F, B, | A, G, F, F, | G,3 |]
+[V:B] E, | E, C, B,, G, | F, E, A,, E, | B,, C, A,, B,, | E,3 E, | E, B,, C, D, | E, F, B,, E,, | F,, G,, A,, B,, | E,3 |]

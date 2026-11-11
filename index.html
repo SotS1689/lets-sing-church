@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!-- Google tag (gtag.js). Not when another app shows Let's Sing inside its own
+         page (?embed, see the embed section of src/main.js): that app's privacy note
+         is the one its users read. -->
+    <script>
+        // An iPhone home-screen app hides the taylordrummond.org Home link (#home);
+        // other installed copies are caught by the display-mode rule in style.css.
+        if (navigator.standalone) document.documentElement.classList.add("installed");
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        if (new URLSearchParams(location.search).has("embed")) {
+            document.documentElement.classList.add("embed");
+        } else {
+            const tag = document.createElement("script");
+            tag.async = true;
+            tag.src = "https://www.googletagmanager.com/gtag/js?id=G-YW31K785WW";
+            document.head.append(tag);
+            gtag('js', new Date());
+            gtag('config', 'G-YW31K785WW');
+        }
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>Let's Sing</title>
+    <meta name="description" content="Learn your part: hymns and psalms in four-part harmony with a volume control for each voice.">
+    <meta name="theme-color" content="#B71C1C">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <script type="module" crossorigin src="./assets/index-BJ6rxAQf.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-WE81kEzO.css">
+</head>
+<body>
+    <header class="topbar">
+        <button class="icon-btn" id="back" aria-label="Back" hidden>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11H7.8l5.6-5.6L12 4l-8 8 8 8 1.4-1.4L7.8 13H20z"/></svg>
+        </button>
+        <div class="title-row">
+        <a class="icon-btn" id="home" href="https://taylordrummond.org/" aria-label="Home: taylordrummond.org" title="taylordrummond.org">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-8 9 8M5 9.5V21h5v-6h4v6h5V9.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <a class="home-link" href="#/" aria-label="Home" title="Home">
+            <svg class="logo" viewBox="30 24 44 56" aria-hidden="true"><path d="M53.25,27.38 C53.33,34.20 54.97,38.33 59.17,42.08 C63.15,45.60 66.68,48.60 68.18,52.65 C69.82,57.08 68.18,61.35 65.18,64.72 C63.45,66.68 61.42,68.18 59.40,69.53 C62.03,66.53 63.97,63.22 64.80,59.78 C65.70,55.72 64.72,52.12 61.88,48.90 C59.78,46.50 57.08,44.25 55.12,41.55 C53.33,39.00 52.58,35.55 53.25,27.38Z"/><path d="M52.31,27.75 C52.37,36.90 52.41,46.12 52.39,55.28 C52.37,59.85 52.35,63.15 52.28,65.85 C52.21,68.03 50.51,69.90 49.09,71.40 C51.08,69.90 53.49,67.88 53.61,65.70 C53.84,57.22 53.87,48.00 53.85,38.78 C53.84,34.42 53.80,30.38 53.80,27.75Z"/><path d="M52.86,65.62 C51.13,63.82 48.56,63.15 45.66,63.82 C42.23,64.65 38.93,66.82 37.09,69.45 C35.34,71.93 35.50,74.40 37.55,75.68 C39.80,77.18 43.57,76.88 47.03,75.30 C50.40,73.80 52.91,71.47 53.51,69.00 C53.84,67.65 53.64,66.53 52.86,65.62Z"/></svg>
+        </a>
+        <h1 id="page-title">Let's Sing</h1>
+        </div>
+        <div class="download-wrap">
+            <button class="icon-btn" id="download" aria-label="Download all hymns for offline use" aria-haspopup="dialog" hidden>
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"/></svg>
+            </button>
+            <div id="download-panel" role="dialog" aria-label="Offline use"></div>
+        </div>
+        <button class="icon-btn" id="theme-toggle" aria-label="Change theme">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 0 18V3z" /><circle cx="12" cy="12" r="8.2" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+        </button>
+        <div class="support-wrap">
+            <a class="icon-btn" id="support" href="https://buymeacoffee.com/taylordrummond"
+               target="_blank" rel="noopener" aria-label="Support" title="Support">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+            </a>
+            <div id="support-callout" role="dialog" aria-label="Support this project">
+                <div class="support-callout-arrow"></div>
+                <p class="support-callout-title">A quick note &mdash;</p>
+                <p class="support-callout-body">This project is built and maintained in spare time so that anyone can use it for free. If it's been a help to you, would you consider supporting it? Every bit keeps it running for the next person too.</p>
+                <div class="support-callout-actions">
+                    <a href="https://buymeacoffee.com/taylordrummond" target="_blank" rel="noopener"
+                       class="support-callout-btn support-callout-btn-primary" data-support="acted">Yes</a>
+                    <button type="button" class="support-callout-btn support-callout-btn-secondary" data-support="later">Maybe later</button>
+                    <button type="button" class="support-callout-btn support-callout-btn-text" data-support="forever">Don't ask again</button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main id="app"></main>
+</body>
+</html>

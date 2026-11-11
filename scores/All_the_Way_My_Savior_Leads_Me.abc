@@ -1,0 +1,17 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] B3/4 B1/4 | B3/2 B/ A/ G/ | D G G/ B/ | A3/2 F/ G/ A/ | B2 D1/4 (B3/4 | B1/4) c3/2 B/ A/ G1/4- | G1/4 B A A/ A1/4- | A1/4 A3/2 E/ F/ G1/4- | G1/4 F2 E/ D1/4- | D1/4 G3/2 A/ G/ E1/4- | E1/4 D G G/ A1/4- | A1/4 B3/2 G/ c/ B1/4- | B1/4 A2 B/ c1/4- | c1/4 d3/2 B/ A/ G1/4- | G1/4 A G- G1/4 F/ | E/ D/ G/ B A/- | A/ B2- B1/4 B1/4- | B1/4 c/ d3/2 B/ A1/4- | A1/4 G/ A G F1/4- | F1/4 E/ D/ G/ B A1/4- | A3/4 G2- G1/4 |]
+w: 1.~All the way my Sa- vior leads me; What have I to ask be- side? Can I _ doubt His ten- der _ mer- cy, Who through _ life has been my _ guide? Heav'n- ly _ peace, di- vi- nest _ com- fort, Here by _ faith in Him to _ dwell! For I _ know, what- e'er be- _ fall me, _ Je- sus do- eth all things _ well; _ For _ I know, what- e'er _ be- fall me, Je- _ sus do- eth all things _ well. _
+w: 2.~All the way my Sa- vior leads me, Cheers each win- ding path I tread; Gives me _ grace for ev- ery _ tri- al, Feeds me _ with the liv- ing _ bread. Though my _ wear- y steps may _ fal- ter, And my _ soul a- thirst may _ be, Gu- shing _ from the rock be- _ fore me, _ Lo! A spring of joy I _ see; _ Gu- _ shing from the rock _ be- fore me, Lo! _ A spring of joy I _ see. _
+w: 3.~All the way my Sa- vior leads me O the full- ness of His love! Per- fect _ rest to me is _ pro- mised In my _ Fa- ther's house a- _ bove. When my _ spi- rit, clothed im- _ mor- tal, Wings its _ flight to realms of _ day This my _ song through end- less _ a- ges— _ Je- sus led me all the _ way; _ This _ my song through end- _ less a- ges— Je- _ sus led me all the _ way. _
+[V:A] G3/4 G1/4 | G3/2 G/ F/ E/ | D D D/ G/ | F3/2 D/ D/ D/ | D2- D1/4 D3/4 | D1/4 E3/2 D/ C/ B,1/4- | B,1/4 D D D/ D1/4- | D1/4 ^C3/2 C/ D/ C1/4- | ^C1/4 D2 =C/ C1/4- | C1/4 B,3/2 C/ D/ C1/4- | C1/4 B, B, D/ D1/4- | D1/4 D3/2 E/ E/ G1/4- | G1/4 F2 G/ F1/4- | F1/4 G3/2 G/ F/ E1/4- | E1/4 E E- E1/4 D/ | C/ B,/ D/ G F/- | F/ B2- B1/4 G1/4- | G1/4 F/ G3/2 G/ F1/4- | F1/4 E/ E E D1/4- | D1/4 C/ B,/ D/ G F1/4- | F3/4 G2- G1/4 |]
+[V:T] D3/4 D1/4 | D3/2 D/ C/ B,/ | A, B, B,/ D/ | D3/2 A,/ G,/ F,/ | G,2- G,1/4 G,3/4 | G,1/4 G,3/2 G,/ F,/ G,1/4- | G,1/4 G, F, F,/ F,1/4- | F,1/4 A,3/2 A,/ A,/ A,1/4- | A,1/4 A,2 G,/ F,1/4- | F,1/4 G,3/2 G,/ G,/ G,1/4- | G,1/4 G, G, G,/ F,1/4- | F,1/4 G,3/2 B,/ C/ D1/4- | D1/4 D2 D/ D1/4- | D1/4 D3/2 D/ C/ B,1/4- | B,1/4 C C C,1/4 G,/ | G,/ G,/ B,/ D C/- | C/ D2- D1/4 D1/4- | D1/4 D/ D3/2 D/ C1/4- | C1/4 B,/ C C G,1/4- | G,1/4 G,/ G,/ B,/ D C1/4- | C3/4 B,2- B,1/4 |]
+[V:B] G,3/4 G,1/4 | G,3/2 G,/ D,/ E,/ | F, G, G,/ G,/ | D,3/2 C,/ B,,/ A,,/ | G,,2 G,1/4 G,3/4 | =F,1/4 E,3/2 G,/ D,/ E,1/4- | E,1/4 D, D, D,/ D,1/4- | D,1/4 A,,3/2 G,/ F,/ E,1/4- | E,1/4 D,2 D,/ D,1/4- | D,1/4 G,,3/2 G,,/ B,,/ C,1/4- | C,1/4 G,, G,, B,,/ D,1/4- | D,1/4 G,3/2 E,/ C,/ G,,1/4- | G,,1/4 D,2 G,/ A,1/4- | A,1/4 B,3/2 G,/ D,/ E,1/4- | E,1/4 C, C,- C,1/4 C,/ | C,/ D,/ D,/ D, D,/- | D,/ G,,2- G,,1/4 G,1/4- | G,1/4 A,/ B,3/2 G,/ D,1/4- | D,1/4 E,/ C, C, C,1/4- | C,1/4 C,/ D,/ D,/ D, D,1/4- | D,3/4 G,,2- G,,1/4 |]

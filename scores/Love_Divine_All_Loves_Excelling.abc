@@ -1,0 +1,18 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] F F | G F d (c/ d/) | c B A G | B G F (E/ F/) | D2 F F | G F d (c/ d/) | c B G e | d B A (G/ A/) | B2 B B | B A G (A/ G/) | _G D d d | e d c (c/ d/) | c2 F F | G F d (c/ d/) | c B G e | d B A (G/ A/) | B4 |]
+w: 1.~Love Di- vine, all loves ex- _ cel- ling, Joy of heav'n, to earth come _ down: Fix in us thy hum- ble _ dwell- ing, All thy faith- ful mer- cies _ crown: Je- sus, thou art all com- _ pas- sion, Pure, un- bound- ed love thou _ art; Vis- it us with thy sal- _ va- tion, En- ter ev'- ry trem- bling _ heart.
+w: 2.~Breathe, O breathe thy lov- ing _ Spi- rit In- to ev'- ry troub- led _ breast; Let us all in thee in- _ her- it, Let us find the pro- mised _ rest: Take a- way the love of _ sin- ning; Al- pha and O- me- ga _ be; End of faith, as its Be- _ gin- ning, Set our hearts at lib- er- _ ty.
+w: 3.~Come, Al- might- y to de- _ li- ver, Let us all thy life re- _ ceive; Sud- den- ly re- turn, and _ ne- ver, Ne- ver more thy tem- ples _ leave. Thee we would be al- ways _ bless- ing, Serve thee as thy hosts a- _ bove, Pray, and praise thee, with- out _ ceas- ing, Glo- ry in thy per- fect _ love.
+w: 4.~Fi- nish, then, thy new cre- _ a- tion; Pure and spot- less let us _ be: Let us see thy great sal- _ va- tion Per- fect- ly re- stored in _ thee; Changed from glo- ry in- to _ glo- ry, Till in heav'n we take our _ place, Till we cast our crowns be- _ fore thee, Lost in won- der, love and _ praise.
+[V:A] D F | E E E E | E D F E | G E D C | B,2 D F | E E E E | E D E G | F F E E | D2 D G | G _G =G D | D D F F | G F F =E | F E D F | E E E E | E D E G | F F E E | D4 |]
+[V:T] B, B, | B, A, G, A, | A, B, B, B, | E B, B, A, | F,2 B, B, | B, A, G, A, | A, B, B, B, | B, D C F, | F,2 G, D | D C B, C/ B,/ | A, D, B, B, | B, B, A, B, | A,2 B, B, | B, A, G, A, | A, B, B, B, | B, D C F, | F,4 |]
+[V:B] B,, D, | E, F, F, F, | F, B,, E, E, | E, E, F, F, | B,,2 B,, D, | E, F, F, F, | _G, =G, E, E, | F, F, F, F, | B,,2 G,, B,, | D, D, D, D, | D, D, B,, F, | E, B,, C, C, | F,2 B,, D, | E, F, F, F, | F, B,, E, E, | F, F, F, F, | B,,4 |]

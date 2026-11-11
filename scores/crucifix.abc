@@ -1,0 +1,55 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=113
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] (E F) | G2 G2 G2 G2 | G4 E2 E2 | F2 F2 D2 D2 |
+w: 1.~O _ Lord, by Thee de- liv- ered, I Thee with songs ex-
+w: 2.~His _ ho- ly Name re- mem- ber, Ye saints, Je- ho- vah
+w: 3.~In _ pros- p'rous days I boast- ed, Un- moved I shall re-
+w: 4.~What _ pro- fit if I per- ish, If life Thou dost not
+w: 5.~My _ grief is turned to glad- ness, To Thee my thanks I
+[V:A] E2 | E2 E2 E2 E2 | E4 B,2 C2 | C2 C2 B,2 B,2 |
+[V:T] (G, A,) | B,2 B,2 B,2 B,2 | B,4 G,2 G,2 | A,2 A,2 F,2 F,2 |
+[V:B] E,2 | E,2 E,2 E,2 E,2 | E,4 E,2 C,2 | A,,2 A,,2 B,,2 B,,2 |
+[V:S] E6 (E F) | G2 G2 G2 G2 | G4 E2 E2 | F2 F2 D2 D2 |
+w: tol; My _ foes Thou hast not suf- fered To glo- ry o'er my
+w: praise; His _ an- ger lasts a mo- ment, His fa- vor all our
+w: main, For, _ Lord, by Thy good fa- vor My cause Thou didst main-
+w: spare? Shall _ dust re- peat Thy prais- es, Shall it Thy truth de-
+w: raise, Who _ hast re- moved my sor- row And gir- ded me with
+[V:A] B,6 E2 | E2 E2 E2 E2 | E4 B,2 C2 | C2 C2 B,2 B,2 |
+[V:T] G,6 (G, A,) | B,2 B,2 B,2 B,2 | B,4 G,2 G,2 | A,2 A,2 F,2 F,2 |
+[V:B] E,6 E,2 | E,2 E,2 E,2 E,2 | E,4 E,2 C,2 | A,,2 A,,2 B,,2 B,,2 |
+[V:S] E6 B2 | e2 e2 d2 c2 | B4 G2 G2 | A2 (B A) G2 (A G) |
+w: fall. O Lord, my God, I sought Thee, And Thou didst _ heal and _
+w: days; For sor- row, like a pil- grim, May tar- ry _ for a _
+w: tain; I soon was sore- ly troub- led, For Thou didst _ hide Thy _
+w: clare? O Lord, on me have mer- cy, And my pe- _ ti- tion _
+w: praise; And now, no long- er si- lent, My heart Thy _ praise will _
+[V:A] B,6 E2 | E2 E2 E2 E2 | E4 E2 E2 | F2 (G F) E2 (F E) |
+[V:T] G,6 G,2 | G,2 G,2 B,2 A,2 | G,4 B,2 B,2 | B,2 B,2 B,2 B,2 |
+[V:B] E,6 E,2 | E,2 E,2 E,2 E,2 | E,4 E,2 E,2 | B,,2 B,,2 B,,2 B,,2 |
+[V:S] F6 (G A) | B2 B2 B2 B2 | (c2 d2) e2 c2 | B2 A2 G2 F2 |
+w: save; Thou, _ Lord, from death didst ran- _ som, And keep me from the
+w: night, But _ joy the heart will glad- _ den When dawns the morn- ing
+w: face; I _ cried to Thee, Je- ho- _ vah, I sought Je- ho- vah's
+w: hear; That _ Thou mayst be my help- _ er, In mer- cy, Lord, ap-
+w: sing; O _ Lord, my God, for ev- _ er My thanks to Thee I
+[V:A] D6 E2 | E2 E2 E2 E2 | E4 E2 E2 | E2 D2 E2 D2 |
+[V:T] B,6 (B, A,) | G,2 G,2 G,2 G,2 | (A,2 B,2) C2 A,2 | G,2 F,2 B,2 A,2 |
+[V:B] B,,6 E,2 | E,2 E,2 E,2 E,2 | A,,4 A,,2 A,,2 | B,,2 B,,2 B,,2 B,,2 |
+[V:S] E6 |]
+w: grave.
+w: light.
+w: grace.
+w: pear.
+w: bring.
+[V:A] E6 |]
+[V:T] G,6 |]
+[V:B] E,6 |]

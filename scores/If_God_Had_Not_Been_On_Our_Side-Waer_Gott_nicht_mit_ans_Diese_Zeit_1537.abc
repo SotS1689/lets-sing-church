@@ -1,0 +1,37 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] D2 A A | E G F E | D z/ D/ A B | c d (c B) | A4 |
+w: 1.~If God had not been on our side And had not come to aid * us, 
+w: 2.~Their fur- ious wrath, did God per- mit, Would sure- ly have con- sumed * us 
+w: 3.~Blest be the Lord, who foiled their threat That they could not de- vour * us; 
+[V: S1V2]  D2 D C | C D D ^C | D x/ D/ D D | E D E2 | C4 |
+[V: S2V1]  F,2 F, A, | G, _B, A, A, | F, z/ A,/ F, G, | G, A, (A, ^G,) | A,4 |
+[V: S2V2]  D,2 D, F, | C, G,, D, A,, | D, x/ F,/ D, G,, | C, F, E,2 | A,,4 |
+[V: S1V1]  D2 A A | E G F E | D z/ D/ A B | c d (c B) | A
+w: The foes with all their pow'r and pride Would sure- ly have dis- mayed * us; 
+w: And as a deep and yawn- ing pit With life and limb en- tombed * us. 
+w: Our souls, like birds, es- caped their net, They could not ov- er- pow'r * us. 
+[V: S1V2]  D2 D C | C D D ^C | D x/ D/ D D | E D E2 | C
+[V: S2V1]  F,2 F, A, | G, _B, A, A, | F, z/ A,/ F, G, | G, A, (A, ^G,) | A,
+[V: S2V2]  D,2 D, F, | C, G,, D, A,, | D, x/ F,/ D, G,, | C, F, E,2 | A,,
+[V: S1V1]  z/ A/ d d | c B c A | G z/ G/ c B |
+w: For we, His flock, would have to fear The threat of 
+w: Like men o'er whom dark wa- ters roll Their wrath would 
+w: The snare is bro- ken we are free! Our help is 
+[V: S1V2]  x/ D/ D G | E E E D | B, x/ G/ G G |
+[V: S2V1]  z/ ^F,/ F, B, | A, G, G, ^F, | G, z/ B,/ E D |
+[V: S2V2]  x/ D,/ B,, G,, | A,, E, C, D, | G,, x/ G,/ E, G, |
+[V: S1V1]  A G A F | E z/ D/ F G | A F E2 | D4 |]
+w: men both far and near Who rise in might a- gainst us. 
+w: have en- gulfed our soul And, like a flood, o'er- whelmed us. 
+w: ev- er, Lord, in Thee, Who mad- est earth and hea- ven. 
+[V: S1V2]  E E C D | ^C x/ D/ D D | D D (^C/B,/ C) | D4 |]
+[V: S2V1]  C B, A, A, | A, z/ F,/ _B, B, | A, A, A,2 | F,4 |]
+[V: S2V2]  A, E, F, D, | A,, x/ D,/ _B,, G,, | F,, D,, A,,2 | D,4 |]

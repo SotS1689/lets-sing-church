@@ -1,0 +1,19 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Am
+[V:S] E2 | A c B A | ^G A B2 | E2 A ^G | A B c2 | G2 c e | d c B A | ^G2 E2 | A c B B | A4 |]
+w: 1.~The Lord doth reign, and clothed is he with ma- jes- ty most bright; His works do show him clothed to be, and girt a- bout with might.
+w: 2.~The world is al- so sta- blish- èd, that it can- not de- part. Thy throne is fixed of old, and thou from ev- er- last- ing art.
+w: 3.~The floods, O Lord, have lift- ed up, they lift- ed up their voice; The floods have lift- ed up their waves, and made a might- y noise.
+w: 4.~But yet the Lord, that is on high, is more of might by far Than noise of ma- ny wa- ters is, or great sea\-- bil- lows are.
+w: 5.~Thy te- sti- mo- nies ev’- ry one in faith- ful- ness ex- cel; And ho- li- ness for ev- er, Lord, thine house be- co- meth well.
+[V:A] C2 | E E E E | E/ D/ C E2 | B,2 E E | E G G2 | E2 G G | G E F D | E2 z2 | E E F E/ D/ | C4 |]
+[V:T] A,2 | A, A, ^G, A, | E, A, ^G,2 | ^G,2 A, B, | C D E2 | C2 C C | B, C D A, | B,2 ^G,2 | A, A, A, ^G, | A,4 |]
+[V:B] A,,2 | C, A,, E, C, | B,, A,, E,2 | E,2 C, E, | A, G, C,2 | C,2 E, C, | G, A, D, F, | E,2 E,3/2 D,/ | C, A,, D, E, | A,,4 |]

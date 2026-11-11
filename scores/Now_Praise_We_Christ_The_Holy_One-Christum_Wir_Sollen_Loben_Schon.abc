@@ -1,0 +1,33 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=130] D2 F G | A D G F | E2 z G | A c c B | A B c2 |
+w: 1.~Now praise we Christ, the Ho- ly One, The bless- èd vir- gin Ma- ry's son,
+w: 2.~He, who Him- self all things did make, A ser- vant's form vouch- safed to take, 
+w: 3.~The grace and power of God the Lord Up- on the mo- ther was out- poured;
+w: 4.~The ho- ly maid be- came th'a- bode And tem- ple of the liv- ing God; 
+w: 5.~The no- ble mo- ther bore a son— For so did Ga- briel's pro- mise run—
+w: 6.~Up- on a man- ger filled with hay In pov- er- ty con- tent He lay;
+w: 7.~The heav'n- ly choirs re- joice and raise Their voice to God in songs of praise.
+w: 8.~All hon- or un- to Christ be paid, Pure off- spring of the fa- vored maid,
+[V: S1V2]  A,2 D E | D3/2 C/ B,/C/ D | ^C2 x E | F A G G | F G G2 |
+[V: S2V1]  F,2 A, C | A, B,/A,/ G, A, | A,2 z B, | D E E D | D D E2 |
+[V: S2V2]  D,2 D, C, | F, G, E, D, | A,2 x E, | D, A, C G, | D, G, C,2 |
+[V: S1V1]  z G A c | c B A ^G | A2 z D | A A c A | (G/A/ F) E2 | E4 |]
+w: Far as the glor- ious sun doth shine, E'en to the world's re- mote _ _ con- fine.
+w: That He as man man- kind might win, And save His crea- tures from * * their sin. 
+w: A vir- gin pure and un- de- filed In won- drous wise con- ceived _ _ a child.
+w: And she, who knew not man, was blest With God's own Word made man- * * i- fest. 
+w: Whom John con- fessed and leaped with joy Ere yet the mo- ther knew _ _ her boy.
+w: With milk was fed the Lord of all, Who feeds the ra- vens when _ _ they call.
+w: To hum- ble shep- herds is pro- claimed The Shep- herd who the world _ _ hath framed.
+w: With Fa- ther and with Ho- ly Ghost, Till time in end- less time _ _ be lost.
+[V: S1V2]  x E E F | G G E E | C2 x D | F F E C | (E D) (C B,/A,/) | B,4 |]
+[V: S2V1]  z C C A, | E D C B, | A,2 z B, | C D G, A, | (B,/C/ A,2) ^G,/^F,/ | ^G,4 |]
+[V: S2V2]  x C A, F, | C, G, A, E, | A,2 x G, | F, D, C, F, | (E,/C,/ D,) E,2 | E,4 |]

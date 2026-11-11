@@ -1,0 +1,59 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D2 | G2 G2 A2 | (B2 B2) G2 | c2 c2 B2 |
+w: 1.~O wor- ship the king _ all glor- ious a-
+w: 2.~O tell of his might, _ O sing of his
+w: 3.~The earth with its store _ of won- ders un-
+w: 4.~Thy boun- ti- ful care _ what tongue can re-
+w: 5.~Frail child- ren of dust, _ and fee- ble as
+w: 6.~O meas- ure- less might! _ i- nef- fa- ble
+[V:A] B,2 | D2 D2 D2 | (D2 D2) D2 | C2 D2 D2 |
+[V:T] G,2 | B,2 G,2 F,2 | G,2 G,2 G,2 | G,2 A,2 G,2 |
+[V:B] G,,2 | G,,2 B,,2 D,2 | (G,2 G,2) B,,2 | E,2 F,2 G,2 |
+[V:S] A4 (D C) | G2 G2 A2 | (B2 B2) c2 | (d c) B2 A2 |
+w: bove, O _ gra- te- fully sing _ his power _ and his
+w: grace, Whose _ robe is the light, _ whose ca- _ no- py
+w: told, Al- _ might- y, thy pow'r _ hath found- _ ed of
+w: cite? It _ breathes in the air; _ it shines _ in the
+w: frail, In _ thee do we trust, _ nor find _ thee to
+w: love! While _ an- gels de- light _ to hymn _ thee a-
+[V:A] D4 (D C) | B,2 D2 D2 | (D2 D2) E2 | (D E) D2 C2 |
+[V:T] F,4 F,2 | G,2 G,2 F,2 | G,2 G,2 G,2 | G,2 G,2 F,2 |
+[V:B] D,4 D,2 | G,,2 B,,2 D,2 | (G,2 G,2) E,2 | (B,, C,) D,2 D,2 |
+[V:S] G4 D2 | D2 D2 E2 | F2 F2 G2 | A2 A2 B2 |
+w: love; Our shield and de- fen- der, the an- cient of
+w: space. His cha- ri- ots of wrath the deep thun- derclouds
+w: old; Hath sta- blished it fast by a change- less de-
+w: light; It streams from the hills; it de- scends to the
+w: fail; Thy mer- cies how ten- der, how firm to the
+w: bove, The hum- bler cre- a- tion, though fee- ble their
+[V:A] B,4 D2 | D2 D2 ^C2 | C2 C2 B,2 | A,2 D2 G2 |
+[V:T] G,4 F,2 | F,2 F,2 G,2 | A,2 A,2 G,2 | F,2 F,2 G,2 |
+[V:B] G,,4 D,2 | D,2 D,2 D,2 | D,2 D,2 D,2 | D,2 D,2 D,2 |
+[V:S] c4 (D C) | G2 G2 A2 | B2 B2 c2 | (d c) B2 A2 |
+w: days, Pa- _ vi- lioned in splen- dor, and gir- _ ded with
+w: form, And _ dark is his path on the wings _ of the
+w: cree, And _ round it hath cast, like a mant- _ le, the
+w: plain; And _ sweet- ly di- stils in the dew _ and the
+w: end, Our _ Ma- ker, De- fen- der, Re- deem- _ er, and
+w: lays, With _ true a- dor- a- tion shall lisp _ to thy
+[V:A] F4 (D C) | B,2 D2 D2 | D2 D2 E2 | (D E) D2 C2 |
+[V:T] A,4 F,2 | G,2 G,2 F,2 | G,2 G,2 G,2 | G,2 G,2 F,2 |
+[V:B] D,4 D,2 | G,,2 B,,2 D,2 | G,2 G,2 E,2 | (B,, C,) D,2 D,2 |
+[V:S] G4 |]
+w: praise.
+w: storm.
+w: sea.
+w: rain.
+w: Friend!
+w: praise.
+[V:A] B,4 |]
+[V:T] G,4 |]
+[V:B] G,,4 |]

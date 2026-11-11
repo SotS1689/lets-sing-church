@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/8
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=95] A2 A3/2G/ F2 F3/2E/ | D2 F2 DC z2 | !>!A2 !>!A2 !>!G2 z2 | !>!A2 !>!G2 !>!F2 z2 |
+w: 1.~There's not a friend like the low- ly Je- sus, No, not one! no, not one! 
+w: 2.~No friend like Him is so high and ho- ly, No, not one! no, not one!
+w: 3.~There's not an hour that He is not near us, No, not one! no, not one!
+w: 4.~Did ev- er saint find this friend for- sake him? No, not one! no, not one!
+w: 5.~Was e'er a gift like the Sa- vior gi- ven? No, not one! no, not one!
+[V: S1V2] F2 F3/2F/ F2 C3/2C/ | B,2 B,2 B,A, x2 | F2 F2 E2 x2 | F2 E2 F2 x2 |
+[V: S2V1] C2 C3/2B,/ A,2 F,3/2F,/ | F,2 F,2 F,F, z2 | !>!C2 !>!C2 !>!C2 z2 | !>!C2 !>!B,2 !>!A,2 z2 |
+[V: S2V2] F,2 F,3/2F,/ F,2 A,,3/2A,,/ | B,,2 D,2 F,F, x2 | F,2 F,2 C,2 x2 | F,2 C,2 F,2 x2 |
+[V: S1V1] A2 A3/2G/ F2 F3/2E/ | D2 F2 DC z2 | !>!A2 !>!A2 !>!G2 z2 | !>!A2 !>!G2 !>!F2 z2 ||
+w: None else could heal all our soul's dis- eas- es, No, not one! no, not one! 
+w: And yet no friend is so meek and low- ly, No, not one! no, not one!
+w: No night so dark but His love can cheer us, No, not one! no, not one!
+w: Or sin- ner find that He would not take him? No, not one! no, not one!
+w: Will He re- fuse us a home in hea- ven? No, not one! no, not one!
+[V: S1V2] F2 F3/2F/ F2 C3/2C/ | B,2 B,2 B,A, x2 | F2 F2 E2 x2 | E2 E2 F2 x2 ||
+[V: S2V1] C2 C3/2B,/ A,2 F,3/2F,/ | F,2 F,2 F,F, z2 | !>!C2 !>!C2 !>!C2 z2 | !>!C2 !>!B,2 !>!A,2 z2 ||
+[V: S2V2] F,2 F,3/2F,/ F,2 A,,3/2A,,/ | B,,2 D,2 F,F, x2 | F,2 F,2 C,2 x2 | C,2 C,2 F,2 x2 ||
+[V: S1V1] A2 c2 c2 d3/2c/ | A2 A2 GF z2 | A2 c2 c2 d3/2c/ | A2 A2 G4 |
+w: Je- sus knows all a- bout our strug- gles, He will guide till the day is done;
+w: Je- sus knows all a- bout our strug- gles, He will guide till the day is done;
+w: Je- sus knows all a- bout our strug- gles, He will guide till the day is done;
+w: Je- sus knows all a- bout our strug- gles, He will guide till the day is done;
+w: Je- sus knows all a- bout our strug- gles, He will guide till the day is done;
+[V: S1V2] F2 F2 F2 F3/2F/ | F2 F2 EF x2 | F2 F2 F2 F3/2F/ | F2 F2 E4 |
+[V: S2V1] C2 A,2 A,2 B,3/2A,/ | C2 C2 B,A, z2 | C2 A,2 A,2 B,3/2A,/ | C2 C2 C4 |
+[V: S2V2] F,2 F,2 F,2 F,3/2F,/ | F,2 F,2 C,F, x2 | F,2 F,2 F,2 F,3/2F,/ | F,2 F,2 C,4 |
+[V: S1V1] A2 A3/2G/ F2 F3/2E/ | D2 F2 DC z2 | !>!A2 !>!A2 !>!G2 z2 | !>!A2 !>!G2 !>!F2 z2|]
+w: There's not a friend like the low- ly Je- sus, No, not one! no, not one! 
+w: There's not a friend like the low- ly Je- sus, No, not one! no, not one!
+w: There's not a friend like the low- ly Je- sus, No, not one! no, not one!
+w: There's not a friend like the low- ly Je- sus, No, not one! no, not one!
+w: There's not a friend like the low- ly Je- sus, No, not one! no, not one!
+[V: S1V2] F2 F3/2F/ F2 C3/2C/ | B,2 B,2 B,A, x2 | F2 F2 E2 x2 | E2 E2 F2 x2 |]
+[V: S2V1] C2 C3/2B,/ A,2 F,3/2F,/ | F,2 F,2 F,F, z2 | !>!C2 !>!C2 !>!C2 z2 | !>!C2 !>!B,2 !>!A,2 z2 |]
+[V: S2V2] F,2 F,3/2F,/ F,2 A,,3/2A,,/ | B,,2 D,2 F,F, x2 | F,2 F,2 C,2 x2 | C,2 C,2 F,2 x2 |]

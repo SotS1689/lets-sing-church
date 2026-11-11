@@ -1,0 +1,60 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=115
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] F2 | E2 F2 G2 B2 | A4 F2 F2 | A3 F D2 E2 |
+w: 1.~O sing ye Hal- le- lu- jah! 'Tis good our God to
+w: 2.~The star- ry host He num- bers, He calls them all by
+w: 3.~The heav'ns with clouds He co- vers, He sends the cheer- ing
+w: 4.~No hu- man pow'r de- lights Him, No earth- ly pomp or
+w: 5.~He sends His swift com- mand- ment, And snow and ice en-
+w: 6.~His sta- tutes and His judg- ments He makes His peo- ple
+[V:A] D2 | C2 D2 C2 C2 | D4 D2 D2 | D3 D D2 C2 |
+[V:T] A,2 | A,2 A,2 A,2 A,2 | A,4 A,2 B,2 | F,3 A, F,2 A,2 |
+[V:B] D,2 | G,2 F,2 E,2 G,2 | F,4 D,2 B,,2 | A,,3 A,, A,,2 A,,2 |
+[V:S] F6 F2 | E2 F2 G2 B2 | A4 F2 A2 | d3 c B2 c2 |
+w: praise; 'Tis pleas- ant and be- co- ming To Him our songs to
+w: name; His great- ness and His wis- dom His won- drous works pro-
+w: rain; The slopes of all the moun- tains He fills with grass and
+w: pride; He loves the meek who fear Him And in His love con-
+w: fold The world, and none are ab- le To stand be- fore His
+w: know; To them as to no o- thers His grace He loves to
+[V:A] D6 D2 | C2 D2 C2 C2 | D4 D2 E2 | F3 E D2 E2 |
+[V:T] A,6 A,2 | A,2 A,2 A,2 A,2 | A,4 A,2 A,2 | A,3 A, ^G,2 ^G,2 |
+[V:B] D,6 F,2 | G,2 F,2 E,2 G,2 | F,4 D,2 C,2 | B,,3 B,, E,2 E,2 |
+[V:S] A6 A2 | A3 E E2 F2 | E4 D2 d2 | d3 A A2 F2 |
+w: raise; He builds the walls of Zi- on, He seeks her wand'r- ing
+w: claim; The meek He lifts to hon- or, he hum- bles sin- ful
+w: grain; To beast and bird His good- ness Their dai- ly food sup-
+w: fide; Then praise thy God, O Zi- on, His gra- cious aid con-
+w: cold. A- gain He gives com- mand- ment; The winds of sum- mer
+w: show; For match- less grace and mer- cy Your grate- ful prais- es
+[V:A] C6 D2 | C3 C C2 C2 | C4 D2 G2 | F3 F F2 F2 |
+[V:T] A,6 F,2 | G,3 G, G,2 A,2 | G,4 F,2 B,2 | =C3 =C =C2 D2 |
+[V:B] A,,6 A,,2 | A,,3 A,, A,,2 A,,2 | A,,4 D,2 D,2 | D,3 D, D,2 D,2 |
+[V:S] (A4 G2) F2 | F2 E2 F2 G2 | (A2 B2) c2 d2 | F3 G E2 A2 |
+w: sons, _ He binds their wounds and com- _ forts The bro- ken- hear- ted
+w: pride; _ Give thanks to Him and ut- _ ter His prais- es far and
+w: plies; _ He cares for all His crea- _ tures, At- ten- tive to their
+w: fess; _ He gives thee peace and plen- _ ty, His gifts thy child- ren
+w: blow, _ The snow and ice are mel- _ ted, A- gain the wa- ters
+w: bring; _ To Him give thanks for- ev- _ er, And Hal- le- lu- jah
+[V:A] F4 E2 D2 | D2 D2 C2 C2 | D4 D2 D2 | D3 D D2 C2 |
+[V:T] =C4 B,2 A,2 | B,2 B,2 A,2 A,2 | A,4 ^G,2 ^G,2 | A,3 A, G,2 G,2 |
+[V:B] D,4 E,2 F,2 | G,2 G,2 G,2 G,2 | F,4 B,,2 B,,2 | A,,3 G,, A,,2 A,,2 |
+[V:S] D6 |]
+w: ones.
+w: wide.
+w: cries.
+w: bless.
+w: flow.
+w: sing.
+[V:A] D6 |]
+[V:T] F,6 |]
+[V:B] D,6 |]

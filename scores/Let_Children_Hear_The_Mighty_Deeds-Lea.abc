@@ -1,0 +1,25 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: A
+[V: S1V1] [Q:1/4=100] E | c A F E | A B c e | c A F F | E3
+w: 1.~Let child- ren hear the might- y deeds Which God per- formed of old; 
+w: 2.~He bids us make His glo- ries known, His works of pow'r and grace; 
+w: 3.~Our lips shall tell them to our sons, And they a- gain to theirs; 
+w: 4.~Thus shall they learn in God a- lone Their hope se- cure- ly stands, 
+[V: S1V2]  C | E E D E | C E E E | E E E ^D | E3
+[V: S2V1]  A, | A, A, A, A, | A, G, A, B, | A, C B, B,/A,/ | G,3
+[V: S2V2]  A,, | A,, C, D, C, | F, E, A, G, | A, F, B, B,, | E,3
+[V: S1V1]  B/c/ | d d c A | F B G e/d/ | c c B G | A3 |]
+w: Which * in our young- er years we saw, And * which our fa- thers told. 
+w: And * we'll con- vey His won- ders down Through * ev- ery ri- sing race. 
+w: That * gen- er- a- tions yet un- born May * teach them to their heirs. 
+w: That * they may ne'er for- get His work But * prac- tice His com- mands. 
+[V: S1V2]  E | D E E E | D F E E | E A F E/D/ | C3 |]
+[V: S2V1]  G, | A, B, A, A, | A, D B, B, | A, A, D B, | A,3 |]
+[V: S2V2]  E, | F, G, A, C, | D, D, E, G, | A, F, D, E, | A,,3 |]

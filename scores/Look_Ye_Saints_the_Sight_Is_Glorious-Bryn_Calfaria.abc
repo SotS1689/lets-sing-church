@@ -1,0 +1,41 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=150] D D G2 A2 | B B B2 A2 | B B d2 (c B) | A A G4 |
+w: 1.~Look, ye saints; the sight is glo- rious: see the Man of * Sor- rows now; 
+w: 2.~Crown the Sa- vior, an- gels, crown Him; Rich the tro- phies _ Je- sus brings;
+w: 3.~Sin- ners in de- ri- sion crowned Him, Mock- ing thus the _ Sa- vior's claim;
+w: 4.~Hark, those bursts of acc- la- ma- tion! Hark those loud tri- _ um- phant chords!
+[V: S1V2]  B, B, D2 D2 | D D G2 ^F2 | G G G2 G2 | G ^F G4 |
+[V: S2V1]  G, G, G,2 ^F,2 | G, G, D2 D2 | D D D2 E2 | A, D B,4 |
+[V: S2V2]  G,, G,, B,,2 D,2 | G, G, G,2 D,2 | G, G, B,,2 C,2 | D, D, G,,4 |
+[V: S1V1]  D D G2 A2 | B B B2 A2 | B B d2 (c B) | A A G4 |
+w: From the fight re- turned vic- to- rious, E- very knee to * Him shall bow: 
+w: In the seat of pow'r en- throne Him, While the vault of _ hea- ven rings:
+w: Saints and an- gels crowd a- round Him, Own His ti- tle, _ praise His Name:
+w: Je- sus takes the high- est sta- tion; O what joy the _ sight af- fords!
+[V: S1V2]  B, B, D2 D2 | D D G2 ^F2 | G G G2 G2 | G ^F G4 |
+[V: S2V1]  G, G, G,2 ^F,2 | G, G, D2 D2 | D D D2 E2 | A, D B,4 |
+[V: S2V2]  G,, G,, B,,2 D,2 | G, G, G,2 D,2 | G, G, B,,2 C,2 | D, D, G,,4 |
+[V: S1V1]  (G A B2) G2 | (A B c2) A2 | (B c d2) (B d) |
+w: Crown * * Him! Crown * * Him! Crown * * Him! * 
+w: Crown _ _ Him! Crown _ _ Him! Crown _ _ Him! _
+w: Crown _ _ Him! Crown _ _ Him! Crown _ _ Him! _
+w: Crown _ _ Him! Crown _ _ Him! Crown _ _ Him! _
+[V: S1V2]  (G G G2) D2 | (A G G2) ^F2 | (D =F F2) (D F) |
+[V: S2V1]  (B, C D2) B,2 | (D D E2) D2 | (B, A, B,2) B,2 |
+[V: S2V2]  (G, G, G,2) G,2 | (^F, G, C,2) D,2 | (G, F, B,2) B,,2 |
+[V: S1V1]  e/d/ c d/c/ B c/B/ A/G/ | d4 B B | d2 (c B) A A | G6 |]
+w: Crowns * be- come * the Vic- * tor's * brow. Crowns be- come the * Vic- tor's brow. 
+w: Crown _ the Sa- _ vior King _ of _ kings. Crown the Sa- vior _ King of kings.
+w: Spread _ a- broad _ the Vic- _ tor's _ fame. Spread a- broad the _ Vic- tor's fame.
+w: King _ of kings, _ and Lord _ of _ lords! King of kings, and _ Lord of lords!
+[V: S1V2]  E F D E E E/G/ | ^F4 G G | G2 G2 G ^F | G6 |]
+[V: S2V1]  B, A, B, G, C C/B,/ | A,4 G, G, | D2 E2 A, D | B,6 |]
+[V: S2V2]  C, F, B,, E, A,, C, | D,4 G, G, | B,,2 C,2 D, D, | G,,6 |]

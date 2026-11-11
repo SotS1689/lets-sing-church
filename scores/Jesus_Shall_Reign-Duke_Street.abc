@@ -1,0 +1,39 @@
+X: 1
+M: 2/2
+L: 1/2
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/2=60]  E G/2 A/2 | B (c/2 d/2) | e (d/2 c/2) | B2 | B B/2 B/2 |
+w: 1.~Je- sus shall reign wher- * e'er the * sun Does his suc- 
+w: 2.~For Him shall end- less * prayer be * made, And prais- es 
+w: 3.~Peo- ple and realms of * ev- ery * tongue Dwell on His 
+w: 4.~Bless- ings a- bound wher- * e'er He * reigns; The pri- soner 
+w: 5.~Where He dis- plays His * hea- ling * power Death and the 
+w: 6.~Let ev- ery cre- ature _ rise and _ bring Pe- cu- liar
+[V: S1V2]  B, E/2 D/2 | E (E/2 A/2) | G (F/2 E/2) | D2 | E E/2 E/2 |
+[V: S2V1]  G, B,/2 B,/2 | B, (A,/2 B,/2) | B, (B,/2 =A,/2) | B,2 | G, G,/2 B,/2 |
+[V: S2V2]  E, E,/2 F,/2 | G, (A,/2 F,/2) | E, F, | B,,2 | E, E,/2 G,/2 |
+[V: S1V1]  c B | A G | F2 | G G/2 F/2 | (E/2 G/2) (B/2 e/2) |
+w: ces- sive jour- neys run; His king- dom stretch * from * 
+w: throng to crown His head; His Name, like sweet * per- * 
+w: love with sweet- est song; And in- fant voic- * es * 
+w: leaps to lose his chains, The wear- y find * e- * 
+w: curse are known no more; In Him the tribes * of * 
+w: ho- nors to our King, An- gels de- scend _ with _
+[V: S1V2]  E E | (E/2 D/2) E | D2 | E E/2 D/2 | E E |
+[V: S2V1]  A, B, | (C/2 B,/2) B, | B,2 | B, B,/2 A,/2 | (G,/2 B,/2) B, |
+[V: S2V2]  A, G, | F, E, | B,,2 | E, E,/2 B,,/2 | E, G, |
+[V: S1V1] (c/2 B/2) (A/2 G/2) | F2 | B c/2 d/2 | e3/2 A/2 | G F | E2 |]
+w: shore * to * shore Till moons shall wax and wane no more. 
+w: fume * shall * rise With ev- ery morn- ing sac- ri- fice. 
+w: shall * pro- * claim Their ear- ly bless- ings on His Name. 
+w: ter- * nal * rest, And all the sons of want are blest. 
+w: A- * dam * boast More bless- ings than their fa- ther lost. 
+w: songs _ a- _ gain, And earth re- peat the loud A- men.
+[V: S1V2] E (D/2 E/2) | D2 | E E/2 A/2 | (G3/4 F/4 E/2) F/2 | E D | E2 |]
+[V: S2V1] (A,/2 B,/2) B, | B,2 | (B,/2 E/2) E/2 B,/2 | B,3/2 C/2 | B, (B,/2 A,/2) | G,2 |]
+[V: S2V2] (A,/2 G,/2) (F,/2 E,/2) | B,,2 | G, A,/2 F,/2 | (E,3/4 F,/4 G,/2) A,/2 | B, B,, | E,2 |]

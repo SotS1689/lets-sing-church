@@ -1,0 +1,32 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | S2 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2 clef=bass 
+K: A
+[V: S1V1] [Q:1/4=160]  z2 A A | B2 A2 | c c (B A) | F2 A A | F2 E2 | F A A2 |
+w: 1.~Au- thor of all Life, our Fa- * ther, breathe in- to our hearts a- gain. 
+w: 2.~Hearts so hard, we hate each o- * ther, those in need we treat with scorn... 
+w: 3.~Christ now grants us life e- ter- * nal, to know You the one true God, 
+[V: S1V2]   x2 A, C | E2 E2 | F F E2 | C2 A, C | C2 E2 | F E E2 |
+[V: S2]  z2 A, A, | E,2 E,2 | F, F, E,2 | C,2 A, A, | C,2 E,2 | F, E, A,,2 |
+[V: S1V1]  z2 A A | B2 A2 | c c (B A) | F2 A A | F2 E2 | F A A2 |
+w: Stir our dead- ness, heal our weak- * ness, crush our e- vil thoughts so vain. 
+w: Old, un- wise, or not my col- * or, Pal- sied limbs, or not yet born. 
+w: He the Way to see the Fa- * ther, He the One who felt the rod. 
+[V: S1V2]  x2 A, C | E2 E2 | F F E2 | C2 A, C | C2 E2 | F E E2 |
+[V: S2]  z2 A, A, | E,2 E,2 | F, F, E,2 | C,2 A, A, | C,2 E,2 | F, E, A,,2 |
+[V: S1V1]  z2 A c | e2 e2 | f e c2 | A2 A c | e2 A2 | c/B/ A F2 |
+w: Life Cre- a- tor, life Re- deem- er, life Im- par- ter, Source * of Truth,
+w: Life Cre- a- tor, life Re- deem- er, life Im- par- ter, Three * in One, 
+w: Life Cre- a- tor, life Re- deem- er, life Im- par- ter, Life * con- ferred! 
+[V: S1V2]  x2 E C | A,2 A,2 | C C F2 | E2 A, C | C2 E2 | E E C2 |
+[V: S2]  z2 A, F, | E,2 E,2 | C, E, F,2 | A,2 A, A, | E,2 E,2 | B,, E, F,2 |
+[V: S1V1]  f e c2 | A2 c c | (B A) F2 | A A F2 | E2 F A | A4 |]
+w: Teach us now to love each o- * ther, Teach us Lord to love like You. 
+w: Teach us Lord to see Your I- * mage, Teach us now to see the Son. 
+w: Let us sing of Your a- tone- * ment, Let all peo- ple hear Your Word! 
+[V: S1V2]  C E F2 | E2 F E | (E C) C2 | A, D C2 | E2 F E | E4 |]
+[V: S2]  A, A, F,2 | E,2 F, F, | E,2 C,2 | A, A, C,2 | E,2 F, E, | A,,4 |]

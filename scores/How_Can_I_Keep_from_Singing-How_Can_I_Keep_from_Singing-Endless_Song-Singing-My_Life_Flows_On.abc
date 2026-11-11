@@ -1,0 +1,37 @@
+X: 1
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] D | G A B3 G | A G E3 D | G B d3 B | B A3 z 
+w: 1.~My life flows on in end- less song; A- bove earth's la- men- ta- tion. 
+w: 2.~What though my joys and com- forts die? The Lord my Sa- vior li- veth; 
+w: 3.~I lift my eyes; the cloud grows thin; I see the blue a- bove it; 
+[V: S1V2]  D | D D G3 D | E E C3 D | D G G3 G | G F3 x 
+[V: S2V1]  D, | B, C D3 B, | C C G,3 B, | B, D B,3 D | D D3 z 
+[V: S2V2]  D, | G, G, G,3 G, | C, C, C,3 G, | G, G, G,3 G, | D, D,3 x 
+[V: S1V1] D | G A B3 G | A G E3 E | D G B3 A | A G3 z 
+w: I catch the sweet, though far- off hymn that hails a new cre- a- tion; 
+w: What though the dark- ness ga- ther round? Songs in the night he gi- veth; 
+w: And day by day this path- way smooths, since first I learned to love it; 
+[V: S1V2]  D | D F G3 D | E E C3 C | D D G3 D | D D3 x 
+[V: S2V1]  B, | D D D3 B, | C C G,3 G, | G, B, D3 C | C B,3 z 
+[V: S2V2] D, | B,, D, G,3 G, | C, C, C,3 C, | B,, G,, D,3 D, | G,, G,,3 x 
+[V: S1V1]  B | d3/2 d/ d3 B | A B G3 A | B3/2 B/ B3 A | B d3 z 
+w: Through all the tu- mult and the strife, I hear that mu- sic ring- ing; 
+w: No storm can shake my in- most calm, While to that re- fuge cling- ing; 
+w: The peace of Christ makes fresh my heart, a foun- tain e- ver spring- ing; 
+[V: S1V2]  G | B3/2 B/ B3 G | F F G3 F | G3/2 G/ G3 F | G B3 x 
+[V: S2V1]  G, | G,3/2 G,/ G,3 D | D D B,3 D | D3/2 D/ D3 D | D D3 z 
+[V: S2V2]  G, | G,3/2 G,/ G,3 G, | D, D, G,,3 D, | G,3/2 G,/ G,3 D, | G, G,3 x 
+[V: S1V1]  B | d3/2 d/ d3 B | G E D3 D | G A B3 A | A G4|] 
+w: It finds an e- cho in my soul... How can I keep from sing- ing? 
+w: Since Christ is Lord of heav'n and earth, How can I keep from sing- ing? 
+w: All things are mine since I am His... How can I keep from sing- ing? 
+[V: S1V2]  G | G3/2 G/ G3 G | E C B,3 D | D F G3 F | F G4 |] 
+[V: S2V1]  D | B,3/2 B,/ B,3 D | C G, G,3 B, | D D D3 C | C B,4 |] 
+[V: S2V2]  G, | G,3/2 G,/ G,3 G,, | C, E, G,3 G, | B,, D, G,3 D, | D, G,,4 |] 

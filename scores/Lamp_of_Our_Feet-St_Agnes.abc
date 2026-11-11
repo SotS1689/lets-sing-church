@@ -1,0 +1,39 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=140] B B B | A2 B | c2 F | G3 | D D D | B2 A | A3 |
+w: 1.~Lamp of our feet! where- by we trace Our path, when wont to stray;
+w: 2.~Bread of our souls! where- on we feed; True man- na from on high!
+w: 3.~Pil- lar of fire\- through watch- es dark! Or ra- diant cloud by day!
+w: 4.~Pole\- star on life's tem- pest- uous deep! Bea- con! when doubts sur- round;
+w: 5.~Rich- es in pov- er- ty! our aid In ev- ery need- ful hour!
+w: 6.~Our shield and buck- ler in the fight! Vic- t'ry's tri- um- phant palm!
+w: 7.~Child- hood's pre- cep- tor! man- hood's trust! Old a- ge's firm al- ly!
+w: 8.~Pure o- ra- cles of truth di- vine! Un- like each fa- bled dream
+w: 9.~Word of the e- ver\-- li- ving God! Will of His glor- ious Son!
+w: 10.~Yet to un- fold thy hid- den worth, Thy my- ste- ries to reveal,
+w: 11.~And we, if we a- right would learn The wis- dom it im- parts,
+[V: S1V2] D D D | E2 D | (C E) D | D3 | D D D | D2 ^C | D3 |
+[V: S2V1] B, B, G,  | C2 G, | A,2 A, | B,3 | C B, A,  | G,2 G, | F,3 |
+[V: S2V2] G, G, B,, | C,2 B,, | A,,2 D, | G,3 | A, G, F, | G,2 E, | D,3 |
+[V: S1V1] c c B | A2 G | F2 E | D3 | D E G | B2 A | G3 |]
+w: Stream from the fount of heav'n- ly grace! Brook by the trav- 'ler's way!
+w: Our guide, and chart where- in we read Of realms be- yond the sky.
+w: When waves would whelm our toss- ing bark\- Our an- chor and our stay!
+w: Com- pass! by which our course we keep; Our deep sea\- lead, to sound!
+w: Un- sha- ken rock! the pil- grim's shade; The sol- dier's for- tress tow'r.
+w: Com- fort in grief! in weak- ness, might! In sick- ness, Gi- lead's balm.
+w: Our hope— when we go down to dust, Of im- mor- ta- li- ty.
+w: Gi- ven forth from Delphos' mys- tic shrine Or groves of A- ca- deme!
+w: With- out Thee, how could earth be trod? Or Heaven it- self be won?
+w: That Spi- rit which first gave thee forth, Thy vo- lume must un- seal!
+w: Must to its heaven- ly teach- ing turn With sim- ple, child\-- like hearts!
+[V: S1V2] E E D | C2 ^C | D2 ^C | D3 | D D C | B,2 C | B,3 |]
+[V: S2V1] E, F, ^G, | A,2 A, | A,2 G, | F,3 | G, G, G, | G,2 F, | G,3 |]
+[V: S2V2] A,, A,, A,, | A,,2 A,, | D,2 D, | (D,2 =C,) | B,, C, E, | D,2 D, | G,,3 |]

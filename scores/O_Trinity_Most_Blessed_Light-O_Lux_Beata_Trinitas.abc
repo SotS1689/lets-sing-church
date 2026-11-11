@@ -1,0 +1,17 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] (G/ A/) (A/ G/ F/ G/) E/ F/ | G/ (A/ B/) (B/ A/) A3/2- | A/ z/ (A/ B/) (A/ G/ F/ G/) | E/ F/ G/ (A/ B/) (B/ A/) A/- | A/ (A/ B/) A/ (G/ F/) G/ (E/ | F/) (G/ A/) (B/ B/ A/) A | (A/ B/) (d/ c/ d/ B/) A/ G/ | A/ (B/ A/) (G/ F/) F3/2 |]
+w: 1.~O _ Tri- _ _ _ ni- ty of bless- _ èd _ light, _ O _ U- _ _ _ ni- ty of prin- _ cely _ might, _ The _ fie- ry _ sun now _ goes _ his _ _ way; Shed _ Thou _ _ _ with- in our hearts _ a _ ray.
+w: 2.~To _ Thee _ _ _ our morn- ing song _ of _ praise, _ To _ Thee _ _ _ our eve- ning prayer _ we _ raise; _ O _ grant us _ with Thy _ saints _ on _ _ high To _ praise _ _ _ Thee through e- ter- _ ni- _ ty.
+w: 3.~All _ laud _ _ _ to God the Fa- _ ther _ be, _ All _ praise, _ _ _ e- ter- nal Son, _ to _ Thee, _ All _ glo- ry, _ as is _ ev- _ er _ _ meet, To _ God _ _ _ the ho- ly Pa- _ ra- _ clete.
+[V:A] E3/2 D B, D/- | D3- D/ C/- | C/ z/ D E/ D B,/- | B,/ D3- D/- | D/ D E/ D B,/ C/ | D E F2 | D4- | D2- D/ C3/2 |]
+[V:T] B, A,3/2 G, F,/- | F,3/2 G,/ F,/ E,3/2- | E,/ z/ F, A,3/2 G,/- | G,/ F,2 G, F,/- | F,/ F, A,3/2 G, | A,/ B,/ C D C | F,2- F,/ G,3/2- | G, F,/ G,/ A,2 |]
+[V:B] E, C,/ D, E, B,,/- | B,,/ A,, G,, A,,3/2- | A,,/ z/ D, C,/ D, E,/- | E,/ B,, A,, G,, D,/- | D,/ D, C,/ D, E, | D, C, B,, F, | D, B,,/ A,, G,, B,,/ | D,2- D,/ F,3/2 |]

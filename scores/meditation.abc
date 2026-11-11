@@ -1,0 +1,37 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G2 | G2 G2 G2 G2 | G3 E E2 E2 | A2 A2 G2 F2 |
+w: 1.~That man is blest who, fear- ing God, From sin res- trains his
+w: 2.~Yea, blest is he who makes God's law His por- tion and de-
+w: 3.~That man is nou- rished like a tree Set by the ri- vers'
+w: 4.~The wi- cked like the dri- ven chaff Are swept from off the
+w: 5.~The Lord will guard the right- eous well, Their way to Him is
+[V:A] E2 | E2 E2 E2 E2 | E3 B, B,2 B,2 | C2 E2 D2 D2 |
+[V:T] B,2 | B,2 B,2 B,2 B,2 | B,3 G, G,2 G,2 | F,2 C2 B,2 B,2 |
+[V:B] E,2 | E,2 E,2 E,2 C,2 | B,,3 B,, B,,2 B,,2 | B,,2 B,,2 B,2 A,2 |
+[V:S] B6 B2 | B2 B2 c2 G2 | B2 A2 G2 F2 | G2 E2 E2 D2 |
+w: feet, Who will not stand with wi- cked men, Who shuns the scor- ners'
+w: light, And me- di- tates up- on that law With glad- ness day and
+w: side; Its leaf is green, its fruit is sure, And thus his works a-
+w: land; They shall not ga- ther with the just, Nor in the judg- ment
+w: known; The way of sin- ners, far from God, Shall sure- ly be o'erth-
+[V:A] E6 D2 | E2 E2 =E2 =E2 | G2 F2 C2 C2 | B,2 B,2 C2 B,2 |
+[V:T] B,6 A,2 | G,2 G,2 G,2 C2 | C2 C2 B,2 A,2 | E,2 G,2 A,2 A,2 |
+[V:B] G,6 F,2 | E,2 _D,2 C,2 C,2 | F,2 F,,2 G,,2 A,,2 | B,,2 B,,2 B,,2 B,,2 |
+[V:S] E6 |]
+w: seat.
+w: night.
+w: bide.
+w: stand.
+w: rown.
+[V:A] B,6 |]
+[V:T] G,6 |]
+[V:B] E,6 |]

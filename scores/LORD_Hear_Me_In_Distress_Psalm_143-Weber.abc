@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100]  B2 G E/G/ | F3/2 A//G// F2 | G2 E G/B/ | B3/2 A/ G2 |
+w: 1.~Lord, hear me _ in dis- _ tress, Re- gard my _ sup- pliant cry,
+w: 2.~The e- ne- _ my has _ sought My soul in _ dust to tread;
+w: 3.~Re- cal- ling _ for- mer _ days And all Thy _ won- drous deeds,
+w: 4.~My fail- ing _ spi- rit _ see, O Lord, to _ me make haste;
+w: 5.~Lord, save me _ from my _ foe, To Thee for _ help I flee;
+w: 6.~O Lord, for _ Thy Name's _ sake Re- vive my _ faint- ing heart;
+[V: S1V2]   G2 E E | D3/2 F//E// D2 | E2 E E/G/ | G3/2 F/ E2 |
+[V: S2V1]   B,2 E/B,/ G,/B,/ | B,3/2 B,/ B,2 | B,2 G, B, | E3/2 B,/ B,2 |
+[V: S2V2]   E,2 E, E, | B,,3/2 B,,/ B,,2 | E,2 E, E, | B,,3/2 B,,/ E,2 |
+[V: S1V1]  e2 c A/c/ | B3/2 B/ G E/G/ | B/A/ F A/G/ E | (F2 B) z |
+w: And in Thy _ faith- ful- ness And _ right- _ eous- ness _ re- ply. _
+w: To dark- ness _ I am brought, For- _ got- _ ten as _ the dead. _
+w: The mem'- ry _ of Thy ways To _ hope _ and com- _ fort leads. _
+w: Hide not Thy _ face from me, Lest _ bit- _ ter death _ I taste, _
+w: Teach me Thy _ way to know, I _ have _ no God _ but Thee. _
+w: My soul from _ trou- ble take, For _ just _ and true _ Thou art. _
+[V: S1V2]  A2 A/E/ E/A/ | G3/2 G/ E E | G/F/ D F/E/ E | D3 x |
+[V: S2V1]  C2 A, C | E3/2 B,/ B, G,/B,/ | B, B, B, B, | B,3 z |
+[V: S2V2]  E,2 E, E, | E,3/2 E,/ E, E, | B,, B,, E, G, | (B,2 B,,) x |
+[V: S1V1]  B2 G E/G/ | F3/2 A//G// F2 | G2 E G/B/ | B3/2 =B/ c2 |
+w: In judg- ment _ do not _ cause Thy ser- vant _ to be tried;
+w: My spi- rit, _ crushed with _ grief, Is sad and _ o- ver- borne;
+w: to Thee I _ stretch my _ hands, Let me not _ plead in vain;
+w: O let the _ morn re- _ turn, Let mer- cy _ light my day;
+w: By Thy good _ Spi- rit _ lead From trou- ble _ and dis- tress,
+w: Re- move my _ e- ne- _ my, My cru- el _ foe re- ward;
+[V: S1V2]  G2 E E | D3/2 F//E// D2 | E2 B, E | E3/2 E/ E2 |
+[V: S2V1]  B,2 E/B,/ G,/B,/ | B,3/2 B,/ B,2 | B,2 G, B,/_D/ | _D3/2 D/ C2 |
+[V: S2V2]  E,2 E, E, | B,,3/2 B,,/ B,,2 | E,2 E, E, | G,3/2 G,/ A,2 |
+[V: S1V1]  e2 c A/c/ | B3/2 B/ G E/G/ | B3/4 E// G2 F | E4 |]
+w: Be- fore Thy _ ho- ly laws No _ man is jus- ti- fied.
+w: My heart finds _ no re- lief, But _ des- o- late I mourn.
+w: I wait as _ wear- y lands Wait _ for re- fresh- ing rain.
+w: For Thee in _ faith I yearn, O _ guide me in the way.
+w: My err- ing _ feet shall tread The _ path of u- prigh- tness.
+w: In mer- cy _ res- cue me Who _ am Thy ser- vant, Lord.
+[V: S1V2]  A2 A/E/ E/A/ | G3/2 G/ E E | G3/4 E// E2 D | E4 |]
+[V: S2V1]  C2 A, C/E/ | E3/2 B,/ B, G,/B,/ | E3/4 G,// B,2 A, | G,4 |]
+[V: S2V2]  A,,2 A,, A, | E,3/2 E,/ E, E, | B,,3/4 B,,// B,,2 B,, | E,4 |]

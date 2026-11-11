@@ -1,0 +1,31 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=113
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:E
+[V:S] G2 B2 E2 F2 | G2 A2 B4 | c2 B2 A2 G2 | F2 c2 B4 |
+w: 1.~Men who walk in fol- ly's way, And to e- vil turn a- side,
+w: 2.~To Je- ho- vah then they cry In their trou- ble, and He saves,
+w: 3.~Sons of men, a- wake to praise God the Lord Who reigns a- bove,
+[V:A] E2 E2 E2 D2 | E2 D2 E4 | E2 E2 D2 E2 | D2 E2 D4 |
+[V:T] B,2 G,2 G,2 B,2 | B,2 B,2 B,4 | A,2 B,2 B,2 B,2 | B,2 ^A,2 (B,2 =A,2) |
+[V:B] E,2 E,2 C,2 B,,2 | E,2 F,2 G,4 | A,2 G,2 F,2 E,2 | F,2 F,,2 B,,4 |
+[V:S] B2 B2 c2 B2 | c2 d2 e4 | d2 B2 G2 B2 | B2 c2 B4 |
+w: Find that sor- row will re- pay Those who wis- dom's laws de- fied;
+w: Sends com- pas- sio- nate re- ply, Gives the health their spi- rit craves,
+w: Gra- cious in His works and ways, Won- drous in re- deem- ing love;
+[V:A] E2 E2 E2 E2 | E2 A2 G4 | F2 F2 E2 E2 | D2 E2 D4 |
+[V:T] G,2 G,2 A,2 G,2 | A,2 B,2 B,4 | B,2 B,2 B,2 B,2 | B,2 ^A,2 B,4 |
+[V:B] E,2 E,2 E,2 E,2 | A,2 F,2 E,4 | B,,2 D,2 E,2 G,2 | F,2 F,,2 B,,4 |
+[V:S] B2 e2 d2 c2 | B2 (A3/2 G1/2) (G2 F2) | G2 A2 B2 E2 | E2 F2 E4 |]
+w: Down to death's dark por- tals _ led, _ They ab- hor their dai- ly bread.
+w: Res- cues them with gra- cious _ aid _ From the snares their fol- ly laid.
+w: Let them all thank of- f'rings _ bring, _ Ce- le- brate His deeds, and sing.
+[V:A] E2 G2 A2 F2 | B,2 E2 (E2 D2) | E2 E2 =D2 C2 | B,- E B,2 B,4 |]
+[V:T] G,2 B,2 B,2 D2 | E2 (C3/2 B,1/2) B,4 | B,2 A,2 E,2 (E, F,) | G,2 A,2 G,4 |]
+[V:B] E,2 E,2 F,2 A,2 | G,2 E,2 B,,4 | E,2 C,2 G,,2 A,,2 | B,,2 B,,2 E,4 |]

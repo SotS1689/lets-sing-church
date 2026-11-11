@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] B3/2 B/ | d B G A | B2 B3/2 B/ | d B G A | B2
+w: 1.~Come, ye thank- ful peo- ple, come, Raise the song of har- vest\-- home!
+w: 2.~We our- selves are God’s own field, Fruit un- to His praise to yield;
+w: 3.~For the Lord our God shall come, And shall take His har- vest home;
+w: 4.~Then, thou Church tri- um- phant, come, Bring the song of har- vest\-- home;
+w: 5.~Grant us grace to see Thee, Lord, Mir- rored in Thy ho- ly Word; 
+[V: S1V2] D3/2 D/ | D D E F | G2 D3/2 D/ | D D E E | ^D2
+[V: S2V1] G,3/2 G,/ | A, B, B, D | D2  G,3/2 G,/ | A, G, B, C | F,2
+[V: S2V2] G,3/2 G,/ | F, G, E, D, | G,2 G,3/2 G,/ | F, G, E, C, | B,,2
+[V: S1V1]  B3/2 B/ | c c A3/2 A/ |B2 B ^c | d G F E | D2
+w: All is safe- ly ga- thered in, Ere the win- ter storms be- gin:
+w: Wheat and tares to- ge- ther sown Un- to joy or sor- row grown.
+w: From His field shall purge a- way All that doth of- fend that day:
+w: All are safe- ly ga- thered in, Free from sor- row, free from sin,
+w: May we im- i- tate Thee now, And be pure, as pure art Thou; 
+[V: S1V2] E3/2 E/ | E E D D | D2 D E | D E D ^C | D2
+[V: S2V1] G,3/2 G,/ | A, A, F, F, | G,2 G, G, | A, B, A,3/2 G,/ | F,2
+[V: S2V2] E,3/2 E,/ A,, A,, D, D, | G,,2 G, E, | F, G, A, A,, | D,2
+[V: S1V1] F3/2 F/ | A F G A | B2 B3/2 B/ | d B c d | e2
+w: God our Ma- ker doth pro- vide For our wants to be sup- plied;
+w: First the blade and then the ear, Then the full corn shall ap- pear;
+w: Give His an- gels charge at last In the fire the tares to cast;
+w: There, for ev- er pur- i- fied, In God’s gar- ner to a- bide;
+w: That we like to Thee may be At Thy great E- pi- pha- ny; 
+[V: S1V2] D3/2 D/ | D D D C | D2 D3/2 D/ | G G G =F | E2
+[V: S2V1] A, A, | F, A, G,3/2 F,/ | G,2 G,3/2 G,/ | B, D C3/2 B,/ | C2
+[V: S2V2] D,3/2 D,/ | D, C, B,, A,, | G,,2 G,,3/2 G,,/ | G, =F, E, D, | C,2
+[V: S1V1] e3/2 e/ | c A d3/2 d/ | B2 c e | d G B A | G2 |]
+w: Come to God’s own tem- ple, come, Raise the song of har- vest\-- home!
+w: Grant, O Har- vest Lord, that we Whole- some grain and pure may be.
+w: But the fruit- ful ears to store In His gar- ner ev- er- more.
+w: Come, ten thou- sand an- gels, come, Raise the glor- ious har- vest\-- home!
+w: And may praise Thee, ev- er blest, God in man made man- i- fest.
+[V: S1V2] E ^G | A E D F | G2 G G | G G G F | G2 |]
+[V: S2V1] B, E | E C A, D | D2 C C | D B, D3/2 C/ | B,2 |]
+[V: S2V2]  ^G, E, | A,3/2 A,/ F, D, | G,2 E, C, | B,, E, D, D, | G,,2 |]

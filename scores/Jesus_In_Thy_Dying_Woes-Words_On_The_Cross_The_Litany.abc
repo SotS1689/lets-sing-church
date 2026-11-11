@@ -1,0 +1,59 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1]  [Q:1/4=100] F F G F | E3/2 D/ D2 | D F E D | G F E2 |
+w: 1.~Je- sus, in Thy dy- ing woes, E- ven while Thy life- blood flows, 
+w: 2.~Sa- vior, for our par- don sue, When our sins Thy pangs re- new, 
+w: 3.~O may we, who mer- cy need, Be like Thee in heart and deed, 
+w: 4.~Je- sus, pi- ty- ing the sighs Of the thief, who near Thee dies,
+w: 5.~May we, in our guilt and shame, Still Thy love and mer- cy claim,
+w: 6.~O re- mem- ber us who pine, Look- ing from our cross to Thine;
+w: 7.~Je- sus, lov- ing to the end Her whose heart Thy sor- rows rend,
+w: 8.~May we in Thy sor- rows share, And for Thee all per- il dare,
+w: 9.~May we all Thy loved ones be, All one ho- ly fa- mi- ly,
+w: 10.~Je- sus, whelmed in fears un- known, With our e- vil left a- lone,
+w: 11.~When we vain- ly seem to pray, and our hope seems far a- way,
+w: 12.~Though no Fa- ther seem to hear, Though no light our spir- its cheer,
+w: 13.~Je- sus, in Thy thirst and pain, While Thy wounds Thy life- blood drain,
+w: 14.~Thirst for us in mer- cy still; All Thy ho- ly work ful- fill;
+w: 15.~May we thirst Thy love to know; Lead us in our sin and woe
+w: 16.~Je- sus, all our ran- som paid, All Thy Fa- ther's will o- beyed,
+w: 17.~Save us in our soul's dis- tress, Be our help to cheer and bless,
+w: 18.~Brigh- ten all our hea- venward way, With an ev- er ho- lier ray,
+w: 19.~Je- sus, all Thy la- bor vast, All Thy woe and con- flict past,
+w: 20.~When the death shades round us lower, Guard us from the tem- per's power,
+w: 21.~May Thy life and death sup- ply Grace to live and grace to die,
+[V: S1V2]   D D D D | ^C3/2 D/ D2 | D D ^C D | E D ^C2 |
+[V: S2V1]   A, A, B, A, | G,3/2 F,/ F,2 | A, A, A, A, | A, A, A,2 |
+[V: S2V2]   D, D, G,, D, | A,,3/2 D,/ D,2 | F, D, G, F, | ^C, D, A,,2 |
+[V: S1V1]  E A c A | c B A2 | A A A F | E2 D2 |]
+w: Cra- ving par- don for Thy foes; Hear us, ho- ly Je- sus. 
+w: For we know not what we do: Hear us, ho- ly Je- sus. 
+w: When with wrong our spir- its bleed: Hear us, ho- ly Je- sus. 
+w: Pro- mi- sing him par- a- dise; Hear us, ho- ly Je- sus.
+w: Call- ing hum- bly on Thy Name: Hear us, ho- ly Je- sus.
+w: Cheer our souls with hope di- vine: Hear us, ho- ly Je- sus.
+w: And Thy dear- est hu- man friend: Hear us, ho- ly Je- sus.
+w: And en- joy Thy ten- der care: Hear us, ho- ly Je- sus.
+w: Lov- ing for the love of Thee, Hear us, ho- ly Je- sus.
+w: While no light from Heav'n is shown: Hear us, ho- ly Je- sus.
+w: In the dark- ness be our stay. Hear us, ho- ly Je- sus.
+w: Tell our faith that God is near: Hear us, ho- ly Je- sus.
+w: Thir- sting more our love to gain: Hear us, ho- ly Je- sus.
+w: Sa- tis- fy Thy lov- ing will: Hear us, ho- ly Je- sus.
+w: Where the heal- ing wa- ters flow: Hear us, ho- ly Je- sus.
+w: All Thy suf- f'rings per- fect made: Hear us, ho- ly Je- sus.
+w: While we grow in ho- li- ness: Hear us, ho- ly Je- sus.
+w: Till we pass to per- fect day: Hear us, ho- ly Je- sus.
+w: Yiel- ding up Thy soul at last: Hear us, ho- ly Je- sus.
+w: Keep us in that tri- al hour: Hear us, ho- ly Je- sus.
+w: Grace to reach the home on high: Hear us, ho- ly Je- sus.
+[V: S1V2]  C E C F | E G F2 | C ^C D D | (D ^C) D2 |]
+[V: S2V1]  A, C G, A, | G, C C2 | A, G, F, A, | (B, A,) F,2 |]
+[V: S2V2]  A, A, E, F, | C, E, F,2 | F, E, D, D, | (G,, A,,) D,2 |]

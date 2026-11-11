@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] G | G2 D G | A2 D2 | B A B c | B2 A G |
+w: 1.~O come, all ye faith- ful, joy- ful and tri- um- phant, O 
+w: 2.~ True God of true God, Light from Light E- ter- nal, _
+w: 3.~ Sing, choirs of an- gels, sing in ex- ul- ta- tion; O
+w: 4.~ See how the shep- herds, sum- moned to His cra- dle, _
+w: 5.~ Lo! star led chief- tains, Ma- gi, Christ a- dor- ing, _
+w: 6.~Child, fo- r us sin- ners poor and in the man- ger, We
+[V: S1V2]  D | D2 D D | D2 D2 | D D D E | D2 D B, |
+[V: S2V1]  B, | B,2 B, B, | A,2 A,2 | G, A, G, G, | G,2 F, G, |
+[V: S2V2]  G, | G,2 B, G, | F,2 F,2 | G, F, G, C, | D,2 D, E, |
+[V: S1V1]  G2 (F E) | ('F G) (A B) | (F2 E3/2) D/ | D3 z | d2 c B |
+w: come ye, O come * ye, to Beth- * le- hem. Come and be- 
+w: Lo, He _ shuns _ not the Vir- _ gin's womb; Son of the
+w: sing, all ye cit- i- zens of heav'n _ a- bove! Glo- ry to
+w: Leav- ing their flocks, _ draw _ nigh _ to gaze; We too will
+w: Of- fer Him in- _ cense, _ gold, _ and myrrh; We to the
+w: would em- brace Thee, _ with lo- ve _ and awe; Who would not
+[V: S1V2]  (B, ^C) (D ^C) | (D D) (D D) | (D2 ^C3/2) D/ | D3 x | D2 E/F/ G |
+[V: S2V1]  G,2 (A, A,) | (A, G,) (F, E,) | (A,2 G,3/2) F,/ | F,3 z | B,2 C D |
+[V: S2V2]  E,2 (D, A,,) | (D, B,,) (F,, G,,) | (A,,2 A,,3/2) D,/ | D,3 x | B,2 A, G, |
+[V: S1V1]  (c2 B2) | A B G A | (F3/2 E/) D G | G F G A |
+w: hold Him, born the King of an- * gels; O come, let us a- 
+w: Fa- ther, be- got- ten, not cre- a- ted; O come, let us a-
+w: God, _ glo- ry in the high- _ est; O come, let us a-
+w: thi- ther bend our joy- ful foot- _ steps; O come, let us a-
+w: Christ Child bring our hearts' ob- la- _ tions. O come, let us a-
+w: love Thee, lov- ing us so dear- _ ly? O come, let us a-
+[V: S1V2]  (G F G2) | D D E E | D2 D D | D4 |
+[V: S2V1]  (C2 D2) | A, G, B, C | (A,3/2 G,/) F, B, | B, A, B, C |
+[V: S2V2]  (A,2 G,2) | F, G, E, C, | D,2 D, B, | B, A, B, C |
+[V: S1V1]  G2 D B | B A B c | B2 A B | c B A G | F2 (G c) | (B2 A3/2) G/ | G3 |]
+w: dore Him, O come, let us a- dore Him, O come, let us a- dore Him, * Christ * the Lord. 
+w: dore Him, O come, let us a- dore Him, O come, let us a- dore Him, _ Christ _ the Lord.
+w: dore Him, O come, let us a- dore Him, O come, let us a- dore Him, _ Christ _ the Lord.
+w: dore Him, O come, let us a- dore Him, O come, let us a- dore Him, _ Christ _ the Lord.
+w: dore Him, O come, let us a- dore Him, O come, let us a- dore Him, _ Christ _ the Lord.
+w: dore Him, O come, let us a- dore Him, O come, let us a- dore Him, _ Christ _ the Lord.
+[V: S1V2]  D3 D | D D D D | D2 D G | F G D D/^C/ | D2 (D E) | D2- D3/2 B,/ | B,3 |]
+[V: S2V1]  B,3 G, | G, F, G, A, | G,2 F, D | D D A, A, | A,2 G,2 | (G,2 F,3/2) G,/ | G,3 |]
+[V: S2V2]  B,3 G, | G, F, G, A, | G,2 F, G, | A, G, F, E, | D, C, (B,, C,) | (D,2 D,3/2) G,,/ | G,,3 |]

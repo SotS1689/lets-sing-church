@@ -1,0 +1,23 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] G | E A G c | c B c G | c G A ^F | G3 B | c A d B | c A B G | A c d B | c3 |]
+w: 1.~Praise ye the Lord: with my whole heart I will God's praise de- clare, Where the as- sem- blies of the just and cong- re- ga- tions are.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 3.~His work most ho- nou- ra- ble is, most glo- ri- ous and pure, And his un- tain- ted right- eous- ness for ev- er doth en- dure.
+w: 4.~His works most won- der- ful he hath made to be thought up- on: The Lord is gra- cious, and he is full o- f com- pas- sion.
+w: 5.~He gi- veth meat un- to all those that tru- ly do him fear; And ev- er- more his cov- e- nant he in his mind will bear.
+w: 6.~He did the po- wer of his works un- to his peo- ple show, When he the hea- then's he- ri- tage up- on them did be- stow.
+w: 7.~His han- dy\-- works are truth and right; all his com- mands are sure: And, done in truth and u- prigh- tness, they ev- er- more en- dure.
+w: 8.~He sent re- demp- tion to his folk; his cov- e- nant for aye He did com- mand: ho- ly his name and rev'- rend is al- way.
+w: 9.~Wis- dom's be- gin- ning is God's fear: good un- der- stand- ing they Have all that his com- mands ful- fill: his praise en- dures for aye.
+[V:A] C | C C C E | D D E E | E E E D | D3 D | E C F D | E3/2 D/ B, C | F E D D | E3 |]
+[V:T] E, | G, A, C C | A, G, G, C | C B, A, A, | B,3 G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
+[V:B] C, | C, F, E, A, | F, G, C, C, | A,, E, C, D, | G,,3 G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]

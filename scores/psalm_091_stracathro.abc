@@ -1,0 +1,29 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] D | F2 E | D2 E | (F d) c | B2 d | (A G) D | F2 E | D2 F | F2 E | F A | (B e) d | c2 c | (d A) B | F2 E | D2 |]
+w: 1.~He that doth in the sec- _ ret place of the _ most High re- side, Un- der the shade of him _ that is th'Al- might- _ y shall a- bide.
+w: 2.~I of the Lord my God _ will say, He is _ my re- fuge still, He is my for- tress, and _ my God, and in _ him trust I will.
+w: 3.~As- sur- ed- ly he shall _ thee save, and give _ de- li- ve- rance From subt- le fow- ler's snare, _ and from the noi- _ some pes- ti- lence.
+w: 4.~His fea- thers shall thee hide; _ thy trust un- der _ his wings shall be: His faith- ful- ness shall be _ a shield and buck- _ ler un- to thee.
+w: 5.~Thou shalt not need to be _ a- fraid for ter- _ rors of the night; Nor for the ar- row that _ doth fly by day, _ while it is light;
+w: 6.~Nor for the pes- ti- lence, _ that walks in dark- _ ness se- cret- ly; Nor for de- struc- tion, that _ doth waste at noon\-- _ day o- pen- ly.
+w: 7.~A thou- sand at thy side _ shall fall, on thy _ right hand shall lie Ten thou- sand dead; yet un- _ to thee it shall _ not once come nigh.
+w: 8.~On- ly thou with thine eyes _ shalt look, and a _ be- hol- der be; And thou there- in the just _ re- ward of wi- _ cked men shalt see.
+w: 9.~Be- cause the Lord, who con- _ stant- ly my re- _ fuge is a- lone, Ev'n the most High, is made _ by thee thy hab- _ i- ta- ti- on;
+w: 10.~No plague shall near thy dwell- _ ing come; no ill _ shall thee be- fall: For thee to keep in all _ thy ways his an- _ gels charge he shall.
+w: 11.~They in their hands shall bear _ thee up, still wait- _ ing thee up- on; Lest thou at a- ny time _ should'st dash thy foot _ a- gainst a stone.
+w: 12.~Up- on the ad- der thou _ shalt tread, and on _ the li- on strong; Thy feet on dra- gons tram- _ ple shall, and on _ the li- ons young.
+w: 13.~Be- cause on me he set _ his love, I'll save _ and set him free; Be- cause my great name he _ hath known, I will _ him set on high.
+w: 14.~He'll call on me, I'll an- _ swer him; I will _ be with him still In trou- ble, to de- li- _ ver him, and hon- _ or him I will.
+w: 15.~With length of days un- to _ his mind I will _ him sa- tis- fy; I al- so my sal- va- _ ti- on will cause _ his eyes to see.
+[V:A] A, | D2 C | B,2 A, | (A, F) E | D2 D | (E E) D | D2 C | D2 D | (D C) B, | F D | (D G) F | E2 E | (D F) E | D2 C | D2 |]
+[V:T] F, | A,2 (A,/ G,/) | F,2 A, | (F,3/2 ^G,/) ^A, | B,2 F, | (E, A,) B, | A,3/2 B,/ G, | F,2 A, | A,2 B, | A,2 A, | E, (A,/ B,/) | C2 A, | (A, D) B, | A,2 (A,/ G,/) | F,2 |]
+[V:B] D, | D,2 A,, | B,,2 C, | (D,3/2 E,/) F, | B,,2 B,, | (C, D,) B,, | F,,3/2 G,,/ A,, | D,2 D, | (D, A,) G, | (F, D,) F, | E, (F,/ G,/) | A,2 (A,/ G,/) | (F, D,) G, | A,2 A,, | D,2 |]

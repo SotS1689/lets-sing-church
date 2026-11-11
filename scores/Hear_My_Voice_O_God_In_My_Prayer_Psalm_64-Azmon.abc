@@ -1,0 +1,35 @@
+X: 1
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=200] E2 | A A B2 B2 | c B A2 B2 | c c d2 c2 | B4
+w: 1.~When I to thee my pra- yer make, Lord, to my voice give ear;
+w: 2.~Me from their sec- ret coun- sel hide who do live wick- ed- ly;
+w: 3.~Who do their tongues with ma- lice whet, and make them cut like swords;
+w: 4.~That they may at the per- fect man in sec- ret aim their shot;
+w: 5.~In ill en- cou- rage they them- selves, and their snares close do lay:
+w: 6.~They have searched out i- ni- qui- ties, a per- fect search they keep:
+w: 7.~God shall an ar- row shoot at them, and wound them sud- den- ly:
+w: 8.~And on all men a fear shall fall, God’s works they shall de- clare;
+w: 9.~In God the right- eous shall re- joice, and trust up- on his might;
+[V: S1V2]  E2 | E C E2 E2 | E D C2 E2 | E E E2 E2 | E4
+[V: S2V1]  E,2 | E, A, G,2 G,2 | A, G, A,2 G,2 | A, A, B,2 A,2 | G,4
+[V: S2V2]  E,2 | C, A,, E,2 E,2 | A, E, F,2 E,2 | A, A, G,2 A,2 | E,4
+[V: S1V1]  e2 | e c c2 A2 | A F F2 (A F) | E A A2 B2 | A4 |]
+w: My life save from the e- ne- my, of _ whom I stand in fear.
+w: From in- sur- rec- tion of those men that _ work in- iq- ui- ty:
+w: In whose bent bows are ar- rows set, ev’n _ sharp and bit- ter words:
+w: Yea, sud- den- ly they dare at him to _ shoot, and fear it not.
+w: To- ge- ther con- fe- rence they have; Who _ shall them see? they say.
+w: Of each of them the in- ward thought, and _ ver- y heart, is deep.
+w: So their own tongue shall them con- found; all _ who them see shall fly.
+w: For they shall wi- sely no- tice take what _ these his do- ings are.
+w: Yea, they shall great- ly glo- ry all in _ heart that are u- pright.
+[V: S1V2]  G2 | A E E2 E2 | F D D2 (F D) | C C C2 D2 | C4 |]
+[V: S2V1]  B,2 | C A, A,2 A,2 | A, A, A,2 A,2 | A, A, A,2 G,2 | A,4 |]
+[V: S2V2]  E,2 | A, A, A,2 C,2 | D, D, D,2 D,2 | E, E, E,2 E,2 | A,,4 |]

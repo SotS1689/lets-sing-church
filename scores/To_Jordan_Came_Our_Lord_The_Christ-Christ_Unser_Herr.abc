@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] D2 F G | A G c B | A3 A | c B A G | (F E) D2 | D2
+w: 1.~To Jor- dan came our Lord the Christ, To do God's plea- sure will- * ing, And 
+w: 2.~So hear ye all, and well per- ceive What God doth call bap- ti- * sm, And 
+w: 3.~To show us this, He hath His Word With signs and sym- bols gi- * ven; On 
+w: 4.~In ten- der man- hood Je- sus straight To ho- ly Jor- dan wend- * eth; The 
+w: 5.~Thus Je- sus His dis- ci- ples sent: Go teach ye e- very na- * tion, That 
+w: 6.~Who in this mer- cy hath not faith, Nor aught there- in di- scer- _ neth, Is
+w: 7.~The eye of sense a- lone is dim, And no- thing sees but wa- _ ter; Faith
+[V: S1V2]  D2 D D | E E E E | C3 D | E G F E | (D3/2 ^C/) D2 | D2
+[V: S2V1]  F,2 A, B, | C B, A, ^G, | A,3 F, | G, G, C C | A,2 F,2 | F,2
+[V: S2V2]  D,2 D, B,, | A,, E, C,/D,/ E, | A,,3 D, | C, E, F, C, | (D, A,,) D,2 | D,2
+[V: S1V1]  F G | A G c B | A3 A | c B A G | (F E) D2 | z D G G |
+w: there was by Saint John bap- tized, All right- eous- ness ful- fill- * ing; There did He 
+w: what a Christ- ian should be- lieve Who er- ror shuns and schi- * sm: That we should 
+w: Jor- dan's banks was plain- ly heard The Fa- ther's voice from Hea- * ven: "This is My 
+w: Ho- ly Ghost from Hea- ven's gate In dove- like shape de- scen- * deth; That thus the 
+w: lost in sin they must re- pent; And flee from con- dem- na- * tion: He that be- 
+w: yet in sin, con- demned to death, And fire that ev- er bur- _ neth; His ho- li-
+w: sees Christ Je- sus, and in Him The Lamb or- dained for slaugh- _ ter; She sees the
+[V: S1V2]  D D | E E E E | C3 D | E G F E | (D3/2 ^C/) D2 | x D E D |
+[V: S2V1]  A, B, | C B, A, ^G, | A,3 F, | G, G, C C | A,2 F,2 | z F, G, G, |
+[V: S2V2]  D, B,, | A,, E, C,/D,/ E, | A,,3 D, | C, E, F, C, | (D, A,,) D,2 | x D, C, B,, |
+[V: S1V1]  E A A G | A3 A | d d e3/2 c/ | (d/ c/ B) A2 | z A c B | A G A 
+w: con- se- crate a bath To wash a- way trans- gres- * * sion, And quench the bit- ter- ness 
+w: wa- ter use, the Lord De- clar- eth it His plea- * * sure; Not sim- ple wa- ter, but 
+w: well\- be- lo- ved Son, In whom My soul de- light- * * eth; Hear Him." Yea, hear Him e- 
+w: truth be not de- nied, Nor should our faith e'er wa- * * ver, That the Three Per- sons all 
+w: lieves and is bap- tized, Ob- tains a might- y bless- * * ing; A new- born man, no more 
+w: ness a- vails him not, Nor aught which he is do- _ _ ing; His in- born sin brings all
+w: clean- sing foun- tain red With the dear blood of Je- _ _ sus, Which from the sins in- her-
+[V: S1V2]  C E F E | C3 E | G A ^G3/2 A/ | (F/ A ^G/) A2 | x C E G | F E E 
+[V: S2V1]  G, C D B, | A,3 C | B, A, B,3/2 A,/ | (A, E) C2 | z A, G, G, | C C C 
+[V: S2V2]  C, A,, D, E, | A,,3 A, | G, F, E,3/2 F,/ | (D, E,) A,,2 | x F, C, E, | F, C, A,, 
+[V: S1V1]  F | E3 D | F G A3/2 F/ | (G/F/ E) D2 | z d d d | e d (c B) | A4 |]
+w: of death By His own blood and pas- * * sion; He would a new life give * us. 
+w: the Word And Spi- rit with- out mea- * * sure; He is the true Bap- ti- * zer. 
+w: very one Whom He Him- self in- vi- * * teth, Hear and o- bey His teach- * ing. 
+w: pre- side, At bap- tism's ho- ly la- * * ver, And dwell with the be- lie- * ver. 
+w: he dies, E- ter- nal life pos- ses- * * sing, A joy- ful heir of Hea- * ven. 
+w: to naught, And mak- eth sure his ru- _ _ in; Him- self he can- not suc- _ cor.
+w: it- ed From fal- len A- dam frees _ _ us, And from o- ur own mis- _ doings.
+[V: S1V2]  D | ^C3 A, | D3/2 E/ F3/2 D/ | (D3/2 ^C/) D2 | x F D G | G F E2 | ^C4 |]
+[V: S2V1]  A, | A,3 F, | _B, B, C3/2 B,/ | (_B,/A,/ A,) F,2 | z A, A, B, | C A, (A, ^G,) | A,4 |]
+[V: S2V2]  D, | A,,3 D, | _B,, G,, F,,3/2 _B,,/ | (G,,/D,/ A,,) D,2 | x D, F, G, | C, D, (A,, E,) | A,,4 |]

@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] D D/E/ F/G/ A | F E D2 | F E D ^C | D/E/ F E2 |
+w: 1.~Je- sus, _ lo- _ ver of my soul, Let me to Thy bo- _ som fly,
+w: 2.~O- ther _ re- _ fuge have I none, Hangs my help- less soul _ on Thee;
+w: 3.~Wilt Thou _ not _ re- gard my call? Wilt Thou not ac- cept _ my prayer?
+w: 4.~Thou, O _ Christ, _ art all I want, More than all in Thee _ I find;
+w: 5.~Plent- eous _ grace _ with Thee is found, Grace to co- ver all _ my sin;
+[V: S1V2]  A, D/^C/ D/E/ F | D ^C A,2 | D ^C D A, | A, D ^C2 |
+[V: S2V1]  F, A, A, A, | A, A,/G,/ F,2 | A, A, A, A, | A, A, A,2 |
+[V: S2V2]  D, F,,/A,,/ D, F,,/G,,/ | A,, A,, D,2 | D, E, F, G, | F,/E,/ D, A,,2 |
+[V: S1V1]  D D/E/ F/G/ A | F E D2 | E F/G/ A G | F E D2 |
+w: While the _ near- _ er wa- ters roll, While the _ tem- pest still is high.
+w: Leave, ah! _ leave _ me not a- lone, Still sup- _ port and com- fort me.
+w: Lo! I _ sink, _ I faint, I fall— Lo! on _ Thee I cast my care;
+w: Raise the _ fal- _ len, cheer the faint, Heal the _ sick, and lead the blind.
+w: Let the _ heal- _ ing streams a- bound; Make and _ keep me pure with- in.
+[V: S1V2]  A, A,/^C/ D/E/ F | D ^C A,2 | ^C D/E/ F E | D ^C A,2 |
+[V: S2V1]  F,/G,/ A, A, A, | A, E,/G,/ F,2 | A, A,/=C/ C B, | A, A,/G,/ F,2 |
+[V: S2V2]  D,/E,/ F,/E,/ D, F,,/G,,/ | A,, A,, D,2 | A,, D,/=C,/ F, G, | A, A,, D,2 |
+[V: S1V1]  D C D E | F A/G/ F2 | F E F G | A c/=B/ A2 |
+w: Hide me, O my Sa- vior, _ hide, Till the storm of life is _ past;
+w: All my trust on Thee is _ stayed, All my help from Thee I _ bring;
+w: Reach me out Thy gra- cious _ hand! While I of Thy strength re- _ ceive,
+w: Just and ho- ly is Thy _ name, I am all un- righ- teou- _ sness;
+w: Thou of life the foun- tain _ art, Free- ly let me take of _ Thee;
+[V: S1V2]  B, A, B, B, | C E C2 | D ^C D E/=C/ | C E/D/ C2 |
+[V: S2V1]  F, F, F, G, | A, C/B,/ A,2 | A, A, A, C | F,/ (A, ^G,/) A,2 |
+[V: S2V2]  B,, F,, B,,/A,,/ G,, | F,, C, F,,2 | D, A,, D, C,/E,/ | F, E, A,,2 |
+[V: S1V1]  d d c A | F G A2 | D D/E/ F/G/ A | F E D2 |]
+w: Safe in- to the ha- ven guide; O re- _ ceive _ my soul at last.
+w: Co- ver my de- fen- seless head With the _ sha- _ dow of Thy wing.
+w: Ho- ping a- gainst hope I stand, Dy- ing, _ and _ be- hold, I live.
+w: False and full of sin I am; Thou art _ full _ of truth and grace.
+w: Spring Thou up with- in my heart; Rise to _ all _ e- ter- ni- ty.
+[V: S1V2]  D F/E/ F C | D D E2 | D D/^C/ D/E/ F | D ^C A,2 |]
+[V: S2V1]  F, B, C F, | A, D ^C2 | A,/B,/ A,/G,/ A, A, | A, E,//F,//G,/ F,2 |]
+[V: S2V2]  B,, B, A, F, | D, B,, A,,2 | F,/G,/ F,/E,/ D, F,,/G,,/ | A,, A,, D,2 |]

@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=100] c/ c/ =B/ c/ d c | c B F2 | G/ A/ =A/ B/ e d | (c2 d) z |
+w: 1.~There's with- in my heart a mel- o- dy Je- sus whis- pers sweet and low, * 
+w: 2.~All my life was wrecked by sin and strife, Dis- cord filled my heart with pain, _
+w: 3.~Feast- ing on the rich- es of His grace, Rest- ing 'neath His shel- t'ring wing, _
+w: 4.~Though some- times He leads through wa- ters deep, Tri- als fall a- cross the way, _
+w: 5.~Soon He's com- ing back to wel- come me, Far be- yond the star- ry sky; _
+[V: S1V2] E/ E/ =D/ E/ F E | =D D D2 | E/ F/ ^F/ G/ G E | E3 x |
+[V: S2V1] A,/ A,/ A,/ A,/ A, A, | A, A, A,2 | B,/ B,/ B,/ B,/ B, G, | (A,2 G,) z |
+[V: S2V2] A,,/ A,,/ A,,/ A,,/ A,, A,, | B,, B,, B,,2 | E,/ E,/ E,/ E,/ E, E, | E,3 x |
+[V: S1V1] E/ c/ =B/ c/ d c | c B F2 | G/ e/ d/ G/ c B | A3 z |
+w: "Fear not, I am with thee, peace, be still," In all of life's ebb and flow. 
+w: Je- sus swept a- cross the bro- ken strings, Stirred the slum- b'ring chords a- gain.
+w: Al- ways look- ing on His smi- ling face, That is why I shout and sing.
+w: Though some- times the path seems rough and steep, See His foot- prints all the way.
+w: I shall wing my flight to worlds un- known, I shall reign with Him on high.
+[V: S1V2] C/ E/ =D/  E/ F E | =D D D2 | E/ E/ E/ E/ E D | C3 x |
+[V: S2V1] A,/ A,/ A,/ A,/ A, A, | A, A, A,2 | B,/ G,/ G,/ B,/ A, G, | A,3 z |
+[V: S2V2] A,,/ A,,/ A,,/ A,,/ A,, A,, | B,, B,, B,,2 | E,/ E,/ E,/ E,/ E, E, | A,,3 x |
+[V: S1V1] E F G A | d2 G z | e B e =B | c3 z |
+w: Je- sus, Je- sus, Je- sus,\- Sweet- est name I know, 
+w: Je- sus, Je- sus, Je- sus,— Sweet- est name I know,
+w: Je- sus, Je- sus, Je- sus,— Sweet- est name I know,
+w: Je- sus, Je- sus, Je- sus,— Sweet- est name I know,
+w: Je- sus, Je- sus, Je- sus,— Sweet- est name I know,
+[V: S1V2] C C C E | E2 E x | G G G G | A3 x |
+[V: S2V1] A, A, A, A,  | G,2 B, z | B, E B, E | E3 z |
+[V: S2V2] A,, A,, A,, C, | B,,2 E, x | E, E, E, E, | A,3 x |
+[V: S1V1] E F G A | B2 F z | G/ e/ d/ G/ c B | A3 z |]
+w: Fills my ev- 'ry long- ing, Keeps me sing- ing as I go. 
+w: Fills my ev'- ry long- ing, Keeps me sing- ing as I go.
+w: Fills my ev'- ry long- ing, Keeps me sing- ing as I go.
+w: Fills my ev'- ry long- ing, Keeps me sing- ing as I go.
+w: Fills my ev'- ry long- ing, Keeps me sing- ing as I go.
+[V: S1V2] C C C E | F2 D x | E/ E/ E/ E/ E D | C3 x |]
+[V: S2V1] A, A, A, A, | A,2 B, z | B,/ G,/ G,/ B,/ A, G, | A,3 z |]
+[V: S2V2] A,, A,, A,, C, | D,2 D, x | E,/ E,/ E,/ E,/ E, E, | A,,3 x |]

@@ -1,0 +1,18 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Gm
+[V:S] D | z G G [AF] | B3/2 B/ [AF] A | G G G G | ^F3 D | D G G A | B3/2 c/ A d | c B A G | D3 (D/ C/) | D =B A G | G =E D D | G (A/ =B/) c B/ A/ | A3 A | d3/2 c/ =B B | =e3/2 d/ c A | G =B d3/2 ^F/ | G4 |]
+w: 1.~O God, ac- cor- ding to Thy grace Be mer- ci- ful to me, In Thy a- bound- ing love blot out All my in- iq- ui- ty; _ O wash me whol- ly from my guilt And make _ me clean with- in, For my trans- gres- sions I con- fess, I ev- er see my sin.
+w: 2.~A- gainst Thee on- ly have I sinned, Done e- vil in Thy sight; Lord, in Thy judg- ment Thou art just, And in thy sen- tence right. _ Be- hold, in e- vil I was formed, And I _ was born in sin, But Thou wilt make me wise in heart, Thou see- kest truth with- in.
+w: 3.~From all pol- lu- tion make me clean, Yea, whit- er than the snow; O let my bro- ken heart re- joice And glad- ness make me know; _ Blot out all my i- ni- qui- ties, And hide _ my sins from view; Cre- ate in me a spi- rit right, O God, my heart re- new.
+w: 4.~From out Thy pre- sence cast me not, Thy face no more to see; Thy Ho- ly Spi- rit and His grace Take not a- way from me. _ Re- store me Thy sal- va- tion's joy, My will- _ ing heart up- hold; Then sin- ners shall be turned to Thee When I Thy ways un- fold.
+[V:A] D | [DB,]3 C | [FD]2 C E | D D C E | D3 D | D D E E | D3/2 D/ D D | G D E =E | D3 D/ C/ | =B, D C B, | =E C =B, A, | =B, C/ D/ =E/ ^F/ G | ^F3 D | D3/2 D/ D =E | =E3/2 E/ E E/ ^F/ | G G ^F3/2 D/ | D4 |]
+[V:T] D, | [G,D,]3 [A,F,] | B,3/2 B,/ [B,F,] C | B, B, G, C | A,3 A, | B, B, B, C | B, G, A, A, | G, G, A, A,/ G,/ | ^F,3 =B,/ A,/ | G, G,,/ D,/ =E,/ ^F,/ G, | G, G, G, A, | G, G,/ ^F,/ G,/ A,/ =B,/ C/ | D3 ^F,/ G,/ | A,3/2 A,/ G, ^G,/ A,/ | =B,3/2 B,/ A, C | =B, D C3/2 C/ | =B,4 |]
+[V:B] D, | G,,3 F,, | [F,B,,]2 F,, F, | G, G, E, C, | D,3 ^F, | G, G, E, C, | G,, G, F, F, | E, D, C, ^C, | D,3 D, | G, G,,/ G,,/ G,, G,, | C, =E, G, ^F, | =E, E,/ D,/ C, G, | D,3 D,/ =E,/ | ^F,3/2 F,/ G, =E,/ F,/ | ^G,3/2 G,/ A, C, | D, D, D,3/2 D,/ | G,,4 |]

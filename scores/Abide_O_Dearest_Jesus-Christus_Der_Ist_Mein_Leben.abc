@@ -1,0 +1,29 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=120] E | G F G A | B2 !fermata!G c | B3/2 A/ G F | G2
+w: 1.~A- bide, O dear- est Je- sus, A- mong us with Thy grace, 
+w: 2.~A- bide, O dear Re- deem- er, A- mong us with Thy Word, 
+w: 3.~A- bide with heav'n- ly bright- ness A- mong us, pre- cious Light; 
+w: 4.~A- bide with rich- est bless- ings A- mong us, boun- teous Lord; 
+w: 5.~A- bide with Thy pro- tec- tion A- mong us, Lord, our Strength, 
+w: 6.~A- bide, O faith- ful Sa- vior, A- mong us with Thy love;
+[V: S1V2] B, | E D E E | D2 !fermata!E E | E3/2 C/ E D | E2
+[V: S2V1] G, | B, B, B, E, | (F, B,) !invertedfermata!B, A, | G,3/2 A,/ B, B, | B,2
+[V: S2V2] E, | E, B,, E, C, | B,,2 !fermata!E, A,, | E,3/2 F,/ E, B,, | E,2
+[V: S1V1]  z B | c c d e | c2 !fermata!B G | F E E D | E3 |]
+w: That Sa- tan may not harm us, Nor we to sin give place. 
+w: And thus now and here- af- ter True peace and joy af- ford. 
+w: Thy truth di- rect, and keep us From er- ror's gloom- y night. 
+w: Let us in grace and wis- dom Grow dai- ly through Thy Word. 
+w: Lest world and Sa- tan fell us And o- ver- come at length. 
+w: Grant stead- fast- ness, and help us To reach our home a- bove.
+[V: S1V2]  x E | E E F E | E2 !fermata!E E | C B, C B, | B,3 |]
+[V: S2V1]  z G, | A, G, B, B, | A,2 !invertedfermata!G, B, | A, G, F, F, | G,3 |]
+[V: S2V2]  x E, | A,, C, B,, G,, | A,,2 !fermata!E, E,, | F,, G,, A,, B,, | E,,3 |]

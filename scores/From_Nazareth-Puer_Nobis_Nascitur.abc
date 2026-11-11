@@ -1,0 +1,36 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1]  [Q:1/4=120] D | D2 E | F2 G | F2 E | D2 D | A2 A |
+w: 1.~Comes a- ny good from Na- za- reth? The scorn- ful 
+w: 2.~Comes a- ny good from Na- za- reth? Be- hold, the 
+w: 3.~One touch u- pon His gar- ment's fringe Still heals the 
+w: 4.~O ci- ty of the Car- pen- ter, U- pon the 
+w: 5.~For He who dwelt in Na- za- reth, And wrought with 
+[V: S1V2]  A, | B,2 C | D2 D | D2 A, | ^F,2 B, | (D G) F |
+[V: S2V1]  F, | F,2 A, | A,2 D, | (A, B,) C | D2 D | D2 A, |
+[V: S2V2]  D, | B,,2 A,, | (D, C,) B,, | (A,, G,,) A,, | D,2 G, | (F, E,) D, |
+[V: S1V1]  (A B) c | d2 d | d2 A | d2 d | c2 A |
+w: cha- * llenge as of old Is flung on man- y'a 
+w: might- * y Na- za- rene, The Lord of life, the 
+w: hurt * of bit- ter years. Be- fore Him yet the 
+w: hill * slope old and gray, The world a- mong its 
+w: toil * of hand and brain, A- lone gives vic- tor- 
+[V: S1V2]  E2 E | F2 G | F2 E | (D F) E | E2 D |
+[V: S2V1]  A,2 A, | A,2 B, | A,2 A, | B,2 B, | (A, G,) F, |
+[V: S2V2]  C,2 A,, | D,2 D, | D,2 C, | (B,, A,,) ^G,, | A,,2 D, |
+[V: S1V1]  B2 B | A2 G | A2 F | E2 F | D2 C | !fermata!D2 |]
+w: jeer- ing breath From cloi- stered cells and marts of gold. 
+w: Lord of death, Through warr- ing a- ges walks se- rene. 
+w: de- mons cringe, He gives the wine of joy for tears. 
+w: pain and stir Turns yearn- ing eyes on thee to- day. 
+w: y to faith Un- til the day He come a- gain. 
+[V: S1V2]  B,2 D | D2 B, | E2 D | C2 D | B,2 A, | !fermata!A,2 |]
+[V: S2V1]  G,2 G, | F,2 G, | E,2 A, | A,2 A, | (G, F,) E, | !invertedfermata!F,2 |]
+[V: S2V2]  G,,2 B,, | D,2 E, | C,2 D, | (A,, G,,) F,, | G,,2 A,, | !fermata!D,2 |]

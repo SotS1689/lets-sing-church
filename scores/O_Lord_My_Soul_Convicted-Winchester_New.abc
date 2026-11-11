@@ -1,0 +1,36 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] G | c G A A | G F E E |
+w: 1.~O Lord, my soul con- vic- ted stands Of 
+w: 2.~But thanks to God, its loud a- larms Have 
+w: 3.~I know my fig leaf right- eous- ness Can 
+w: 4.~There, I be- hold with won- der, Lord! That 
+w: 5.~A- maz- ing wis- dom, pow'r and love, Dis- 
+[V: S1V2]  E | G E F F/E/ | D B, C C |
+[V: S2V1]  C | C C C C | G, G, G, G, |
+[V: S2V2]  C, | E, C, F, A,, | B,, G,, C, C, |
+[V: S1V1]  F E D G | G ^F G G | c d e c |
+w: break- ing all Thy ten com- mands: And on me just- ly 
+w: warn'd me of ap- proach- ing harms; And now, O Lord, my 
+w: ne'er Thy bro- ken law re- dress; Yet in the gos- pel  
+w: Christ hath to Thy law re- stor'd Those ho- nors on th'a- 
+w: play'd to re- bels from a- bove! Do Thou, O Lord, my 
+[V: S1V2]  C C B, B, | E D/C/ B, D | G F E G |
+[V: S2V1]  F, G, G, B, | A, A, G, B, | C B, C G, |
+[V: S2V2]  A,, C, G,, E, | C, D, G,, G,/F,/ | E, D, C, E, |
+[V: S1V1]  f e d e | c A G c | c B c |]
+w: might'st Thou pour Thy wrath in one e- ter- nal show'r. 
+w: wants I see, Lost and un- done, I come to Thee. 
+w: plan I see, There's hope of par- don e'en for me. 
+w: ton- ing day, Which guil- ty sin- ners took a- way. 
+w: faith in- crease To love and trust Thy plan of grace. 
+[V: S1V2]  F G G G | G F/E/ D C | D F E |]
+[V: S2V1]  A,/B,/ C B, C | C C B, A, | A, G, G, |]
+[V: S2V2]  D, C, G, C, | E, F, G, A, | F, G, C, |]

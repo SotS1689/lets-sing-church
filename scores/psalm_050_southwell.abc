@@ -1,0 +1,35 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] F | A A G G | F3 A | A A B B | c3 c | e e d d | c c B c | B A G G | F3 |]
+w: 1.~The might- y God, the Lord, hath spo- ken, and did call The earth, from ris- ing of the sun, to where he hath his fall.
+w: 2.~From out of Zi- on's hill, in ex- cel- lence re- fined, And beau- ty the per- fec- tion is, then God in glo- ry shined,
+w: 3.~Our God shall sure- ly come, keep si- lence shall not he: Be- fore him fire shall waste, great storms shall round a- bout him be.
+w: 4.~Un- to the hea- vens clear he from a- bove shall call, And to the earth li- kewise, that he may judge his peo- ple all.
+w: 5.~To- ge- ther let my saints un- to me ga- thered be, Those that by sac- ri- fice have made a cov- e- nant with me.
+w: 6.~And then the hea- vens shall his right- eous- ness make known: Be- cause the Lord him- self is he who judg- es, he a- lone.
+w: 7.~My peo- ple Is- r'el hear, speak will I from on high, A- gainst thee I will te- sti- fy; God, ev'n thy God, am I.
+w: 8.~I for thy sac- ri- fice no blame will on thee lay, Nor for burnt\-- of- f'rings, which to me thou of- fer'dst ev'- ry day.
+w: 9.~I'll take no calf nor goats from house or fold of thine: For beasts of fo- rests, cat- tle all on thou- sand hills, are mine.
+w: 10.~The fowls on moun- tains high are all to me well known; Wild beasts which in the fields do lie, ev'n they are all mine own.
+w: 11.~Then, if I hun- gry were, I would not tell it thee; Be- cause the world, and full- ness all there- of, be- longs to me.
+w: 12.~Will I eat flesh of bulls? or goats' blood drink will I? Thanks of- fer thou to God, and pay thy vows to the most High.
+w: 13.~And call up- on me when in trou- ble thou shalt cry; I will de- li- ver thee, and thou my name shalt glor- i- fy.
+w: 14.~But to the wi- cked man God saith, How dost thou dare My cov'- nant to take in thy mouth, or my just laws de- clare?
+w: 15.~Since thou ins- truc- tion hat'st, which should thy ways di- rect; And since my words be- hind thy back thou cast'st, and dost re- ject.
+w: 16.~When thou a thief didst see, with him thou didst con- sent; And with the vile a- dul- te- rers par- ta- ker on thou went.
+w: 17.~Thou giv'st thy mouth to ill, thy tongue de- ceit doth frame; Thou sitt'st, and 'gainst thy bro- ther speak'st, thy mo- ther's son dost shame.
+w: 18.~Be- cause I si- lence kept, while thou these things hast wrought; That I was al- to- ge- ther like thy- self, hath been thy thought;
+w: 19.~Yet I will thee re- prove, and set be- fore thine eyes Thy sins in or- der ranked, that all thy hid- den guilt a- rise.
+w: 20.~Now, ye that God for- get, con- si- der what you do; Lest I in piec- es tear you all, and none de- li- ver you.
+w: 21.~Who- so doth of- fer praise me glo- ri- fies; and so To him that or- ders right his way sal- va- tion I will show.
+[V:A] C | C F F =E | F3 C | C C F E | E3 E | A G F E | E E E =E | F F F =E | F3 |]
+[V:T] A, | A, A, D C | A,3 A, | A, A, A, G, | A,3 A, | C B, A, B, | A, A, G, G, | B, C D C/B,/ | A,3 |]
+[V:B] F, | F, D, B,, C, | F,3 F, | F, E, D, E, | A,,3 A, | A, E, F, G, | A, C, E, C, | D, C, B,, C, | F,,3 |]

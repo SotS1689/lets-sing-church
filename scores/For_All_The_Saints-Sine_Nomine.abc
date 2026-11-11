@@ -1,0 +1,25 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] d B A | G3 D | E G A D | B4 | A2 A G | F2 F2 | G A F E | D3 D | G2 G2 | d3 d | c d (c/ B/) (A/ G/) | A2 (d2 | e) (d/ c/) d2 | G3 (A/ B/ | c) B A2 | G4 |]
+w: 1.~For all the saints, who from their la- bors rest, Who Thee by faith be- fore the world con- fessed, Thy Name, O Je- sus, be for- ev- _ er _ blessed. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 2.~Thou wast their Rock, their For- tress and their Might; Thou, Lord, their Cap- tain in the well fought fight; Thou, in the dark- ness drear, their one _ true _ Light. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 3.~For the Ap- ost- les' glor- ious com- pa- ny, Who bear- ing forth the Cross o'er land and sea, Shook all the might- y world, we sing _ to _ Thee: Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 4.~For the E- vang- e- lists, by whose blest word, Like four- fold streams, the gar- den of the Lord, Is fair and fruit- ful, be Thy Name _ a- _ dored. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 5.~For Mar- tyrs, who with rap- ture kind- led eye, Saw the bright crown de- scend- ing from the sky, And see- ing, grasped it, Thee we glor- _ i- _ fy. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 6.~O blest co- mmun- ion, fel- low- ship di- vine! We fee- bly stru- ggle, they in glo- ry shine; All are one in Thee, fo- r all _ are _ Thine. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 7.~O may Thy sol- diers, faith- ful, true and bold, Fight as the saints who no- bly fought of old, And win with them the vic- tor's crown _ of _ gold. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 8.~And when the strife is fierce, the war- fare long, Steals on the ear the dis- tant tri- umph song, And hearts are brave, a- gain, and arms _ are _ strong. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 9.~The gol- den eve- ning brigh- tens in the west; Soon, soon to faith- ful war- riors comes their rest; Sweet is the calm of par- a- dise _ the _ blessed. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 10.~But lo! there breaks a yet more glor- ious day; The saints tri- um- phant rise in bright ar- ray; The King of glo- ry pas- ses on _ His _ way. Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+w: 11.~From earth's wide bounds, from o- cean's far- thest coast, Through gates of pearl streams in the count- less host, And singing to Fa- ther, Son and Ho- _ ly _ Ghost: Al- _ le- _ lu- ia, Al- _ _ le- lu- ia!
+[V:A] G G F | E3 D | C D C D | D4 | D2 D E | A,2 D2 | D D D ^C | D3 A, | D2 D C | B,2 G2 | G A G D | F2 G =F | E G G F | E2 G =F | E D C D | B,4 |]
+[V:T] D E C | B,3 G, | G, G, G, F, | G,4 | A,2 B, ^C | D2 A,2 | B, A, B, G, | F,3 F, | G,2 G,2 | G,2 B,2 | C A, D D | D2 D2 | C E D2 | D C B, A,/ G,/ | C G, G, F, | G,4 |]
+[V:B] B,, C, D, | E,3 B,, | C, B,, A,, D, | G,,4 | F,2 F, E, | D,2 ^C,2 | B,, F,, G,, A,, | D,3 C, | B,, C, B,, A,, | G,,2 G, F, | E, F, G, B,, | D, C, B,,2 | C, A,, B,,2 | E,2 D,2 | C, D, E, D, | G,,4 |]

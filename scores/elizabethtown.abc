@@ -1,0 +1,43 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=105
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G2 G G G G | (B2 G2) E2 | F4 F2 | E3 E E F |
+w: 1.~I wai- ted for the Lord _ my God, Yea, pa- tient- ly drew
+w: 2.~He took me from des- truc- _ tion's pit, From out the mi- ry
+w: 3.~A new and joy- ful song _ of praise Mu thank- ful heart He
+w: 4.~And ma- ny who be- hold _ how good The Lord has been to
+w: 5.~O tru- ly bless- ed is _ the man That on the Lord re-
+w: 6.~O Lord, my God, how man- _ i- fold The works which Thou hast
+w: 7.~Thy works and thoughts most won- _ der- ful, If I of them would
+[V:A] E2 E E E E | (G2 E2) E2 | D4 D2 | C3 C C D |
+[V:T] B,2 B, B, B, B, | (E2 B,2) G,2 | B,4 A,2 | G,3 G, G, B, |
+[V:B] E,2 E, E, E, E, | E,4 E,2 | B,,4 B,,2 | C,3 C, C, B,, |
+[V:S] G4 F2 | G A B2 G2 | e4 c2 | B4 G2 |
+w: near, And He at length in- clined to me, My
+w: clay; He wt my feet up- on a rock, and
+w: taught, A song of glo- ry to our God For
+w: me Shall learn to fear, and in His Name Their
+w: lies, Re- spec- ting not the proud, nor such As
+w: wrought, Oft- times Thou hast be- stowed on us Thy
+w: speak, Can- not be num- bered, and in vain To
+[V:A] E4 D2 | E F G2 E2 | E4 A2 | G4 E2 |
+[V:T] B,4 B,2 | B, B, B,2 B,2 | B,4 E2 | E4 B,2 |
+[V:B] E,4 B,,2 | E, E, E,2 E,2 | G,4 A,2 | E,4 E,2 |
+[V:S] B G E2 F2 | E6 |]
+w: plead- ing cry to hear.
+w: stead- fast made my way.
+w: all that He has wrought.
+w: trust hence- forth shall be.
+w: turn a- side to lies.
+w: care and gra- cious thought.
+w: set them forth I seek.
+[V:A] G E E2 B,2 | B,6 |]
+[V:T] E B, G,2 A,2 | G,6 |]
+[V:B] E, E, B,,2 B,,2 | E,6 |]

@@ -1,0 +1,38 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:E
+[V:S] G3 G G2 F2 | G3 A (^A2 B2) | F3 F F2 E2 | F3 G E4 |
+w: 1.~O Je- ho- vah, hear my words, _ To my tho'ts at- ten- tive be;
+w: 2.~Thou, Je- ho- vah, art a God _ Who de- light- est not in sin;
+w: 3.~In the ful- ness of Thy grace _ To Thy house I will re- pair,
+[V:A] E3 E E2 D2 | E3 F (^^F2 G2) | D3 D D2 B,2 | D3 D B,4 |
+[V:T] B,3 B, B,2 B,2 | B,3 B, E4 | A,3 A, A,2 G,2 | A,3 B, G,4 |
+[V:B] E,3 E, E,2 B,,2 | E,3 E, E,4 | B,,3 B,, B,,2 B,,2 | B,,3 B,, E,4 |
+[V:S] G3 G G2 F2 | G3 A (c2 B2) | F3 F F2 E2 | (F A2) G E4 |
+w: Hear my cry, my King, my God, _ I will make my prayer _ to Thee.
+w: E- vil shall not dwell with Thee, _ Nor the proud Thy fa- _ vor win.
+w: Bow- ing tow'rd Thy ho- ly place, _ In Thy fear to wor- _ ship there.
+[V:A] E3 E E2 D2 | E3 F (A2 G2) | D3 D D2 B,2 | (D C2) D E4 |
+[V:T] B,3 B, B,2 B,2 | B,3 B, E4 | A,3 A, A,2 G,2 | A,3 B, G,4 |
+[V:B] E,3 E, E,2 B,,2 | E,3 E, E,4 | B,,3 B,, B,,2 B,,2 | B,,3 B,, E,4 |
+[V:S] e3 e e2 B2 | c2 e2 B4 | G3 B G2 E2 | F2 G2 E4 |
+w: With the morn- ing light, O Lord, Thou shalt hear my voice a- rise,
+w: E- vil\-- do- ers Thou dost hate, Ly- ing tongues Thou wilt de- feat;
+w: Lead me in Thy right- eous- ness, Let my foes as- sail in vain;
+[V:A] G3 G G2 G2 | A2 A2 G4 | E3 G E2 B,2 | D2 D2 B,4 |
+[V:T] B,3 B, B,2 E2 | E2 C2 E4 | E3 E B,2 G,2 | A,2 B,2 G,4 |
+[V:B] E,3 E, E,2 E,2 | E,2 E,2 E,4 | B,,3 B,, B,,2 B,,2 | B,,2 B,,2 E,4 |
+[V:S] e3 e e2 B2 | c2 e2 B4 | G2 B2 G2 E2 | F2 (A G) E4 |]
+w: And ex- pec- tant I will bring Prayer as morn- ing sac- ri- _ fice.
+w: God ab- hors the man who loves Vi- o- lence and base de- _ ceit.
+w: Lest my feet be turned a- side, Make Thy way be- fore me _ plain.
+[V:A] G3 G G2 G2 | A2 A2 G4 | E2 E2 E2 B,2 | D2 (C D) B,4 |]
+[V:T] B,3 B, B,2 E2 | E2 C2 E4 | B,2 G,2 B,2 G,2 | A,2 (A, B,) G,4 |]
+[V:B] E,3 E, E,2 E,2 | A,2 A,2 E,4 | B,,2 B,,2 B,,2 B,,2 | B,,2 B,,2 E,4 |]

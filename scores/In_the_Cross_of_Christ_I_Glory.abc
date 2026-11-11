@@ -1,0 +1,19 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] F2 B | d2 B | (A G) F | B F2 | F2 G | D2 C | D2 =E | F3 | F2 B | d2 B | (c B/ A/) (G/ F/) | B F2 | F2 G | F2 B | D2 C | B,3 |]
+w: 1.~In the cross of Christ _ I glo- ry, to- wering o'er the wrecks of time; all the light of sac- _ _ red _ sto- ry ga- thers round its head sub- lime.
+w: 2.~When the woes of life _ o'er- take me, hopes de- ceive, and fears an- noy, ne- ver shall the cross _ _ for- _ sake me. Lo! it glows with peace and joy.
+w: 3.~When the sun of bliss _ is beam- ing light and love up- on my way, from the cross the ra- _ _ diance _ strea- ming adds more lu- ster to the day.
+w: 4.~Bane and bless- ing, pain _ and plea- sure, by the cross are sanc- ti- fied; peace is there that knows _ _ no _ mea- sure, joys that through all time a- bide.
+w: 5.~In the cross of Christ _ I glo- ry, to- wering o'er the wrecks of time; all the light of sac- _ _ red _ sto- ry ga- thers round its head sub- lime.
+[V:A] D2 D | F2 F | E2 E | D D2 | B,2 B, | B,2 A, | B, D C | C3 | D2 D | F2 F | E2 E | D D2 | B,2 E | D2 D | B,2 A, | B,3 |]
+[V:T] F,2 F, | B,2 B, | C B, A, | F, B,2 | B,2 G, | F,2 F, | F, B, B, | A,3 | B,2 F, | F, B, B, | A, C A, | F, B,2 | B,2 B, | B,2 F, | F,2 E, | D,3 |]
+[V:B] B,,2 B,, | B,,2 D, | F,2 F, | B,, B,,2 | D,2 E, | F,2 F,, | B,, G,, C, | F,3 | B,,2 B,, | B,,2 D, | F,2 F, | B,, B,,2 | D,2 E, | B,,2 B,,/ D,/ | F,2 F,, | B,,3 |]

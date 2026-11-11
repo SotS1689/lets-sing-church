@@ -1,0 +1,18 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] c B | A3/2 G/ F A | F E A c | e3/2 c/ B A | B2 c B | A3/2 G/ F A | F E A c | F3/2 B/ A G | A2 c e | e c B A | c B c e | e3/2 c/ B A | B2 c B | A E d3/2 F/ | F E A c | F3/2 B/ A G | A4 |]
+w: 1.~'Tis so sweet to trust in Je- sus, Just to take him at his word; Just to rest up- on his pro- mise; Just to know, thus saith the Lord. Je- sus, Je- sus, how I trust him! How I've proved him o'er and o'er! Je- sus, Je- sus, pre- cious Je- sus! O for grace to trust him more.
+w: 2.~O how sweet to trust in Je- sus, Just to trust his clean- sing blood; Just in sim- ple faith to plunge me 'Neath the heal- ing, clean- sing flood! Je- sus, Je- sus, how I trust him! How I've proved him o'er and o'er! Je- sus, Je- sus, pre- cious Je- sus! O for grace to trust him more.
+w: 3.~Yes, 'tis sweet to trust in Je- sus, Just from sin and self to cease; Just from Je- sus simp- ly ta- king Life and rest, and joy and peace. Je- sus, Je- sus, how I trust him! How I've proved him o'er and o'er! Je- sus, Je- sus, pre- cious Je- sus! O for grace to trust him more.
+w: 4.~I'm so glad I learned to trust thee, Pre- cious Je- sus, Sa- viour, Friend; And I know that thou art with me, Wilt be with me to the end. Je- sus, Je- sus, how I trust him! How I've proved him o'er and o'er! Je- sus, Je- sus, pre- cious Je- sus! O for grace to trust him more.
+[V:A] E E | C3/2 E/ D D | D C E A | A3/2 A/ E =D | E2 E D | C3/2 E/ D D | D C C E | D3/2 F/ E E | E2 A A | A A G F | A G A A | A3/2 A/ E =D | E2 E D | C C F3/2 D/ | D C C E | D3/2 F/ E E | E4 |]
+[V:T] A, E, | E,3/2 A,/ A, A, | A, A, C E | C3/2 E/ E B, | G,2 A, E, | E,3/2 A,/ A, A, | A, A, E, A, | A,3/2 D/ C B, | C2 E C | C E D C | E E E C | C3/2 E/ E B, | G,2 A, E, | E, A, A,3/2 A,/ | A, A, E, A, | A,3/2 D/ C D | C4 |]
+[V:B] A,, A,, | A,,3/2 C,/ D, F, | A, A, A, A, | A,3/2 A,/ G, F, | E,2 A,, A,, | A,,3/2 C,/ D, F, | A, A, A,, A,, | D,3/2 D,/ E, E, | A,,2 A, A, | A, A, E, F, | E, E, A, A, | A,3/2 A,/ G, F, | E,2 A,, A,, | A,, A,, D,3/2 D,/ | A,, A,, A,, A,, | D,3/2 D,/ E, E, | [A,A,,]4 |]

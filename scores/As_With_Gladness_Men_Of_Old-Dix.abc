@@ -1,0 +1,36 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G F/G/ A G | c c B2 | E F G E | D D D2 |
+w: 1.~As with * glad- ness, men of old Did the guid- ing star be- hold 
+w: 2.~As with * joy- ful steps they sped To that low- ly man- ger bed 
+w: 3.~As they * off- ered gifts most rare At that man- ger rude and bare; 
+w: 4.~Ho- ly * Je- sus, ev- 'ry day Keep us in the nar- row way; 
+w: 5.~In the * heav'n- ly coun- try bright, Need they no cre- a- ted light; 
+[V: S1V2]  D D D D | C D D2 | E D D C | B, A, B,2 |
+[V: S2V1]  B, C/B,/ A, B, | G, A, G,2 | G, A, G, G, | G, F, G,2 |
+[V: S2V2]  G, A,/G,/ F, G, | E, F, G,2 | C, C, B,, C, | D, D, G,,2 |
+[V: S1V1]  G F/G/ A G | c c B2 | E F G E | D D D2 |
+w: As with * joy they hailed its light Lead- ing on- ward, beam- ing bright 
+w: There to * bend the knee be- fore Him whom Heav'n and earth a- dore; 
+w: So may * we with ho- ly joy, Pure and free from sin's al- loy, 
+w: And, when * earth- ly things are past, Bring our ran- somed souls at last 
+w: Thou its * Light, its Joy, its Crown, Thou its Sun which goes not down; 
+[V: S1V2]  D D D D | C D D2 | E D D C | B, A, B,2 |
+[V: S2V1]  B, C/B,/ A, B, | G, A, G,2 | G, A, G, G, | G, F, G,2 |
+[V: S2V2]  G, A,/G,/ F, G, | E, F, G,2 | C, C, B,, C, | D, D, G,,2 |
+[V: S1V1]  B A G B | d3/2 c/ B2 | E F G c | B A G2 |]
+w: So, most glor- ious Lord, may we Ev- er- more be led to Thee. 
+w: So may we with will- ing feet Ev- er seek Thy mer- cy seat. 
+w: All our cost- liest treas- ures bring, Christ, to Thee, our heav'n- ly King. 
+w: Where they need no star to guide, Where no clouds Thy glo- ry hide. 
+w: There for- ev- er may we sing Al- le- lu- ias to our King! 
+[V: S1V2]  D D D D | D D D2 | E D D C | D3/2 C/ B,2 |]
+[V: S2V1]  G, D/C/ B, G, | A, F, G,2 | G, A, G, G, | G, F, G,2 |]
+[V: S2V2]  G, F, G, G, | F, D, G,2 | C, C, B,, E, | D, D, G,,2 |]

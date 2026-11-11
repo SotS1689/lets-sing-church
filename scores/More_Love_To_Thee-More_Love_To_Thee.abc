@@ -1,0 +1,30 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=75] E2 F E | A3/2 B/ c2 | c2 B A | B3 z | E2 F E |
+w: 1.~More love to Thee, O Christ; More love to Thee; Hear Thou the
+w: 2.~Once earth- ly joy I craved, Sought peace and rest; Now thee a-
+w: 3.~Then shall my lat- est breath, Whis- per Thy praise, This be the
+[V: S1V2] C2 D C | E3/2 E/ E2 | E2 E =D | E3 x | C2 D C |
+[V: S2V1] A,2 A, A, | A,3/2 G,/ A,2 | A,2 B, B, | G,3 z | A,2 A, A, |
+[V: S2V2] A,,2 A,, A,, | C,3/2 E,/ A,2 | A,2 G, F, | E,3 x | A,2 A, A, |
+[V: S1V1] A3/2 B/ c2 | B2 A G | A3 z | d2 d d | d3/2 c/ c2 |
+w: pray'r I make On bend- ed knee; This is my ear- nest plea,
+w: lone I seek, Give what is best; This all my pray'r shall be,
+w: part- ing cry My heart shall raise; This still its pray'r shall be,
+[V: S1V2] E3/2 E/ E2 | F2 E E | E3 x | A2 A A | A3/2 A/ A2 |
+[V: S2V1] A,3/2 G,/ A,2 | D2 C D | C3 z | F2 F F | F3/2 E/ E2 |
+[V: S2V2] C,3/2 E,/ A,2 | D,2 E, E, | A,3 x | A,2 A, A, | A,3/2 A,/ A,2 |
+[V: S1V1] B2 B B | B3/2 A/ A2 | F2 F F | A3 z | B2 A G | A3 z |]
+w: More love, O Christ, to Thee, More love to Thee; More love to Thee.
+w: More love, O Christ, to Thee, More love to Thee; More love to Thee.
+w: More love, O Christ, to Thee, More love to Thee; More love to Thee.
+[V: S1V2] G2 E E | E3/2 E/ E2 | D2 D D | E3 x | F2 E E | E3 x |]
+[V: S2V1] D2 D D | D3/2 C/ C2 | A,2 A, A, | A,3 z | D2 C B, | C3 z |]
+[V: S2V2] E,2 E, E, | E,3/2 A,/ A,2 | D,2 D, D, | C,3 x | B,,2 E, E, | A,,3 x |]

@@ -1,0 +1,46 @@
+X: 1
+M: 6/8
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] F/4A/4 | c c/ d c/ | c/ A2 F/ | G F/ F D/ | C3/2 F G/ | A A/ A A/ |
+w: 1.~I've * found a friend in Je- sus, He's ev- ery- thing to me, He's the fair- est of ten 
+w: 2.~He _ all my grief has tak- en, and all my sor- rows borne; In temp- ta- tion He's my
+w: 3.~He'll _ ne- ver, ne- ver leave me, nor yet for- sake me here, While I live by faith and
+[V: S1V2] F/ | F F/ F F/ | F/ F2 F/ | D D/ D B,/ | A,3/2 C C/ | F F/ F F/ |
+[V: S2V1] A,/4C/4 | A, A,/ B, A,/ | B,/ C2 C/ | B, B,/ B, F,/ | F,3/2 A, B,/ | C C/ C C/ |
+[V: S2V2] F,/ | F, F,/ F, F,/ | F,/ F,2 A,,/ | B,, B,,/ B,, D,/ | F,3/2 F, F,/ | F, F,/ F, F,/ |
+[V: S1V1] d c/ A F/ | G3- | G3/2 (F A/) | c c/ d c/ | c/A2 F/ | G F/ F D/ | C3/2
+w: thou- sand to my soul; * The * Li- ly of the Val- ley, in Him a- lone I see 
+w: strong and might- y tow'r; _ I've _ all for Him for- sa- ken, and all my i- dols torn
+w: do His bless- ed will; _ A _ wall of fire a- bout me, I've no- thing now to fear,
+[V: S1V2] F F/ F F/ | E3- | E3/2 F3/2 | F F/ F F/  | F/ F2 C/ | D D/ D B,/ | A,3/2
+[V: S2V1] B, C/ C C/ | C3- | C3/2 (A, C/) | A, A,/ B, A,/ | A,/ C2 A,/ | B, B,/ B, F,/ | F,3/2
+[V: S2V2] B, A,/ F, A,,/ | C,3- | C,3/2 F,3/2 | F, F,/ F, F,/ | F,/ F,2 F,/ | B,, B,,/ B,, D,/ | F,3/2
+[V: S1V1] F G/ | A A/ G F/ | G G/ F E/ | F3- | F3/2 z/ F | F/ B B B/ | B/ d2
+w: All I need to cleanse and make me ful- ly whole. * In sor- row He's my com- fort, 
+w: From my heart and now He keeps me by His pow'r. _ Though all the world for- sake me,
+w: From His man- na He my hun- gry soul shall fill. _ Then swee- ping up to glo- ry
+[V: S1V2] C C/ | F F/ E F/ | D D/ C C/ | C3- | C3/2 x/ _E | D/ D D D/ | D/ F2
+[V: S2V1] A, B,/ | C C/ B, A,/ | B, B,/ A, G,/ | A,3- | A,3/2 z/ A, |B,/ F, F, F,/ | F,/ B,2
+[V: S2V2] F, F,/ | F, F,/ C, D,/ | B,, B,,/ C, C,/ | F,3- | F,3/2 x/F, | B,,/ B,, B,, B,,/ | B,,/ B,,2
+w: * * * * * * * * * * * * In sor- row He's my com- fort, 
+[V: S1V1] d/ | d/ c c A/ | c3/2 (A G/) | F F/ F F/ | d c/ A F/ | G3- | G3/2 F A/ | c/ c
+w: in trou- ble He's my stay; He * tells me ev- ery care on Him to roll. * He's the Li- ly 
+w: and Sa- tan tempt me sore, Through _ Je- sus I shall safe- ly reach the goal. _ He's the Li- ly
+w: to see His bless- ed face, Where _ the ri- vers of de- light shall ever roll. _ He's the Li- ly
+[V: S1V2] F/ | F/ F F F/ | F3/2 (F C/) | C C/ C F/ | F F/ F F/ | E3- | E3/2 F F/ | F/ F
+[V: S2V1] B,/ | B,/ A, A, C/ | A,3/2 (C B,/) | A, B,/ C A,/ | B, C/ C C/ | C3- | C3/2 A, C/ | A,/ A,
+[V: S2V2]  B,,/ | F,/ F, F, F,/ | F,3/2 F,3/2 | F, G,/ A, F,/ | B, A,/ F, A,,/ | C,3- | C,3/2 F, F,/ | F,/ F,
+w: in trou- ble He's my stay; He tells me ev- ery care on Him to roll. * He's the Li- ly 
+[V: S1V1] d c/ | c/ A2 F/ | G F/ F D/ | C3/2 F G/ | A A/ G F/ | G G/ F E/ | F3- | F3/2 z/ |]
+w: of the Val- ley, the Bright and Morn- ing Star, He's the fair- est of ten thou- sand to my soul. *
+w: of the Val- ley, the Bright and Morn- ing Star, He's the fair- est of ten thou- sand to my soul. _
+w: of the Val- ley, the Bright and Morn- ing Star, He's the fair- est of ten thou- sand to my soul. _
+[V: S1V2] F F/ | F/ F2 F/ | D D/ D B,/ | A,3/2 C C/ | F C/ C F/ |  D D/ C C/ | C3- | C3/2 x/ |]
+[V: S2V1] B, A,/ | A,/ C2 C/ | B, B,/ B, F,/ | F,3/2 A, B,/ | C C/ B, A,/ | B, B,/ A, G,/ | A,3- | A,3/2 z/ |]
+[V: S2V2] F, F,/ | F,/ F,2 A,,/ | B,, B,,/ B,, D,/ | F,3/2 F, F,/ | F, F,/ C, D,/ | B,, B,,/ C, C,/ | F,3- | F,3/2 x/ |]

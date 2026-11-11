@@ -1,0 +1,35 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1]  [Q:1/4=100] F F3/4 G// A A3/4 B// | c c3/4B// A2 | G G3/4 A// B A/ c/ |
+w: 1.~Far, far a- way on Ju- de- a's * plains, Shep- herds of old heard the 
+w: 2.~Sweet are these strains of re- deem- ing _ love, Mess- age of mer- cy from
+w: 3.~Lord, with the an- gels we too would re- joice; Help us to sing with the
+w: 4.~Has- ten the time when, from ev- ery _ clime, Men shall u- nite in the
+[V: S1V2]  F F3/4 E// F F3/4 G// | A A3/4G// F2 | E E3/4 F// G F/ A/ |
+[V: S2V1]  F, C, F, C, | A,, C, F,2 | C,3 F, |
+[V: S2V2]  F, C, F, C, | A,, C, F,2 | C,3 F, |
+[V: S1V1]  d/c/ B/A/ (A G) | F F3/4 G// A2 | c c3/4 B// A2 | d d3/4 d// c F/ F/ |
+w: joy- * ous * strains: * Glo- ry to God, glo- ry to God, Glo- ry to God in the 
+w: hea- _ ven a- bove: _ Glo- ry to God, glo- ry to God, Glo- ry to God in the
+w: heart _ and _ voice: _ Glo- ry to God, glo- ry to God, Glo- ry to God in the
+w: strains _ sub- _ lime: _ Glo- ry to God, glo- ry to God, Glo- ry to God in the
+[V: S1V2]  B/A/ G/F/ (F E) | C F3/4 E// F z | E E3/4 E// F z | F F3/4 F// F F/ C/ |
+[V: S2V1]  B,,2 C,2 | A, C3/4 C// C z | G, G,3/4 G,// F, G,/ A,/ | B,2 A, D/ C/ |
+w: * * Glo- ry to God Glo- ry to God in the high- est  in the 
+[V: S2V2]   B,,2 C,2 | F, A,3/4 G,// F, E,/ D,/ | C,2 F, z | B,,3/4C,// D,3/4 E,// F, B,/ A,/ |
+w: * * Glo- ry to God in the high- est  Glo- * ry to God in the 
+[V: S1V1]  (B A) G2 | .F .C .D E | F G A2 | c3/2 c/ c3/2 B/ | A G F2 |]
+w: high- * est; Peace on earth, good will to men; Peace on earth, good will to men. 
+w: high- _ est; Peace on earth, good will to men; Peace on earth, good will to men.
+w: high- _ est; Peace on earth, good will to men; Peace on earth, good will to men.
+w: high- _ est; Peace on earth, good will to men; Peace on earth, good will to men.
+[V: S1V2]  (D/E/ F) E2 | .C .A, .B, B, | C C C2 | (E/F/G/) E/ F3/2 G/ | F E F2 |]
+[V: S2V1]  (B, C) C2 | .A, .F, .F, G, | F, E, F,2 | G,3/2 G,/ A,/B,/C/ D/ | C C/B,/ A,2 |]
+[V: S2V2]  (G, F,) C,2 | .F,, .F,, .B,, G,, | A,, C, F,3/2 z/ | C,/D,/E,/ C,/ F,/G,/A,/ B,/ | C C, F,2 |]

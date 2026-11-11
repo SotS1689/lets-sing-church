@@ -1,0 +1,36 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] d B G | (A G) F | G3 | G A B | (c/d/ c) B | A3 |
+w: 1.~Shep- herd of ten- _ der youth, Guid- ing in love _ _ and truth
+w: 2.~Thou art our ho- _ ly Lord, O all sub- du- _ _ ing Word,
+w: 3.~Thou art the great _ high priest; Thou hast pre- pared _ _ the feast
+w: 4.~Ev- er be Thou _ our guide, Our shep- herd and _ _ our pride,
+w: 5.~So now, and till _ we die, Sound we Thy prais- _ _ es high
+[V: S1V2]  G D D | (E D) D | D3 | D D G | (F A) G | F3 |
+[V: S2V1]  B, D D | (C B,) A, | B,3 | B, D D | D2 D | D3 |
+[V: S2V2]  G, G, B,, | (C, D,) D, | G,,3 | G, F, G, | (A, F,) G, | D,3 |
+[V: S1V1]  d B G | D3 | A B c | B3/2 A/ G | A B c |
+w: Through de- vious ways; Christ our tri- um- phant king, We come Thy
+w: Hea- ler of strife. Thou didst Thy- self a- base That from sin's
+w: Of ho- ly love; And in our mor- tal pain, None calls on
+w: Our staff and song; Je- sus, Thou Christ of God, By Thine en-
+w: And joy- ful sing; In- fants and the glad throng Who to Thy
+[V: S1V2]  d B G | D3 | F G A | G3/2 F/ G | F G A |
+[V: S2V1]  D B, G, | D,3 | D D D | D3/2 C/ B, | D D D |
+[V: S2V2]  D B, G, | D,3 | D, D, D, | G,3/2 G,/ G, | D, D, D, |
+[V: S1V1]  B3/2 A/ G | G B d | d3/2 e/ d | c B A | G3 |]
+w: name to sing And here our child- ren bring To join Thy praise.
+w: deep dis- grace Thou migh- test save our race And give us life.
+w: Thee in vain; Help Thou dost not dis- dain, Help from a- bove.
+w: du- ring Word Lead us where Thou hast trod, Make our faith strong.
+w: Church be- long, U- nite to swell the song To Christ, our king.
+[V: S1V2]  G3/2 F/ G | G B d | G3/2 G/ G | A G F | G3 |]
+[V: S2V1]  D3/2 C/ B, | G, B, D | B,3/2 C/ B, | E D C | B,3 |]
+[V: S2V2]  G,3/2 G,/ G, | G, B, D | G,3/2 G,/ G, | C, D, D, | [G,,3G,3] |]

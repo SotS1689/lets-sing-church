@@ -1,0 +1,40 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=105
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D2 | B2 B2 B2 (c B) | A2 (G A) B2 D2 | E2 F2 G2 A2 |
+w: 1.~I love the Lord, for _ my re- _ quest And hum- ble plea He
+w: 2.~Brought nigh to death and _ full of _ grief, The Lord's sal- va- tion
+w: 3.~Most kind and right- eous _ is the _ Lord, Our God is mer- ci-
+w: 4.~Re- turn un- to thy _ rest, my _ soul, The Lord has rich- ly
+w: 5.~Since He has freed my _ eyes from _ tears And kept my feet from
+w: 6.~In my a- fflic- tion _ and my _ pain, When fears a- larmed and
+[V:A] D2 | D2 ^D2 E2 E2 | C2 C2 B,2 D2 | C2 C2 D2 E2 |
+[V:T] D,2 | B,2 A,2 G,2 (A, G,) | F,2 (E, F,) G,2 G,2 | G,2 A,2 G,2 E,2 |
+[V:B] D,2 | G,2 F,2 E,2 A,,2 | D,2 D,2 G,,2 B,,2 | C,2 A,,2 B,,2 ^C,2 |
+[V:S] F2 E2 D2 (D C) | B2 B2 B2 (c B) | A2 (G A) B2 D2 | E2 F2 G2 (B A) |
+w: makes His care; In _ Him through life my _ faith shall _ rest, for He both hears and _
+w: I be- sought; He _ heard my cry, He _ sent re- _ lief, My soul from depths of _
+w: ful in- deed, De- _ ligh- ting ev- er _ to af- _ ford His help to me in _
+w: dealt with thee, De- _ liv- ered thee from _ death's con- _ trol, From sin and sor- row _
+w: e- vil ways, Re- _ deemed from life's dis- _ tres- sing _ fears, With Him I walk, and _
+w: hopes de- ceived, I _ found all hu- man _ help- ers _ vain, But in the Lord my _
+[V:A] D2 ^C2 D2 (D =C) | B,2 ^D2 E2 E2 | C2 C2 B,2 D2 | C2 C2 D2 E2 |
+[V:T] A,2 G,2 F,2 F,2 | G,2 F,2 ^G,2 (A, =G,) | F,2 (E, F,) G,2 G,2 | G,2 A,2 G,2 (^G, A,) |
+[V:B] D,2 A,,2 D,2 D,2 | G,,2 B,,2 E,2 A,,2 | D,2 D,2 G,,2 B,,2 | C,2 A,,2 B,,2 C,2 |
+[V:S] G2 F2 G2 |]
+w: an- swers prayer.
+w: woe He brought.
+w: time of need.
+w: set thee free.
+w: Him I praise.
+w: soul be- lieved.
+[V:A] D2 D2 D2 |]
+[V:T] B,2 C2 B,2 |]
+[V:B] D,2 D,2 G,,2 |]

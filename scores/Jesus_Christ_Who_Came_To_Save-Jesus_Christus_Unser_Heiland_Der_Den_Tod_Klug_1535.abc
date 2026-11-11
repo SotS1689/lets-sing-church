@@ -1,0 +1,23 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] A A G A | B A (G ^F | !fermata!E) G A B | A ^G !fermata!A
+w: 1.~Je- sus Christ, who came to save, * * And o- ver- came the grave, 
+w: 2.~Who with- out- en sin was found, _ _ Bore our trans- gres- sion's wound.
+w: 3.~Life and mer- cy, sin and death, _ _ All in His hands He hath;
+[V: S1V2]  C E E D | D ^F (E ^D | !fermata!E) E D F | E E !fermata!E
+[V: S2V1]  E, A, B, A, | G, C (B, B,/A,/ | !invertedfermata!G,) C A, D | C B, !invertedfermata!C
+[V: S2V2]  A,, C, E, ^F, | G, A, (B, B,, | !fermata!E,) C, F, G, | A, E, !fermata!A,,
+[V: S1V1]  d | A/B/ c (B A) | !fermata!B A A A | B A (G ^F) | !fermata!E G A B | (A ^G) !fermata!A2 |]
+w: Is now * a- ris- * en, And sin hath bound in pri- * son. Ky- ri' e- lei- * son. 
+w: He is _ our Sa- _ vior, And brings us to God's fa- _ vor. Ky- ri' e- lei- _ son.
+w: Them He'll _ de- li- _ ver, Who trust in Him for- ev- _ er. Ky- ri' e- lei- _ son.
+[V: S1V2]  F | E E (F D) | !fermata!B, ^C D D | D E (E ^D) | !fermata!E E C D | (E E/D/) !fermata!^C2 |]
+[V: S2V1]  A, | A, A, (A, B,) | !invertedfermata!^G, =G, F, ^F, | G, C (B, B,/A,/) | !invertedfermata!G, G, ^F, G, | (C B,) !invertedfermata!A,2 |]
+[V: S2V2]  B,, | C, A, (D, F,) | !fermata!E, A,, D, D, | G,, A,, B,,2 | !fermata!E, C, A,, G,, | (A,, E,) !fermata!A,,2 |]

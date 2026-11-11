@@ -1,0 +1,41 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] F | F c A F/G/ | A2 G A | c B A G | F2 x
+w: 1.~Now sin with reign un- * bro- ken, no more can rule my life,
+w: 2.~How can I right- * ly trea- sure My Sa- vior's death for me,
+w: 3.~What pro- fits Ea- ster * mor- ning, The tem- ple cur- tain rent,
+w: 4.~My Je- sus and my * Sa- vior, My Friend, my soul's de- light
+[V: S1V2]  C | F G F F | F2 E F | F G F E | F2 z
+[V: S2V1]  A, | C C C D | C2 C C | C D C B, | A,2 x
+[V: S2V2]  F, | A, E, F, B,, | C,2 C, F, | A,, B,, C, C, | [F,2F,,2] z
+[V: S1V1] F | F c A F/G/ | A2 G A | c B A G | F2 x
+w: Since God the Word hath * spo- ken, That wins for me the strife;
+w: When seek- ing world- ly * plea- sure, I turn to that in glee?
+w: When I ne- glect God's * war- ning To pray and to re- pent,
+w: Oh help me not to * wa- ver, Though A- dam of- fers fight!
+[V: S1V2]  C | F G F F | F2 E F | F G F E | F2 z
+[V: S2V1]  A, | C C C D | C2 C C | C D C B, | A,2 x
+[V: S2V2]  F, | A, E, F, B,, | C,2 C, F, | A,, B,, C, C, | [F,2F,,2] z
+[V: S1V1] A | A c c A | G2 x F/G/ | A B c G | A2 !fermata!F
+w: Bap- tized, re- born by grace I * am re- deem'd from e- vil,
+w: Oh, lest I go a- stray And * un- to sin sur- ren- der,
+w: When wan- der- ing a- broad And * yeil- ding to temp- ta- tion,
+w: Help me to hate all sin, And * with the ut- most can- dor
+[V: S1V2] E | D G F F | E2 z D | E D C C | C2 !fermata!A,
+[V: S2V1] A,/G,/ | F, C/B,/ A, C | C2 x A, | A,/G,/  F, G, E, | F,2 !invertedfermata!F,
+[V: S2V2] ^C, | D, E, F, A,,/B,,/ | C,2 z D, | ^C, D, E, =C, | F,2 !fermata!F,,
+[V: S1V1] A | c c A F | A2 G A | c B A G | F2 x |]
+w: And have re- nounced the de- vil and all his works and ways.
+w: Dear Lord, be my De- fen- der, My Life, my Light, my Way.
+w: I lose my soul's sal- va- tion, My home, my hope, my God.
+w: My heart to Thee Sur- ren- der, The crown of life to win.
+[V: S1V2]  F | F C C F | F2 E F | F F F =E | F2 z |]
+[V: S2V1]  C | C G, A, =B, | C2 C C | _E D C B, | A,2 z |]
+[V: S2V2]  F, | A, E, F, D, | C,2 C, F, | A,, B,, C, C, | [F,2C,2F,,2] x |]

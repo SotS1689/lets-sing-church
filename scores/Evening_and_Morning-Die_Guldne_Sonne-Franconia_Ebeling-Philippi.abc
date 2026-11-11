@@ -1,0 +1,61 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] c c d | (c3/2 B/) A | c B G | (A3/2 G/) F | A B c | d2 d | 
+w: 1.~Eve- ning and mor- * ning, Sun- set and daw- * ning, Wealth, peace, and glad- ness, 
+w: 2.~Gol- den and glo- * rious, Strong and vic- to- * rious All joy and glad- ness, 
+w: 3.~Mine eye sur- ve- * yeth What God dis- pla- * yeth Of His great glo- ry 
+w: 4.~Let us all sin- * ging, And to God brin- * ging Our choi- cest trea- sure, 
+w: 5.~All here is dy- * ing, Groa- ning and si- * ghing; God does not al- ter, 
+w: 6.~Fa- ther, O hear _ me: Par- don and spare _ me; Calm all my ter- rors,
+w: 7.~Wilt Thou to try _ me, With all sup- ply _ me, Na- ture re- qui- reth,
+w: 8.~Or should Thou give _ me, Worm- wood to grieve _ me Griefs to dis- tress me,
+w: 9.~Griefs of God's sen- _ ding, All have an end- _ ing; Clouds may be pou- ring,
+[V: S1V2]  F F F | F2 F | F F E | F2 C | C D F | F2 D | 
+[V: S2V1]  A, A, B, | (A,3/2 B,/) C | C D C | (C3/2 B,/) A, | F, F, F, | B,2 F, | 
+[V: S2V2]  F, F, B,, | F,2 F, | A,, B,, C, | F,2 F, | F, B,, A,, | B,,2 B,, | 
+[V: S1V1] G A B | c2 c | F F G | A3/2 B/ c | G F E  | F3 | 
+w: Com- fort in sad- ness, These are Thy works; all the glo- ry be Thine! 
+w: Scat- te- ring sad- ness, Ri- ses the sun with his life- gi- ving rays; 
+w: Spread out be- fore me, Tea- ching how great are His wis- dom and might; 
+w: To do Him plea- sure, Of- fer a sac- ri- fice swee- ter than lambs. 
+w: Nor His Word fal- ter; Built like His will, on im- mu- ta- ble ground, 
+w: Blot out my err- ors, That by Thine eyes they may no more be scanned.
+w: Or heart de- si- reth, Whis- per this coun- sel of love in my breast,
+w: Bur- dens to press me, Wel- come what- ev- er Thy Word hath de- creed.
+w: Wind and wave roa- ring, Sun- shine will come when the tem- pest has past:
+[V: S1V2] C C D C2 C | F D C | C3/2 D/ F | D C C | C3 | 
+[V: S2V1] E, F, F, | F,2 F, | A, A, G, | F,3/2 F,/ F, | B, A, G, | A,3 | 
+[V: S2V2] C, C, B,, | A,,2 A,, | D, D, E, F,3/2 B,,/ A,, | B,, C, C, | F,,3 | 
+[V: S1V1]  c c B | A A G | F3/2 E/ D | E C2 | F F G | A A 
+w: Times wi- thout num- ber, A- wake or in slum- ber, Thine eye ob- serves us, 
+w: Still as the dy- ing, My mem- bers were ly- ing, but now up- spring- ing, 
+w: To His saints sho- wing The home where they're go- ing, Peace- ful- ly quit- ting 
+w: Heart- felt con- tri- tion, And cheer- ful sub- mis- sion, Songs of thanks- gi- ving, 
+w: His love re- mai- neth, His grace ne- ver wa- neth, Soo- thing and hea- ling 
+w: Or- der my go- ings; Di- rect all my do- ings; As it may please Thee,
+w: "God is the grea- test, The fair- est, the sweet- est, God is the pur- est,
+w: My kind Phy- si- cian Knows well my con- di- tion, That which will hurt me,
+w: Joys still in- crea- sing, And peace ne- ver ceas- ing, Faith lost in vi- sion,
+[V: S1V2]  F F F | F F E | D3/2 C/ =B, | C C2 | C D E | F F 
+[V: S2V1]  A, A, D | C C C | A,3/2 G,/ G, | G, E,2 | F, A, C | C D 
+[V: S2V2]  F, F, B,, | F, F, C, | F,3/2 G,/ G,, | C, C,2 | A,, D, C, | F, D, 
+[V: S1V1] G | A A =B | c c2 | A F G | A3/2 B/ c | G F E | F3|]
+w: From dan- ger pre- serves us, Cau- sing Thy mer- cy u- pon us to shine. 
+w: With joy I am sin- ging, Ga- zing a- round me with won- der and praise. 
+w: When God sees it fit- ting, Earth's clo- sing scenes, as they fade from their sight. 
+w: And fruits of good li- ving Please Him far bet- ter than in- cense of rams. 
+w: The pains we are fee- ling, Kee- ping us now and e- ter- nal- ly sound. 
+w: Re- tain or re- lease me; All I Com- mit to Thy Fa- ther- ly hand.
+w: The tru- est, the su- rest, And of all trea- sures the nob- lest and best."
+w: Or heal and con- vert me, God will not cha- sten us more than we need.
+w: Hope in fru- i- ti- on, These are the joys which I look for at last.
+[V: S1V2] E | F F G | E E2 | C D E | F3/2 F/ F | D C C | C3 |]
+[V: S2V1] B, | C D D | C G,2 | A, A, C | C3/2 D/ C | B, A, G, | A,3 |]
+[V: S2V2] G, | F, D, G, | C, C,2 | F, D, C, | F,3/2 D,/ A,, | B,, C, C, | F,,3 |]

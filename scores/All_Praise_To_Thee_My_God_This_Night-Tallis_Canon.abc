@@ -1,0 +1,31 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G | G F G G | A A B G | c c B B | A A G
+w: 1.~All praise to Thee, my God, this night, For all the bless- ings of the light! 
+w: 2.~For- give me, Lord, for Thy dear Son, The ill that I this day have done, 
+w: 3.~Teach me to live, that I may dread The grave as lit- tle as my bed. 
+w: 4.~O may my soul on Thee re- pose, And with sweet sleep mine eye- lids close, 
+w: 5.~When in the night I sleep- less lie, My soul with heav'n- ly thoughts sup- ply; 
+w: 6.~O when shall I, in end- less day, For ev- er chase dark sleep a- way,
+w: 7.~Praise God, from Whom all bless- ings flow; Praise Him, all crea- tures here be- low;
+[V: S1V2]  D | D D B, D | E D D G | E F G D | E D D
+[V: S2V1]  B, | A, A, G, G, | G, F, G, G, | A, A, B, G, | C C B,
+[V: S2V2]  G, | D, D, E, B,, | C, D, G,, B,, | A,, A,, G,, G, | G, F, G,
+[V: S1V1]  d | c A B B | A A G D | E F G B | A A G |]
+w: Keep me, O keep me, King of kings, Be- neath Thine own al- migh- ty wings. 
+w: That with the world, my- self, and Thee, I, ere I sleep, at peace may be. 
+w: Teach me to die, that so I may Rise glo- rious at the judg- ment day. 
+w: Sleep that may me more vig- 'rous make To serve my God when I a- wake. 
+w: Let no ill dreams dis- turb my rest, No pow'rs of dark- ness me mo- lest. 
+w: And hymns di- vine with an- gels sing, All praise to thee, e- ter- nal King?
+w: Praise Him a- bove, ye heaven- ly host; Praise Fa- ther, Son, and Ho- ly Ghost.
+[V: S1V2]  G | E D D D | E F G G, | E D B, D | C A, B, |]
+[V: S2V1]  B, | A, A, G, D | C A, B, B, | A, A, G, D, | E, F, G, |]
+[V: S2V2]  G, | A, F, G, G,, | C, D, G,, B,, | C, D, E, B,, | C, D, G,, |]

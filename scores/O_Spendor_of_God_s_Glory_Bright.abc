@@ -1,0 +1,20 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] F B F G | G F E D | D E D C | F F =E F- | F F B c | d B e d | c d B G | F B B A | B4 |]
+w: 1.~O Splen- dor of God's glo- ry bright, From light e- ter- nal bring- ing light, _ Thou light of light, light's liv- ing Spring, True Day, all days il- lu- mi- ning:
+w: 2.~Come, ver- y Sun of hea- ven's love, In last- ing ra- diance from a- bove, _ And pour the Ho- ly Spir- it's ray On all we think or do to- day.
+w: 3.~And now to thee our prayers a- scend, O Fa- ther, glor- ious with- out end; _ We plead with sover- eign grace for pow'r To con- quer in temp- ta- tion's hour.
+w: 4.~Con- firm our will to do the right, And keep our hearts from en- vy's blight; _ Let faith her ea- ger fires re- new, And hate the false, and love the true.
+w: 5.~O joy- ful be the pass- ing day With thoughts as pure as morn- ing's ray, _ With faith like noon- tide shin- ing bright, Our souls un- sha- dowed by the night.
+w: 6.~Dawn's glo- ry gilds the earth and skies, Let him, our per- fect Morn, a- rise, _ The work in God the Fa- ther one, The Fa- ther i- maged in the Son.
+[V:A] D D F E | E C C B, | B, B, B, A, | C D C C- | C F D F | F G G F | F F F E | F D G F | F4 |]
+[V:T] B, F, B, B, | C A, F, F, | F, G, F, F, | F, B, G, A,- | A, B, B, A, | B, B, B, B, | A, B, B, B, | A, B, C C | D4 |]
+[V:B] B,, B,, D, E, | C, F,, A,, B,, | B,, G,, B,, F,, | A,, B,, C, F,- | F, D, G, F, | B,, E, C, D, | F, B,, D, E, | F, G, E, F, | B,,4 |]

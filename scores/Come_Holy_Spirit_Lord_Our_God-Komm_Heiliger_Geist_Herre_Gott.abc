@@ -1,0 +1,58 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] d2 e d | (B d) A2 | (B G B) ^c | d2 z d | e2 (d B) | (d A) (G c) |
+w: 1.~Come, Ho- ly Spi- * rit, Lord * * our God, And pour Thy * gifts * of * 
+w: 2.~O, ho- liest Light! _ O Rock _ _ a- dored! Give us Thy _ light, _ Thy _
+w: 3.~O ho- liest Fire! _ O Source _ _ of rest! Grant that with _ joy _ and _
+[V: S1V2]  G2 G G | (G F) F2 | G3 G | F2 G2 | G2 G2 | F2 G2 |
+[V: S2V1]  B,2 C B, | D2 D2 | (D B, D) E | A,2 B,2 | C2 (B, D) | (D3/2 C/ B,) E |
+[V: S2V2]  G,2 C, G, | (G, D,) D,2 | G,3 E, | D,2 G,2 | C,2 G,2 | D,2 E,3/2 F,/ |
+[V: S1V1]  (B A G/E/) F | G2 z G | (A3/2 B/) c2 | (B3/2 ^c/) d2 | (A F) (G E) |
+w: grace * * * a- broad; Thy faith- * ful peo- * ple fill * with * 
+w: liv- _ _ _ ing Word, To God _ Him- self _ our spir- _ its _
+w: hope _ _ _ pos- sest, And in _ Thy ser- _ vice kept _ for- _
+[V: S1V2]  (G F B,) D | D2 G2 | (G F) G2 | G2 (F E/D/) | (E D2) ^C |
+[V: S2V1]  (D3/2 C/ B,/G,/) A, | B,2 B,2 | D2 E2 | (D E) A,2 | (A,2 B,) A, |
+[V: S2V2]  (G, D, E,) D, | G,,2 G,2 | D,2 C,/D,/E,/F,/ | (G, E,) (D, ^C,/B,,/) | (^C, D,) (G,, A,,) |
+[V: S1V1]  D D z D | G2 A2 | (B d2) c | (B G A2) | B4 |
+w: bles- sing, Love's fire their hearts * po- ssess- * * ing. 
+w: lead- ing, With Him as child- _ ren plead- _ _ ing.
+w: ev- er, Naught us from Thee _ may se- _ _ ver.
+[V: S1V2]  D D D2 | (B, C2) D | D3 E | D4 | D4 |
+[V: S2V1]  F, F, F,2 | E,3 F, | (G, B,2) A,/G,/ | (G,3 F,) | G,4 |
+[V: S2V2]  D, D, D,2 | (E,/D,/C,/B,,/ A,,) D, | G,,3 C, | (G, B,, D,2) | G,,4 |
+[V: S1V1]  d2 e d | (B d) A2 | (B G B) ^c | d2 z d | e2 (d B) | (d A) (G c) |
+w: O Lord, Thou by * Thy heav'n- * * ly Light Dost ga- ther * and * in * 
+w: From er- ror, Lord, _ our souls _ _ de- fend, That they on _ Christ _ a- _
+w: Lord, may Thy pow'r _ pre- pare _ _ each heart; To our weak _ na- _ ture _
+[V: S1V2]  G2 G G | (G F) F2 | G3 G | F2 G2 | G2 G2 | F2 G2 |
+[V: S2V1]  B,2 C B, | D2 D2 | (D B, D) E | A,2 B,2 | C2 (B, D) | (D3/2 C/ B,) E |
+[V: S2V2]  G,2 C, G, | (G, D,) D,2 | G,3 E, | D,2 G,2 | C,2 G,2 | D,2 E,3/2 F,/ |
+[V: S1V1]  (B A G/E/) F | G2 z G | (A3/2 B/) c2 | (B3/2 ^c/) d2 | (A F) (G E) |
+w: faith * * * u- nite Through all * the world * a ho- * ly * 
+w: lone _ _ _ at- tend; In Him _ with faith _ un- feigned _ a- _
+w: strength _ _ _ im- part, On- ward _ to press, _ our foes _ de- _
+[V: S1V2]  (G F B,) D | D2 G2 | (G F) G2 | G2 (F E/D/) | (E D2) ^C |
+[V: S2V1]  (D3/2 C/ B,/G,/) A, | B,2 B,2 | D2 E2 | (D E) A,2 | (A,2 B,) A, |
+[V: S2V2]  (G, D, E,) D, | G,,2 G,2 | D,2 C,/D,/E,/F,/ | (G, E,) (D, ^C,/B,,/) | (^C, D,) (G,, A,,) |
+[V: S1V1]  D D z D | G2 A2 | (B d2) c | B2 A2 | (E F) G2 |
+w: na- tion To sing to Thee * with ex- ul- ta- * tion, 
+w: bid- ing, In Him with all _ their might con- fid- _ ing.
+w: fy- ing, To Thee, through liv- _ ing and through dy- _ ing.
+[V: S1V2]  D D D2 | (B, C2) D | D3 E | (D G) (E C) | C2 B,2 |
+[V: S2V1]  F, F, F,2 | E,3 F, | (G, B,2) A,/G,/ | (G, D) (C A,) | (G, A,) B,2 |
+[V: S2V2]  D, D, D,2 | (E,/D,/C,/B,,/ A,,) D, | G,,3 C, | G,,2 (A,,3/2 B,,/) | (C, A,,) G,,2 |
+[V: S1V1]  z2 A2 | (B A) (G3/4F// E) | D2 A2 | (B A) (G/E/ F) | G4 |]
+w: Hal- le- * lu- * * jah! Hal- le- * lu- * * jah! 
+w: Hal- le- _ lu- _ _ jah! Hal- le- _ lu- _ _ jah!
+w: Hal- le- _ lu- _ _ jah! Hal- le- _ lu- _ _ jah!
+[V: S1V2]  x2 D2 | (D F) (D ^C) | D2 F2 | (G F/E/) (D/E/ D) | D4 |]
+[V: S2V1]  z2 F,2 | (B, D/C/B,/A,/) G, | F,2 D2 | (D C) (B, A,) | B,4 |]
+[V: S2V2]  x2 D,2 | (A, D,) (G,, A,,) | D,2 D,2 | (G,, A,,) (B,,/C,/ D,) | G,,4 |]

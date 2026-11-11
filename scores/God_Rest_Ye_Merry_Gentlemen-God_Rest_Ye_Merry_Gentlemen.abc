@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=160] E | E B B A | G F E D | E F G A | B3
+w: 1.~God rest ye mer- ry, gen- tle- men, let no- thing you dis- may, 
+w: 2.~In Beth- le- hem, in Is- ra- el, this bless- èd Babe was born,
+w: 3.~From God o- ur heav'n- ly Fa- ther a bless- èd an- gel came;
+w: 4.~"Fear not, then," said the an- _ gel, "Let no- thing you a- fright
+w: 5.~The shep- herds at those ti- _ dings re- jo- iced much in mind,
+[V: S1V2]  E | E G F ^D | E =D C B, | E ^D E E | ^D3
+[V: S2V1]  E, | G, E, F, B, | B, B, G, G, | G, B, B, E, | F,3
+[V: S2V2]  E, | E, E, ^D, B,, | E, B,, C, G,, | C, B,, E, C, | B,,3
+[V: S1V1]  E | E B B A | (G F) E D | E F G A | B2 z
+w: Re- mem- ber Christ our Sa- * vior was born on Christ- mas Day; 
+w: And laid with- in a man- _ ger up- on this bless- èd morn;
+w: And un- to cer- tain shep- _ herds brought ti- dings of the same;
+w: This day is born a Sa- _ vior of a pure Vir- gin bright,
+w: And left their flocks a- feed- _ ing in tem- pest, storm and wind,
+[V: S1V2]  E | E G F ^D | (E =D) C B, | E ^D E E | ^D2 x
+[V: S2V1]  E, | G, E, F, B, | (B, B,) G, G, | G, B, B, E, | F,2 z
+[V: S2V2]  E, | E, E, ^D, B,, | (E, B,,) C, G,, | C, B,, E, C, | B,,2 x
+[V: S1V1]  B | c A B c | d e B A | G E F G | A2
+w: To save us all from Sa- tan's pow'r when we were gone a- stray. 
+w: The which His mo- ther Ma- _ ry did no- thing take in scorn.
+w: How that in Beth- le- hem was born the Son of God by name.
+w: To free all those who trust in Him from Sa- tan's pow'r and might."
+w: And went to Beth- l'em straight- aw- ay this bless- èd Babe to find.
+[V: S1V2]  E | E D D G | =F E D ^D | E ^C D G | F2
+[V: S2V1]  ^G, | A, A, G, G, | G, G, G, F, | G, G, A, D | (D C)
+[V: S2V2]  E, | A, F, G, E, | B,, C, G,, B,, | E, E, D, B,, | D,2
+[V: S1V1]  (G A) | B2 c B | (B A) G F | E2 G/F/ E | A2 (G A) | (B c) d e | (B A) G F | E3 |]
+w: O * ti- dings of com- * fort and joy, com- fort and joy; O * ti- * dings of com- * fort and joy. 
+w: O _ ti- dings of com- _ fort and joy, com- fort and joy; O _ ti- _ dings of com- _ fort and joy.
+w: O _ ti- dings of com- _ fort and joy, com- fort and joy; O _ ti- _ dings of com- _ fort and joy.
+w: O _ ti- dings of com- _ fort and joy, com- fort and joy; O _ ti- _ dings of com- _ fort and joy.
+w: O _ ti- dings of com- _ fort and joy, com- fort and joy; O _ ti- _ dings of com- _ fort and joy.
+[V: S1V2]  (G D) | D2 E D | (G F) E ^D | E2 B,/B,/ ^C | D2 (E F) | G2 G G | (G F) E ^D | E3 |]
+[V: S2V1]  (B, A,) | G,2 G, G, | (D C) B, B, | G,2 G,/G,/ G, | (F, A,) (D C) | (B, G,) D C | (D C) B, B, | G,3 |]
+[V: S2V2]  (E, F,) | G,2 C, G, | (G,, A,,) B,, B,, | E,2 E,/E,/ E, | (D, C,) (B,, A,,) | (G,, E,) B,, C, | (G,, A,,) B,, B,, | E,3 |]

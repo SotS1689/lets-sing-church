@@ -1,0 +1,23 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1]  [Q:1/4=120] E2 | G E D E G F | E2 G2 | A A B G A A | B2
+w: 1.~Lord, keep us stead- fast in Thy Word; Curb those who fain by craft and sword 
+w: 2.~Lord Je- sus Christ, Thy pow'r make known, For Thou art Lord of lords a- lone; 
+w: 3.~O Com- fort- er of price- less worth, Send peace and u- ni- ty on earth. 
+[V: S1V2]  B,2 | B, A, B, C E ^D | B,2 E2 | E F G E E F | G2
+[V: S2V1]  G,2 | E, E, F, A, B, B, | G,2 C2 | C D D C C D | D2
+[V: S2V2]  E,2 | E, C, B,, A,, G,,/A,,/ B,, | E,,2 C,2 | A,, D, G,, C, A,, D, | G,,2
+[V: S1V1]  B2 | c B d B A A | G2 B2 | G A G F E ^D | E2 |]
+w: Would wrest the king- dom from Thy Son And set at naught all He hath done. 
+w: De- fend Thy Christ- en- dom that we May ev- er- more sing praise to Thee. 
+w: Sup- port us in our fi- nal strife And lead us out of death to life. 
+[V: S1V2]  D2 | E D F G E F | D2 D2 | E E D D B, B, | B,2 |]
+[V: S2V1]  G,2 | G, G, A, G, C A, | B,2 G,2 | G, C B, A, G, F, | G,2 |]
+[V: S2V2]  G,,2 | C, G,, D, E, C, D, | G,,2 G,,2 | C, A,, B,, D, E, B,, | E,,2 |]

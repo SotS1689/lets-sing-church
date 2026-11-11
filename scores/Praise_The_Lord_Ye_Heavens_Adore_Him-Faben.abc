@@ -1,0 +1,17 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] F/ F/ | F3/2 d/ c/ d/ | B F F/ F/ | E3/2 G/ F/ E/ | (E D) E/ E/ | F3/2 d/ c/ d/ | B F B/ B/ | A3/2 G/ F/ =E/ | F2 F/ F/ | G3/2 G/ A/ A/ | B B G/ G/ | G3/2 B/ A/ G/ | (G _G) F/ F/ | F3/2 d/ c/ d/ | B F _G/ G/ | G/ c/ B A | B3 |]
+w: 1.~Praise the Lord, ye heav'ns, a- dore Him; Praise Him, an- gels in the height. _ Sun and moon, re- joice be- fore Him; Praise Him, all ye stars of light. Praise the Lord, for He hath spo- ken; Worlds His might- y voice o- beyed. _ Laws which ne- ver shall be bro- ken For their gui- dance He hath made.
+w: 2.~Praise the Lord, for He is glor- ious; Ne- ver shall His pro- mise fail. _ God hath made His saints vic- tor- ious; Sin and death shall not pre- vail. Praise the God of our sal- va- tion; Hosts on high, His pow'r pro- claim. _ Heav'n and earth and all cre- a- tion, Laud and mag- ni- fy His name.
+w: 3.~Wor- ship, hon- or, glo- ry, bless- ing, Lord, we of- fer un- to Thee. _ Young and old, Thy praise ex- press- ing, In glad hom- age bend the knee. All the saints in Heav'n a- dore Thee; We would bow be- fore Thy throne. _ As Thine an- gels serve be- fore Thee, So on earth Thy will be done.
+[V:A] D/ D/ | D3/2 F/ E/ E/ | D D B,/ B,/ | C3/2 E/ D/ C/ | C B, A,/ C/ | B,3/2 F/ E/ E/ | D D D/ G/ | F3/2 C/ C/ B,/ | A,2 C/ C/ | D3/2 D/ E/ E/ | D D D/ D/ | _D3/2 D/ D/ D/ | D2 E/ E/ | D3/2 F/ E/ D/ | D D C/ C/ | B,/ E/ D C | D3 |]
+[V:T] B,/ B,/ | B,3/2 F,/ G,/ A,/ | B, B, B,/ B,/ | B,3/4 F,1/4 A,/ F,/ G,/ A,/ | A, B, F,/ F,/ | F,3/2 F,/ G,/ A,/ | B, B, B,/ D/ | C3/2 B,/ A,/ G,/ | F,2 A,/ A,/ | B,3/2 B,/ C/ C/ | B, B, B,/ B,/ | B,3/2 G,/ A,/ B,/ | B, A, A,/ A,/ | B,3/2 B,/ A,/ A,/ | G, B, A,/ A,/ | G,/ G,/ F, F, | F,3 |]
+[V:B] B,,/ B,,/ | B,,3/2 B,,/ B,,/ B,,/ | B,, B,, D,/ D,/ | F,3/2 F,/ F,/ F,/ | B,,2 C,/ C,/ | D,3/2 B,,/ B,,/ B,,/ | B,, B,, G,,/ G,,/ | C,3/2 C,/ C,/ C,/ | F,,2 F,/ F,/ | F,3/2 F,/ F,/ F,/ | G, G, G,/ G,/ | E,3/2 E,/ E,/ E,/ | D,2 F,/ F,/ | B,,3/2 B,,/ F,/ _G,/ | G, D, D,/ D,/ | E,/ C,/ F, F,, | B,,3 |]

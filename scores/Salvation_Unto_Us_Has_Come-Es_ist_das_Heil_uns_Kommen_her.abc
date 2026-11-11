@@ -1,0 +1,65 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100] B/ | B B B _d | c B A3/2 B/ | G E G A | (B c) B3/2
+w: 1.~Sal- va- tion un- to us has come By God's free grace and fa- * vor; 
+w: 2.~What God did in His law de- mand And none to Him could ren- * der 
+w: 3.~It was a false, mis- lead- ing dream That God His Law had gi- * ven 
+w: 4.~From sin our flesh could not ab- stain Sin held its sway un- cea- * sing; 
+w: 5.~Yet as the Law must be ful- filled Or we must die des- pai- _ ring,
+w: 6.~Since Christ hath full a- tone- ment made And brought to us sal- va- _ tion,
+w: 7.~Let me not doubt, but trust in Thee, Thy Word can- not be bro- _ ken;
+w: 8.~The Law re- veals the guilt of sin And makes men con- science\-- strick- _ en;
+w: 9.~Faith clings to Je- sus' cross a- lone And rests in Him un- ceas- _ ing;
+w: 10.~All bless- ing, hon- or, thanks, and praise To Fa- ther, Son, and Spi- _ rit,
+[V: S1V2]  E/ | E F E _D | E E C3/2 E/ | B, C E E | (D C) D3/2
+[V: S2V1]  G,/ | G, B, G, F, | A, G, A,3/2 G,/ | B, A, B, C | (F,/ B, =A,/) B,3/2
+[V: S2V2]  E,/ | E, D, E, B,, | A,, E, A,,3/2 E,/ | E, A,, E, C, | (B,, F,) B,,3/2
+[V: S1V1]  B/ | B B B _d | c B A3/2 B/ | G E G A | (B c) B3/2
+w: Good works can- not a- vert our doom, They help and save us ne- * ver. 
+w: Caused wrath and woe on ev- ery hand For man, the vile of- fend- * er. 
+w: So sin- ners could them- selves re- deem And by their works gain Hea- * ven. 
+w: The task was use- less and in vain, Our guilt was e'er in- crea- * sing. 
+w: Christ came and hath God's an- ger stilled, Our hu- man na- ture shar- _ ing.
+w: Each Christ- ian there- fore may be glad And build on this foun- da- _ tion.
+w: Thy call rings out, "Come un- to Me!" No false- hood hast Thou spo- _ ken.
+w: The Gos- pel then doth en- ter in The sin- ful soul to quick- _ en.
+w: And by its fruits true faith is known, With love and hope in- crea- _ sing.
+w: The God that saved us by His grace,\- All glo- ry to His mer- _ it!
+[V: S1V2]  E/ | E F E _D | E E C3/2 E/ | B, C E E | (D C) D3/2
+[V: S2V1]  G,/ | G, B, G, F, | A, G, A,3/2 G,/ | B, A, B, C | (F,/ B, =A,/) B,3/2
+[V: S2V2]  E,/ | E, D, E, B,, | A,, E, A,,3/2 E,/ | E, A,, E, C, | (B,, F,) B,,3/2
+[V: S1V1]  B/ | e3/2 _d/ c B | e c B3/2 B/ | e3/2 B/ B E |
+w: Faith looks to Je- sus Christ a- lone, Who did for all the 
+w: Our flesh has not those pure de- sires The spi- rit of the 
+w: The Law is but a mir- ror bright To bring the in- bred 
+w: None can re- move sin's pois- oned dart Or pur- if- y our 
+w: He hath for us the Law o- beyed And thus the Fa- ther's
+w: Thy grace a- lone, dear Lord, I plead, Thy death is now my
+w: Bap- tized in- to Thy pre- cious name, My faith can- not be
+w: Come to the cross, trust Christ, and live; The Law no peace can
+w: Yet faith a- lone doth jus- ti- fy, Works serve thy neigh- bor
+w: O Tri- une God in heaven a- bove, Who hast re- vealed Thy
+[V: S1V2]  E/ | E3/2 F/ E E | E E E3/2 F/ | E3/2 E/ _D C |
+[V: S2V1]  G,/ | G, A, A, G, | A, A, G,3/2 B,/ | G,3/2 G,/ F, A, |
+[V: S2V2]  E,/ | C,3/2 _D,/ A,, E, | C, A,, E,3/2 D,/ | C,3/2 E,/ B,, A,, |
+[V: S1V1]  G B G3/2 E/ | F A G F | (E F) !fermata!E3/2 |]
+w: world a- tone; He is our one Re- deem- * er. 
+w: Law re- quires, And lost is our con- di- * tion. 
+w: sin to light That lurks with- in our na- * ture. 
+w: guile- ful heart? So deep is our cor- ru- * ption. 
+w: ven- geance stayed Which o- ver us im- pen- _ ded.
+w: life in- deed, For Thou hast paid my ran- _ som.
+w: put to shame, And I shall ne- ver per- _ ish.
+w: ev- er give, No com- fort and no bless- _ ing.
+w: and sup- ply The proof that faith is liv- _ ing.
+w: sa- ving love, Thy bless- ed name be hal- _ lowed.
+[V: S1V2]  E B, E3/2 C/ | _D E E C | (B, D) !fermata!E3/2 |]
+[V: S2V1]  B, F, B,3/2 A,/ | A, A, B, A, | (G, F,) !invertedfermata!G,3/2 |]
+[V: S2V2]  E, D, E,3/2 A,,/ | _D, C, E, A,, | B,,2 !fermata!E,,3/2 |]

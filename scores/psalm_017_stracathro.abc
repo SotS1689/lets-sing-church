@@ -1,0 +1,28 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] D | F2 E | D2 E | (F d) c | B2 d | (A G) D | F2 E | D2 F | F2 E | F A | (B e) d | c2 c | (d A) B | F2 E | D2 |]
+w: 1.~Lord, hear the right, at- tend _ my cry, un- to _ my pray'r give heed, That doth not in hy- po- _ cri- sy from feign- _ èd lips pro- ceed.
+w: 2.~And from be- fore thy pre- _ sence forth my sen- _ tence do thou send: To- ward these things that e- _ qual are do thou _ thine eyes in- tend.
+w: 3.~Thou prov'dst mine heart, thou vi- _ sit'dst me by night, _ thou didst me try, Yet no- thing found'st; for that _ my mouth shall not _ sin, pur- pos'd I.
+w: 4.~As for men's works, I, by _ the word that from _ thy lips doth flow, Did me pre- serve out of _ the paths where- in _ des- tro- yers go.
+w: 5.~Hold up my go- ings, Lord, _ me guide in those _ thy paths di- vine, So that my foot- steps may _ not slide out of _ those ways of thine.
+w: 6.~I call- èd have on thee, _ O God, be- cause _ thou wilt me hear: That thou may'st hear- ken to _ my speech, to me _ in- cline thine ear.
+w: 7.~Thy won- drous lo- ving\-- kind- _ ness show, thou that, _ by thy right hand, Sav'st them that trust in thee _ from those that up _ a- gainst them stand.
+w: 8.~As th'apple o- f the eye _ me keep; in thy _ wings shade me close From lewd op- pres- sors, com- _ pas- sing me round, _ as dead- ly foes.
+w: 9.~In their own fat they are _ in- clos'd; their mouth _ speaks lof- ti- ly. Our steps they com- pass'd; and _ to ground down bow- _ ing set their eye.
+w: 10.~He like un- to a li- _ on is that's greed- _ y of his prey, Or li- on young, which lur- _ king doth in sec- _ ret pla- ces stay.
+w: 11.~A- rise, and di- sap- point _ my foe, and cast _ him down, O Lord: My soul save from the wi- _ cked man, the man _ which is thy sword.
+w: 12.~From men, which are thy hand, _ O Lord, from world- _ ly men me save, Which on- ly in this pre- _ sent life their part _ and por- tion have.
+w: 13.~Whose bel- ly with thy trea- _ sure hid thou fill'st: _ they child- ren have In plen- ty; of their goods _ the rest they to _ their child- ren leave.
+w: 14.~But as for me, I thine _ own face in right- _ eous- ness will see; And with thy like- ness, when _ I wake, I sa- _ tis- fy'd shall be.
+[V:A] A, | D2 C | B,2 A, | (A, F) E | D2 D | (E E) D | D2 C | D2 D | (D C) B, | F D | (D G) F | E2 E | (D F) E | D2 C | D2 |]
+[V:T] F, | A,2 (A,/ G,/) | F,2 A, | (F,3/2 ^G,/) ^A, | B,2 F, | (E, A,) B, | A,3/2 B,/ G, | F,2 A, | A,2 B, | A,2 A, | E, (A,/ B,/) | C2 A, | (A, D) B, | A,2 (A,/ G,/) | F,2 |]
+[V:B] D, | D,2 A,, | B,,2 C, | (D,3/2 E,/) F, | B,,2 B,, | (C, D,) B,, | F,,3/2 G,,/ A,, | D,2 D, | (D, A,) G, | (F, D,) F, | E, (F,/ G,/) | A,2 (A,/ G,/) | (F, D,) G, | A,2 A,, | D,2 |]

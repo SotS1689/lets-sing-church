@@ -1,0 +1,43 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=100] E | E C  E A3/4 B/4 | c2 A A | G G3/4 G/4 A B | A3
+w: 1.~I stand a- mazed in the pres- ence Of Je- sus the Naz- a- rene, 
+w: 2.~For me it was in the gar- den He pray'd "Not my will, but Thine;"
+w: 3.~In pi- ty an- gels be- held Him, And came from the world of light
+w: 4.~When with the ran- somed in glo- ry His face I at last shall see,
+[V: S1V2] C | C A, C C3/4 D/4 | E2 C E | E E3/4 E/4 E E | E3
+[V: S2V1] A,  | A,  E,  A,  A,3/4  A,/4  | A,2  A,  A, | B, B,3/4 B,/4 C  D  | C3
+[V: S2V2] A,, | A,, A,, A,, A,,3/4 A,,/4 | A,,2 A,, C, | E, E,3/4 E,/4 E, E, | A,,3
+[V: S1V1] E | F F  A G3/4 F/4 | E2 A B | c c3/4 c/4 B B | A3 z |
+w: And won- der how He could love me, A sin- ner, con- demn'd, un- clean. 
+w: He had no tears for His own griefs, But sweat drops of blood for mine.
+w: To com- fort Him in the sor- rows, He bore for my soul that night.
+w: 'Twill be my joy thro' the a- ges, To sing of His love for me.
+[V: S1V2] C | D D  F E3/4 D/4 | C2 E F | E E3/4 E/4 D D | C3 z |
+[V: S2V1] A,  | A, A, A, A,3/4 A,/4 | A,2  A, A, | A, A,3/4 A,/4 G, G, | A,3  z |
+[V: S2V2] A,, | D, D, D, D,3/4 D,/4 | A,,2 C, D, | E, E,3/4 E,/4 E, E, | A,,3 z |
+[V: S1V1]  c2  c3/4 B/4 A | e2  e3/4 d/4 c | B B B3/2 c/ | d c B2 |
+w: How mar- vel- ous! how won- der- ful! And my song shall ev- er be: 
+w: How mar- vel- ous! how won- der- ful! And my song shall ev- er be:
+w: How mar- vel- ous! how won- der- ful! And my song shall ev- er be:
+w: How mar- vel- ous! how won- der- ful! And my song shall ev- er be:
+[V: S1V2]  E E E3/4 D/4 C | E E E3/4 E/4 E | E E E3/2 E/ | E E E2 |
+[V: S2V1]  A,  A,  A,3/4  A,/4  A,  | C  C  C3/4  B,/4 A, | G, G, G,3/2 A,/ | B, A, G,2 |
+[V: S2V2]  A,, A,, A,,3/4 A,,/4 A,, | A, A, A,3/4 A,/4 A, | E, E, E,3/2 E,/ | E, E, E,2 |
+w: O how mar- vel- ous! O how won- der- ful! And my song shall ev- er be: 
+[V: S1V1]  c2  c3/4 B/4 A | e2  e3/4 d/4 c | B c/d/ c3/2 B/ | A G !fermata!A |]
+w: How mar- vel- ous! how won- der- ful! Is my * Sav- ior's love for me! 
+w: How mar- vel- ous! how won- der- ful! Is my _ Sa- vior's love for me!
+w: How mar- vel- ous! how won- der- ful! Is my _ Sa- vior's love for me!
+w: How mar- vel- ous! how won- der- ful! Is my _ Sa- vior's love for me!
+[V: S1V2]  E E E3/4 D/4 C | E E E3/4 E/4 E | F F    E3/2 E/ | E D !fermata!C |]
+[V: S2V1]  A,  A,  A,3/4  A,/4  A,  | C  C  C3/4  B,/4 A, | A, A, A,3/2 D/  | C  B, !invertedfermata!A,  |]
+[V: S2V2]  A,, A,, A,,3/4 A,,/4 A,, | A, A, A,3/4 A,/4 A, | D, D, E,3/2 E,/ | E, E, !fermata!A,, |]
+w: O how mar- vel- ous! O how won- der- ful! Is my Sav- ior's love for me! 

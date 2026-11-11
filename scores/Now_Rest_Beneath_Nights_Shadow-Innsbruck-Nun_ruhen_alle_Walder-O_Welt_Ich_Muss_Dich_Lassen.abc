@@ -1,0 +1,39 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1]  [Q:1/4=84] B | G A B/c/ d | c2 !fermata!B B/c/ | d d A B | G2 !fermata!F
+w: 1.~Now rest be- neath * night's sha- dow The * wood- land, field, and mea- dow, 
+w: 2.~The ra- diant sun * hath van- ished, His * gol- den rays are ban- ished 
+w: 3.~The rule of day * is ov- er And * shin- ing jew- els co- ver 
+w: 4.~To rest my bod- * y hast- eth, A- * side its gar- ments cast- eth, 
+w: 5.~Lord Je- sus, who * dost love me, Oh, * spread Thy wings a- bove me 
+w: 6.~My loved ones, rest _ se- cure- ly, For _ God this night will sure- ly
+[V: S1V2]   G | E F G/A/ B | (B A) !fermata!G G | G/F/ G/E/ F/E/ D | (D ^C) !fermata!D
+[V: S2V1]   D | C C D/C/ B,/A,/ | (G, D) !invertedfermata!D E | D D D F, | (G,/F,/ G,) !invertedfermata!A,
+[V: S2V2]   G, | C/B,/ A, G,3/2 F,/ | (E, F,) !fermata!G, E, | B,,/A,,/ B,,/C,/ D,/C,/ B,, | E,2 !fermata!D,
+[V: S1V1]  D | G A B B | !fermata!A3 B | G A B/c/ d | c2 !fermata!B
+w: The world in slum- ber lies; But Thou, my heart, * a- wake thee, 
+w: By night, the foe of day; But Christ, the Sun * of glad- ness, 
+w: The heav- en's bound- less blue. Thus I shall shine * in hea- ven, 
+w: Types of mort- al- it- y; These I put off * and pon- der 
+w: And shield me from al- arm! Though e- vil would * as- sail me, 
+w: From per- il guard your heads. Sweet slum- bers may _ He send you
+[V: S1V2]  A, | D C B,/C/ D | !fermata!D3 F | E D D E | E/D/E/F/ !fermata!^G
+[V: S2V1]  F,/E,/ | D, E,/F,/ G, G, | !invertedfermata!F,3 B, | B,/C/ B,/A,/ G,/A,/ B, | A,/B,/C/D/ !invertedfermata!E
+[V: S2V2]  C, | B,, A,, G,,/A,,/ B,,/C,/ | !fermata!D,3 ^D, | E, F, G, ^G, | (A, A,,) !fermata!E,
+[V: S1V1]  B/c/ | d y d A y B | G2 !fermata!F =D | G A B c | B A !fermata!G |]
+w: To * prayer and song be- take thee; Let praise to thy Cre- a- tor rise. 
+w: Dis- * pel- ling all my sad- ness, With- in my heart holds con- stant sway. 
+w: Where * crowns of gold are giv- en To all who faith- ful prove and true. 
+w: How * Christ will give me yon- der A robe of glor- ious ma- jest- y. 
+w: Thy * mer- cy will not fail me: I rest in Thy pro- tect- ing arm. 
+w: And _ bid His hosts at- tend you And through the night watch o'er your beds.
+[V: S1V2]  =G | A G/F/ E F | (F E) !fermata!^D =D | D/E/ D/C/ B,/D/ E/F/ | G F !fermata!D |]
+[V: S2V1]  E | D/C/ B, ^C F, | B,2 !invertedfermata!B, B, | B,/C/ B,/A,/ G, G, | E A,/B,//C// !invertedfermata!B, |]
+[V: S2V2]  E, | F, G, G,/F,/ E,/^D,/ | E,/F,/G,/A,/ !fermata!B, B,, | E, F, G,/F,/ E,/D,/ | C, D, !fermata!G,, |]

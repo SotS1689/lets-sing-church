@@ -1,0 +1,31 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=100] C | F G A B/A/ | G F/E/ C C | F G A B | c3
+w: 1.~The winds and bil- lows * loud- ly * roar We flound- er in the deep 
+w: 2.~"Save us, we per- ish, * Lord," they * cry; To Thee we fly for aid; 
+w: 3.~His head is pil- low'd * on the * stern, As Man He is a- sleep; 
+w: 4.~He does the el- e- * ments con- * trol; By His Al- might- y Will. 
+w: 5.~O ye, who in the * Church- 's * Bark O'er life's rough o- cean sail, 
+w: 6.~Touch not, with rude, ir- _ re- verent _ hands, And co- ward faith- les- sness,
+w: 7.~O ne- ver, ne- ver _ when dis- _ tressed, To doubt- ful means re- sort;
+[V: S1V2]  C | C C C D | E C A, C | B, E C E | E3
+[V: S2V1]  C, | C B, A, F, | E, G, A, G, | F, C A, G, | A,3
+[V: S2V2]  C, | A, G, F, B,, | C, C, F, E, | D, C, F, E, | A,,3
+[V: S1V1]  A/B/ | c d/c/ B A | G F/E/ C C | F G A/F/ G | F3 |]
+w: Our * bark is * frail, far off the * shore, And Je- sus is * a- sleep. 
+w: "A- * wake! a- * wake!" they say; but * why So faith- less and * a- fraid?  
+w: As * God He * all things does dis- * cern, And end- less vig- * ils keep. 
+w: The * an- gry * waves their sur- ges * roll; And at His Word * are still. 
+w: When * all a- * round is drear and * dark, and hu- man ef- * forts fail, 
+w: Him, _ who the _ winds and waves com- _ mands; But wait in qu- _ iet- ness.
+w: Christ's _ Bark, when _ on the bil- low's _ crest, Is safe as in _ the port.
+[V: S1V2]  E | E D F D | B, C C C | C E C C | A,3 |]
+[V: S2V1]  A, | A, F, F, F, | E,/F,/ G, A, A,/B,/ | C B, A, E, | F,3 |]
+[V: S2V2]  C,/B,,/ | A,, B,,/C,/ D, B,, | E, C, F, F,/G,/ | A, E, A,, C, | F,,3 |]

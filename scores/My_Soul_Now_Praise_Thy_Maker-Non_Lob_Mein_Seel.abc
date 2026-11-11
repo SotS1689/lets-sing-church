@@ -1,0 +1,57 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=140] E | G2 F | E2 D | (G2 A) | B2 B | B2 B | B2 A | G2 F | !fermata!G2
+w: 1.~My soul, now praise thy ma- * ker! Let all with- in me bless His name 
+w: 2.~He shows to man His trea- * sure Of judg- ment, truth, and right- eous- ness, 
+w: 3.~For as a ten- der fa- _ ther Hath pi- ty on his child- ren here,
+w: 4.~God's grace a- lone en- du- _ reth, And child- ren's child- ren yet shall prove
+[V: S1V2] E | E2 D | C2 B,| (B,2 E) |^D2 E | E2 D | E2 E | (D E) D | !fermata!D2
+[V: S2V1] B, | B,2 B, | G,2 F, | (G,2 E,) | F,2 G, | G,2 F, | G,2 C | B, A,2 | !fermata!B,2
+[V: S2V2] E, | E,2 B,, | C,2 D, | (E,2 C,) B,,2 E, | E,2 B,, | E,2 A,, | (B,, C,) D, | !invertedfermata!G,,2
+[V: S1V1] E | G2 F | E2 D | (G2 A) | B2 B | B2 B | B2 A | G2 F | !fermata!G2
+w: Who mak- eth thee par- ta- * ker Of mer- cies more than thou dar'st claim. 
+w: His love be- yond all mea- * sure, His yearn- ing pi- ty o'er dis- tress, 
+w: He in His arms will ga- _ ther All who are His in child- like fear.
+w: How He with strength as- sur- _ eth The hearts of all that seek His love.
+[V: S1V2] E | E2 D | C2 B,| (B,2 E) |^D2 E | E2 D | E2 E | (D E) D | !fermata!D2
+[V: S2V1] B, | B,2 B, | G,2 F, | (G,2 E,) | F,2 G, | G,2 F, | G,2 C | B, A,2 | !fermata!B,2
+[V: S2V2] E, | E,2 B,, | C,2 D, | (E,2 C,) B,,2 E, | E,2 B,, | E,2 A,, | (B,, C,) D, | !invertedfermata!G,,2
+[V: S1V1] G | G2 B | A2 B | (G F2) | E2 E | A2 A | (F G) E | !fermata!D2
+w: For- get Him not whose meek- * ness Still bears with all * thy sin, 
+w: Nor treats us as we mer- * it, But lays His an- * ger by. 
+w: He knows how frail our pow- _ ers Who but from dust _ are made;
+w: In Heav'n is fixed His dwell- _ ing, His rule is o- _ ver all;
+[V: S1V2] D | E2 G | F2 F | (E2 ^D) | E2 E | E2 E | D2 ^C | !fermata!D2
+[V: S2V1] B, | C2 D | D2 D |  B,3 | ^G,2 G, |  A,2 A, | (A, B,) A, | !fermata!F,2
+[V: S2V2] G, | C,2 G,, | D,2 B,, | (E, B,,2) | E,,2 E, | ^C,2 C, | (D, G,,) A,, | !invertedfermata!D,2
+[V: S1V1] D | G2 G | A2 A | B3 | G2 G | c2 c | B2 B | !fermata!A2
+w: Who heal- eth all thy weak- ness, Re- news thy life with- in. 
+w: The hum- ble, con- trite spir- it Finds His com- pas- sion nigh; 
+w: We flour- ish like the flow- ers, And ev- en so we fade;
+w: An- gels, in might ex- cel- ling, Bright hosts, be- fore Him fall.
+[V: S1V2] D | D2 B, | E2 D | D3 | E2 D | C2 E | E2 E | !fermata!^C2
+[V: S2V1] F, | G,2 G, | G,2 F, | G,3 | G,2 G, | D,2  A, | A,2 ^G, | !fermata!A,2
+[V: S2V2] D, | B,,2 E, | C,2 D, | G,,3 | C,2 B,, | A,,2 A, | E,2 E,, | !invertedfermata!A,,2
+[V: S1V1] A | B2 B | c2 c | d3 | G2 B | A2 D | F E2 | !fermata!D2
+w: Whose grace and care are end- less And saved thee through the past;
+w: And high as Heav'n a- bove us, As break from close of day, 
+w: The wind but o'er them pas- ses, And all their bloom is o'er—
+w: Praise Him who ev- er reign- eth, All ye who hear His Word,
+[V: S1V2] D | D2 D | E2 G | =F3 | E2 G | F2 D | D2 ^C | !fermata!D2
+[V: S2V1] F, | G,2 G, | G,2 C | (B,3/2 A,/ B,) | C2 D | D2 F, | A,2 A, | !fermata!F,2
+[V: S2V2] D, | G,,2 G, | C,2 E, | D,3 | C,2 G,, | D,2 B,, | F,, A,,2 | !invertedfermata!D,2
+[V: S1V1] D | G2 G | F2 E | A3 | A2 B | c2 B | (G B) A | !fermata!G2 |]
+w: Who leaves no suf- f'rer friend- less, But rights the wronged * at last.
+w: So far, since He doth love us, He puts our sins * a- way. 
+w: We with- er like the grass- es, Our place knows us _ no more.
+w: Nor our poor hymns dis- dain- eth— My soul, O praise _ the Lord!
+[V: S1V2] D | B,2 ^C | D2 E | (D2 ^C) D2 D | E2 D | (B, D) D | !fermata!D2 |]
+[V: S2V1] F, | G,2 E, | A,2 A, | (F,2 E,) | F,2 A, | (G, F,) G, | G,2 F, | !fermata!B,2 |]
+[V: S2V2] B,, | E,2 E, | D,2 ^C, | (D,2 A,,) | D,2 G,, | (C, A,,) B,, | (E, B,,) D, | !invertedfermata!G,,2 |]

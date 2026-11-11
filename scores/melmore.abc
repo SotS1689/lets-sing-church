@@ -1,0 +1,34 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=103
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] A2 | A3 A ^G A B A | F6 F2 | G3 F E F G A |
+w: 1.~When Zi- on in her low e- state Was bro't from bon- dage by the
+w: 2.~The Lord in great- ly bless- ing us Be- fore the world His pow'r dis-
+w: 3.~O Lord, re- fresh us by Thy grace, Re- vive and quick- en all our
+w: 4.~The so- wer bear- ing pre- cious seed May weep as in his toil he
+[V:A] F2 | F3 F ^E F G F | D6 D2 | E3 D C D E C |
+[V:T] D2 | D3 D D D D D | A,6 A,2 | A,3 A, A, A, A, A, |
+[V:B] D,2 | D,3 D, D, D, D, D, | D,6 D,2 | A,,3 A,, A,, A,, A,, A,, |
+[V:S] F6 D2 | B3 B B d c B | A6 d2 | F3 B A G E C |
+w: Lord, In ec- sta- sy we sang for joy, By grace and won- drous love re-
+w: plays; Yea, great things God has done for us, And filled our hearts with joy and
+w: pow'rs, As fail- ing streams are made to flow, Re- ple- nished by a- bun- dant
+w: grieves, But he shall come a- gain with joy In har- vest time with gol- den
+[V:A] D6 D2 | G3 G G B A G | F6 F2 | D3 G F E C C |
+[V:T] A,6 D2 | D3 D D D D D | D6 A,2 | A,3 D D A, A, G, |
+[V:B] D,6 D,2 | G,3 G, G, G, G, G, | D,6 D,2 | D,3 G,, A,, A,, A,, A,, |
+[V:S] D6 |]
+w: stored.
+w: praise.
+w: show'rs.
+w: sheaves.
+[V:A] D6 |]
+[V:T] F,6 |]
+[V:B] D,6 |]

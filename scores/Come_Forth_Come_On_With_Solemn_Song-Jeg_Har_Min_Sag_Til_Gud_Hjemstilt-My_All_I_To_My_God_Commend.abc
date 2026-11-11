@@ -1,0 +1,42 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] D | A A F D | d d ^c A | d3/2 c/ B A | 
+w: 1.~Come forth! come on, with sol- emn song! The road is short, the 
+w: 2.~Here in an inn a stran- ger dwelt, Here joy and grief by 
+w: 3.~Now of a las- ting home pos- sest, He goes to seek a 
+w: 4.~Chime on, ye bells! a- gain be- gin, And ring the Sab- bath 
+w: 5.~Now o- pen to us, gates of peace! Here let the pil- grim's 
+w: 6.~How ma- ny graves a- round us lie! How ma- ny homes are
+w: 7.~Je- sus, Thou reig- nest, Lord a- lone, Thou wilt re- turn and
+[V: S1V2]  D | D E D D | D E E ^C | D3/2 E/ F F/E/ | 
+[V: S2V1]  F, | F, E, F, A, | E, G, A, A, | A,3/2 G,/ F,/G,/ A, | 
+[V: S2V2]  D, | F, ^C, D, F, | B,, B,, A,, G, | F,3/2 E,/ D, C, | 
+[V: S1V1] G G A A | c B A G | F3/2 G/ A 
+w: rest is long! The Lord brought here, He calls a- way: 
+w: turns he felt; Poor dwel- ling, now we close thy door! 
+w: dee- per rest Good- night! the day was sul- try here, 
+w: mor- ning in, The la- b'rer's week- day work is done, 
+w: jour- ney cease. Ye qui- et slum- be- rers, make room 
+w: in the sky! Yes, for each saint doth Christ pre- pare
+w: claim Thine own, Come quick- ly, Lord! re- turn a- gain!
+[V: S1V2] D D ^C D | =C D F E | F3/2 C/ C 
+[V: S2V1] B, D, E, F, | F, F, C B, | A,3/2 G,/ F, 
+[V: S2V2] B,, B,, A,, D, | A,, B,, C, C, | D,3/2 E,/ F, 
+[V: S1V1] G | F3/2 G/ A B | A G F G | F2 E2 | D2 z|] 
+w: Make no de- lay, This home was for a pas- sing day.
+w: The task is o'er, The so- jour- ner re- turns no more, 
+w: In toil and fear; Good- night! the night is cool and clear. 
+w: The rest be- gun, Which Christ hath for His peo- ple won! 
+w: In your still home, For the new stran- ger who has come! 
+w: A place with care: Thy home is wait- ing, bro- ther, there!
+w: A- men! A- men! Thine seal us ev- er, now and then!
+[V: S1V2] E | D3/2 D/ E E | F E D D | D2 ^C2 D2 x |] 
+[V: S2V1] B, | A,3/2 D/ ^C ^C | D B, A, G, | A,2 G,2 | F,2 z |] 
+[V: S2V2] ^C, | D,3/2 B,,/ A,, G,, | F,, G,, A,, B,, | A,,2 A,,2 | D,2 x |] 

@@ -1,0 +1,55 @@
+X: 1
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=200] E2 | A A B2 B2 | c B A2 B2 | c c d2 c2 | B4
+w: 1.~O for a thou- sand tongues to sing My great Re- deem- er's praise, 
+w: 2.~My gra- cious Mas- ter and my God, A- ssist me to pro- claim, 
+w: 3.~Je- sus! the name that charms our fears, That bids our sor- rows cease; 
+w: 4.~He breaks the pow'r of can- celed sin, He sets the pri- soner free; 
+w: 5.~He speaks, and, lis- tening to His voice, New life the dead re- ceive, 
+w: 6.~Hear Him, ye deaf; His praise, ye dumb, Your loo- sened tongues em- ploy;
+w: 7.~In Christ your Head, you then shall know, Shall feel your sins for- given;
+w: 8.~Glo- ry to God, and praise and love Be ev- er, ev- er given,
+w: 9.~On this glad day the glor- ious Sun Of Right- eous- ness a- rose;
+w: * * * * * * * * * * * * * *
+w: 11.~Then with my heart I first be- lieved, Be- lieved with faith di- vine,
+w: 12.~I felt my Lord's a- ton- ing blood Close to my soul ap- plied;
+w: 13.~I found and owned His pro- mise true, A- scer- tained of my part,
+w: 14.~Look un- to Him, ye na- tions, own Your God, ye fal- len race;
+w: 15.~See all your sins on Je- sus laid: The Lamb of God was slain,
+w: 16.~A- wake from guil- ty na- ture's sleep, And Christ shall give you light,
+w: 17.~Har- lots and pu- bli- cans and thieves In ho- ly tri- umph join!
+w: * * * * * * * * * * * * * *
+w: 19.~With me, your chief, ye then shall know, Shall feel your sins for- given;
+[V: S1V2]  E2 | E C E2 E2 | E D C2 E2 | E E E2 E2 | E4
+[V: S2V1]  E,2 | E, A, G,2 G,2 | A, G, A,2 G,2 | A, A, B,2 A,2 | G,4
+[V: S2V2]  E,2 | C, A,, E,2 E,2 | A, E, F,2 E,2 | A, A, G,2 A,2 | E,4
+[V: S1V1]  e2 | e c c2 A2 | A F F2 (A F) | E A A2 B2 | A4 |]
+w: The glo- ries of my God and King, The * tri- umphs of His grace! 
+w: To spread through all the earth a- broad The * ho- nors of Thy name. 
+w: 'Tis mu- sic in the sin- ner's ears, 'Tis * life, and health, and peace. 
+w: His blood can make the foul- est clean, His * blood a- vailed for me. 
+w: The mourn- ful, bro- ken hearts re- joice, The * hum- ble poor be- lieve. 
+w: Ye blind, be- hold your Sa- vior come, And _ leap, ye lame, for joy.
+w: An- ti- ci- pate your heaven be- low, And _ own that love is heaven.
+w: By saints be- low and saints a- bove, The _ church in earth and heaven.
+w: On my be- night- ed soul He shone And _ filled it with re- pose.
+w: * * * * * * * * * * * * * * *
+w: Power with the Ho- ly Ghost re- ceived To _ call the Sa- vior mine.
+w: Me, me He loved, the Son of God, For _ me, for me He died!
+w: My par- don passed in heaven I knew When _ writ- ten on my heart.
+w: Look, and be saved through faith a- lone, Be _ jus- ti- fied by grace.
+w: His soul was once an offer- ing made For _ ev- ery soul of man.
+w: Cast all your sins in- to the deep, And _ wash the Æthi- op white.
+w: Saved is the sin- ner that be- lieves From _ crimes as great as mine.
+w: * * * * * * * * * * * * * * *
+w: An- ti- ci- pate your heaven be- low, And _ own that love is heaven.
+[V: S1V2]  G2 | A E E2 E2 | F D D2 (F D) | C C C2 D2 | C4 |]
+[V: S2V1]  B,2 | C A, A,2 A,2 | A, A, A,2 A,2 | A, A, A,2 G,2 | A,4 |]
+[V: S2V2]  E,2 | A, A, A,2 C,2 | D, D, D,2 D,2 | E, E, E,2 E,2 | A,,4 |]

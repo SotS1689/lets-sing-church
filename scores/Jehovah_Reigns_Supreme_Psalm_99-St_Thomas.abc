@@ -1,0 +1,25 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1]  [Q:1/4=140] D | G G B A/G/ | A3 B/c/ | d c/B/ c B | A3
+w: 1.~Je- ho- vah reigns su- _ preme; Let _ na- tions _ trem- ble now;
+w: 2.~The Lord in Zi- on _ reigns O'er _ all the _ earth a- broad;
+w: 3.~The King Al- might- y _ lives Just _ judg- ment _ to main- tain;
+w: 4.~E- xalt ye now the _ Lord, Our _ god is _ prais- es laud,
+[V: S1V2]  B, | D D D D/^C/ | D3 G/F/ | G F/G/ E/F/ G | F3
+[V: S2V1]  G, | G, B, D A, | F,3 D | D D C D | D3
+[V: S2V2]  G,, | B,, G,, G, F,/E,/ | D,3 G,/A,/ | B, A,/G,/ A, G, | D,3
+[V: S1V1]  d | B G A D | G/A/ B/^c/ d3/2 d/ | e d/c/ B A | G3 |]
+w: He dwells be- tween the cher- _ u- _ bim: Let earth be- _ fore Him bow.
+w: Ye na- tions, praise His glor- _ ious _ Name, For ho- ly _ is our God.
+w: He rules His peo- ple righ- _ teou- _ sly And makes His _ jus- tice plain.
+w: And at His foot- stool wor- _ ship _ Him, For ho- ly _ is our God.
+[V: S1V2]  D | D D D D | D G F3/2 G/ | G G G F | D3 |]
+[V: S2V1]  A, | G, G, F, A, | B, G, A,3/2 B,/ | C D/E/ D C | B,3 |]
+[V: S2V2]  F, | G, B,, D, F, | G, E, D,3/2 G,/ | C, B,,/C,/ D, D, | G,,3 |]

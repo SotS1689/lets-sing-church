@@ -1,0 +1,57 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: FC
+[V: S1V1] [Q:1/4=110] A2 | F2 A A2 c | _B2 !fermata!A2 z E | G2 G D2 E | (F2 !fermata!E2) z 
+w: 1.~O Lord, when con- dem- na- tion And guilt op- press my soul, * 
+w: 2.~O won- der pas- sing mea- sure To faith's en- ligh- tened eye! * 
+w: 3.~My sins rise up to hea- ven, And count- less is their lost; * 
+w: 4.~Hence- forth my heart shall bless Thee Whilst here its pul- ses move; * 
+w: 5.~Lord, let Thy bit- ter pas- sion My soul with strength in- spire * 
+w: 6.~Should earth- ly griefs as- sail me, If need be, shame and scorn, _
+w: * * * * * * * * * * * * * * *
+w: 8.~At length when I am bid- den With all things here to part, _
+[V: S1V2]  C2 | _B,2 C C2  E | D2 !fermata!^C2 x =C | D2 E B,2 ^C | (D2 !fermata!^C2) x 
+[V: S2V1]  (E, F,) | D,2 F, A,2 G, | G,2 !fermata!E,2 z A, | G,2 G, G,2 G, | A,2- !fermata!A,2 z 
+[V: S2V2]  A,,2 | _B,,2 F,, F,2 C, | G,,2 !invertedfermata!A,,2 x A,, | B,,2 C, G,2 E, | (D,2 !invertedfermata!A,,2) x 
+[V: S1V1] A | c2 _B A2 F | G2 !fermata!F2 z A | G2 F G2 G | (E2 !fermata!D2) z2 | 
+w: Then let Thy bit- ter pas- sion The ri- sing storm con- trol: * 
+w: For slaves it was the plea- sure Of their own Lord to die! *
+w: But Christ Him- self hath gi- ven, And paid the migh- ty cost: * 
+w: Its songs of praise add- ress Thee For all Thy dy- ing love: * 
+w: To flee with in- dig- na- tion All sin- ful, low de- sire: * 
+w: Let pa- tience ne- ver fail me To bear as Thou hast borne: _
+w: * * * * * * * * * * * * * * *
+w: The wounds in which I'm bid- den Speak peace in- to my heart; _
+[V: S1V2] F | F2 D C2 A, | C2 !fermata!C2 x C | E2 D D2 D | (^C2 !fermata!D2) x2 | 
+[V: S2V1] C | A,2 G, E,2 F,- | F, E, !fermata!A,2  x A, | C2 A, _B,2 G, | (A,2 !fermata!^F,2) z2 | 
+[V: S2V2] F,, | F,,2 G,, A,,2 D, | C,2 !invertedfermata!F,,2 z F, | C,2 D, G,,2 _B,, | (A,,2 !invertedfermata!D,2) x2 | 
+[V: S1V1]  F E F G2 A | F2 G !fermata!A2 z | c B A G2 
+w: Re- mind me that Thy blood was spilt For me, O most 
+w: The migh- ty God stoops from on high For me, lost, ruin- 
+w: Since then on Him my sins were laid, Of hell and all 
+w: Thy wrongs and last deep a- go- ny Shall be my me- 
+w: Ah! ne- ver would I, Lord, for- get The great- ness of 
+w: Grant that the world I may for- sake, And Thee for my
+w: * * * * * * * * * * * * *
+w: Re- ly- ing then up- on Thy blood, O give me full
+[V: S1V2]  A, C C _B,2 C | D2 D !fermata!^C2 x | E E E E2 
+[V: S2V1]  F, G, A, D,2 F, | D,2 D, !fermata!E,2 z | A, B, C B,2 
+[V: S2V2]  D, C, A,, G,,2 F,, | _B,,2 B,, !invertedfermata!A,,2 x | A, ^G, A, E,2 
+[V: S1V1] A | (G2 F) !fermata!E2 A | F2 G A2 A | (E2 !fermata!D2) |] 
+w: un- wor- * thy! To take a- way my guilt. * 
+w: ed cre- * ature, And deigns as man to die. * 
+w: its tor- * ments, I am no more a- fraid. * 
+w: di- ta- * tion Till I am called to Thee. * 
+w: that ran- * som Which paid my end- less debt. *
+w: ex- am- _ ple, Oh! may I dai- ly take. _
+w: * * * * * * * * * * *
+w: a- ssu- _ rance That I shall see my God. _
+[V: S1V2] C | (E2 D) !fermata!^C2 C | D2 _B, D2 ^C | (^C2 !fermata!D2) |] 
+[V: S2V1] A, | (C2 A,) !fermata!A,2 E, | D,2 D, F,2 E, | (E,2 !fermata!^F,2) |] 
+[V: S2V2] F, | (C,2 D,) !invertedfermata!A,,2 A,, | _B,,2 G,, D,2 A,, | (A,,2 !invertedfermata!D,2) |] 

@@ -1,0 +1,55 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=106
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] D2 | F2 G2 A2 A2 | B2 B2 A2 A2 | d2 c2 B2 B2 |
+w: 1.~How love- ly is thy dwel- ling\-- place, O Lord of hosts, to
+w: 2.~My thir- sty soul longs veh’- ment- ly, yea faints, thy courts to
+w: 3.~Be- hold, the spar- row fin- deth out an house where- in to
+w: 4.~Ev’n thine own al- tars, where she safe her young ones forth may
+w: 5.~Blessed are they in thy house that dwell, they ev- er give thee
+w: 6.~Who pass- ing tho- rough Ba- ca’s vale, there- in do dig up
+w: 7.~So they from strength un- wear- ied go still for- ward un- to
+w: 8.~Lord God of hosts, my pra- yer hear; O Ja- cob’s God, give
+w: 9.~For in thy courts one day ex- cels a thou- sand; ra- ther
+w: 10.~For God the Lord’s a sun and shield: he’ll grace and glo- ry
+w: 11.~O thou that art the Lord of hosts, that man is tru- ly
+[V:A] A,2 | D2 D2 C2 D2 | D2 D2 D2 E2 | D2 E2 F2 E2 |
+[V:T] F,2 | A,2 G,2 E,2 F,2 | G,2 G,2 F,2 E,2 | ^G,2 A,2 A,2 ^G,2 |
+[V:B] D,2 | D,2 B,,2 A,,2 D,2 | G,,2 B,,2 D,2 C,2 | B,,2 C,2 D,2 E,2 |
+[V:S] A6 D2 | F2 G2 A2 A2 | B2 B2 A2 D2 | G2 F2 E2 E2 |
+w: me! The ta- ber- nacles o- f thy grace how pleas- ant, Lord, they
+w: see: My ver- y heart and flesh cry out, O liv- ing God, for
+w: rest; The swal- low al- so for her- self hath pur- chas- èd a
+w: bring, O thou al- might- y Lord of hosts, who art my God and
+w: praise. Blessed is the man whose strength thou art, in whose heart are thy
+w: wells; Al- so the rain that fall- eth down the pools with wa- ter
+w: strength, Un- til in Zi- on they ap- pear be- fore the Lord at
+w: ear. See God our shield, look on the face of thine a- noint- ed
+w: in My God’s house will I keep a door, than dwell in tents of
+w: give; And will with- hold no good from them that u- prigh- tly do
+w: blest, Who by as- sur- èd con- fi- dence on thee a- lone doth
+[V:A] C6 A,2 | D2 D2 C2 D2 | D2 D2 D2 D2 | D2 D2 D2 C2 |
+[V:T] A,6 F,2 | A,2 G,2 E,2 F,2 | G,2 G,2 F,2 F,2 | B,2 A,2 A,2 A,2 |
+[V:B] A,,6 D,2 | D,2 B,,2 A,,2 D,2 | G,,2 B,,2 D,2 B,,2 | G,,2 D,2 A,,2 A,,2 |
+[V:S] D6 |]
+w: be!
+w: thee.
+w: nest;
+w: King.
+w: ways:
+w: fills.
+w: length.
+w: dear.
+w: sin.
+w: live.
+w: rest.
+[V:A] D6 |]
+[V:T] F,6 |]
+[V:B] D,6 |]

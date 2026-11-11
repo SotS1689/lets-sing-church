@@ -1,0 +1,29 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=90] G | E/ F/ G A | G2 c | c/ B/ A A | G2 
+w: 1.~Blest be the tie that binds Our hearts in Christ- ian love; 
+w: 2.~Be- fore our Fa- ther's throne We pour our ar- dent prayers; 
+w: 3.~We share each o- ther's woes, Our mu- tual bur- dens bear; 
+w: 4.~When we a- sun- der part, It gives us in- ward pain; 
+w: 5.~This glor- ious hope re- vives Our cou- rage by the way; 
+w: 6.~From sor- row, toil and pain, And sin, we shall be free,
+[V: S1V2] E | C/ D/ E F | E2 E | E//^F// G/ G F | G2
+[V: S2V1] G, | G,/ G,/ G,/C/ C | C2 C | C/ D/ E D/C/ | B,2
+[V: S2V2] C, | C,/ C,/ C, F, | C,2 C, | A,,/ B,,/ C, D, | G,,2
+[V: S1V1] G | E/ F/ G G | A/ B/ c B |  c/ A/ G G | G2 |]
+w: The fel- low- ship of kin- dred minds Is like to that a- bove. 
+w: Our fears, our hopes, our aims are one Our com- forts and our cares. 
+w: And of- ten for each o- ther flows The sym- pa- thi- zing tear. 
+w: But we shall still be joined in heart, And hope to meet a- gain. 
+w: While each in ex- pec- ta- tion lives, And longs to see the day. 
+w: And per- fect love and friend- ship reign Through all e- ter- ni- ty.
+[V: S1V2] E | C/ B,/ C E | F/ F/ E F | G/ F/ D/E/ F | E2 |]
+[V: S2V1] C | G,/ G,/ G, C | C/ G,/ G, G, | G,/ A,/ B,/C/ D | C2 |]
+[V: S2V2] C, | C,/ D,/ E, C, | F,/ D,/ C, D, | E,/ F,/ G, G,, | C,2 |]

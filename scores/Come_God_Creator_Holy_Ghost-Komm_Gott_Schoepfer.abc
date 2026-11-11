@@ -1,0 +1,27 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=130] G2 A G | F G c d | !fermata!c2 z c | G A c d | e e !fermata!d2 |
+w: 1.~Come, God Cre- a- tor, Ho- ly Ghost, And vis- it Thou these souls of men; 
+w: 2.~For Com- fort- er Thy name we call. Sweet gift of God most high a- bove, 
+w: 3.~Our minds il- lu- mine and re- fresh, Deep  in our hearts let love burn bright; 
+w: 4.~Thou with Thy won- drous sev'n- fold gifts The fin- ger art of God's right hand; 
+w: 5.~Drive far from us our wi- ly foe; Grant us Thy bless- èd peace with- in, 
+[V: S1V2]  E2 F E | D E E G | !fermata!G2 x G | G F G G | G G !fermata!G2 |
+[V: S2V1]  C2 C C | A, C C B, | !invertedfermata!E2 z E | C C C B, | C C !invertedfermata!B,2 |
+[V: S2V2]  C,2 F, C, | D, C, A,, G,, | !fermata!C,2 x C, | E, F, E, D, | C, C, !fermata!G,2 |
+[V: S1V1]  z d e c | A G B c | !fermata!d2 z G | c A F (A- | A G) G2- | G2 !fermata!G2 |]
+w: Fill them with gra- ces, as Thou dost, Thy crea- tures make pure  * * a-  * gain. 
+w: A ho- ly unc- tion to us all O Fount of life, Fire  * * of  * love. 
+w: Thou know'st the weak- ness of our flesh; And strength- en us with  * * Thy  * might. 
+w: The Fa- ther's Word Thou send- est swift On tongues of fire to  * * each  * land. 
+w: That in Thy foot- steps we may go, And shun the dark ways  * * of  * sin. 
+[V: S1V2]  x G G G | F G F G | !fermata!G2 x D | C C C (F- | F E) (D E | D2) !fermata!E2 |]
+[V: S2V1]  z B, C C | C C D E | !invertedfermata!B,2 z B, | C C C C- | C2 (D C- | C B,) !invertedfermata!C2 |]
+[V: S2V2]  x G, C, E, | F, E, D, C, | !fermata!G,2 x G, | E, F, A, (F,- | F, C,) (B,, C, | G,,2) !fermata!C,2 |]

@@ -1,0 +1,70 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=113
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] B2 B2 B2 B2 | (B3 c) B4 | F2 F2 E2 F2 | G8 |
+w: 1.~On- ward, Christ- ian sol- _ diers, March- ing as to war,
+w: 2.~At the sign of tri- _ umph, Sa- tan’s host doth flee;
+w: 3.~Like a might- y ar- _ my Moves the Church of God;
+w: 4.~What the saints e- sta- _ blished That I hold for true.
+w: 5.~Crowns and thrones may per- _ ish, King- doms rise and wane,
+w: 6.~On- ward then, ye peo- _ ple, Join our hap- py throng,
+[V:A] G2 G2 G2 G2 | A4 A4 | D2 D2 C2 D2 | E8 |
+[V:T] E,2 G,2 B,2 E2 | E4 D4 | B,2 B,2 B,2 B,2 | B,8 |
+[V:B] E,2 E,2 E,2 E,2 | F,4 B,,4 | A,2 A,2 G,2 F,2 | E,8 |
+[V:S] E2 G2 B2 e2 | e4 d4 | c2 c2 G2 =A2 | B8 |
+w: With the cross of Je- sus Go- ing on be- fore.
+w: On then, Christ- ian sol- diers, On to vic- to- ry!
+w: Bro- thers, we are trea- ding Where the saints have trod.
+w: What the saints be- liev- èd, That I be- lieve too.
+w: But the Church of Je- sus Con- stant will re- main.
+w: Blend with ours your voi- ces In the tri- umph song.
+[V:A] E2 E2 E2 E2 | F4 F4 | E2 E2 E2 E2 | D8 |
+[V:T] B,2 B,2 B,2 B,2 | (A,3 B,) B,4 | =A,2 =A,2 B,2 C2 | B,8 |
+[V:B] G,2 G,2 G,2 G,2 | F,4 F,4 | F,2 F,2 F,2 F,2 | B,,8 |
+[V:S] F2 F2 B2 F2 | (G3 A) G4 | B2 B2 e2 B2 | c8 |
+w: Christ, the ro- yal Mas- _ ter, Leads a- gainst the foe;
+w: Hell’s foun- da- tions qui- _ ver At the shout of praise;
+w: We are not di- vi- _ ded, All one bo- dy we,
+w: Long as earth en- du- _ reth, Men the faith will hold—
+w: Gates of hell can ne- _ ver ’Gainst that church pre- vail;
+w: Glo- ry, laud and hon- _ or Un- to Christ the King,
+[V:A] D2 D2 F2 D2 | (E3 F) E4 | E2 E2 E2 E2 | E8 |
+[V:T] B,2 B,2 B,2 B,2 | B,4 B,4 | G,2 G,2 B,2 G,2 | A,8 |
+[V:B] B,,2 B,,2 D,2 B,,2 | E,4 E,4 | E,2 E,2 G,2 E,2 | A,8 |
+[V:S] c2 B2 A2 B2 | (c2 B2) (A2 B2) | c2 B2 A2 G2 | F8 |
+w: For- ward in- to bat- _ tle _ See His ban- ners go!
+w: Bro- thers, lift your voi- _ ces, _ Loud your an- thems raise.
+w: One in hope, in doc- _ trine, _ One in char- it- y.
+w: King- doms, na- tions, em- _ pires, _ In de- struc- tion rolled.
+w: We have Christ’s own pro- _ mise, _ And that can- not fail.
+w: This through count- less a- _ ges _ Men and an- gels sing.
+[V:A] E2 E2 E2 E2 | E4 E4 | E2 E2 F2 E2 | D8 |
+[V:T] A,2 G,2 A,2 G,2 | A,2 G,2 (A,2 G,2) | A,2 G,2 F,2 F,2 | B,8 |
+[V:B] A,2 E,2 C,2 E,2 | (A,2 E,2) (C,2 E,2) | A,,2 A,,2 A,,2 A,,2 | B,,8 |
+[V:S] E2 E2 E2 E2 | (E2 D C) (D2 E2) | F2 F2 F2 (E F) | G8 |
+w: On- ward, Christ- ian sol- _ _ diers, _ March- ing as to _ war,
+w: On- ward, Christ- ian sol- _ _ diers, _ March- ing as to _ war,
+w: On- ward, Christ- ian sol- _ _ diers, _ March- ing as to _ war,
+w: On- ward, Christ- ian sol- _ _ diers, _ March- ing as to _ war,
+w: On- ward, Christ- ian sol- _ _ diers, _ March- ing as to _ war,
+w: On- ward, Christ- ian sol- _ _ diers, _ March- ing as to _ war,
+[V:A] B,2 B,2 B,2 B,2 | B,4 B,4 | B,2 B,2 B,2 B,2 | B,8 |
+[V:T] G,2 G,2 G,2 G,2 | A,4 A,4 | A,2 A,2 A,2 A,2 | G,8 |
+[V:B] E,2 B,,2 E,2 B,,2 | (F,2 B,,2) (F,2 B,,2) | D,2 B,,2 D,2 B,,2 | E,8 |
+[V:S] B2 B2 e2 d2 | e4 B4 | A2 G2 F3 E | E8 |]
+w: With the cross of Je- sus Go- ing on be- fore.
+w: With the cross of Je- sus Go- ing on be- fore.
+w: With the cross of Je- sus Go- ing on be- fore.
+w: With the cross of Je- sus Go- ing on be- fore.
+w: With the cross of Je- sus Go- ing on be- fore.
+w: With the cross of Je- sus Go- ing on be- fore.
+[V:A] G2 G2 A2 A2 | G4 E4 | E2 E2 D3 B, | B,8 |]
+[V:T] E2 E2 B,2 B,2 | B,4 B,4 | C3 B, A,3 G, | G,8 |]
+[V:B] E,2 E,2 F,2 F,2 | G,4 G,,4 | (A,,2 A,,2) B,,3 E, | E,8 |]

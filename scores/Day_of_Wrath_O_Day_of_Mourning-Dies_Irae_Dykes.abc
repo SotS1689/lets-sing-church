@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] F3/2 E/ D E | F G A D | B B A D |
+w: 1.~Day of wrath, O day of mourn- ing! See ful- filled the 
+w: 3.~Won- drous sound the trum- pet fling- eth, Through earth's sep- ul- 
+w: 5.~Lo, the book, ex- act- ly word- ed, Where- in all hath 
+w: 7.~What shall I, frail man, be plead- ing? Who for me be 
+w: 9.~Think, good Je- sus, my sal- va- tion Caused Thy won- drous 
+[V: S1V2]  D3/2 D/ D D | D D D D | D E A, D |
+[V: S2V1]  A,3/2 G,/ F, G, | A, B, A, A, | B, B, D A, |
+[V: S2V2]  D,3/2 D,/ D, D, | D, D, F, F, | G, G, F, F, |
+[V: S1V1]  G F E ^F | G G G F | E F E !fermata!D |
+w: pro- phet's warn- ing, Heav'n and earth in ash- es burn- ing. 
+w: chers it ring- eth, All be- fore the throne it bring- eth. 
+w: been re- cord- ed; Thence shall judg- ment be a- ward- ed. 
+w: in- ter- ced- ing When the just are mer- cy need- ing? 
+w: in- car- na- tion; Leave me not to re- pro- ba- tion! 
+[V: S1V2]  D/^C/ D ^C D | D E/D/ ^C D | ^C D D/^C/ !fermata!D |
+[V: S2V1]  B, A, A, A, | B, G,/F,/ E, F,/G,/ | A, A, G,/E,/ !invertedfermata!F, |
+[V: S2V2]  E, F,/G,/ A, D, | G, G,, A,, A,, | A,, F,,/G,,/ A,, !fermata!D, |
+[V: S1V1]  F3/2 B/ B3/2 A/ | G A B F | F B B3/2 A/ |
+w: 2.~Oh, what fear man's bo- som rend- eth When from Heav'n the 
+w: 4.~Death is struck and na- ture qua- king; All cre- a- tion 
+w: 6.~When the Judge His seat at- tain- eth And each hid- den 
+w: 8.~King of ma- jest- y tre- men- dous, Who dost free sal- 
+w: 10.~Faint and wear- y Thou hast sought me, On the cross of 
+[V: S1V2]  D D _E3/2 _E/ | _E _E _E D | B, D _E3/2 _E/ |
+[V: S2V1]  A, B, C3/2 C/ | B, C B, B, | D B, C3/2 C/ |
+[V: S2V2]  D, B,, F,,3/2 F,/ | F, F, B,, B,, | F, F, F,,3/2 F,/ |
+[V: S1V1]  G A B F | d d d3/2 D/ | E G (F2- | F E) D2 |]
+w: Judge de- scend- eth On whose sen- tence all de- pend-  * * eth! 
+w: is a- wa- king, To its Judge an an- swer ma-  * * king. 
+w: deed ar- raign- eth, No- thing un- a- venged re- main-  * * eth. 
+w: va- tion send us, Fount of pit- y, then be- friend  * * us. 
+w: suff- 'ring bought me; Shall such grace be vain- ly brought  * * me? 
+[V: S1V2]  _E _E D F | F E D3/2 D/ | D D (D2 | ^C2) D2 |]
+[V: S2V1]  B, C B, D | D B, A,3/2 A,/ | B, B, (A, F, | G,2) F,2 |]
+[V: S2V2]  F, F, B,, B,, | B, G, F,3/2 F,/ | G, G,, A,,2- | A,,2 D,2 |]

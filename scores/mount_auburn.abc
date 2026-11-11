@@ -1,0 +1,43 @@
+X:1
+M:3/2
+L:1/8
+Q:1/4=160
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G4 | B2 G2 B4 c4 | G2 F2 E4 e4 | d2 c2 B4 G4 |
+w: 1.~Most per- fect is the law of God, Re- sto- ring those that
+w: 2.~The pre- cepts of the Lord are right; With joy they fill the
+w: 3.~The fear of God is un- de- filed And ev- er shall en-
+w: 4.~They warn from ways of wick- ed- ness Dis- plea- sing to the
+w: 5.~What man can know his e- vil heart, Di- scer- ning all his
+w: 6.~From will- ful sins Thy ser- vant keep, No van- tage let them
+w: 7.~The words which from my mouth pro- ceed, The thoughts with- in my
+[V:A] E4 | G2 E2 G4 A4 | E2 D2 E4 G4 | A2 A2 G4 E4 |
+[V:T] B,4 | B,2 B,2 B,4 E4 | B,2 A,2 G,4 B,4 | C2 C2 (E2 B,2) (B,2 G,2) |
+[V:B] E,4 | E,2 E,2 E,4 A,,4 | B,,2 B,,2 E,4 E,4 | E,2 E,2 E,4 (G,2 E,2) |
+[V:S] (G4 F4) F4 | F2 G2 A4 F4 | G2 A2 B4 e4 | d2 c2 (B2 G2) (A2 F2) |
+w: stray; _ His te- sti- mo- ny is most sure, Pro- claim- ing wis- _ dom's _
+w: heart; _ The Lord's com- mand- ments all are pure, And clear- est light _ im- _
+w: dure; _ The sta- tutes of the Lord are truth And right- eous- ness _ most _
+w: Lord, _ And in the keep- ing of His Word There is a great _ re- _
+w: sin? _ O cleanse me, Lord, from hid- den faults, And make me pure _ with- _
+w: gain; _ From great trans- gres- sions thus made free, I u- pright shall _ re- _
+w: heart, _ Ac- cept, O Lord, for Thou my Rock And my Re- deem- _ er _
+[V:A] (E4 D4) D4 | D2 E2 F4 D4 | E2 F2 G4 E4 | E2 E2 (G2 E2) D4 |
+[V:T] B,8 B,4 | B,2 B,2 B,4 B,4 | B,2 B,2 B,4 B,4 | C2 C2 (E2 B,2) (F,2 A,2) |
+[V:B] B,,8 B,,4 | B,,2 B,,2 B,,4 B,,4 | E,2 E,2 E,4 G,4 | A,2 A,2 B,4 B,,4 |
+[V:S] E8 |]
+w: way.
+w: part.
+w: pure.
+w: ward.
+w: in.
+w: main.
+w: art.
+[V:A] E8 |]
+[V:T] G,8 |]
+[V:B] E,8 |]

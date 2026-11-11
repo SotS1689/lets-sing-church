@@ -1,0 +1,51 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=140] G2 A2 | B3 A | B d e2 | d4 | d e c2 | c d B2 |
+w: 1.~All my heart this night re- joi- ces, As I hear, Far and near, 
+w: 2.~For it dawns,\- the pro- mised mor- row Of His birth Who the earth 
+w: 3.~Yea, so tru- ly for us car- eth, That His Son All we've done 
+w: 4.~Hark! a voice from yon- der man- ger, Soft and sweet, Doth en- treat, 
+w: 5.~Come then, let us has- ten yon- der; Here let all, Great and small, 
+w: 6.~Ye who pine in wear- y sad- ness, Weep no more, For the door
+w: 7.~Hi- ther come, ye hea- vy— hear- ted, Who for sin Deep with- in,
+w: 8.~Hi- ther come, ye poor and wre- tched; Know His will Is to fill
+w: 9.~Bless- ed Sa- vior, let me find Thee! Keep Thou me Close to Thee,
+w: 10.~Thee, dear Lord, with heed I'll cher- ish, Live to Thee, And with Thee
+[V: S1V2] D2 F2 | G3 A | G G G2 | G4 | G B A2 | E A G2 |
+[V: S2V1] B,2 D2 | D3 D | D D C2 | D4 | D B, E2 | C A, D2 |
+[V: S2V2] G,2 D,2 | G,3 F, | G, B, C2 B,4 | B, G, A,2 | A, F, G,2 |
+[V: S1V1] B d c B | A2 G2 | d2 c2 | B3 A | G F
+w: Sweet- est an- gel voi- ces; "Christ is born," their choirs are 
+w: Res- cues from her sor- row. God to wear our form de- 
+w: As our off'r- ing bear- eth; As our Lamb who, dy- ing 
+w: "Flee from woe and dan- ger; Breth- ren come, from all doth 
+w: Kneel in awe and won- der. Love Him who with love is 
+w: Now is found of glad- ness. Cling to Him for He will
+w: Long and sore have smar- ted; For the poi- son'd wounds you're
+w: Ev- ery hand o- uts- tretched; Here are rich- es with- out
+w: Cast me not be- hind Thee! Life of life, my heart Thou
+w: Dy- ing, shall not per- ish; But shall dwell with Thee for
+[V: S1V2] G G G G | F2 G2 | D2 (E F) | G3 A | D D
+[V: S2V1] D B, C D | D2 B,2 | B,2 C2 | D3 D | B, A,
+[V: S2V2] G, G, E, G, | D,2 G,2 | B,2 A,2 | G,3 F, | G, D,
+[V: S1V1] E2 | D4 | d e c2 | c d B2 | B A c B | A2 G2 |]
+w: sing- ing, Till the air Ev'r- y- where Now with joy is ring- ing. 
+w: scen- deth, Of His grace To our race Here His Son He lend- eth: 
+w: for us, Bears our load, And to God Doth in peace re- store us. 
+w: grieve you You are freed, All you need I will sure- ly give you." 
+w: yearn- ing; Hail the Star That from far Bright with hope is burn- ing! 
+w: guide you Where no cross, Pain or loss, Can a- gain be- tide you.
+w: feel- ing Help is near, One is here Might- y for their heal- ing!
+w: mea- sure, Here for- get All re- gret, Fill your hearts with trea- sure.
+w: stil- lest, Calm I rest On Thy breast, All this void Thou fil- lest.
+w: ev- er, Far on high In the joy That can al- ter ne- ver.
+[V: S1V2] (D ^C) | D4 | A B A2 | G A G2 | G F G G | (G F) G2 |]
+[V: S2V1] A,2 | F,4 | D B, E2 | C A, D2 | D D E D | D2 B,2 |]
+[V: S2V2] A,,2 | D,4 | F, G, A,2 | E, F, G,2 | G, D, C, G, | D,2 G,2 |]

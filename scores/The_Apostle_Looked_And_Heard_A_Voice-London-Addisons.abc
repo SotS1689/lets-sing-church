@@ -1,0 +1,44 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G | B B A d | c/B/ A/G/ A D | G/A/ B A G/F/ | G F/E/ F
+w: 1.~Th'A- pos- tle looked and heard * a * voice, He saw * a Lamb as * had been * slain; 
+w: 2.~They sigh no more, gone are * their * fears, No cry- * ing make, shed * no more * tears; 
+w: 3.~These words are spo- ken faith- * ful- * ly, Al- pha, * O- me- ga, * Lord is * He; 
+[V: S1V2] D | G G A F | D D D D | D G A D | B, ^C D
+[V: S2V1] B, | D D D A, | G, B, F, F, | G, D D A, | G, A, A, 
+[V: S2V2] G, | G, G, F, D, | G, G,, D, C, | B,, G, F, D, | E, A,, D,
+[V: S1V1] A | B e A d | G A/G/ F A | B ^c d G | F E D
+w: As an- gels bowed and saints gave * praise These words were heard in their re- frain. 
+w: They grow not old, sense no more * loss, Gone are their doubts and all their dross. 
+w: For all is done and done for * all, For all who come, for all who call. 
+[V: S1V2] D | D G A F  | E/D/ ^C D D | D G A E | D ^C D
+[V: S2V1] D | D C/B,/ A, B,/A,/ | G,/B,/ A, A, A, | G, E D B, | A, A,/G,/ F,
+[V: S2V2] F, | G, E, F, D, | E, A,, D, F, | G, E, F, G, | A, A,, D,
+[V: S1V1] D | A A F E/D/ | G A B B |d d c/B/ A/G/ | c d e 
+w: "There'll be no war or * foe to fight, No sear- ing sun, * no * dread of night; 
+w: There'll be no sin and * no more stain, Un- known is sick- * ness, * gone is pain; 
+w: Come see His face, His * hands, His feet, Come quench your thirst, * par- * take the Feast, 
+[V: S1V2] D | D ^C D A, | D D D G | A F G D | G G G
+[V: S2V1] B, | A, G, A, F, | G, F, G, D | D D E/D/ B, | C B, C
+[V: S2V2] G, | F, E, D, =C, | B,, D, G, G, | F, D, G, =F, | E, G, C,
+[V: S1V1] d | e d/c/ d G | c B/A/ B G | A G F
+w: No more dis- * tress, no more re- * straint, No more be weak, 
+w: The death of * death, no more the * hearse, The end of grief, 
+w: Come en- ter * in while still you * may, Then Je- sus bring 
+[V: S1V2] G | G F F G | E F G D | E D D
+[V: S2V1] B, | C C B, B, | A, D D D | C D C
+[V: S2V2] G, | C A, B, E, | A, D, G, B, | C B, A,
+[V: S1V1]  G | c B !fermata!A d | e d F G/A/ | B A/G/ !fermata!G |]
+w: no more feel faint. No more be weak, no * more feel * faint. 
+w: the end of curse. The end of grief, the * end of * curse." 
+w: E- ter- nal Day. Then Je- sus bring E- * ter- nal * Day. 
+[V: S1V2] G | A G !fermata!F G/F/ | E/F/ G D/C/ B,/C/ | D C !fermata!B, |]
+[V: S2V1] B, | D D !invertedfermata!D B,/A,/ | G,/A,/ B, A, G, | G, F, !invertedfermata!G, |]
+[V: S2V2] G, | F, G, !fermata!D, B,, | C, B,,/C,/ D, E, | D, D, !fermata!G,, |]

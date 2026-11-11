@@ -1,0 +1,57 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] A2 A2 A2 | c4 F2 | G4 G2 | A6 |
+w: 1.~O Lord, make haste to hear my cry,
+w: 2.~When in the morn- ing un- to Thee
+w: 3.~When un- to Thee I look and pray
+w: * * * * * * * *
+w: 5.~O right- eous God, Thy cha- sti- sement,
+w: 6.~While wick- ed- ness my foes de- vise,
+w: 7.~Brought nigh to death and sore dis- tressed,
+w: 8.~Them- selves en- tang- led in their snare,
+[V:A] F2 F2 F2 | F4 F2 | F4 E2 | F6 |
+[V:T] C2 C2 C2 | C4 C2 | D4 C2 | C6 |
+[V:B] F,2 F,2 F,2 | A,,4 A,,2 | B,,4 C,2 | F,6 |
+[V:S] c2 c2 c2 | B4 G2 | A4 B2 | G6 |
+w: To Thee I call, on Thee re- ly.
+w: I lift my voice and bring my plea,
+w: With lift- ed hands at close of day,
+w: * * * * * * * *
+w: Though sent thro' foes, in love is sent;
+w: To Thee my con- stant prayer shall rise;
+w: O Lord, my God, in Thee I rest;
+w: Their own de- feat my foes pre- pare;
+[V:A] F2 F2 F2 | D4 E2 | F4 G2 | E6 |
+[V:T] C2 C2 C2 | D4 C2 | C4 D2 | C6 |
+[V:B] A,2 A,2 A,2 | G,4 C,2 | F,4 B,,2 | C,6 |
+[V:S] G2 G2 G2 | G4 G2 | =B4 G2 | c6 |
+w: In- cline to me a gra- cious ear,
+w: Then let my prayer as in- cense rise
+w: Then as the eve- ning sac- ri- fice
+w: * * * * * * * *
+w: Though griev- ous it will pro- fit me,
+w: When their in- ju- stice is o'erth- rown
+w: For- sake me not, I look to Thee,
+w: O keep me, Lord, for let me fall,
+[V:A] E2 E2 E2 | F4 F2 | F4 F2 | E6 |
+[V:T] C2 C2 C2 | D4 D2 | D4 =B,2 | C6 |
+[V:B] C,2 C,2 C,2 | =B,,4 =B,,2 | G,,4 G,2 | C,6 |
+[V:S] A2 A2 A2 | (A2 G2) F2 | F4 E2 | F6 |]
+w: And when I call, _ in mer- cy hear.
+w: To God en- throned _ a- bove the skies.
+w: Let my re- quest _ ac- cep- ted rise.
+w: * * * * * * * * *
+w: A heal- ing oint- _ ment it shall be.
+w: Mu gent- le- ness _ shall still be shown.
+w: Let me Thy great _ sal- va- tion see.
+w: Pro- tect and lead _ me safe through all.
+[V:A] F2 E2 _E2 | D4 D2 | C4 C2 | C6 |]
+[V:T] C2 C2 C2 | B,4 A,2 | (G,2 A,2) B,2 | A,6 |]
+[V:B] F,2 F,2 F,2 | B,,4 =B,,2 | C,4 C,2 | F,6 |]

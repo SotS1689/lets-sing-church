@@ -1,0 +1,25 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 A c | B d A c | G2 G2 | A c c =B | c2 F2 | A c B d | A c G2 | A2 B A | G G F2 |]
+w: 1.~Do ye, O con- gre- ga- ti- on, in- deed speak right- eous- ness? O ye that are the sons of men, judge ye with u- prigh- tness?
+w: 2.~Yea, ev'n with- in your ver- y hearts ye wick- ed- ness have done; And ye the vi'- lence of your hands do weigh the earth up- on.
+w: 3.~The wi- cked men es- trang- èd are, ev'n from the ver- y womb; They, spea- king lies, do stray as soon as to the world they come.
+w: 4.~Un- to a ser- pent's poi- son like their poi- son doth ap- pear; Yea, they are like the ad- der deaf, that clo- sely stops her ear;
+w: 5.~That so she may not hear the voice of one that charm her would, No, not though he most cun- ning were, and charm most wi- sely could.
+w: 6.~Their teeth, O God, with- in their mouth break thou in piec- es small; The great teeth break thou out, O Lord, of these young li- ons all.
+w: 7.~Let them like wa- ters melt a- way, which down- ward still do flow: In piec- es cut his ar- rows all, when he shall bend his bow.
+w: 8.~Like to a snail that melts a- way, let each of them be gone; Like wo- man's birth un- ti- mely, that they ne- ver see the sun.
+w: 9.~He shall them take a- way be- fore your pots the thorns can find, Both liv- ing, and in fu- ry great, as with a storm- y wind.
+w: 10.~The right- eous, when he ven- geance sees, he shall be joy- ful then; The right- eous one shall wash his feet in blood of wi- cked men.
+w: 11.~So men shall say, The right- eous man re- ward shall ne- ver miss: And ve- ri- ly up- on the earth a God to judge there is.
+[V:A] C2 F _E | _E D D C | C2 E2 | F (E/ F/) G G | E2 F2 | F _E E D | D C C2 | C2 D F | F E F2 |]
+[V:T] A,2 C C | G, F, F, =E, | E,2 C2 | C C D D | C2 A,2 | C C G, B, | F, A, E,2 | F,2 F, (A,/ B,/) | C C A,2 |]
+[V:B] F,2 F, C, | _E, B,, D, A,, | C,2 C,2 | F, A, G, G, | C,2 F,2 | F, C, _E, B,, | D, A,, C,2 | F,2 B,, F, | C, C, F,,2 |]

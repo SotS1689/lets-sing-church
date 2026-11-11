@@ -1,0 +1,50 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=95
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] G3/2 A1/2 | B3 A G E | D2 B,2 G3/2 A1/2 | B3 A B d |
+w: 1.~O my soul, bless thou Je- ho- vah, All with- in me, bless His
+w: * * * * * * * * * * * * * *
+w: 3.~Yea, the Lord is full of mer- cy And com- pas- sion for dis-
+w: 4.~As the heav'ns are high a- bove us, Great his love to us has
+[V:A] B,3/2 C1/2 | D3 B, C C | B,2 G,2 D3/2 D1/2 | D3 D D D |
+[V:T] D,3/2 D,1/2 | G,3 D, E, G, | G,2 D,2 G,3/2 F,1/2 | G,3 F, G, B, |
+[V:B] G,,3/2 G,,1/2 | G,,3 G,, C, C, | G,,2 G,,2 B,,3/2 D,1/2 | G,3 D, B,, G,, |
+[V:S] A4 G3/2 A1/2 | B3 A G E | D2 B,2 G3/2 e1/2 | d3 B A B |
+w: Name; Bless Je- ho- vah and for- get not All His mer- cies to pro-
+w: * * * * * * * * * * * * * * *
+w: tress, Slow to an- ger and a- bun- dant In His grace and ten- der-
+w: proved; Far as east from west is dis- tant, He has all our sins re-
+[V:A] D4 B,3/2 C1/2 | D3 D E C | B,2 B,2 C3/2 E1/2 | G3 D C D |
+[V:T] F,4 G,3/2 G,1/2 | G,3 G, G, G, | G,2 G,2 E,3/2 G,1/2 | B,3 G, F, F, |
+[V:B] D,4 G,,3/2 G,,1/2 | G,,3 B,, C, E, | G,2 G,,2 C,3/2 C,1/2 | D,3 D, D, D, |
+[V:S] G4 B3/2 c1/2 | d3 e d3/2 B1/2 | d2 B2 G3/2 A1/2 | B3 B A G |
+w: claim. He for- gives all thy trans- gres- sions; Heals thy sick- nes- ses and
+w: * * * * * * * * * * * * * * *
+w: ness. He will not be an- gry al- way, Nor will He for- ev- er
+w: moved. As a fa- ther loves his child- ren, Feel- ing pi- ty for their
+[V:A] B,4 D3/2 D1/2 | G3 G G3/2 D1/2 | G2 D2 D3/2 D1/2 | D3 D E E |
+[V:T] G,4 G,3/2 A,1/2 | B,3 C B,3/2 G,1/2 | B,2 G,2 G,3/2 F,1/2 | G,3 G, C B, |
+[V:B] G,,4 G,,3/2 G,,1/2 | G,3 G, G,3/2 G,1/2 | G,2 G,,2 B,,3/2 D,1/2 | G,3 G, C, ^C, |
+[V:S] (G2 F2) G3/2 A1/2 | B3 A G E | D2 B,2 G3/2 e1/2 | d3 B A B |
+w: pains; _ He re- deems thee from de- struc- tion, And His love thy life su-
+w: * * * * * * * * * * * * * * * *
+w: chide; _ Tho' we oft have sinned a- gainst Him Still His love and grace a-
+w: woes, _ So the Lord to those who fear Him Mer- cy and com- pas- sion
+[V:A] D4 B,3/2 C1/2 | D3 D E C | B,2 B,2 C3/2 E1/2 | G3 D C D |
+[V:T] (B,2 A,2) G,3/2 G,1/2 | G,3 G, G, G, | G,2 G,2 E,3/2 G,1/2 | B,3 G, F, F, |
+[V:B] D,4 G,,3/2 G,,1/2 | G,,3 B,, C, E, | G,2 G,,2 C,3/2 C,1/2 | D,3 D, D, D, |
+[V:S] G4 |]
+w: stains.
+w: *
+w: bide.
+w: shows.
+[V:A] B,4 |]
+[V:T] G,4 |]
+[V:B] G,,4 |]

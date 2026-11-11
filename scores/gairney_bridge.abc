@@ -1,0 +1,46 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=90
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G F E | A3 A G F | B3 B c d | e2 B2 A G |
+w: 1.~Not un- to us, O Lord of heav'n, But un- to Thee be glo- ry
+w: 2.~The i- dol gods of hea- then lands Are but the work of hu- man
+w: 3.~Let Is- rael trust in God a- lone, The Lord Whose grace and pow'r are
+w: 4.~All ye that fear Him and a- dore, The Lord in- crease you more and
+w: 5.~The heav'ns are God's since time be- gan, But He hath giv'n the earth to
+[V:A] E D E | E3 E D D | E3 E A A | G2 E2 D E |
+[V:T] B, B, B, | C3 C B, B, | B,3 B, B, B, | B,2 B,2 B, B, |
+[V:B] E, A, G, | F,3 F, B, A, | G,3 G, F, F, | E,2 G,2 F, E, |
+[V:S] F2 z G F E | A3 A G F | B3 B B c | d d e2 =A2 |
+w: giv'n; In love and truth Thou dost ful- fill The coun- sels of Thy sov'r- eign
+w: hands: They can- not see, they can- not speak, Their ears are deaf, their hands are
+w: known; To Him your full al- le- giance yield, And He will be your help and
+w: more; Both great and small who Him con- fess, You and your child- ren He will
+w: man; The dead praise not the liv- ing God, But we will sound His praise a-
+[V:A] D2 z E D E | E3 E D D | E3 E E =E | F F G2 E2 |
+[V:T] B,2 z B, B, B, | C3 C B, B, | B,3 B, B, B, | B, B, B,2 C2 |
+[V:B] B,,2 z E, A, G, | F,3 F, B, A, | G,3 G, _G, _G, | F, F, F,2 F,2 |
+[V:S] B2 z B c d | e3 G A B | c3 F F F | G G A2 D2 |
+w: will; Though na- tions fail Thy pow'r to own, Yet Thou dost reign, and Thou a-
+w: weak; Like them shall be all those who hold To gods of sil- ver and of
+w: shield; All those who fear Him God will bless, His saints have proved His faith- ful-
+w: bless; Yea, blest are ye of Him Who made The heav'ns, and earth's foun- da- tions
+w: broad. Yea, we will ev- er bless His Name; Praise ye the Lord, His praise pro-
+[V:A] D2 z F F F | E3 E F G | E3 E E E | E E D2 B,2 |
+[V:T] B,2 z D C _C | B,3 E D _D | C3 _C _C _C | B, B, F,2 A,2 |
+[V:B] B,2 z B, =A, _A, | G,3 E, E, E, | A,3 A, A, A, | B, B,, B,,2 B,,2 |
+[V:S] E3 |]
+w: lone.
+w: gold.
+w: ness.
+w: laid.
+w: claim.
+[V:A] B,3 |]
+[V:T] G,3 |]
+[V:B] E,3 |]

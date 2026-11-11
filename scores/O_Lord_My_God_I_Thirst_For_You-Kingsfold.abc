@@ -1,0 +1,41 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G/F/ | E E E D | G G A G/A/ | B B A/G/ E | D3
+w: 1.~O * Lord, my God, I thirst for You, I * long to see * your face, 
+w: 2.~Lord, * when will I be helped by You, I * stru- ggle day * and night? 
+w: 3.~So * why am I cast down, O Lord, and * why should I * feel low? 
+w: 4.~Your * lov- ing\- kind- ness fills my days, Your * song at night * I sing, 
+[V: S1V2]  E | B, B, C A, | D B, D D/F/ | G G E C | A,3
+[V: S2V1]  B,/A,/ | G, G, G, F, | G, G, F, G,/C/ | B, D C G, | (G,2 F,)
+[V: S2V2]  E, | E, E,/D,/ C, C, | B,, E, D, B,,/A,,/ | G,, G,, A,, C, | D,3
+[V: S1V1]  G/F/ | E E E D | G G A G/A/ | B B A/G/ E | E3
+w: Just * as the hunt- ed deer is stressed I * fal- ter in * the race; 
+w: O * hear my prayer, en- ab- le me to * stand in your * great might; 
+w: You * are my God, my Sa- vior strong, Your * praise from me * shall flow; 
+w: And * when my fears as- sail a- gain to * You I'll tight- * ly cling; 
+[V: S1V2]  D | D C C/B,/ A, | D ^C D D/=C/ | B, D C C | B,3
+[V: S2V1]  G, | G, G, G, F, | G, G, F, G,/F,/ | G, G, E, E,/F,/ | G,3
+[V: S2V2]  B,, | C, C,/B,,/ A,, D, | B,, E, D,/C,/ B,,/A,,/ | G,, B,, C, A,, | E,3
+[V: S1V1]  B/c/ | d B B/A/ G | A A B2 | B B/A/ G E | D3
+w: My * heart cries out, * my tears run down, I am in deep dis- tress, 
+w: I * look back on * those days gone by when, Lord, You were so near, 
+w: I * think of all * your works, O Lord, Your sa- ving pow'r of old, 
+w: My * hope is fixed * on God, my Rock, His own He won't for- get; 
+[V: S1V2]  E | F F G/D/ D | E D D2 | G G/F/ D C/B,/ | A,3
+[V: S2V1]  G, | B, D D/C/ B, | A,/G,/ F, G,2 | D D/C/ B, G, | (G,2 F,)
+[V: S2V2]  E, | B,, B, E,/F,/ G, | C, D, G,,2 | G,, G,,/A,,/ B,, C, | D,3
+[V: S1V1]  G/F/ | E E E/D/ E/F/ | G G A G/A/ | B B A/G/ E | E3 |]
+w: 'Where * is your God?' * men * say to me, They * taunt me and * op- press. 
+w: when * in your house * with * fes- tive throng I * praised your Name * so dear. 
+w: So * when be- set * and * o- ver- whelmed, I * will your strength  * take hold. 
+w: Be * still my soul, * my * face will shine And * I will praise * Him yet. 
+[V: S1V2]  D | D D C C | D D/^C/ D D/=C/ | B, D E C | B,3 |]
+[V: S2V1]  G, | G, G, A, C | B,/A,/ G, F, G,/F,/ | G, F, E, E,/F,/ | G,3 |]
+[V: S2V2]  B,, | C, C,/B,,/ A,, A, | G,/F,/ E, D, B,,/A,,/ | G,, B,, C, A,, | E,3 |]

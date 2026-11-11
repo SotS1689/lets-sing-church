@@ -1,0 +1,20 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 A c | B d A c | G2 G2 | A c c =B | c2 F2 | A c B d | A c G2 | A2 B A | G G F2 |]
+w: 1.~Help, Lord, be- cause the god- ly man doth dai- ly fade a- way; And from a- mong the sons of men the faith- ful do de- cay.
+w: 2.~Un- to his neigh- bour ev'- ry one doth ut- ter va- ni- ty: They with a doub- le heart do speak, and lips of flat- te- ry.
+w: 3.~God shall cut off all flat- t'ring lips, tongues that speak proud- ly thus, We'll with our tongue pre- vail, our lips are ours: who's lord o'er us?
+w: 4.~For poor op- press'd, and for the sighs of need- y, rise will I, Saith God, and him in safe- ty set from such as him de- fy.
+w: 5.~The words of God are words most pure; they be like sil- ver try'd In ear- then fur- nace, se- ven times that hath been pu- ri- fy'd.
+w: 6.~Lord, thou shalt them pre- serve and keep for ev- er from this race. On each side walk the wi- cked, when vile men are high in place.
+[V:A] C2 F _E | _E D D C | C2 E2 | F (E/ F/) G G | E2 F2 | F _E E D | D C C2 | C2 D F | F E F2 |]
+[V:T] A,2 C C | G, F, F, =E, | E,2 C2 | C C D D | C2 A,2 | C C G, B, | F, A, E,2 | F,2 F, (A,/ B,/) | C C A,2 |]
+[V:B] F,2 F, C, | _E, B,, D, A,, | C,2 C,2 | F, A, G, G, | C,2 F,2 | F, C, _E, B,, | D, A,, C,2 | F,2 B,, F, | C, C, F,,2 |]

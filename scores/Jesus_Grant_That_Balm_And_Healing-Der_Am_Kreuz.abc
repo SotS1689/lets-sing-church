@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] A E A B | c B/A/ ^G E | B c d c | B B A2 |
+w: 1.~Je- sus, grant that balm and * heal- ing In Thy ho- ly wounds I find, 
+w: 2.~Should some lust or sharp temp- * ta- tion Prove too strong for flesh and blood, 
+w: 3.~If the world my heart en- * ti- ces On the broad and ea- sy road 
+w: 4.~Ev- ery wound that pains or * grieves me, By Thy stripes, Lord, is made whole; 
+w: 5.~O my God, my Rock and * To- wer, Grant that in Thy death I trust, 
+w: 6.~Je- sus, grant that balm and _ heal- ing In Thy ho- ly wounds I find,
+[V: S1V2]  E E F F | G F E E | E E A A | A ^G A2 |
+[V: S2V1]  C B, C D | E D/C/ B, ^G, | ^G, A, A, E | F E C2 |
+[V: S2V2]  A, G, F, D, | C, D, E, E, | E, A, F, E, | D, E, A,,2 |
+[V: S1V1]  A E A B | c B/A/ ^G E | B c d c | B B A2 |
+w: E- very hour that I am * feel- ing, Pains of bo- dy and of mind. 
+w: Let me think up- on Thy * Pas- sion, And the breach is soon made good. 
+w: With its mirth and lur- ing * vic- es, Let me think up- on the load 
+w: When I'm faint, Thy cross re- * vives me, Grant- ing new life to my soul. 
+w: Know- ing death has lost his * po- wer Since Thou trodd'st him in the dust. 
+w: Ev- ery hour that I am _ feel- ing, Pains of bo- dy and of mind.
+[V: S1V2]  E E F F | G F E E | E E A A | A ^G A2 |
+[V: S2V1]  C B, C D | E D/C/ B, ^G, | ^G, A, A, E | F E C2 |
+[V: S2V2]  A, G, F, D, | C, D, E, E, | E, A, F, E, | D, E, A,,2 |
+[V: S1V1]  G G G E | F G A2 | G G F E | D D C2 |
+w: Should some e- vil thought with- in Tempt my treach- erous heart to sin, 
+w: Or should Sa- tan press me hard, Let me then be on my guard, 
+w: Thou didst car- ry and en- dure That I flee all thoughts im- pure, 
+w: Yea, Thy com- fort ren- ders sweet Ev- ery bit- ter cup I meet; 
+w: Sa- vior, let Thine a- gon- y Ev- er help and com- fort me; 
+w: And when I this world must leave, Grant that, Lord, to Thee I cleave,
+[V: S1V2]  E D E C | C/D/ E F2 | E D C C | C B, C2 |
+[V: S2V1]  C D C G, | A, _B, C2 | C G, A, G, | G,3/2 F,/ E,2 |
+[V: S2V2]  C, B,, C, C, | A,, G,, F,,2 | C, B,, A,, C, | G,, G,, C,2 |
+[V: S1V1]  c c B B | A B ^G E | B c d c | B c B2 | A4 |]
+w: Show the per- il, and from sin- ning Keep me ere its first be- gin- ning. 
+w: Say- ing, "Christ for me was wound- ed," That the temp- ter flee con- found- ed. 
+w: Ba- nish- ing each wild e- mo- tion, Calm and blest in my de- vo- tion. 
+w: For Thy all a- ton- ing Pas- sion Has pro- cured my soul's sal- va- tion. 
+w: When I die, be my Pro- tec- tion, Light and Life and Re- sur- rec- tion. 
+w: In Thy wounds find con- so- la- tion And ob- tain my soul's sal- va- tion
+[V: S1V2]  G A A G | F F E E | E E F E | E E E2 | C4 |]
+[V: S2V1]  E E F E/D/ | C D B, ^G, | ^G, A, A, A, | ^G, A,2 ^G, | A,4 |]
+[V: S2V2]  C A, D, E, | F, D, E, E, | E, A, D, A,, | E, C,/A,,/ E,2 | A,,4 |]

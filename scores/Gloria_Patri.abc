@@ -1,0 +1,15 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=94
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] E3/2 E/ E E/ E/ | E D z E | F2 B2 | B B B c | d2 c2 | B2 z B/ B/ | B G c B | B A z A | A F B A | A G z2 | d2 d d | e2 (E F) | G2 (G F) | E4 |]
+w: 1.~Glo- ry be to the Fa- ther, and to the Son, and to the Ho- ly Ghost; As it was in the be- gin- ning, is now, and ev- er shall be, world with- out end. A- _ men. A- _ men.
+[V:A] B,3/2 B,/ B, B,/ B,/ | B, B, z B, | B,2 D2 | E G F G | F2 (F E) | D2 z D/ D/ | E E E E | D D z D | D D D F | F E z2 | F2 F F | E2 E2 | E2 D2 | B,4 |]
+[V:T] G,3/2 G,/ G, G,/ G,/ | A, A, z G, | F,2 F,2 | G, B, B, B, | B,2 =A,2 | B,2 z B,/ _A,/ | G, E, A, G, | F, F, z F, | F, B, F, B, | B, B, z2 | B,2 B, B, | B,2 (B, C) | B,2 A,2 | G,4 |]
+[V:B] E,3/2 E,/ E, E,/ E,/ | F, F, z E, | D,2 B,,2 | E, E, D, E, | F,2 F,2 | B,,2 z B,,/ B,,/ | E, E, E, E, | B,, B,, z B,, | B,, B,, B,, B,, | E, E, z2 | A,2 A, A, | G,2 (G,, A,,) | B,,2 B,,2 | E,4 |]

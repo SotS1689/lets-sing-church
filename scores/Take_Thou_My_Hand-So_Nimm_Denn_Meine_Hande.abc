@@ -1,0 +1,37 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=120] c | d c B A | A2 G A | B2 c2 | A3
+w: 1.~Take Thou my hand, and lead me o'er life's rough way, 
+w: 2.~Take Thou my heart and hide it in folds of grace 
+w: 3.~Though oft I think Thou hid- est Thy won- drous might, 
+[V: S1V2]  A | B F D/E/ F | F2 E F | F2 G2 | A3
+[V: S2V1]  F, | F, C, B,,/C,/ C, | C,2 C, F, | F,2 E,2 | F,3
+[V: S2V2]  F, | B,, A,, G,, F,,/A,,/ | C,2 C, F,/E,/ | D,2 C,2 | F,3
+[V: S1V1]  c | d c B A | A2 G A | B2 c2 | A3
+w: with Heav'n- ly Man- na feed me from day to day. 
+w: Though pain or woe be- tide it to know Thy face 
+w: Still to my goal Thou guid- est me through dark night, 
+[V: S1V2]  A | B F D/E/ F | F2 E F | F2 G2 | A3
+[V: S2V1]  F, | F, C, B,,/C,/ C, | C,2 C, F, | F,2 E,2 | F,3
+[V: S2V2]  F, | B,, A,, G,, F,,/A,,/ | C,2 C, F,/E,/ | D,2 C,2 | F,3
+[V: S1V1]  A | G c =B d | (c3/2 d/) e f | e2 d2 | c3
+w: A- lone my foot- steps fal- * ter and strag- gle wide, 
+w: Draw, Lord, of Thy good plea- * sure Thy child to Thee, 
+w: Take, then, my hands and lead * me till life is o'er, 
+[V: S1V2]  A | G G B B | (c3/2 =B/) c d | c2 =B2 | G3
+[V: S2V1]  F, | E, E, G, G, | G,2 G, A, | G,2 (G, F,) | E,3
+[V: S2V2]  F, | E, C, G, F, | (E,3/2 D,/) C, F, | G,2 G,,2 | C,3
+[V: S1V1]  c | f e/d/ c c | d2 c B | (A B2) G | F3 |]
+w: Lord who my * life canst al- ter be Thou * my guide. 
+w: And grant me * faith's full mea- sure though naught * I see. 
+w: With heav'n- ly * man- na feed me for- ev- * er- more. 
+[V: S1V2]  G | c c/B/ A F | B2 A G | F2 E2 | F3 |]
+[V: S2V1]  E, | F, F, F, F, | F,2 F, D, | C,2 C,2 | F,3 |]
+[V: S2V2]  B,, | A,, B,, F,, A,, | (B,, D,) F, B,, | C,2 C,2 | F,3 |]

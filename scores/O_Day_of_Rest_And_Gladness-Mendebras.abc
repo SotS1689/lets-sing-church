@@ -1,0 +1,60 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=103
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] (E3/2 F1/2) | G3 G (G F) (E F) | E2 B,4 (E G) | B2 B2 (B A) (G A) |
+w: 1.~O _ day of rest _ and _ glad- ness, o _ day of joy _ and _
+w: 2.~On _ thee, at the _ cre- _ a- tion, the _ light first had _ its _
+w: 3.~Thou _ art a port, _ pro- _ tec- ted from _ storms that round _ us _
+w: 4.~Thou _ art a ho- _ ly _ lad- der, where _ an- gels go _ and _
+w: 5.~To- _ day on wear- _ y _ na- tions the _ heaven- ly man- _ na _
+w: 6.~New _ gra- ces ev- _ er _ gai- ning from _ this our day _ of _
+[V:A] B,2 | B,3 B, B,2 B,2 | B,2 B,4 (B, E) | G2 G2 (G F) (E F) |
+[V:T] (G,3/2 A,1/2) | B,3 B, (B, A,) (G, A,) | G,2 G,4 (G, B,) | E2 B,2 B,2 B,2 |
+[V:B] E,2 | E,3 E, B,,2 B,,2 | E,2 E,4 E,2 | E,2 E,2 B,,2 B,,2 |
+[V:S] G6 (E3/2 F1/2) | G3 G (G F) (E F) | E2 B,4 (E G) | B2 B2 (B A) (G A) |
+w: light, O _ balm of care _ and _ sad- ness, most _ beau- ti- ful, _ most _
+w: birth; On _ thee, for our _ sal- _ va- tion, Christ _ rose from depths _ of _
+w: rise; A _ gar- den, int- _ er- _ sec- ted with _ streams of par- _ a- _
+w: come; Each _ Sun- day finds _ us _ glad- der, near- _ er to heaven, _ our _
+w: falls; To _ ho- ly con- _ vo- _ ca- tions the _ sil- ver trum- _ pet _
+w: rest, We _ reach the rest _ re- _ mai- ning to _ spir- its of _ the _
+[V:A] E6 B,2 | B,3 B, B,2 B,2 | B,2 B,4 (B, E) | G2 G2 (G F) (E F) |
+[V:T] B,6 (G,3/2 A,1/2) | B,3 B, (B, A,) (G, A,) | G,2 G,4 (G, B,) | E2 B,2 B,2 B,2 |
+[V:B] E,6 E,2 | E,3 E, B,,2 B,,2 | E,2 E,4 E,2 | E,2 E,2 B,,2 B,,2 |
+[V:S] G6 B2 | c3 c c2 c2 | B2 G4 B2 | B2 (A G) A2 B2 |
+w: bright: On thee, the high and low- ly, through a- ges _ joined in
+w: earth; On thee, our Lord, vic- tor- ious, the Spi- rit _ sent from
+w: dise; Thou art a cool- ing foun- tain in life's dry, _ drea- ry
+w: home; A day of sweet re- fec- tion, thou art a _ day of
+w: calls, Where Gos- pel light is glow- ing with pure and _ ra- diant
+w: blessed. To Ho- ly Ghost be prais- es, to Fa- ther, _ and to
+[V:A] E6 E2 | E3 E E2 E2 | E2 E4 E2 | G2 (F E) F2 D2 |
+[V:T] B,6 G,2 | A,3 A, A,2 A,2 | G,2 B,4 G,2 | B,2 B,2 B,2 B,2 |
+[V:B] E,6 E,2 | A,,3 A,, (A,, B,,) (C, D,) | E,2 E,4 E,2 | B,,2 B,,2 B,,2 B,,2 |
+[V:S] G6 B2 | c3 c e2 c2 | B2 G4 B2 | B2 (G B) (B A) (G F) |
+w: tune, Sing ho- ly, ho- ly, ho- ly, to the great _ God _ Tri- _
+w: heaven, And thus on thee, most glor- ious, a tri- ple _ light _ was _
+w: sand; From thee, like Pis- gah's moun- tain, we view our _ pro- _ mised _
+w: love, A day of res- ur- rec- tion from earth to _ things _ a- _
+w: beams, And liv- ing wa- ter flow- ing, with soul re- _ fresh- _ ing _
+w: Son; The church her voice u- prai- ses to Thee, blessed _ Three _ in _
+[V:A] E6 E2 | E3 E E2 E2 | E2 B,4 E2 | E2 (E G) (G F) (E D) |
+[V:T] B,6 G,2 | A,3 A, C2 A,2 | G,2 B,4 G,2 | G,2 B,2 B,2 (B, A,) |
+[V:B] E,6 E,2 | A,,3 A,, A,,2 C,2 | E,2 E,4 E,2 | B,,2 B,,2 B,,2 B,,2 |
+[V:S] E6 |]
+w: une.
+w: given.
+w: land.
+w: bove.
+w: streams.
+w: One.
+[V:A] E6 |]
+[V:T] G,6 |]
+[V:B] E,6 |]

@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G F/E/ D G | A G/A/ B G | c B/A/ B A/G/ | F/G/ A/F/ G2 |
+w: 1.~There’s a _ wide- ness in God’s _ mer- cy, Like the _ wide- ness _ of _ the _ sea;
+w: 2.~There is _ wel- come for the _ sin- ner, And more _ gra- ces _ for _ the _ good;
+w: 3.~For the _ love of God is _ broad- er Than the _ mea- sure _ of _ our _ mind;
+w: 4.~’Tis not _ all we owe to _ Je- sus; It is _ some- thing _ more _ than _ all;
+w: 5.~Souls of _ men! why will ye _ scat- ter Like a _ crowd of _ fright- _ ened _ sheep?
+w: 6.~But we _ make His love too _ nar- row By false _ li- mits _ of _ our _ own;
+[V: S1V2] D C B, B, | E E/F/ G D | E D D E | C/D/ E/D/ D2 |
+[V: S2V1] B, A,/F,/ G, G, | G, D D G, | G, F, G, B, | C/B,/ A,/C/ B,2 |
+[V: S2V2] G,, A,, B,, E, | C, D, G,, B,, | A,, D, B,, E, | A,,/B,,/ C,/D,/ G,,2 |
+[V: S1V1] G F/E/ D G | A G/A/ B G | c B/A/ B A/G/ | F/G/ A/F/ G2 |
+w: There’s a _ kind- ness in His _ jus- tice, Which is _ more than _ lib- _ er- _ ty.
+w: There is _ mer- cy with the _ Sa- vior; There is _ heal- ing _ in _ His _ blood.
+w: And the _ heart of the E- _ ter- nal Is most _ won- der- _ ful- _ ly _ kind.
+w: Great- er _ good be- cause of _ e- vil, Lar- ger _ mer- cy _ through _ the _ fall.
+w: Fool- ish _ hearts! why will ye _ wan- der From a _ love so _ true _ and _ deep?
+w: And we _ mag- ni- fy His _ strict- ness With a _ zeal He _ will _ not _ own.
+[V: S1V2] D C B, B, | E E/F/ G D | E D D E | C/D/ E/D/ D2 |
+[V: S2V1] B, A,/F,/ G, G, | G, D D G, | G, F, G, B, | C/B,/ A,/C/ B,2 |
+[V: S2V2] G,, A,, B,, E, | C, D, G,, B,, | A,, D, B,, E, | A,,/B,,/ C,/D,/ G,,2 |
+[V: S1V1] G A/B/ c B | A ^G A A | A B/c/ d G | A G/F/ (E D) |
+w: There is _ no place where earth’s sor- rows Are more _ felt than up in _ Heaven; _
+w: There is _ grace e- nough for thou- sands Of new _ worlds as great as _ this; _
+w: There is _ plen- ti- ful re- demp- tion In the _ blood that has been _ shed; _
+w: If our _ love were but more sim- ple, We should _ take Him at His _ word; _
+w: It is _ God: His love looks might- y, But is _ migh- tier than it _ seems; _
+w: Was there _ ev- er kind- er shep- herd Half so _ gen- tle, half so _ sweet, _
+[V: S1V2] B, =F E =F | E E E E | ^F D D E | D D (^C C) |
+[V: S2V1] G, =F, G, D | C B, C C | D F, G, B, | A, B, (G, F,) |
+[V: S2V2] E, D, C, D, | E, E, A,, A,, | D, C, B, E, | F,, G,, (A,, D,) |
+[V: S1V1] G F/E/ D G | A G/A/ B G | c B/A/ B A/G/ | F/G/ A/F/ G2 |]
+w: There is _ no place where earth’s _ fail- ings Have such _ kind- ly _ judg- _ ment _ given.
+w: There is _ room for fresh cre- _ a- tions In that _ up- per _ home _ of _ bliss.
+w: There is _ joy for all the _ mem- bers In the _ sor- rows _ of _ the _ Head.
+w: And our _ lives would be all _ sun- shine In the _ sweet- ness _ of _ our _ Lord.
+w: ’Tis our _ Fa- ther: and His _ fond- ness Goes far _ out be- _ yond _ our _ dreams.
+w: As the _ Sa- vior who would _ have us Come and _ ga- ther _ at _ His _ feet?
+[V: S1V2] D C B, B, | E E/F/ G D | E D D E | C/D/ E/D/ D2 |]
+[V: S2V1] B, A,/F,/ G, G, | G, D D G, | G, F, G, B, | C/B,/ A,/C/ B,2 |]
+[V: S2V2] G,, A,, B,, E, | C, D, G,, B,, | A,, D, B,, E, | A,,/B,,/ C,/D,/ G,,2 |]

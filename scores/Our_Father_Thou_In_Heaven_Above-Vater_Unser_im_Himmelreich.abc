@@ -1,0 +1,45 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=140] G2 G E | F G E D | C2 G2 | G F B G | E F G2 |
+w: 1.~Our Fa- ther, Thou in heav'n a- bove, Who bid- dest us to dwell in love, 
+w: 2.~Thy name be hal- lowed. Help us, Lord, In pur- i- ty to keep Thy Word, 
+w: 3.~Thy king- dom come. Thine let it be In time and in e- ter- ni- ty. 
+w: 4.~Thy gra- cious will on earth be done As 'tis in heav'n be- fore Thy throne; 
+w: 5.~Give us this day our dai- ly bread And let us all be clothed and fed. 
+w: 6.~For- give our sins, Lord, we im- plore, Re- move from us their bur- den sore,
+w: 7.~In- to temp- ta- tion lead us not. When e- vil foes a- gainst us plot
+w: 8.~From e- vil, Lord, de- li- ver us; The times and days are per- il- ous.
+[V: S1V2]  E2 B, C | D D C =B, | C2 _E2 | D D F E | C C D2 |
+[V: S2V1]  C2 G, G, | B, B, G, G, | =E,2 C2 | B, A, D B, | _A, C =B,2 |
+[V: S2V2]  C,2 E, C, | B,, G,, C, G,, | C,2 C,2 | G,, D, B,, E, | _A,, _A,, G,,2 |
+[V: S1V1]  G2 B c | e d c =B | c2 c2 | d c B A | G ^F G2 |
+w: As bre- thren of one fa- mi- ly, To cry in ev- 'ry need to Thee, 
+w: That to the glo- ry of Thy Name We walk be- fore Thee free from blame. 
+w: Let Thy good Spir- it e'er be nigh Our hearts with gra- ces to sup- ply. 
+w: O- be- dience in our weal and woe And pa- tience in all grief be- stow. 
+w: From war and strife be our De- fense, From fa- mine and from pes- ti- lence, 
+w: As we their tre- spas- ses for- give Who by of- fen- ses us do grieve.
+w: And vex our souls on ev- ery hand, Oh, give us strength that we may stand
+w: Re- deem us from e- ter- nal death, And when we yield our dy- ing breath,
+[V: S1V2]  E2 D F | G F E D | =E2 F2 | F F F F | D D D2 |
+[V: S2V1]  C2 B, A, | B, B, G, G, | G,2 A,2 | B, C D C | B, A, =B,2 |
+[V: S2V2]  C,2 G, F, | E, B,, C, A,, | C,2 F,2 | B,, A,, B,, F,, | G,, D, G,,2 |
+[V: S1V1]  c2 B A | B G G F | E2 G2 | _A G E F | E D !fermata!C2 |]
+w: Teach us no thought- less word to say, But from our in- most heart to pray. 
+w: Let no false doc- trine us per- vert; All poor, de- lu- ded souls con- vert. 
+w: Break Sa- tan's pow'r, de- feat his rage; Pre- serve Thy Church from age to age. 
+w: Curb flesh and blood and ev- 'ry ill That sets it- self a- gainst Thy will. 
+w: That we may live in god- ly peace, Free from all care and a- va- rice. 
+w: Thus let us dwell in char- it- y And serve our bro- ther will- ing- ly.
+w: Firm in the faith, a well\-- armed host, Through com- fort of the Ho- ly Ghost!
+w: Con- sole us, grant us calm re- lease, And take our souls to Thee in peace.
+[V: S1V2]  F2 F F | D E E D | E2 C2 | C =B, C C | C =B, !fermata!C2 |]
+[V: S2V1]  A,2 D C | B, B, B, B, | G,2 E,2 | F, D, C,/E,/ _A, | G,3/2 F,/ !invertedfermata!=E,2 |]
+[V: S2V2]  F,,2 B,, F, | G, E, G,, B,, | E,2 C,2 | F,, G,, _A,, F,, | C, G,, !fermata!C,2 |]

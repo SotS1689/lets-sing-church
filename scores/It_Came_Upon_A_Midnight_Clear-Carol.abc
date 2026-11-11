@@ -1,0 +1,45 @@
+X: 1
+M: 6/8
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=60] F/ | d A/ c/B/ G/ | F G/ F F/ | G/A/ B/ B/c/ d/ | c3/2- c
+w: 1.~It came up- on * the mid- night clear, That glor- * ious song * of old,  * 
+w: 2.~Still through the clo- * ven skies they come With peace- * ful wings * un- furled,  * 
+w: 3.~Yet with the woes * of sin and strife The world * has suf- * fered long;  * 
+w: 4.~And ye, be- neath * life's crush- ing load, Whose forms * are bend- * ing low,  * 
+w: 5.~For lo! the days * are has- t'ning on, By pro- * phet\- bards * fore- told,  * 
+[V: S1V2]  D/ | D D/ E E/ | D E/ D D/ | E E/ =E =E/ | F3/2- F
+[V: S2V1]  F,/ | F, ^F,/ G, A,/ | B, F,/ F, B,/ | B, B,/ B, B,/ | A,3/2- A,
+[V: S2V2]  B,,/ | B,, B,,/ B,, B,,/ | B,, A,,/ B,, B,,/ | E,/F,/ G,/ G, C,/ | F,3/2- F,
+[V: S1V1]  F/ | d A/ c/B/ G/ | F G/ F F/ | G G/ A/G/ F/ | B3/2- B
+w: From an- gels bend- * ing near the earth, To touch their harps * of gold;  * 
+w: And still their hea- ven- ly mu- sic floats O'er all the wea- * ry world;  * 
+w: Be- neath the an- * gel strain have rolled Two thou- sand years * of wrong;  * 
+w: Who toil a- long * the climb- ing way With pain- ful steps * and slow,  * 
+w: When with the ev- * er circ- ling years Comes round the age * of gold;  * 
+[V: S1V2]  F/ | D D/ E E/ | D E/ D F/ | E E/ E E/ | D3/2- D
+[V: S2V1]  F,/ | F, ^F,/ G, A,/ | B, F,/ F, B,/ | B, C/ C/B,/ A,/ | B,3/2- B,
+[V: S2V2]  F,/ | B,, B,,/ B,, B,,/ | B,, A,,/ B,, B,,/ | E, C,/ F, F,/ | B,,3/2- B,,
+[V: S1V1]  d/ | d D/ D/=E/ ^F/ | G A/ B d/ | c/B/ A/ G/A/ G/ | F3/2- F
+w: "Peace on the earth, * good will to men, From Heav- en's all gra- * cious King."  * 
+w: A- bove its sad * and low- ly plains, They bend * on hov- * 'ring wing,  * 
+w: And man, at war * with man, hears not The love\- * song which * they bring;  * 
+w: Look now! for glad * and gold- en hours Come swift- * ly on * the wing.  * 
+w: When peace shall ov- * er all the earth Its an- * cient splen- * dors fling,  * 
+[V: S1V2]  D/ | D D/ D D/ | D D/ D D/ | F F/ =E =E/ | F3/2- F
+[V: S2V1]  D,/ | D, ^F,/ ^F,/G,/ A,/ | G, ^F,/ G, G,/ | A,/D/ C/ B,/C/ B,/ | A,3/2- A,
+[V: S2V2]  D,/ | D, D,/ D, C,/ | B,, D,/ G, B,,/ | C, C,/ C, C,/ | F,3/2- F,
+[V: S1V1]  F/ | d A/ c/B/ G/ | F G/ F F/ | G G/ A/G/ F/ | B3/2- B |]
+w: The world in so- * lemn still- ness lay, To hear the an- * gels sing.  * 
+w: And ev- er ov- er its Ba- bel sounds The bless- èd an- * gels sing.  * 
+w: O hush the noise, * ye men of strife And hear the an- * gels sing.  * 
+w: O rest be- side * the wear- y road, And hear the an- * gels sing!  * 
+w: And the whole world * send back the song Which now the an- * gels sing.  * 
+[V: S1V2]  _E/ | D D/ E E/ | D E/ D F/ | E E/ E E/ | D3/2- D |]
+[V: S2V1]  A,/ | B, ^F,/ G, A,/ | B, =F,/ =F, B,/ | B, C/ C/B,/ A,/ | B,3/2- B, |]
+[V: S2V2]  F,/ | B,, B,,/ B,, B,,/ | B,, A,,/ B,, D,/ | E, C,/ =F, =F,/ | B,,3/2- B,, |]

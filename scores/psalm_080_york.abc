@@ -1,0 +1,33 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 A c | B d A c | G2 G2 | A c c =B | c2 F2 | A c B d | A c G2 | A2 B A | G G F2 |]
+w: 1.~Hear, Is- r'el's Shep- herd! like a flock thou that dost Jo- seph guide; Shine forth, O thou that dost be- tween the che- ru- bims a- bide.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 3.~Turn us a- gain, O Lord our God, and up- on us vouch- safe To make thy coun- ten- ance to shine, and so we shall be safe.
+w: 4.~O Lord of hosts, Al- might- y God, how long shall kind- led be Thy wrath a- gainst the pra- yer made by thine own folk to thee?
+w: 5.~Thou tears of sor- row giv'st to them in- stead of bread to eat; Yea, tears in- stead of drink thou giv'st to them in mea- sure great.
+w: 6.~Thou ma- kest us a strife un- to our neigh- bours round a- bout; Our e- ne- mies a- mong them- selves at us do laugh and flout.
+w: 7.~Turn us a- gain, O God of hosts, and up- on us vouch- safe To make thy coun- ten- ance to shine, and so we shall be safe.
+w: 8.~A vine from E- gypt brought thou hast, by thine out- stretch- èd hand; And thou the hea- then out didst cast, to plant it in their land.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 10.~The moun- tains vail'd were with its shade, as with a co- ve- ring; Like good- ly ce- dars were the boughs which out from it did spring.
+w: 11.~Up- on the one hand to the sea her boughs she did out send; On th'o- ther side un- to the flood her branch- es did ex- tend.
+w: 12.~Why hast thou then thus bro- ken down, and ta'en her hedge a- way? So that all pas- seng- ers do pluck, and make of her a prey.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 14.~O God of hosts, we thee be- seech, re- turn now un- to thine; Look down from heav'n in love, be- hold, and vis- it this thy vine:
+w: 15.~This vi- neyard, which thine own right hand hath plant- ed us a- mong; And that same branch, which for thy- self thou hast made to be strong.
+w: 16.~Burnt up it is with fla- ming fire, it al- so is cut down: They ut- ter- ly are pe- rish- èd, when as thy face doth frown.
+w: 17.~O let thy hand be still up- on the Man of thy right hand, The Son of man, whom for thy- self thou mad- est strong to stand.
+w: 18.~So hence- forth we will not go back, nor turn from thee at all: O do thou quick- en us, and we up- on thy name will call.
+w: 19.~Turn us a- gain, Lord God of hosts, and up- on us vouch- safe To make thy coun- ten- ance to shine, and so we shall be safe.
+[V:A] C2 F _E | _E D D C | C2 E2 | F (E/ F/) G G | E2 F2 | F _E E D | D C C2 | C2 D F | F E F2 |]
+[V:T] A,2 C C | G, F, F, =E, | E,2 C2 | C C D D | C2 A,2 | C C G, B, | F, A, E,2 | F,2 F, (A,/ B,/) | C C A,2 |]
+[V:B] F,2 F, C, | _E, B,, D, A,, | C,2 C,2 | F, A, G, G, | C,2 F,2 | F, C, _E, B,, | D, A,, C,2 | F,2 B,, F, | C, C, F,,2 |]

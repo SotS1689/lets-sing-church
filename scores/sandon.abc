@@ -1,0 +1,45 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=135
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] A4 A2 A2 | B6 A2 | A2 G2 F2 G2 | A6 F2 |
+w: 1.~From out the depths I cry, O Lord, to Thee; Lord,
+w: 2.~I wait for God, the Lord, and on His word My
+w: 3.~Hope in the Lord, ye wait- ing saints, and He Will
+[V:A] F4 F2 F2 | F6 F2 | E2 E2 F2 E2 | F6 A,2 |
+[V:T] C4 C2 C2 | D6 C2 | B,2 B,2 A,2 G,2 | F,6 F,2 |
+[V:B] F,4 F,2 F,2 | F,6 F,2 | C,2 C,2 C,2 C,2 | F,6 D,2 |
+[V:S] G4 E4 | F8 | A4 A2 A2 | B6 A2 |
+w: hear my call. I love Thee, Lord, for
+w: hope re- lies; My soul still waits and
+w: well pro- vide, For mer- cy and re-
+[V:A] D4 C4 | C8 | F4 F2 F2 | F6 F2 |
+[V:T] B,4 B,4 | A,8 | C4 C2 C2 | D6 C2 |
+[V:B] B,,4 C,4 | F,8 | F,4 F,2 F,2 | F,6 F,2 |
+[V:S] A2 G2 F2 G2 | A6 F2 | G4 E4 | F8 |
+w: Thou dost heed my plea, For- giv- ing all;
+w: looks un- to the Lord Till light a- rise.
+w: demp- tion full and free With Him a- bide.
+[V:A] E2 E2 F2 E2 | F6 A,2 | D4 C4 | C8 |
+[V:T] B,2 B,2 A,2 G,2 | F,6 F,2 | B,4 G,4 | A,8 |
+[V:B] C,2 C,2 C,2 C,2 | F,6 D,2 | B,,4 C,4 | F,8 |
+[V:S] G4 G2 A2 | B4 G4 | c2 B2 A2 G2 | A6 c2 |
+w: If Thou shouldst mark our sins, who then shall stand? But
+w: I look for Him to drive a- way my night, Yea,
+w: From sin and e- vil, might- y though they seem, His
+[V:A] E4 E2 F2 | E4 E4 | F2 E2 F2 E2 | F6 F2 |
+[V:T] C4 B,2 A,2 | G,4 C4 | C2 C2 C2 C2 | C6 C2 |
+[V:B] C,4 C,2 C,2 | C,4 C,4 | A,2 G,2 F,2 C,2 | F,6 A,2 |
+[V:S] d4 c4 | B6 A2 | c2 B2 A2 G2 | F8 |]
+w: grace and mer- cy dwell at Thy right hand.
+w: more than watch- men look for morn- ing light.
+w: arm al- might- y will His saints re- deem.
+[V:A] F4 F4 | E6 F2 | F2 G2 F2 E2 | C8 |]
+[V:T] B,4 C4 | C6 C2 | D2 D2 C2 B,2 | A,8 |]
+[V:B] B,4 A,4 | G,6 F,2 | B,,2 B,,2 C,2 C,2 | F,8 |]

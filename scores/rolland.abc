@@ -1,0 +1,39 @@
+X:1
+M:3/2
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] G4 | G2 G2 G4 A4 | B2 G2 E4 E4 | D2 D2 G2 A2 B2 G2 |
+w: 1.~Bow down Thy ear, O Lord, and hear, For I am poor and great my
+w: 2.~O Lord, be mer- ci- ful to me, For all the day to Thee I
+w: 3.~For Thou, O Lord, art good and kind, And rea- dy to for- give Thou
+w: 4.~O Lord, in- cline Thy ear to me, My voice of sup- pli- ca- tion
+w: 5.~There is no God but Thee a- lone, Nor works like Thine, O Lord Most
+w: 6.~In all Thy deeds how great Thou art! Thou one true God, thy way make
+[V:A] D4 | D2 D2 E4 F4 | G2 D2 C4 C4 | D2 B,2 D2 D2 D2 ^C2 |
+[V:T] B,4 | B,2 B,2 B,4 D4 | D2 G,2 G,4 G,4 | G,2 G,2 G,2 F,2 G,2 G,2 |
+[V:B] G,4 | G,2 G,2 E,4 D,4 | G,2 B,,2 C,4 C,4 | B,,2 G,,2 B,,2 D,2 G,2 E,2 |
+[V:S] A8 d4 | d2 d2 d4 c4 | B2 B2 B4 (B2 A2) | G2 G2 G2 G2 A2 A2 |
+w: need; Pre- serve my soul, for Thee I fear; O _ God, Thy trust- ing ser- vant
+w: cry; Re- joice Thy ser- vant, for to Thee I _ lift my soul, O Lord Most
+w: art; A- bun- dant mer- cy they shall find Who _ call on Thee with all their
+w: heed; In trou- ble I will cry to Thee, For _ Thou wilt an- swer when I
+w: High; All na- tions shall sur- round Thy throne And _ their Cre- a- tor glor- i-
+w: clear; Teach me with un- div- id- ed heart To _ trust Thy truth, Thy Name to
+[V:A] D8 F4 | G2 F2 G4 F4 | G2 A2 G4 F4 | E2 E2 D2 D2 D2 D2 |
+[V:T] F,8 A,4 | B,2 C2 D4 D4 | D2 ^D2 E4 ^D4 | E2 C2 B,2 G,2 F,2 F,2 |
+[V:B] D,8 D,4 | G,2 A,2 B,4 A,4 | G,2 F,2 E,4 B,,4 | C,2 C,2 G,,2 B,,2 D,2 D,2 |
+[V:S] B8 G4 | (A G) (F E) D4 G4 | B2 A2 G4 |]
+w: heed, O God, _ Thy _ trust- ing ser- vant heed.
+w: High, I lift _ my _ soul, O Lord Most High.
+w: heart, Who call _ on _ Thee with all their heart.
+w: plead, For Thou _ wilt _ an- swer when I plead.
+w: fy, And their _ Cre- _ a- tor glor- i- fy.
+w: fear, To trust _ Thy _ truth, Thy Name to fear.
+[V:A] D8 D4 | E2 C2 D4 D4 | D2 D2 D4 |]
+[V:T] G,8 G,4 | G,2 G,2 G,4 B,4 | D2 C2 B,4 |]
+[V:B] G,8 B,,4 | C,2 C,2 B,,4 G,,4 | D,2 D,2 G,,4 |]

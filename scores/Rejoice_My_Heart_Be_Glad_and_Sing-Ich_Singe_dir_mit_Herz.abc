@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=110] F | F F F B | c A B c | G A G G | F3
+w: 1.~Re- joice, my heart, be glad and sing, A cheer- ful trust main- tain; 
+w: 2.~He is thy Trea- sure, He thy Joy, Thy Life and Light and Lord, 
+w: 3.~Why spend the day in blank des- pair, In rest- less thought the night? 
+w: 4.~Did not His love and truth and pow'r Watch o'er thy child- hood day? 
+w: 5.~His wis- dom nev- er plans in vain, Ne'er fal- ters or mis- takes; 
+w: 6.~Up- on thy lips, then, lay thy hand And trust His guid- ing love;
+w: 7.~O Lord I sing with lips and heart, Joy of my soul, to Thee:
+w: 8.~Thou art the Fount of grace, I know, And Spring so full and free,
+w: 9.~For what have all that live and move Through this wide world be- low
+w: 10.~Who built the lof- ty fir- ma- ment? Who spread th'ex- panse of blue?
+w: 11.~Who war- meth us in cold and frost? Who shields us from the wind?
+w: 12.~Who is it life and health be- stows? Who keeps us with His hand
+w: 13.~O Lord of this and all our store Thou art the au- thor blest;
+w: 14.~Thou fee- dest us from year to year, And con- stant dost a- bide;
+w: 15.~He ev- er will with pa- tience chide, His rod falls gent- ly down,
+w: 16.~When si- lent woe thy bo- som rends, His pi- ty sees thy grief,
+w: 17.~He knows how oft a Christ- ian weeps And why his tears now fall;
+w: 18.~Our deep- est needs dost Thou sup- ply, Thou giv'st what lasts for aye.
+[V: S1V2]  D | D C B, D | C C D F | =E F F =E | C3
+[V: S2V1]  B, | B, A, F, G, | G, F, F, C | C C D C | A,3
+[V: S2V2]  B,, | B,, F, D, G, | E, F, B,, A,, | C, F, B,, C, | F,,3
+[V: S1V1]  F | B c d B | e d c B | c d c c | B3 |]
+w: For God, the Source of ev- ery- thing, Thy Por- tion shall re- main. 
+w: Thy Coun- se- lor when doubts an- noy, Thy Shield and great Re- ward. 
+w: On thy Cre- a- tor cast thy care; He makes thy bur- dens light. 
+w: Has He not oft in threat- 'ning hour Turned dread- ed ills a- way? 
+w: All that His coun- sels did or- dain A hap- py end- ing makes. 
+w: Then like a rock thy peace shall stand Here and in heav'n a- bove.
+w: To Earth Thy know- ledge I im- part, As it is known to me.
+w: Whence sa- ving health and good- ness flow Each day so boun- teou- sly.
+w: That does not from Thy boun- teous love, O Heav'n- ly Fa- ther flow?
+w: By whom are to our pas- tures sent Re- fresh- ing rain and dew?
+w: Who or- ders it that oil and must We in their sea- son find?
+w: In gol- den peace, wards off war's woes From our dear na- tive land?
+w: Thou kee- pest watch be- fore our door, While we se- cure- ly rest.
+w: With rea- dy help in time of fear, Thou stan- dest at our side.
+w: And all thy sins He casts a- side And in the sea doth drown.
+w: Sup- plies what to His glo- ry tends And to thine own re- lief.
+w: And in the book His mer- cy keeps These things are not- ed all.
+w: Thou lead'st us to our home on high, When hence we pass a- way.
+[V: S1V2]  F | D F F G | E F F D | F F G F/E/ | D3 |]
+[V: S2V1]  A, | B, A, B, G, | G,/A,/ B, A, G, | A, B, B, A, | B,3 |]
+[V: S2V2]  F, | G, F, B,, E, | C, D,/E,/ F, G, | F, D, E, F, | B,,3 |]

@@ -1,0 +1,20 @@
+X:1
+M:3/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] E2 | A A B2 B2 | c B A2 B2 | c c d2 c2 | B4 e2 | e c c2 A2 | A F F2 ((A F)) | E A A2 B2 | A4 |]
+w: 1.~When Is- r'el out of E- gypt went, and did his dwell- ing change, When Ja- cob's house went out from those that _ were of lang- uage strange,
+w: 2.~He Ju- dah did his sanc- tua- ry, his king- dom Is- r'el make: The sea it saw, and quick- ly fled, Jor- _ dan was dri- ven back.
+w: 3.~Like rams the moun- tains, and like lambs the hills skipped to and fro. O sea, why fledd'st thou? Jor- dan, back why _ wast thou dri- ven so?
+w: 4.~Ye moun- tains great, where- fore was it that ye did skip like rams? And where- fore was it, lit- tle hills, that _ ye did leap like lambs?
+w: 5.~O at the pre- sence of the Lord, earth, trem- ble thou for fear, While as the pre- sence of the God of _ Ja- cob doth ap- pear:
+w: 6.~Who from the hard and sto- ny rock did stand- ing wa- ter bring; And by his pow'r did turn the flint in- _ to a wa- ter\-- spring.
+[V:A] E2 | E C E2 E2 | E D C2 E2 | E E E2 E2 | E4 G2 | A E E2 E2 | F D D2 (F D) | C C C2 D2 | C4 |]
+[V:T] E,2 | E, A, G,2 G,2 | A, G, A,2 G,2 | A, A, B,2 A,2 | G,4 B,2 | C A, A,2 A,2 | A, A, A,2 A,2 | A, A, A,2 G,2 | A,4 |]
+[V:B] E,2 | C, A,, E,2 E,2 | A, E, F,2 E,2 | A, A, G,2 A,2 | E,4 E,2 | A, A, A,2 C,2 | D, D, D,2 D,2 | E, E, E,2 E,2 | A,,4 |]

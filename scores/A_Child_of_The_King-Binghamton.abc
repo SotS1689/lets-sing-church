@@ -1,0 +1,49 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=120] G | B3/2 =A/ B | G2 G | G3/2 ^F/ G | E2 E | F3/2 F/ 
+w: 1.~My Fath- er is rich in hous- es and lands, He hold- eth 
+w: 2.~My Fa- ther's own Son, the Sa- vior of men, Once wand- er'd
+w: 3.~I once was an out- cast stran- ger on earth, A sin- ner
+w: 4.~A tent or a cott- age, why should I care? They're build- ing
+[V: S1V2] E | E3/2 E/ E | E2 E | E3/2 E/ E | B,2 E | D3/2 D/ 
+[V: S2V1] B, | G,3/2 ^F,/ G, | B,2 B, | B,3/2 =A,/ B, | G,2 B, | B,3/2 B,/ 
+[V: S2V2] E, | E,3/2 E,/ E, | E,2 E, | E,3/2 E,/ E, | E,2 G, | A,3/2 A,/ 
+[V: S1V1] F | F G A | A G F | G2 G | B3/2 =A/ B | G G
+w: the wealth of the world in His hands! Of ru- bies and dia- monds 
+w: o'er earth as the poor- est of men, But now He is reign- ing
+w: by choice, and an al- ien by birth! But I've been a- dopt- ed,
+w: a pal- ace for me o- ver there! Tho' ex- il- ed from home,
+[V: S1V2] D | D E F | F E D | E2 E | G3/2 ^F/ G | E E
+[V: S2V1] B, | B, B, B, | B, B, B, | B,2 B, | E3/2 E/ E | B, B,
+[V: S2V2] A, | A, G, F, | B,, B,, B,, | E,2 E, | E,3/2 E,/ E, | E, E,
+[V: S1V1] G | A3/2 A/ A | c2 c/- c/ | B3/2 B/ B | G2 E/ F/ | G G3/2 F/ | E2
+w: of sil- ver and gold His * cof- fers are full,\- He has rich- es un- told. 
+w: for- ev- er on high, And will give me a home in hea- ven by and by.
+w: my name's writ- ten down,— An _ heir to a man- sion, a robe, and a crown.
+w: yet, still I may sing: All _ glo- ry to God, I'm the child of a King.
+[V: S1V2] E | E3/2 E/ E | E2 E/- E/ | E3/2 E/ E | E2 E/ E/ | E D3/2 B,/ | B,2
+[V: S2V1] _D | C3/2 C/ C | A,2 A,/- A,/ | G,3/2 G,/ G, | B,2 =A,/ A,/ | B, B,3/2 A,/ | G,2
+[V: S2V2] E, | A,3/2 A,/ A, | A,,2 A,,/- A,,/ | E,3/2 E,/ E, | E,2 C,/ C,/ | B,, B,,3/2 B,,/ | E,2
+[V: S1V1] E3/4 G// | B3/2 =A/ B | G2 G | G3/2 ^F/ G | B2
+w: I'm a child of the King, a child of the King: 
+w: I'm a child of the King, a child of the King:
+w: I'm a child of the King, a child of the King:
+w: I'm a child of the King, a child of the King:
+[V: S1V2] B,3/4 E// | G3/2 ^F/ G | E2 E | E3/2 E/ E | G2
+[V: S2V1] G,3/4 B,// | E3/2 E/ E | B,2 B, | B,3/2 =A,/ B, | E2
+[V: S2V2] E,3/4 E,// | E,3/2 E,/ E, | E,2 E, | E,3/2 E,/ E, | E,2
+[V: S1V1] B | e3/2 d/ c | B/ G3/2!fermata! c/ A/ | G G3/2 F/ | E2 |]
+w: With Je- sus my Sav- ior I'm a child of the King. 
+w: With Je- sus my Sa- vior I'm a child of the King.
+w: With Je- sus my Sa- vior I'm a child of the King.
+w: With Je- sus my Sa- vior I'm a child of the King.
+[V: S1V2] G | G3/2 B/ A | G/ E3/2!fermata! E/ F/ | E D3/2 B,/ | B,2 |]
+[V: S2V1] B, | B,3/2 C/ D | E/ B,3/2!invertedfermata! C/ C/ | B, B,3/2 A,/ | G,2 |]
+[V: S2V2] E, | E,3/2 E,/ E, | E,/ E,3/2!fermata! A,/ F,/ | B, B,,3/2 B,,/ | E,2 |]

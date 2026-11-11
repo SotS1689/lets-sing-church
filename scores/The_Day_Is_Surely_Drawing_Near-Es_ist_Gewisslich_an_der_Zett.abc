@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=140] z G G B | A G A A | B2 G2 | B c d B | A2 G2 |
+w: 1.~The day is sure- ly draw- ing near, When God's Son, the A- noint- ed, 
+w: 2.~A trum- pet loud shall then re- sound, And all the earth be sha- ken; 
+w: 3.~A book is o- pened then to all, A re- cord tru- ly tell- ing 
+w: 4.~Then woe to those who scorned the Lord, And sought but car- nal plea- sures, 
+w: 5.~O Je- sus, who my debt didst pay And for my sin wast smit- ten 
+w: 6.~There- fore, my Int- er- ces- sor be, And for Thy blood and mer- it
+w: 7.~O Je- sus Christ, do not de- lay, O has- ten our sal- va- tion!
+[V: S1V2]  x D D G | F E E F | G2 E2 | G G A G | (G F) D2 |
+[V: S2V1]  z B, G, D | D B, C D | D2 C2 | D E D D | D2 B,2 |
+[V: S2V2]  x G,, B,, G,, | D, E, A,, D, | G,,2 C,2 | G, E, F, G, | D,2 G,,2 |
+[V: S1V1]  z G G B | A G A A | B2 G2 | B c d B | A2 G2 |
+w: Shall with great maj- es- ty ap- pear, As Judge of all ap- point- ed. 
+w: Then all who in their graves are found Shall from their sleep a- wa- ken. 
+w: What each hath done, both great and small, When he on earth was dwell- ing; 
+w: Who here des- pised His prec- ious Word, And loved their earth- ly trea- sures! 
+w: With- in the Book of Life, oh, may My name be al- so writ- ten! 
+w: De- clare my name from judg- ment free, With all who life in- her- it;
+w: We of- ten trem- ble on our way In fear and trib- u- la- tion.
+[V: S1V2]  x D D G | F E E F | G2 E2 | G G A G | (G F) D2 |
+[V: S2V1]  z B, G, D | D B, C D | D2 C2 | D E D D | D2 B,2 |
+[V: S2V2]  x G,, B,, G,, | D, E, A,, D, | G,,2 C,2 | G, E, F, G, | D,2 G,,2 |
+[V: S1V1]  z B B A | G F G E | D3 D | G G G F |
+w: All mirth and laugh- ter then shall cease When flames on flames will 
+w: But all that live shall in that hour, By the Al- might- y's 
+w: And ev- ery heart be clear- ly seen, And all be known as 
+w: With shame and trem- bling they will stand, And at the Judg- e's 
+w: I will not doubt; I trust in Thee, From Sa- tan Thou hast 
+w: That I may see Thee face to face With all thy saints in
+w: Then hear us when we cry to Thee; Come, might- y Judge, and
+[V: S1V2]  x D G F | E ^D E ^C | D3 D | D E D D |
+[V: S2V1]  z G, D D | B, B, B, A, | F,3 F, | G, C B, A, |
+[V: S2V2]  x G,, G, D, | E, B,, G,, A,, | D,3 D, | B,, C, G,, D, |
+[V: S1V1]  G A B2 | G2 B c | d B A2 | G4 |]
+w: still in- crease, As Scrip- ture tru- ly teach- eth. 
+w: bound- less pow'r Be changed at His com- mand- ing. 
+w: they have been, In thoughts and words and ac- tions. 
+w: stern com- mand To Sa- tan be de- liv- ered. 
+w: made me free And from all con- dem- na- tion. 
+w: that blest place Which Thou for us hast pur- chased.
+w: make us free From ev- ery e- vil. A- men!
+[V: S1V2]  B, D D2 | E2 D E | F D D2 | B,4 |]
+[V: S2V1]  G, F, G,2 | G,2 G, G, | A, G, (G, F,) | G,4 |]
+[V: S2V2]  E, D, G,,2 | C,2 G, E, | D, G,, D,2 | G,,4 |]

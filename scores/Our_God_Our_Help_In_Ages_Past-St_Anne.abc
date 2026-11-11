@@ -1,0 +1,35 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] G | E A G c | c B c G | c G A ^F | G3
+w: 1.~Our God, our help in a- ges past, Our hope for years to come, 
+w: 2.~Un- der the sha- dow of Thy throne Thy saints have dwelt se- cure; 
+w: 3.~Be- fore the hills in or- der stood, Or earth re- ceived her frame, 
+w: 4.~Thy Word com- mands our flesh to dust, 'Re- turn, ye sons of men:' 
+w: 5.~A thou- sand a- ges in Thy sight Are like an eve- ning gone; 
+w: 6.~The bu- sy tribes of flesh and blood, With all their lives and cares,
+w: 7.~Time, like an ev- er rol- ling stream, Bears all its sons a- way;
+w: 8.~Like flow- ery fields the na- tions stand Pleased with the morn- ing light;
+w: 9.~Our God, our help in a- ges past, Our hope for years to come,
+[V: S1V2]  C | C C C E | D D E E | E E E D | D3
+[V: S2V1]  E, | G, A, C C | A, G, G, C | C B, A, A, | B,3
+[V: S2V2]  C, | C, F, E, A, | F, G, C, C, | A,, E, C, D, | G,,3
+[V: S1V1]  B | c A d B | c A B G | A c d B | c3 |]
+w: Our shel- ter from the storm- y blast, And our e- ter- nal home. 
+w: Suf- fic- ient is Thine arm a- lone, And our de- fense is sure. 
+w: From ev- er- last- ing Thou art God, To end- less years the same. 
+w: All na- tions rose from earth at first, And turn to earth a- gain. 
+w: Short as the watch that ends the night Be- fore the ris- ing sun. 
+w: Are car- ried down- wards by the flood, And lost in follow- ing years.
+w: They fly, for- got- ten, as a dream Dies at the o- pening day.
+w: The flowers be- neath the mo- wer's hand Lie wi- thering ere 'tis night.
+w: Be Thou our guard while troub- les last, And our e- ter- nal home.
+[V: S1V2]  D | E C F D | E3/2 D/ B, C | F E D D | E3 |]
+[V: S2V1]  G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
+[V: S2V2]  G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]

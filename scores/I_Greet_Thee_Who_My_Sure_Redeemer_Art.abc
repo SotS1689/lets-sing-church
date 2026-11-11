@@ -1,0 +1,46 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F4 G2 A2 | B4 A4 | G2 F2 F2 E2 | F8 |
+w: 1.~I greet Thee, who my sure Re- deem- er art,
+w: 2.~Thou art the King of mer- cy and of grace,
+w: 3.~Thou art the life, by which a- lone we live,
+w: 4.~Thou hast the true and per- fect gent- le- ness,
+w: 5.~Our hope is in no o- ther save in Thee;
+[V:A] C4 E2 F2 | F4 F4 | E2 D2 D2 C2 | C8 |
+[V:T] A,4 C2 C2 | D4 C4 | C2 A,2 B,2 G,2 | A,8 |
+[V:B] F,4 C,2 F,2 | B,,4 F,4 | C,2 D,2 B,,2 C,2 | F,,8 |
+[V:S] A4 B2 c2 | d4 c4 | B2 A2 G2 F2 | G8 |
+w: My on- ly trust and Sa- vior of my heart,
+w: Reign- ing om- ni- po- tent in ev- ery place;
+w: And all our sub- stance and our strength re- ceive;
+w: No harsh- ness hast Thou and no bit- ter- ness;
+w: Our faith is built up- on Thy pro- mise free;
+[V:A] F4 F2 F2 | F4 F4 | E2 F2 D2 D2 | E8 |
+[V:T] C4 B,2 A,2 | B,4 A,4 | B,2 C2 B,2 A,2 | C8 |
+[V:B] F,4 D,2 C,2 | B,,4 F,4 | G,2 F,2 B,,2 D,2 | C,8 |
+[V:S] c4 c2 B2 | A4 G4 | A2 c2 c2 =B2 | c8 |
+w: Who pain didst un- der- go for my poor sake;
+w: So come, O King, and our whole be- ing sway;
+w: Sus- tain us by Thy faith and by Thy power,
+w: O grant to us the grace we find in Thee,
+w: Lord, give us peace, and make us calm and sure,
+[V:A] C4 C2 E2 | F4 G4 | F2 G2 G2 G2 | E8 |
+[V:T] F,4 F,2 G,2 | A,4 C4 | C2 C2 D2 D2 | C8 |
+[V:B] A,,4 A,,2 C,2 | F,4 E,4 | F,2 E,2 G,2 G,,2 | C,8 |
+[V:S] A4 G2 F2 | E2 F2 G2 B2 | A4 G4 | F8 |]
+w: I pray Thee from our hearts all cares to take.
+w: Shine on us with the light of Thy pure day.
+w: And give us strength in ev- ery try- ing hour.
+w: That we may dwell in per- fect u- ni- ty.
+w: That in Thy strength we ev- er- more en- dure.
+[V:A] F4 E2 D2 | ^C2 D2 D2 G2 | F4 E4 | F8 |]
+[V:T] x2 C2 C2 A,2 | A,2 A,2 B,2 D2 | C6 B,2 | A,8 |]
+[V:B] F,4 C,2 D,2 | A,,2 D,2 B,,2 G,,2 | C,4 C,4 | F,,8 |]

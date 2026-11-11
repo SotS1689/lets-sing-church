@@ -1,0 +1,24 @@
+X:1
+M:3/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 | A3/2 A/ A2 G2 | F3/2 F/ F2 G2 | A c B2 A2 | (A2 G2) B2 | A3/2 A/ A2 d2 | c3/2 c/ c2 F2 | G B A2 G2 | F4 |]
+w: 1.~Be mer- ci- ful to me, O God; thy mer- cy un- to me _ Do thou ex- tend; be- cause my soul doth put her trust in thee:
+w: 2.~Yea, in the sha- dow of thy wings my re- fuge I will place, _ Un- til these sad ca- la- mi- ties do whol- ly o- ver- pass.
+w: 3.~My cry I will cause to a- scend un- to the Lord most high; _ To God, who doth all things for me per- form most per- fect- ly.
+w: 4.~From heav’n he shall send down, and me from his re- proach de- fend _ That would de- vour me: God his truth and mer- cy forth shall send.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 6.~Be thou ex- alt- ed ver- y high a- bove the heav’ns, O God; _ Let thou thy glo- ry be ad- vanced o’er all the earth a- broad.
+w: 7.~My soul’s bowed down; for they a net have laid, my steps to snare: _ In- to the pit which they have digged for me, they fal- len are.
+w: 8.~My heart is fixed, my heart is fixed, O God; I’ll sing and praise. _ My glo- ry wake; wake psal- t’ry, harp; my- self I’ll ear- ly raise.
+w: 9.~I’ll praise thee ‘mong the peo- ple, Lord; ‘mong na- tions sing will I: _ For great to heav’n thy mer- cy is, thy truth is to the sky.
+w: 10.~O Lord, ex- alt- ed be thy name a- bove the heav’ns to stand: _ Do thou thy glo- ry far ad- vance a- bove both sea and land.
+[V:A] F2 | F3/2 F/ F2 E2 | D3/2 D/ D2 E2 | F C (D E) F2 | (F2 E2) G2 | F3/2 F/ F2 F2 | F3/2 F/ F2 C2 | D G F2 E2 | F4 |]
+[V:T] A,2 | C3/2 C/ C2 B,2 | A,3/2 A,/ A,2 C2 | C A, B,2 C2 | C4 C2 | C3/2 C/ C2 B,2 | A,3/2 A,/ A,2 C2 | B, D C2 (C B,) | A,4 |]
+[V:B] F,2 | F,3/2 F,/ F,2 C,2 | D,3/2 D,/ D,2 C,2 | F, A, G,2 F,2 | C,4 E,2 | F,3/2 F,/ F,2 B,,2 | F,3/2 F,/ F,2 A,,2 | B,, G,, C,2 C,2 | F,4 |]

@@ -1,0 +1,42 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=120] F | c c c c | d c/B/ A A | B c
+w: 1.~The peo- ple that in dark- ness * sat A glo- rious 
+w: 2.~To hail Thee, Sun of Right- eous- * ness, The gath'r- ing 
+w: 3.~For Thou their bur- den dost re- * move And break the 
+w: 4.~To us a Child of hope is * born, To us a 
+w: 5.~His name shall be the Prince of * Peace, The Ev- er- 
+w: 6.~His right- eous go- vern- ment and _ pow’r Shall o- ver
+w: 7.~Lord Je- sus, reign in us, we _ pray, And make us
+[V: S1V2]  F | F G F F | F E F F | F G
+[V: S2V1]  A, | A, G, A, C | B, B, C C | D C
+[V: S2V2]  F, | F, E, F, A,, | B,, G, F, F, | D, E,
+[V: S1V1]  d d | c3 c | c c c A | c B/A/ G c |
+w: light have seen; The light has shined on them who * long In 
+w: na- tions come; They joy as when the reap- ers * bear Their 
+w: tyr- ant's rod As in the day when Mid- ian * fell Be- 
+w: Son is giv'n, And on His shoul- der ev- er * rests All 
+w: last- ing Lord, The Won- der- ful, the Coun- se- * lor. The 
+w: all ex- tend; On judg- ment and on jus- tice _ based, His
+w: Thine a- lone, Who with the Fa- ther ev- er _ art And
+[V: S1V2]  A G | E3 E | F G F C | F D E E |
+[V: S2V1]  C =B, | C3 G, | A, C A, A, | F, F, C G, |
+[V: S2V2]  F, G, | C,3 C, | F, E, F, F,, | A,, B,, C, C, |
+[V: S1V1]  A F G G | F2 A2 | c F G G | F3 |]
+w: shades of death have been. In shades of death have been. 
+w: har- vest trea- sures home. Their har- vest trea- sures home. 
+w: fore the sword of God. Be- fore the sword of God. 
+w: pow'r in earth and heav'n. All pow'r in earth and heav'n. 
+w: God by all a- dored. The God by all a- dored. 
+w: reign shall have no end. His reign shall have no end.
+w: Ho- ly Spi- rit, one. And Ho- ly Spi- rit, one.
+[V: S1V2]  C F F E | F2 F2 | C D D E | C3 |]
+[V: S2V1]  A, C D C | A,2 C2 | G, A, B, G, | A,3 |]
+[V: S2V2]  F, A,, B,, C, | F,,2 F,2 | E, D, B,, C, | F,,3 |]

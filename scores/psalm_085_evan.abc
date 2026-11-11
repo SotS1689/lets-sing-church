@@ -1,0 +1,23 @@
+X:1
+M:3/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] E2 | E A c2 B2 | A F E2 E2 | E A c2 A2 | B4 d2 | c B A2 B2 | c A F2 E2 | E A c2 B2 | A4 |]
+w: 1.~O Lord, thou hast been fa- vo- rable to thy be- lov- ed land: Ja- cob's cap- ti- vi- ty thou hast re- called with might- y hand.
+w: 2.~Thou par- don- èd thy peo- ple hast all their i- ni- qui- ties; Thou all their tre- spas- ses and sins hast co- vered from thine eyes.
+w: 3.~Thou took'st off all thine ire, and turn'dst from thy wrath's fu- riou- sness. Turn us, God of our health, and cause thy wrath 'gainst us to cease.
+w: 4.~Shall thy dis- plea- sure thus en- dure a- gainst us with- out end? Wilt thou to gen- er- a- tions all thine an- ger forth ex- tend?
+w: 5.~That in thee may thy peo- ple joy, wilt thou not us re- vive? Show us thy mer- cy, Lord, to us do thy sal- va- tion give.
+w: 6.~I'll hear what God the Lord will speak: to his folk he'll speak peace, And to his saints; but let them not re- turn to foo- lish- ness.
+w: 7.~To them that fear him sure- ly near is his sal- va- ti- on; That glo- ry in our land may have her hab- i- ta- ti- on.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 9.~Yea, what is good the Lord shall give; our land shall yield in- crease: Jus- tice, to set us in his steps, shall go be- fore his face.
+[V:A] C2 | C C E2 D2 | C D C2 C2 | C C C2 C2 | E4 E2 | E E C2 E2 | E E D2 B,2 | C C E2 D2 | C4 |]
+[V:T] A,2 | A, A, A,2 G,2 | A, A, A,2 A,2 | A, A, A,2 A,2 | G,4 B,2 | A, G, A,2 G,2 | A, A, A,2 G,2 | A, A, A,2 G,2 | A,4 |]
+[V:B] A,,2 | A,, A,, A,,2 E,2 | F, D, A,,2 A,,2 | A,, A, F,2 F,2 | E,4 E,2 | A, E, F,2 E,2 | A, C, D,2 E,2 | A,, F, E,2 E,2 | A,,4 |]

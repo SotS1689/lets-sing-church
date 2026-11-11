@@ -1,0 +1,33 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=60] F3/4G// F/ D3/2 | F3/4G// F/ D3/2 | c c/ A3/2 | B B/ F3/2 |
+w: 1.~Si- * lent night, ho- * ly night, All is calm, all is bright 
+w: 2.~Si- * lent night, ho- * ly night, Shep- herds quake at the sight; 
+w: 3.~Si- * lent night, ho- * ly night, Son of God, love's pure light; 
+w: 4.~Si- * lent night, ho- * ly night Won- drous star, lend thy light; 
+[V: S1V2]  D3/4E// D/ B,3/2 | D3/4E// D/ B,3/2 | E E/ E3/2 | D D/ D3/2 |
+[V: S2V1]  F, F,/ F,3/2 | F, F,/ F,3/2 | A, A,/ C3/2 | B, B,/ B,3/2 |
+[V: S2V2]  B,, B,,/ B,,3/2 | B,, B,,/ B,,3/2 | F, F,/ F,3/2 | B,, B,,/ B,,3/2 |
+[V: S1V1]  G G/ B3/4A// G/ | F3/4G// F/ D3/2 | G G/ B3/4A// G/ | F3/4G// F/
+w: Round yon vir- * gin mo- ther and Child. Ho- ly In- fant, so ten- der and 
+w: Glo- ries stream * from hea- ven a- far, Heaven- ly hosts * sing Al- le- lu- 
+w: Ra- diant beams * from Thy ho- ly face With the dawn of re- deem- * ing 
+w: With the an- * gels let * us sing, Al- le- lu- * ia to * our 
+[V: S1V2]  E E/ G3/4F// E/ | D3/4E// D/ B,3/2 | E E/ G3/4F// E/ | D3/4E// D/
+[V: S2V1]  B, B,/ B, B,/ | B,3/4B,// B,/ B,3/2 | B, B,/ B,3/4B,// B,/ | B,3/4B,// B,/
+[V: S2V2]  E, E,/ E, E,/ | B,,3/4B,,// B,,/ B,,3/2 | E, E,/ E,3/4E,// E,/ | B,,3/4B,,// B,,/
+[V: S1V1]  D3/2 | c c/ e3/4c// A/ | (B3/2 d3/2) | B/F/ D/ F3/4E// C/ | B,3 |]
+w: mild, Sleep in hea- ven- ly peace, * Sleep * in hea- ven- ly peace. 
+w: ia! Christ the Sa- vior is born, * Christ * the Sa- vior is born! 
+w: grace, Je- sus, Lord, at Thy birth, * Je- * sus, Lord, at Thy birth. 
+w: King; Christ the Sa- vior is born, * Christ * the Sa- vior is born! 
+[V: S1V2]  B,3/2 | F F/ F3/4F// F/ | F3 | B, B,/ A,3/4A,// A,/ | B,3 |]
+[V: S2V1]  B,3/2 | A, A,/ A,3/4A,// E/ | (D3/2 B,3/2) | F, F,/ F,3/4F,// E,/ | D,3 |]
+[V: S2V2]  B,,3/2 | F, F,/ F,3/4F,// F,/ | B,3 | D, B,,/ F,,3/4F,,// F,,/ | B,,3 |]

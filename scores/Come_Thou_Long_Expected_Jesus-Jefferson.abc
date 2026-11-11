@@ -1,0 +1,28 @@
+X: 1
+M: 2/4
+L: 1/4
+%%staves (S1V1 S1V2) | S2 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2 clef=bass 
+K: C
+[V: S1V1] [Q:1/4=100]  A A/G/ | E G/A/ | c B/A/ | B A | A/G/ E/D/ | E G/A/ | c B | A2 |
+w: 1.~Come, Thou * long ex- * pect- ed * Je- sus Born * to * set Thy * peo- ple free; 
+w: 2.~Born Thy * peo- ple * to de * li- ver, Born * a * child and * yet a King, 
+[V: S1V2]   A, A,/B,/ | C A, | E B | G/F/ E | C B, | A, B,/A,/ | C B, | A,2 |
+[V: S2]   E, E,/G,/ | A, A, | G, E,/F,/ | G, E, | C,/D,/ E,/G,/ | A, D, | E, E, | A,,2 |
+[V: S1V1]  A A/G/ | E G/A/ | c B/A/ | B A | A/G/ E/D/ | E G/A/ | c B | A2 |
+w: From our * fears and * sins re- * lease us, Let * us * find our * rest in Thee. 
+w: Born to * reign in * us for- * ev- er, Now * Thy * grac- ious * king- dom bring. 
+[V: S1V2]  A, A,/B,/ | C A, | E B | G/F/ E | C B, | A, B,/A,/ | C B, | A,2 |
+[V: S2]  E, E,/G,/ | A, A, | G, E,/F,/ | G, E, | C,/D,/ E,/G,/ | A, D, | E, E, | A,,2 |
+[V: S1V1]  c d | e e | c B/A/ | B A | c d | e e/d/ | c B/A/ | B2 |
+w: Is- rael's Strength and Con- sol- * a- tion, Hope of all the  * earth Thou * art; 
+w: By Thine own e- ter- nal * Spi- rit Rule in all our  * hearts a- * lone; 
+[V: S1V2]  C B, | A, A, | C/D/ E/D/ | E E | E D | C A, | C D/C/ | B,2 |
+[V: S2]   E, G, | A, A, | G, A, | E, E, | C, D, | E, A, | G, D, | E,2 |
+[V: S1V1]  A c/d/ | e e | c B/A/ | B A | A/G/ E/D/ | E G/A/ | c B | A2 |]
+w: Dear De- * sire of ev- ery * na- tion, Joy * of * ev- ery * long- ing  heart. 
+w: By Thine * all suf- fi- cient * mer- it, Raise * us * to Thy * glor- ious throne. 
+[V: S1V2]  E E/D/ | B, C/B,/ | C B,/C/ | D E | C B, | A, B,/A,/ | G, B, | A,2 |]
+[V: S2]  A, G,/A,/ | B, A, | A, E, | D, E, | A, B, | A, D, | E, E, | A,,2 |]

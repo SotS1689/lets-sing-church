@@ -1,0 +1,69 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1]  [Q:1/4=84] B | G A B/c/ d | c2 !fermata!B B/c/ | d d A B | G2 !fermata!F
+w: 1.~U- pon the cross * ex- ten- ded, See, * world, thy Lord su- spen- ded,
+w: 2.~Come hi- ther now * and pon- der, 'Twill * fill thy soul with won- der,
+w: 3.~Who is it that * hath bruised Thee? Who * hath so sore a- bused Thee
+w: 4.~I caused Thy grief * and sigh- ing By * e- vils mul- ti- ply- ing
+w: 5.~'Tis I who should * be smit- ten My * doom should here be writ- ten:
+w: 6.~The load Thou ta- _ kest on Thee, That _ pressed so sore- ly on me,
+w: 7.~A crown of thorns _ Thou wea- rest, My _ shame and scorn Thou bea- rest,
+w: 8.~In- to death's jaws _ Thou spring- est, De- _ liv'r- ance to me bring- est
+w: 9.~Thy cords of love, _ my Sa- vior, Bind _ me to Thee for- ev- er,
+w: 10.~Not much can I _ be giv- ing In _ this poor life I'm liv- ing,
+w: 11.~Thy cross I'll place _ be- fore me, Its _ sa- ving power be o'er me,
+w: 12.~How God at our _ trans- gres- sion To _ an- ger gives ex- pres- sion,
+w: 13.~From them shall I _ be lear- ning, How _ I may be a- dorn- ing,
+w: 14.~When e- vil men _ re- vile me, With _ wi- cked tongues de- file me,
+w: 15.~I'll on the cross _ u- nite me To _ Thee, what doth de- light me
+w: 16.~Thy groan- ing and _ Thy si- ghing, Thy _ bit- ter tears and dy- ing,
+[V: S1V2]   G | E F G/A/ B | (B A) !fermata!G G | G/F/ G/E/ F/E/ D | (D ^C) !fermata!D
+[V: S2V1]   D | C C D/C/ B,/A,/ | (G, D) !invertedfermata!D E | D D D F, | (G,/F,/ G,) !invertedfermata!A,
+[V: S2V2]   G, | C/B,/ A, G,3/2 F,/ | (E, F,) !fermata!G, E, | B,,/A,,/ B,,/C,/ D,/C,/ B,, | E,2 !fermata!D,
+[V: S1V1]  D | G A B B | !fermata!A3 B | G A B/c/ d | c2 !fermata!B
+w: Thy Sa- vior yields His breath. The Prince of Life * from hea- ven
+w: Blood streams from e- very pore. Through grief whose depth * none know- eth,
+w: And caused Thee all Thy woe? While we must make * con- fes- sion
+w: As count- less as the sands. I caused the woes * un- num- bered
+w: Bound hand and foot in hell. The fet- ters and * the scour- ging,
+w: It crushed me to the ground. The cross for me _ en- du- ring,
+w: That I might ran- somed be. My bond- sman, ev- _ er will- ing,
+w: From such a mon- ster dire. My death a- way _ Thou ta- kest,
+w: I am no long- er mine. To Thee I glad- _ ly ten- der
+w: But one thing do I say: Thy death and sor- _ rows ev- er,
+w: Wher- ev- er I may be; Thine in- no- cence _ re- veal- ing,
+w: How loud His thun- ders roll, How fear- ful- ly _ He smi- teth,
+w: My heart with qu- iet- ness, And how I still _ should love them
+w: I'll curb my veng- eful heart. The un- just wrong _ I'll suf- fer,
+w: I'll there re- nounce for aye. What- e'er Thy Spir- _ it's grie- ving,
+w: With which Thou was op- pressed— They shall, when life _ is end- ing,
+[V: S1V2]  A, | D C B,/C/ D | !fermata!D3 F | E D D E | E/D/E/F/ !fermata!^G
+[V: S2V1]  F,/E,/ | D, E,/F,/ G, G, | !invertedfermata!F,3 B, | B,/C/ B,/A,/ G,/A,/ B, | A,/B,/C/D/ !invertedfermata!E
+[V: S2V2]  C, | B,, A,, G,,/A,,/ B,,/C,/ | !fermata!D,3 ^D, | E, F, G, ^G, | (A, A,,) !fermata!E,
+[V: S1V1]  B/c/ | d y d A y B | G2 !fermata!F =D | G A B c | B A !fermata!G |]
+w: Him- * self hath free- ly gi- ven To shame and blows and bit- ter death.
+w: From * His great heart there flo- weth Sigh af- ter sigh of an- guish o'er.
+w: Of * sin and dire trans- gres- sion, Thou deeds of e- vil dost not know.
+w: With * which Thy soul is cum- bered, Thy sor- rows raised by wi- cked hands.
+w: The * floods a- round Thee sur- ging, 'Tis I who have de- served them well.
+w: The _ crown for me se- cu- ring, My heal- ing in Thy wounds is found.
+w: My _ place with pa- tience fil- ling, From sin and guilt hast made me free.
+w: Thy _ grave its grave Thou ma- kest; Of love, O u- ne- xampled fi- re!
+w: All _ that my life can ren- der And all I have to Thee re- sign.
+w: Till _ soul from bo- dy se- ver, My heart re- mem- ber shall for aye.
+w: Thy _ love and mer- cy sea- ling, The pledge of truth and con- stan- cy.
+w: How _ sore- ly He re- qui- teth— All this Thy suf- ferings teach my soul.
+w: Whose _ ma- lice aye doth move them To grieve me by their wick- ed- ness.
+w: Un- _ to my neigh- bor of- fer For- give- ness of each bit- ter smart.
+w: There _ I'll for aye be leav- ing, As much as in my strength doth lay.
+w: Be _ guid- ing and at- tend- ing My way to Thine e- ter- nal rest.
+[V: S1V2]  =G | A G/F/ E F | (F E) !fermata!^D =D | D/E/ D/C/ B,/D/ E/F/ | G F !fermata!D |]
+[V: S2V1]  E | D/C/ B, ^C F, | B,2 !invertedfermata!B, B, | B,/C/ B,/A,/ G, G, | E A,/B,//C// !invertedfermata!B, |]
+[V: S2V2]  E, | F, G, G,/F,/ E,/^D,/ | E,/F,/G,/A,/ !fermata!B, B,, | E, F, G,/F,/ E,/D,/ | C, D, !fermata!G,, |]

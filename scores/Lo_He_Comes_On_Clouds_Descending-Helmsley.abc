@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=150] G2 (B d) | (G F) (E D) | (E3/2 F/ G) F/E/ | (D3/2 C/) B,2 | D3 D | G2 A2 |
+w: 1.~Lo! He * comes * with * clouds * * de- * scend- * ing, Once for ev- 'ry 
+w: 2.~Ev- 'ry * eye * shall * now * * be- * hold * Him Robed in dread- ful 
+w: 3.~Ev- 'ry * is- * land, * sea, * * and * moun- * tain, Heav'n and earth, shall 
+w: 4.~Now re- * demp- * tion, * long * * ex- * pect- * ed, See in sol- emn 
+w: 5.~An- swer * Thine * own * bride * * and * Spi- * rit, Has- ten, Lord, the 
+w: 6.~The dear _ to- _ kens _ of _ _ His _ pas- _ sion Still His daz- zling
+w: 7.~Yea, A- _ men! _ let _ all _ _ a- _ dore _ Thee, High on Thine e-
+[V: S1V2]  D2 D2 | (B, D) (C D) | (C3/2 D/ E) D/C/ | A,2 G,2 | A,3 D | D2 (E F) |
+[V: S2V1]  B,2 (B, A,) | (G, B,) (G,/A,/ B,) | G,3 G, | F,2 G,2 | (F, G, F,) F, | G,2 C2 |
+[V: S2V2]  G,2 (G, F,) | (E, B,,) (C, G,,) | C,3 C, | D,2 G,,2 | (D, E, D,) C, | B,,2 A,,2 |
+[V: S1V1]  (B d) (c B) | (B2 A2) | G2 (B d) | (G F) (E D) | (E3/2 F/ G) F/E/ | (D3/2 C/) B,2 | D3
+w: sin- * ner * slain; * Thou- sand * thou- * sand * saints * * at- * tend- * ing, Swell 
+w: ma- * jest- * y; * Those who * set * at * naught * * and * sold * Him, Pierced 
+w: flee * a- * way; * All who * hate * Him * must, * * con- * found- * ed, Hear 
+w: pomp * ap- * pear; * All His * saints, * by * man * * re- * ject- * ed, Now 
+w: gen- * 'ral * doom! * The new * Heav'n * and * earth * * in- * her- * it, Take 
+w: bo- _ dy _ bears; _ Cause of _ end- _ less _ ex- _ _ ul- _ ta- _ tion To
+w: ter- _ nal _ throne; _ Sa- vior, _ take _ the _ power _ _ and _ glo- _ ry, Claim
+[V: S1V2]  (G B) (A G) | (G2 F2) | D2 D2 | (B, D) (C D) | (C3/2 D/ E) D/C/ | A,2 G,2 | A,3
+[V: S2V1]  B,2 E2 | D4 | B,2 (B, A,) | (G, B,) (G,/A,/ B,) | G,3 G, | F,2 G,2 | (F, G, F,)
+[V: S2V2]  G,,2 C,2 | D,4 | G,2 (G, F,) | (E, B,,) (C, G,,) | C,3 C, | D,2 G,,2 | (D, E, D,)
+[V: S1V1]  D | G2 A2 | (B d) (c B) | (B2 A2) | (A3/2 B/ A) B | c2 B2 | (G3/2 A/ G) c |
+w: the tri- umph of * His * train: * Hal- * * le- lu- jah! Hal- * * le- 
+w: and nailed Him to * the * tree, * Deep- * * ly wail- ing, deep- * * ly 
+w: the trump pro- claim * the * day: * Come * * to judg- ment! Come * * to 
+w: shall meet Him in * the * air: * Hal- * * le- lu- jah! Hal- * * le- 
+w: Thy pin- ing ex- * iles * home: * All * * cre- a- tion, all * * cre- 
+w: His ran- somed wor- _ shi- _ pers; _ With _ _ what rap- ture, with _ _ what
+w: the king- dom for _ Thine _ own; _ O _ _ come quick- ly! O _ _ come
+[V: S1V2]  D | D2 (E F) | (G B) (A G) | (G2 F2) | (F3/2 G/ F) G | (E F) G2 | (D2 E) E |
+[V: S2V1]  F, | G,2 C2 | B,2 E2 | D4 | D3 D | C2 D2 | (B,3/2 A,/ B,) C |
+[V: S2V2]  C, | B,,2 A,,2 | G,,2 C,2 | D,4 | D,3 B,, | A,,2 G,,2 | (G,3/2 F,/ G,) A,, |
+[V: S1V1]  (B A) G2 | (B3/2 c/ B) d | (c B) A2 | G2 (A B) | D2 c2 | B2 A2 | G4 |]
+w: lu- * jah! Hal- * * le- lu- * jah! God ap- * pears on earth to reign. 
+w: wail- * ing, deep- * * ly wail- * ing, Shall the * true Mes- si- ah see. 
+w: judg- * ment! Come * * to judg- * ment! Come to * judg- ment! Come a- way! 
+w: lu- * jah! Hal- * * le- lu- * jah! See the * day of God ap- pear! 
+w: a- * tion, all * * cre- a- * tion, Tra- vails! * groans! and bids Thee come! 
+w: rap- _ ture, with _ _ what rap- _ ture Gaze we _ on those glor- ious scars!
+w: quick- _ ly! O _ _ come quick- _ ly! Ev- er- _ last- ing God, come down!
+[V: S1V2]  (G F) E2 | E3 D | (F G) (G F) | D2 D2 | D2 G2 | G2 F2 | G4 |]
+[V: S2V1]  (D3/2 C/) B,2 | (G,3/2 A,/ G,) G, | (A, B,/C/) D2 | D2 (C B,) | A,2 (G, A,) | (B, C) (D C) | B,4 |]
+[V: S2V2]  (B,,/C,/ D,) E,2 | E,3 B,, | (A,, G,,) D,2 | B,2 (A, G,) | F,2 E,2 | D,2 D,2 | G,,4 |]

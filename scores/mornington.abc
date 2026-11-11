@@ -1,0 +1,62 @@
+X:1
+M:2/4
+L:1/8
+Q:1/4=90
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:E
+[V:S] B2 B A | G2 F2 | E2 (e3/2 d1/2) | c2 (B c) |
+w: 1.~My heart does o- ver- flow, A _ good- ly _
+w: * * * * * * * * * * *
+w: 3.~Now gird Thee with Thy sword, O _ strong and _
+w: 4.~Tri- um- phant- ly ride forth For _ meek- ness, _
+w: 5.~Thy strength shall o- ver- come All _ those that _
+w: 6.~Thy ro- yal throne, O God, For _ ev- er- _
+w: * * * * * * * * * * *
+w: 8.~Thy gar- ments breathe of myrrh And _ spi- ces _
+w: 9.~A- mid Thy glor- ious train King's _ daugh- ters _
+[V:A] E2 E F | E2 D2 | E2 E2 | E2 E2 |
+[V:T] G,2 B, C | B,2 (B, A,) | G,2 B,2 | A,2 E2 |
+[V:B] E,2 G, A, | B,2 B,,2 | E,2 G,2 | A,2 (G, A,) |
+[V:S] B2 A2 | G4 | A2 A A | (A2 G) A |
+w: theme is mine; My ea- ger tongue _ with
+w: * * * * * * * * *
+w: might- y One, In splen- did ma- _ jes-
+w: truth, and right; Thy arm shall gain _ the
+w: hate the King, And un- der Thy _ do-
+w: more shall stand; E- ter- nal truth _ and
+w: * * * * * * * * *
+w: sweet and rare; Glad strains of heaven- _ ly
+w: wait- ing stand, And fair- est gems _ be-
+[V:A] E2 E2 | E4 | E2 E F | (F2 E) D |
+[V:T] E2 B,2 | B,4 | A,2 C B, | B,3 B, |
+[V:B] G,2 F,2 | E,4 | C,2 C, D, | E,3 F, |
+[V:S] B2 c2 | F2 A2 | G2 (F E) | E2 D2 |
+w: joy- ful song Does praise the _ King Di-
+w: * * * * * * * * *
+w: ty a- rrayed, More glor- ious _ than the
+w: vic- to- ry In won- drous _ deeds of
+w: min- ion strong The na- tions _ Thou shalt
+w: jus- tice wield The scep- tre _ in Thy
+w: * * * * * * * * *
+w: mu- sic ring Through- out Thy _ pal- ace
+w: deck Thy bride, The queen at _ Thy right
+[V:A] E2 E2 | D2 D2 | E2 C2 | B,2 B,2 |
+[V:T] (B, E) x C | B,2 B,2 | B,2 A,2 | G,2 (F, A,) |
+[V:B] G,2 A,2 | B,2 F,2 | E,2 A,,2 | B,,2 B,,2 |
+[V:S] E4 |]
+w: vine.
+w: *
+w: sun.
+w: might.
+w: bring.
+w: hand.
+w: *
+w: fair.
+w: hand.
+[V:A] B,4 |]
+[V:T] G,4 |]
+[V:B] E,4 |]

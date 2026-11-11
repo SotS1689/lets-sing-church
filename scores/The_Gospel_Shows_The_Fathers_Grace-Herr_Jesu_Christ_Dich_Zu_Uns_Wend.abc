@@ -1,0 +1,29 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=140] F2 | A2 c A2 G | A =B c2 d2 | c2 A G2 F | F E F2
+w: 1.~The Gos- pel shows the Fa- ther's grace, Who sent his Son to save our race, 
+w: 2.~It sets the Lamb be- fore our eyes, Who made th'a- ton- ing sac- ri- fice, 
+w: 3.~It brings the Sa- vior's right- eous- ness Our souls to robe in ro- yal dress; 
+w: 4.~It is the pow'r of God to save From sin and Sa- tan and the grave; 
+w: 5.~It bears to all the ti- dings glad And bids their hearts no more be sad; 
+w: 6.~May we in faith its ti- dings learn Nor thank- les- sly its bless- ings spurn;
+[V: S1V2]  C2 | F2 G F2 E | F F E2 F2 | F2 F E2 C | D C C2 
+[V: S2V1]  A,2 | C2 C C2 C | C F, G,2 B,2 | A,2 C C2 F, | B, G, A,2
+[V: S2V2]  F,2 | F,2 E, F,2 C, | F, D, C,2 B,,2 | F,2 F, C,2 A,, | B,, C, F,,2
+[V: S1V1]  G2 | A2 A G2 c | c =B c2 A2 | B2 A G2 F | F E F2 |]
+w: Pro- claims how Je- sus lived and died That man might thus be jus- ti- fied. 
+w: And calls the souls with guilt opp- ressed To come and find e- ter- nal rest. 
+w: From all our guilt it brings re- lease And gives the trou- bled con- science peace. 
+w: It works the faith, which firm- ly clings To all the trea- sures which it brings. 
+w: The hea- vy la- den souls it cheers And ba- nish- es their guilt- y fears. 
+w: May we in faith its truth con- fess And praise the Lord our Right- eous- ness!
+[V: S1V2]  E2 | F2 F E2 E | D D E2 C2 | D2 F E2 D | D C C2 |]
+[V: S2V1]  C2 | C2 C C2 G, | G, G, G,2 F,2 | F,2 C C2 A, | B, G, A,2 |]
+[V: S2V2]  C,2 | F,2 F, C,2 C, | G, G,, C,2 F,2 | B,,2 F,, C,2 D, | B,, C, F,,2 |]
