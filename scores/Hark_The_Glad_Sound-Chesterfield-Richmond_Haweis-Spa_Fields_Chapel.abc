@@ -1,0 +1,53 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] C2 F2 A2 | c4 B2 | (A2 B2) G2 | F4 A2 |
+w: 1.~Hark, the glad sound! The Sa- _ vior comes, The
+w: 2.~On Him the Spi- rit, lar- _ gely poured, E-
+w: 3.~He comes the pri- soners to _ re- lease, In
+w: 4.~He comes from thick- est films _ of vice To
+w: 5.~He comes the bro- ken heart _ to bind, The
+w: * * * * * * * * * *
+w: 7.~Our glad ho- san- nas, Prince _ of Peace, Thy
+[V:A] A,2 C2 F2 | (G2 E2) D2 | (C2 D2) (C B,) | A,4 C2 |
+[V:T] F,2 A,2 C2 | C4 (F, G,) | (A,2 F,2) E,2 | F,4 F,2 |
+[V:B] F,2 F,2 F,2 | (E,2 C,2) (D, E,) | (F,2 B,,2) C,2 | F,4 F,2 |
+[V:S] (G2 c2) F2 | (E2 F2) D2 | C4 G2 | (A2 G2) F2 |
+w: Sa- _ vior pro- _ mised long! Let ev- _ ery
+w: xerts _ its sac- _ red fire; Wis- dom _ and
+w: Sa- _ tan’s bon- _ dage held; The gates _ of
+w: clear _ the men- _ tal ray, And on _ the
+w: blee- _ ding soul _ to cure; And with _ the
+w: * * * * * * * * * * *
+w: wel- _ come shall _ pro- claim; And Heaven’s _ e-
+[V:A] C4 D2 | C4 =B,2 | C4 C2 | (C2 D2) C2 |
+[V:T] G,4 A,2 | G,4 (G, F,) | E,4 C2 | (C2 B,2) C2 |
+[V:B] E,4 F,2 | G,4 G,,2 | C,4 E,2 | (F,2 B,2) A,2 |
+[V:S] (B2 A2) G2 | (c2 B2) A2 | d4 c2 | (D2 B2) A2 |
+w: heart _ pre- pare _ a throne, And ev- _ ery
+w: might, _ and zeal _ and love, His ho- _ ly
+w: brass _ be- fore _ Him burst, The i- _ ron
+w: eye\-- _ balls of _ the blind To pour _ ce-
+w: trea- _ sures of _ His grace T’en- rich _ the
+w: * * * * * * * * * * *
+w: ter- _ nal ar- _ ches ring With Thy _ be-
+[V:A] (G2 F2) E2 | (F2 F F) F2 | F4 F2 | D2 E2 (F E) |
+[V:T] (D2 C2) C2 | C4 C2 | B,4 C2 | (F,2 G,2) F,2 |
+[V:B] (G,2 C2) B,2 | (A,2 G,2) F,2 | B,4 A,,2 | (B,,2 G,,2) A,,2 |
+[V:S] (A G F2) E2 | F6 |]
+w: voice _ _ a song.
+w: breast _ _ in- spire.
+w: fet- _ _ ters yield.
+w: les- _ _ tial day.
+w: hum- _ _ ble poor.
+w: * * * * *
+w: lov- _ _ èd name.
+[V:A] (D D C2) C2 | C6 |]
+[V:T] (F, G, A,2) G,2 | A,6 |]
+[V:B] B,,2 C,2 C,2 | F,6 |]

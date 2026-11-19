@@ -1,0 +1,31 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=120] E | F G A B | G3 B | c e A G | F3
+w: 1.~With- in the Fa- ther's house The Son hath found His home; 
+w: 2.~The doc- tors of the law Gaze on the won- drous child, 
+w: 3.~Yet not to them is giv'n The might- y truth to know, 
+w: 4.~The se- cret of the Lord Es- capes each hu- man eye, 
+w: 5.~Lord, vis-it Thou our souls, And teach us by Thy grace 
+w: 6.~Till from our dark- ened sight The cloud shall pass a- way,
+w: 7.~Till we be- hold Thy face, And know, as we are known,
+[V: S1V2] B, | D E E D | E3 E | E E D E | D3
+[V: S2V1] G, | B, B, A, F, | G,3 G, | A, B, A, B, | B,3
+[V: S2V2] E, | B,, E, C, B,, | E,3 E, | A, G, F, E, | B,,3
+[V: S1V1] B | e d c B | c c B B | E G F F | E3 |]
+w: And to His tem- ple sud- den- ly The Lord of Life hath come. 
+w: And mar- vel at His gra- cious words Of wis- dom un- de- filed. 
+w: To lift the flesh- ly veil which hides In- car- nate God be- low. 
+w: And faith- ful pon- d'ring hearts a- wait The full e- pi- pha- ny. 
+w: Each dim re- veal- ing of Thy- self With lo- ving awe to trace; 
+w: And on the cleans- èd soul shall burst The ev- er- last- ing day.
+w: Thee, Fa- ther, Son, and Ho- ly Ghost, Co\-- e- qual Three in One.
+[V: S1V2] F | E F G D | F F D D | E E E D | E3 |]
+[V: S2V1] D | B, B, E B, | B, =A, B, B, | G, B, C B, | G,3 |]
+[V: S2V2] B, | G, B, E, G, | F, F,, B,, B,, | C, G,, A,, B,, | E,3 |]

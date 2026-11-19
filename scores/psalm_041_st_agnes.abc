@@ -1,0 +1,26 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] B B B | A2 B | c2 F | G3 | D D D | B2 A | A3 | c c B | A2 G | F2 E | D3 | D E G | B2 A | G3 |]
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 2.~God will him keep, yea, save a- live; on earth he blessed shall live; And to his e- ne- mies' de- sire thou wilt him not up give.
+w: 3.~God will give strength when he on bed of lang- ui- shing doth mourn; And in his sick- ness sore, O Lord, thou all his bed wilt turn.
+w: 4.~I said, O Lord, do thou ex- tend thy mer- cy un- to me; O do thou heal my soul; for why? I have of- fen- ded thee.
+w: 5.~Those that to me are e- ne- mies, of me do e- vil say, When shall he die, that so his name may per- ish quite a- way?
+w: 6.~To see me if he comes, he speaks vain words: but then his heart Heaps mis- chief to it, which he tells, when forth he doth de- part.
+w: 7.~My ha- ters joint- ly whi- spe- ring, 'gainst me my hurt de- vise. Mis- chief, say they, cleaves fast to him; he li'th, and shall not rise.
+w: 8.~Yea, ev'n mine own fa- mil- iar friend, on whom I did re- ly, Who ate my bread, ev'n he his heel a- gainst me lift- ed high.
+w: 9.~But, Lord, be mer- ci- ful to me, and up a- gain me raise, That I may just- ly them re- quite ac- cor- ding to their ways.
+w: 10.~By this I know that cer- tain- ly I fa- vored am by thee; Be- cause my ha- teful e- ne- my tri- umphs not o- ver me.
+w: 11.~But as for me, thou me u- phold'st in mine in- te- gri- ty; And me be- fore thy coun- ten- ance thou sett'st con- ti- nual- ly.
+w: 12.~The Lord, the God of Is- ra- el, be blessed for ev- er then, From age to age e- ter- nal- ly. A- men, yea, and a- men.
+[V:A] D D D | E2 D | (C E) D | D3 | D D D | D2 ^C | D3 | E E D | C2 ^C | D2 ^C | D3 | D D C | B,2 C | B,3 |]
+[V:T] B, B, G, | C2 G, | A,2 A, | B,3 | C B, A, | G,2 G, | F,3 | E, F, ^G, | A,2 A, | A,2 G, | F,3 | G, G, G, | G,2 F, | G,3 |]
+[V:B] G, G, B,, | C,2 B,, | A,,2 D, | G,3 | A, G, F, | G,2 E, | D,3 | A,, A,, A,, | A,,2 A,, | D,2 D, | (D,2 =C,) | B,, C, E, | D,2 D, | G,,3 |]

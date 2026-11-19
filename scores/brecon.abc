@@ -1,0 +1,42 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=108
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] E2 E E F2 G2 | B3 A A2 G2 | G3 G F2 E2 | D6 D2 |
+w: 1.~In Thee, O Lord, I put my trust, I call up- on Thy Name; O
+w: 2.~Bow down Thy ear to my re- quest, And swift de- liv'r- ance send; Be
+w: 3.~Since Thou my rock and for- tress art, My lea- der be, and guide; From
+w: 4.~To Thee my spi- rit I com- mend; Re- demp- tion is with Thee, O
+w: 5.~I hate all those that love the false, My trust is in the Lord; I
+w: 6.~For my a- fflic- tion Thou hast seen, And known my ma- ny woes; Thou
+w: 7.~Show mer- cy, Lord, to me dis- tressed, And send my soul re- lief, My
+w: 8.~I mourn and fail be- cause of sin, Friends turn in dread a- way; Re-
+w: 9.~But, Lord, in Thee is all my trust, Thou art my God, I cried; My
+w: 10.~From all that per- se- cute my soul thy gra- cious help I crave; O
+w: 11.~Let me not be a- shamed, O Lord, I plead with Thee to save; but
+w: 12.~Yea, let their lips hence- forth be mute Who words of false- hood seek, The
+[V:A] B,2 B, B, D2 E2 | E3 E E2 E2 | E3 D C2 C2 | B,6 B,2 |
+[V:T] G,2 G, G, A,2 B,2 | _D3 C C2 B,2 | B,3 B, A,2 G,2 | F,6 B,2 |
+[V:B] E,2 E, E, E,2 E,2 | E,3 E, E,2 E,2 | E,3 E, A,,2 A,,2 | B,,6 B,,2 |
+[V:S] E3 E F2 E2 | E2 F2 G2 A2 | G3 E G2 F2 | E8 |]
+w: save me in thy right- eous- ness, Nor let me suf- fer shame.
+w: Thou to me a rock of strength, A for- tress to de- fend.
+w: all temp- ta- tion res- cue me, Thou dost my strength a- bide.
+w: Thou Je- ho- vah, God of truth, Who hast de- liv- ered me.
+w: will be glad, and jo- y- fully Thy mer- cy will re- cord.
+w: hast not let me be en- slaved, But freed me from my foes.
+w: life is spent with bit- ter- ness, My strength con- sumed with grief.
+w: proached am I and ter- ri- fied, While foes con- spire to slay.
+w: life, my times are in Thy hand, I in Thy strength con- fide.
+w: smile up- on thy ser- vant, Lord, And in Thy mer- cy save.
+w: let the wi- cked be a- shamed, And si- lent in the grave.
+w: lips which with con- tempt and pride A- gainst the right- eous speak.
+[V:A] B,3 B, _D2 _D2 | C2 D2 E2 E2 | E3 E D2 D2 | B,8 |]
+[V:T] G,3 G, B,2 B,2 | C2 _C2 B,2 =C2 | B,3 G, B,2 A,2 | G,8 |]
+[V:B] E,3 E, G,,2 G,,2 | A,,2 A,2 G,2 F,2 | B,,3 B,, B,,2 B,,2 | E,8 |]

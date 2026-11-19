@@ -1,0 +1,49 @@
+X:1
+M:4/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] B4 B2 B2 | B6 F2 | G4 A4 | B8 |
+w: 1.~All lands, to God in joy- ful sounds,
+w: 2.~Say ye to God, How ter- ri- ble
+w: 3.~Yea, all the earth shall wor- ship Thee,
+w: 4.~O come, be- hold the works of God,
+w: 5.~He led in safe- ty through the flood
+w: 6.~He rules for- ev- er by His might
+[V:A] D4 D2 G2 | (F3 E D2) F2 | E4 E4 | D8 |
+[V:T] B,4 B,2 B,2 | B,6 B,2 | B,4 F,4 | F,8 |
+[V:B] B,,4 B,,2 E,2 | (D,3 C, B,,2) D,2 | E,4 F,4 | B,,8 |
+[V:S] c4 c2 d2 | (c3 B A2) G2 | F6 F2 | (d3 c B2) F2 |
+w: A- loft your voi- _ _ ces raise; Sing forth _ _ the
+w: In all Thy works _ _ art Thou! To Thee _ _ Thy
+w: And un- to Thee _ _ shall sing; To Thy _ _ great
+w: His might- y do- _ _ ings see; In dea- _ _ ling
+w: the peo- ple of _ _ His choice, He turned _ _ the
+w: His eyes the na- _ _ tions try; Let not _ _ the
+[V:A] F4 F2 F2 | (F3 =E F2) =E2 | F6 F2 | (D3 E F2) D2 |
+[V:T] A,4 A,2 B,2 | (A,3 G, F,2) B,2 | A,6 F,2 | F,6 F,2 |
+[V:B] F,4 F,2 B,,2 | C,6 C,2 | F,6 F,2 | (B,,3 C, D,2) B,,2 |
+[V:S] (F3 E D2) F2 | (G2 A2 B2) c2 | (B4 A2) F2 | (d3 c B2) B2 |
+w: hon- _ _ or of _ _ His Name, _ And glor- _ _ ious
+w: foes _ _ by Thy _ _ great pow'r _ Shall be _ _ con-
+w: Name _ _ shall songs _ _ of joy _ With loud _ _ ho-
+w: with _ _ the sons _ _ of men _ Most won- _ _ der-
+w: sea _ _ to sol- _ _ id ground; _ In Him _ _ let
+w: proud _ _ re- bell- _ _ ious ones _ E- xalt _ _ them-
+[V:A] C4 B,2 D2 | (E2 ^F2 G2) G2 | F6 F2 | (F3 E D2) F2 |
+[V:T] F,6 B,2 | (B,2 D4) E2 | (D4 C2) A,2 | B,6 D2 |
+[V:B] (A,,4 B,,2) B,,2 | (E,2 D,2 G,2) E,2 | F,6 F,2 | B,,6 B,,2 |
+[V:S] (A2 c2 e2) A2 | B8 |]
+w: make _ _ His praise.
+w: strained _ _ to bow.
+w: san- _ _ nas ring.
+w: ful _ _ is He.
+w: us _ _ re- joice.
+w: selves _ _ on high.
+[V:A] F6 F2 | F8 |]
+[V:T] (C2 A,2 C2) E2 | D8 |]
+[V:B] F,6 F,,2 | B,,8 |]

@@ -1,0 +1,41 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1]  [Q:1/4=100] C | E3/2 E/ G G | A A G G | c d B G |
+w: 1.~How shall we an- swer ter- ror's cry, The cun- ning blade, the 
+w: 2.~When Sa- tan whis- pers, 'Hate your foe, Now take your ven- geance 
+w: 3.~When ex- ec- ution- ers hung You high You turned Your prayer up 
+w: 4.~We pray that You their hearts will turn; And light a ho- ly 
+[V: S1V2]  C | C3/2 C/ E E | F F E G | G3/2 ^F/ G D/E/ |
+[V: S2V1]  E, | G,3/2 G,/ C3/2 B,/ | A,/B,/ C/D/ E D | C A, B, D/C/ |
+[V: S2V2]  C, | C,3/2 C,/ C, C, | F,/G,/ A,/B,/ C B, | A, D, G, B,,/C,/ |
+[V: S1V1]  G ^F G D | F3/2 F/ E E | G3/2 G/ ^F B |
+w: fla- ming sky? When mur- derous spite knocks down our door And 
+w: draw the bow,' Pro- tect us from the tem- pter's guile, The 
+w: to the sky, And pled the Fa- ther to for- give, You 
+w: fire to burn Their dross a- way, so they may be Like 
+[V: S1V2]  D D D B, | D3/2 D/ C C | E3/2 E/ D ^F |
+[V: S2V1]  A, A, B, G, | G,3/2 G,/ G, G, | A,3/2 A,/ A, B, |
+[V: S2V2]  D, D, G, G, | B,,3/2 B,,/ C, C, | ^C,3/2 C,/ D, ^D, |
+[V: S1V1]  G ^F E A | G ^F E E | E3/2 E/ F F |
+w: vio- lence breaks u- pon our shore, O let us come and 
+w: ly- ing voice, the e- vil smile. O let us come in 
+w: asked that cru- el men might live. O let us Your ex- 
+w: gold re- fined, e- ter- nal- ly. O let us pray that 
+[V: S1V2]  E3/2 ^D/ E3/2 ^F/ | E ^D E B, | _B,3/2 B,/ A, C |
+[V: S2V1]  B, A, B, C | B, B, G, G, | G,3/2 G,/ F, A, |
+[V: S2V2]  E, ^F, G, A, | B, B,, E, E, | C,3/2 C,/ F, F, |
+[V: S1V1]  ^F3/2 F/ G G | G A G E | D3/2 C/ C |]
+w: look to You To know Your will what shall we do? 
+w: trust to You, To hear the word we know is true. 
+w: am- ple take, And pray for sin- ners as we ache.
+w: they be- come, Like us, with You for- ev- er one. 
+[V: S1V2]  C3/2 C/ =B, =F | E D E C | B,3/2 C/ C |]
+[V: S2V1]  A,3/2 A,/ G, D | C C C G, | F,3/2 E,/ E, |]
+[V: S2V2]  D,3/2 D,/ G, B,, | C, ^F,, G,, G,, | G,,3/2 C,/ C, |]

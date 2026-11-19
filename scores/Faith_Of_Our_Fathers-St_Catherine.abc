@@ -1,0 +1,37 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] B A G | (G F) G | (A E) F | G3 | G F E | D2 G |
+w: 1.~Faith of our fa- * thers, liv- * ing still, In spite of dun- geon, 
+w: 2.~Faith of our fa- _ thers, we _ will strive To win all na- ti-
+w: 3.~Faith of our fa- _ thers, we _ will love Both friend and foe in
+[V: S1V2]  D D D | D2 D | E2 D | D3 | E D C | B,2 D |
+[V: S2V1]  D C B, | (B, C) B, | A,2 C | B,3 | G, G, G, | G,2 B, |
+[V: S2V2]  G, G, G, | (G, A,) G, | C,2 D, | G,,3 | C, C, E, | G,2 G,, |
+[V: S1V1]  (G F) G | A3 | B A G | (G F) G | (A E) F | G3 |
+w: fi- re and sword; O how our hearts * beat high * with joy 
+w: ons un- to Thee; And through the truth _ that comes _ from God,
+w: all o- ur strife; And preach Thee, too, _ as love _ knows how
+[V: S1V2]  ^C2 ^C | D3 | D D D | (D C) B, | E2 C | B,3 |
+[V: S2V1]  E,2 G, | F,3 | D C B, | (B, A,) G, | C2 A, | G,3 |
+[V: S2V2]  A,,2 A,, | D,3 | G, G, G, | D,2 E, | C,2 D, | E,3 |
+[V: S1V1]  G F E | D2 B | (A B) A | G3 | c c c |
+w: When- e'er we hear that glo- * rious Word! Faith of our 
+w: We all shall then be tru- _ ly free. Faith of our
+w: By kind- ly words and vir- _ tuous life. Faith of our
+[V: S1V2]  E D C | (B, D) D | E2 F | G3 | G G G |
+[V: S2V1]  G, G, G, | (G, B,) D | ^C2 =C | B,3 | E E E |
+[V: S2V2]  C, C, C, | D,2 D, | D,2 D, | G,3 | C, C, C, |
+[V: S1V1]  B2 B | A2 A | B3 | B A G | E2 G | A2 A | G3 |]
+w: fa- thers, ho- ly faith! We will be true to thee till death. 
+w: fa- thers, ho- ly faith! We will be true to thee till death.
+w: fa- thers, ho- ly faith! We will be true to thee till death.
+[V: S1V2]  G2 G | F2 F | G3 | B, C D | C2 B, | D2 C | B,3 |]
+[V: S2V1]  D2 D | D2 D | D3 | G, G, G, | G,2 G, | G,2 F, | G,3 |]
+[V: S2V2]  G,2 G, | D,2 D, | G,3 | G,, A,, B,, | C,2 E, | D,2 D, | G,,3 |]

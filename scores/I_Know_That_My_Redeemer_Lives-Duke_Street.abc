@@ -1,0 +1,33 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=140] D2 F G | A2 (B c) | d2 (c B) | A4 | A2 A A | B2 A2 | G2 F2 | E4 |
+w: 1.~I know that my Re- * deem- er * lives; What com- fort this sweet sen- tence gives! 
+w: 2.~He lives to bless me * with His * love, He lives to plead for me a- bove. 
+w: 3.~He lives tri- um- phant * from the * grave, He lives e- ter- nal- ly to save, 
+w: 4.~He lives to grant me * rich sup- * ply, He lives to guide me with His eye, 
+w: 5.~He lives to si- lence * all my * fears, He lives to wipe a- way my tears 
+w: 6.~He lives, my kind, wise, _ heaven- ly _ Friend, He lives and loves me to the end;
+w: 7.~He lives and grants me _ dai- ly _ breath; He lives, and I shall con- quer death:
+w: 8.~He lives, all glo- ry _ to His _ Name! He lives, my Je- sus, still the same.
+[V: S1V2]  D2 D C | D2 (D G) | F2 (E D) | C4 | D2 D D | D2 (D A,) | (B, C) D2 | C4 |
+[V: S2V1]  F,2 A, A, | A,2 G,2 | A,2 (A, ^G,) |  A,4 | F,2 F, A, | G,2 (A, F,) | G,2 A,2 | A,4 |
+[V: S2V2]  D,2 D, E, | F,2 (G, E,) | D,2 E,2 | A,,4 | D,2 D, F, | G,2 F,2 | E,2 D,2 | A,,4 |
+[V: S1V1]  F2 F E | (D F) (A d) | (B A) (G F) | E4 | A2 B c | d3 G | F2 E2 | D4 |]
+w: He lives, He lives, * who * once * was * dead; He lives, my ev- er liv- ing Head. 
+w: He lives my hun- * gry * soul * to * feed, He lives to help in time of need. 
+w: He lives all glo- * rious * in * the * sky, He lives ex- alt- ed there on high. 
+w: He lives to com- * fort * me * when * faint, He lives to hear my soul's com- plaint. 
+w: He lives to calm * my * trou- * bled * heart, He lives all bless- ings to im- part. 
+w: He lives, and while _ He _ lives, _ Ill _ sing; He lives, my Pro- phet, Priest, and King.
+w: He lives my man- _ sion _ to _ pre- _ pare; He lives to bring me safe- ly there.
+w: Oh, the sweet joy _ this _ sen- _ tence _ gives, I know that my Re- deem- er lives!
+[V: S1V2]  D2 D C | (A, D) D2 | D2 (C D) | C4 | D2 D E | (F3/2 E/ D) E | D2 C2 | D4 |]
+[V: S2V1]  A,2 A, G, | (F, G,) A,2 | (G, D) A,2 | A,4 | A,2 G, G, | (F,3/2 G,/ A,) B, | A,2 G,2 | F,4 |]
+[V: S2V2]  D,2 D, A,, | D,2 F,2 | (G, F,) (E, D,) | A,,4 | F,2 G, E, | (D,3/2 E,/ F,) G, | A,2 A,,2 | D,4 |]

@@ -1,0 +1,25 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] G | E A G c | c B c G | c G A ^F | G3 B | c A d B | c A B G | A c d B | c3 |]
+w: 1.~Great is the Lord, and great- ly he is to be prais- èd still, With- in the ci- ty of our God, up- on his ho- ly hill.
+w: 2.~Mount Zi- on stands most beau- ti- ful, the joy of all the land; The ci- ty of the might- y King on her north side doth stand.
+w: 3.~The Lord with- in her pa- la- ces is for a re- fuge known. For, lo, the kings that ga- thered were to- ge- ther, by have gone.
+w: 4.~But when they did be- hold the same, they, won- d'ring, would not stay; But, be- ing troub- led at the sight, they thence did haste a- way.
+w: 5.~Great ter- ror there took hold on them; they were po- ssessed with fear; Their grief came like a wo- man's pain, when she a child doth bear.
+w: 6.~Thou Tar- shish ships with east wind break'st: As we have heard it told, So, in the ci- ty of the Lord, our eyes did it be- hold;
+w: 7.~In our God's ci- ty, which his hand for ev- er sta- blish will. We of thy lo- ving\-- kind- ness thought, Lord, in thy tem- ple still.
+w: 8.~O Lord, ac- cor- ding to thy name, through all the earth's thy praise; And thy right hand, O Lord, is full of right- eous- ness al- ways.
+w: 9.~Be- cause thy judg- ments are made known, let Zi- on mount re- joice; Of Ju- dah let the daugh- ters all send forth a cheer- ful voice.
+w: 10.~Walk a- bout Zi- on, and go round; the high tow'rs there- of tell: Con- si- der ye her pa- la- ces, and mark her bul- warks well;
+w: 11.~That ye may tell po- ste- ri- ty. For this God doth a- bide Our God for ev- er- more; he will ev'n un- to death us guide.
+[V:A] C | C C C E | D D E E | E E E D | D3 D | E C F D | E3/2 D/ B, C | F E D D | E3 |]
+[V:T] E, | G, A, C C | A, G, G, C | C B, A, A, | B,3 G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
+[V:B] C, | C, F, E, A, | F, G, C, C, | A,, E, C, D, | G,,3 G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]

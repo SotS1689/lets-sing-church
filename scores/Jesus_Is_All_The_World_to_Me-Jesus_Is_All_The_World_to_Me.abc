@@ -1,0 +1,41 @@
+X: 1
+M: 6/8
+L: 1/8
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/8=120] c3/2 B/ A d2 c | c2 B A2 E | A2 A B2 B | c3- c2 
+w: 1.~Je- sus is all the world to me, My life, my joy, my all; * 
+w: 2.~Je- sus is all the world to me, my friend in tri- als sore; * 
+w: 3.~Je- sus is all the world to me, and true to Him I'll be; * 
+w: 4.~Je- sus is all the world to me, I want no bet- ter friend; * 
+[V: S1V2] E3/2 D/ C F2 E | E2 D C2 C | E2 E E2 E | E3- E2 
+[V: S2V1] A,3/2 A,/ A, A,2 A, | A,2 E, E,2 A, | A,2 A, G,2 G, | A,3- A,2 
+[V: S2V2] A,,3/2 A,,/ A,, A,,2 A,, | E,2 E, A,,2 A,, | C,2 C, E,2 E, | A,,3- A,,2 
+[V: S1V1] e | e2 B B2 e | e2 c c2 c | B2 A F1G1 A | B3- B2 z |
+w: He is my strength from day to day, With- out Him I * would fall. * 
+w: I go to Him for bless- ings and He gives them ov'r * and o'er. * 
+w: O how could I this friend de- ny, when He's so true * to me? * 
+w: I trust Him now, I'll trust Him when Life's fleet- ing days * shall end. * 
+[V: S1V2] E | G2 G G2 G | A2 A A2 A | G2 F =D2 D | _D3- D2 x |
+[V: S2V1] C | B,2 E E2 B, | C2 E E2 E | E2 B, A,2 F, | G,3- G,2 z |
+[V: S2V2] A, | E,2 E, E,2 E, | A,2 A, A,2 A, | B,2 B,, B,,2 B,, | E,3- E,2 x |
+[V: S1V1] E F A F2 C | E2 F E3 | E F A F2 C | E2 F E3 |
+w: When I am sad, to Him I go, No o- ther one can cheer me so; 
+w: He sends the sun- shine and the rain, He sends the har- vest's gol- den grain; 
+w: Fol- low- ing Him I know I'm right, He watch- es o'er me day and night; 
+w: Beau- ti- ful life with such a friend; beau- ti- ful life that has no end; 
+[V: S1V2] C C C C2 A, | C2 C C3 | C C C C2 A, | C2 C C3 |
+[V: S2V1] A, A, E, A,2 A, | A,2 A, A,3 |  A, A, E, A,2 A, | A,2 A, A,3 | 
+[V: S2V2] A,, A,, A,, A,,2 E, | A,,2 A,, A,,3 | A,, A,, A,, A,,2 E, | A,,2 A,, A,,3 |
+[V: S1V1] A A A A3 | A A A !fermata!e3 | A3 B3 | A3- A2 z |]
+w: When I am sad, He makes me glad, He's my friend. * 
+w: Sun- shine and rain, har- vest of grain, He's my friend. * 
+w: Fol- low- ing Him, by day and night, He's my friend. * 
+w: E- ter- nal life, e- ter- nal joy, He's my friend. * 
+[V: S1V2] C C C _B,3 | C C E !fermata!E3 | C3 D3 | C3- C2 x |]
+[V: S2V1] A, A, A, A,3 | A, A, C !fermata!A,3 | A,3 G,3 | E,3- E,2 z |]
+[V: S2V2] E, E, E, =E,3 | _E, E, E, !invertedfermata!C,3 | E,3 E,3 | A,,3- A,,2 x |]

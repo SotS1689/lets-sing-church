@@ -1,0 +1,45 @@
+X:1
+M:2/2
+L:1/8
+Q:1/4=135
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] (E2 F2) | A4 F2 A2 | E4 A2 A2 | c4 A2 c2 |
+w: 1.~In _ God will I trust, tho' my coun- se- lors
+w: 2.~The _ Lord in His tem- ple shall ev- er a-
+w: 3.~The _ Lord is most right- eous, the Lord loves the
+[V:A] (C2 D2) | E4 D2 F2 | C4 C2 C2 | E4 C2 A,2 |
+[V:T] A,4 | C4 A,2 A,2 | A,4 E,2 E,2 | A,4 A,2 A,2 |
+[V:B] A,,4 | A,,4 D,2 D,2 | C,4 A,,2 A,,2 | A,,4 A,,2 A,,2 |
+[V:S] E4 (E2 F2) | A4 F2 A2 | E4 A2 A2 | c4 B2 B2 |
+w: say, O _ flee as a bird to your moun- tain a-
+w: bide; His _ throne is e- ter- nal, what- ev- er be-
+w: right, the _ e- vil He hates and will sure- ly re-
+[V:A] B,4 (C2 D2) | E4 D2 F2 | C4 C2 C2 | E4 E2 D2 |
+[V:T] G,4 A,4 | C4 A,2 A,2 | A,4 A,2 A,2 | A,4 G,2 G,2 |
+[V:B] E,4 A,,4 | A,,4 D,2 D,2 | C,4 F,2 F,2 | E,4 E,2 E,2 |
+[V:S] A4 c4 | e4 c2 e2 | A4 A2 A2 | c4 A2 c2 |
+w: way; The wi- cked are strong and the right- eous are
+w: tide. The child- ren of men He be- holds from on
+w: quite; The wi- cked His an- ger will drive from their
+[V:A] C4 E4 | A4 E2 E2 | F4 F2 F2 | E4 C2 C2 |
+[V:T] A,4 A,4 | C4 A,2 B,2 | C4 B,2 A,2 | A,4 A,2 A,2 |
+[V:B] A,,4 C,4 | A,4 A,2 G,2 | F,4 D,2 D,2 | A,,4 A,,2 A,,2 |
+[V:S] E4 (E2 F2) | A4 F2 A2 | E4 A2 A2 | c4 B2 B2 |
+w: weak, Foun- _ da- tions are sha- ken, yet God will I
+w: high, The _ wi- cked to pu- nish, the right- eous to
+w: place, The _ u- pright in rap- ture shall gaze on His
+[V:A] B,4 (C2 D2) | E4 D2 F2 | E4 C2 C2 | E4 E2 D2 |
+[V:T] G,4 A,4 | C4 A,2 A,2 | A,4 A,2 A,2 | A,4 G,2 G,2 |
+[V:B] E,4 A,,4 | A,,4 D,2 D,2 | C,4 F,2 F,2 | E,4 E,2 E,2 |
+[V:S] A4 |]
+w: seek.
+w: try.
+w: face.
+[V:A] C4 |]
+[V:T] A,4 |]
+[V:B] A,,4 |]

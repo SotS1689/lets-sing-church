@@ -1,0 +1,42 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=140] F2 F G | A3 d | c2 B2 | A4 | A2 A B |
+w: 1.~'Twas on that dark, that dole- ful night When pow'rs of 
+w: 2.~Be- fore the mourn- ful scene be- gan, He took the 
+w: 3.~"This is My bo- dy, broke for sin; Re- ceive and 
+w: 4.~For us His flesh with nails was torn, He bore the 
+w: 5.~For us His vi- tal blood was spilt, To buy the 
+w: 6.~"Do this," He cried, "till time shall end, In me- mo-
+w: 7.~Je- sus, Thy feast we ce- le- brate, We show Thy
+[V: S1V2] D2 D E | F3 F | (F C) (D E) | F4 | F2 E D |
+[V: S2V1] A,2 A, C | C3 B, | A,3 G, | A,4 | F,2 F, F, |
+[V: S2V2] D,2 D, C, | F,3 B,, | C,2 C,2 | F,4 | D,2 C, B,, |
+[V: S1V1] c2 F2 | A2 G2 | F3 A | F3 A | G2 A2 |
+w: earth and hell a- rose A- gainst the Son of 
+w: bread, and blessed, and brake: What love through all His 
+w: eat the liv- ing food:" Then took the cup, and 
+w: scourge, He felt the thorn; And jus- tice poured up- 
+w: par- don of our guilt, When, for black crimes of 
+w: ry of your dying friend; Meet at My ta- ble,
+w: death, we sing Thy name, Till Thou re- turn, and
+[V: S1V2] C2 F2 | F2 E2 | F3 C | C3 D | D2 ^C2 |
+[V: S2V1] (F, G,) (A, B,) | C3 B, | A,3 A, | A,3 A, | B,2 A,2 |
+[V: S2V2] A,,2 D,2 | C,2 C,2 | F,3 F, | F,3 F, | E,2 A,,2 |
+[V: S1V1] F2 G2 | E4 | D2 D D |  A3 G | F2 ^E2 | D4 |]
+w: God's de- light, And friends be- trayed Him to His foes: 
+w: ac- tions ran! What won- drous words of grace He spake! 
+w: blessed the wine; "'Tis the new cov- 'nant in My blood." 
+w: on His head Its hea- vy ven- geance in our stead. 
+w: big- gest size, He gave His soul a sac- ri- fice. 
+w: and re- cord The love of your de- par- ted Lord."
+w: we shall eat The mar- riage sup- per of the Lamb.
+[V: S1V2] D2 (E D) | ^C4 | D2 D D | A3 D | D2 C2 | D4 |]
+[V: S2V1] A,2 B,2 | A,4 | D,2 D, D, | A,3 B, | A,2 G,2 | F,4 |]
+[V: S2V2] D,2 G,,2 | A,,4 | D,2 D, D, | A,3 G,, | A,,2 A,,2 D,4 |]

@@ -1,0 +1,37 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=130] F2 G | (F3/2 G/) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3 |
+w: 1.~Lord of life, * all praise ex- cel- * ling, Thou, in glo- ry un- * con- fined, 
+w: 2.~Thus Thy care, * for all pro- vi- * ding, Warmed Thy faith- ful pro- * phet's tongue; 
+w: 3.~Still we read * Thy Word de- clar- * ing Mer- cy, Lord, Thine own * de- cree; 
+[V: S1V2]  C2 E | F2 F | G2 F | (E D) E | (F C) D/E/ | F2 F/E/ | (D D) E | F3 |
+[V: S2V1]  [F,2A,2] G, | (A,3/2 B,/) C | (D C) C | (C A,) C | C2 C | C2 C | (B, A,) C | A,3 |
+[V: S2V2]  (F,, A,,) C, | F,2 F, | (F, E,) F, | (C, D,) C, | A,2 G, | F,2 A,, | (B,, D,) C, | F,3 |
+[V: S1V1]  F2 G | (F3/2 G/) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3 |
+w: Deignst to make * Thy hum- ble dwell- * ing With the poor of hum- * ble mind. 
+w: Who, the lot * of all de- ci- * ding, To Thy cho- sen Is- * rael sung. 
+w: Mer- cy ev- * 'ry sor- row shar- * ing, Warms the heart res- emb- * ling Thee.
+[V: S1V2]  C2 E | F2 F | G2 F | (E D) E | (F C) D/E/ | F2 F/E/ | (D D) E | F3 |
+[V: S2V1]  [F,2A,2] G, | (A,3/2 B,/) C | (D C) C | (C A,) C | C2 C | C2 C | (B, A,) C | A,3 |
+[V: S2V2]  (F,, A,,) C, | F,2 F, | (F, E,) F, | (C, D,) C, | A,2 G, | F,2 A,, | (B,, D,) C, | F,3 |
+[V: S1V1]  c2 c | (c B) A | B2 B | (B A) G | A2 A | (A B) c | (c B) A | G3 |
+w: As Thy love, * through all cre- a- * tion, Beams like Thy * dif- fu- * sive light; 
+w: When Thy har- * vest yields Thee plea- * sure, Thou the gol- * den sheaf * shalt bind; 
+w: Still the or- * phan and the stran- * ger, Still the wi- * dow owns * Thy care; 
+[V: S1V2]  E2 E | F2 F | (F E) D | (E F) C | C2 F | (F G) A | (A G) F | (F2 E) |
+[V: S2V1]  C2 C | (F, G,) A, | G,2 G, | (G, C) B, | A,2 C | D2 C | D2 D | G,3 |
+[V: S2V2]  A,2 A, | D,2 D, | G,2 G, | (C, D,) E, | F,2 E, | D,2 A,, | G,,2 B,, | C,3 |
+[V: S1V1]  (c A) c | (B G) B | (A F) A | (G/A/ B/A/) G | c2 c | (d c) B | A2 G | F3 |]
+w: So * the high * and hum- * ble sta- * * * tion Both are e- * qual in Thy sight. 
+w: To * the poor * be- longs * the trea- * * * sure Of the scat- * tered ears be- hind. 
+w: Screened * by Thee * in ev- * 'ry dan- * * * ger, Heard by Thee * in ev- 'ry prayer.
+[V: S1V2]  F2 A | G2 G | (F C) F | (G/E/ F) C | (C F) _E | (D F) F | F2 E | F3 |]
+[V: S2V1]  C2 D | D2 C | (C A,) =B, | (C _B,) B, | A,2 C | (B, C) D | C2 B, | [F,3A,3] |]
+[V: S2V2]  A,2 F, | (F, E,/D,/) E, | (F, E,) D, | (E,/C,/ D,) E, | F,2 A,, | (B,, A,,) B,, | C,2 C, | F,,3 |]

@@ -1,0 +1,24 @@
+X:1
+M:3/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 | A3/2 A/ A2 G2 | F3/2 F/ F2 G2 | A c B2 A2 | (A2 G2) B2 | A3/2 A/ A2 d2 | c3/2 c/ c2 F2 | G B A2 G2 | F4 |]
+w: 1.~The earth be- longs un- to the Lord, and all that it con- tains; _ The world that is in- ha- bi- ted, and all that there re- mains.
+w: 2.~For the foun- da- ti- ons there- of he on the seas did lay, _ And he hath it e- sta- blish- èd up- on the floods to stay.
+w: 3.~Who is the man that shall a- scend in- to the hill of God? _ Or who with- in his ho- ly place shall have a firm a- bode?
+w: 4.~Whose hands are clean, whose heart is pure, and un- to va- ni- ty _ Who hath not lift- ed up his soul, nor sworn de- ceit- ful- ly.
+w: 5.~He from th'E- ter- nal shall re- ceive the bless- ing him up- on, _ And right- eous- ness, ev'n from the God of his sal- va- ti- on.
+w: 6.~This is the ge- ne- ra- ti- on that af- ter him en- quire, _ O Ja- cob, who do seek thy face with their whole heart's de- sire.
+w: 7.~Ye gates, lift up your heads on high; ye doors that last for aye, _ Be lift- ed up, that so the King of glo- ry en- ter may.
+w: 8.~But who of glo- ry is the King? The might- y Lord is this; _ Ev'n that same Lord, that great in might and strong in bat- tle is.
+w: 9.~Ye gates, lift up your heads; ye doors, doors that do last for aye, _ Be lift- ed up, that so the King of glo- ry en- ter may.
+w: 10.~But who is he that is the King of glo- ry? who is this? _ The Lord of hosts, and none but he, the King of glo- ry is.
+[V:A] F2 | F3/2 F/ F2 E2 | D3/2 D/ D2 E2 | F C (D E) F2 | (F2 E2) G2 | F3/2 F/ F2 F2 | F3/2 F/ F2 C2 | D G F2 E2 | F4 |]
+[V:T] A,2 | C3/2 C/ C2 B,2 | A,3/2 A,/ A,2 C2 | C A, B,2 C2 | C4 C2 | C3/2 C/ C2 B,2 | A,3/2 A,/ A,2 C2 | B, D C2 (C B,) | A,4 |]
+[V:B] F,2 | F,3/2 F,/ F,2 C,2 | D,3/2 D,/ D,2 C,2 | F, A, G,2 F,2 | C,4 E,2 | F,3/2 F,/ F,2 B,,2 | F,3/2 F,/ F,2 A,,2 | B,, G,, C,2 C,2 | F,4 |]

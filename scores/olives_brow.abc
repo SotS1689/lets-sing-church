@@ -1,0 +1,49 @@
+X:1
+M:4/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] E4 | E2 E2 F2 F2 | E4 E4 | E4 A4 |
+w: 1.~By Ba- bel's streams we sat and wept, For
+w: 2.~There our rude cap- tors, flushed with pride, A
+w: 3.~Not songs but sighs to us be- long When
+w: 4.~O Zi- on fair, God's ho- ly hill, Where-
+w: 5.~If I do not re- mem- ber thee, Then
+w: 6.~Re- mem- ber, Lord, the dread- ful day Of
+[V:A] C4 | C2 C2 D2 D2 | C4 B,4 | C4 C4 |
+[V:T] A,4 | A,2 A,2 A,2 A,2 | A,4 G,4 | A,4 A,4 |
+[V:B] A,,4 | A,,2 A,,2 D,2 D,2 | E,4 E,4 | A,,4 A,,4 |
+[V:S] A2 A2 B2 c2 | B4 B4 | A4 c4 | B2 B2 B2 B2 |
+w: mem'- ry still to Zi- on clung; The winds a- lone our
+w: song re- quired to mock our wrongs; Our spoi- lers called for
+w: Zi- on's walls in ru- in lie; How shall we sing Je-
+w: in our God de- lights to dwell, Let my right hand for-
+w: let my tongue from ut- t’rance cease, If a- ny earth- ly
+w: Zi- on's cru- el ov- er- throw; How hap- py he who
+[V:A] C2 C2 E2 E2 | F4 (E2 D2) | C4 E4 | E2 E2 E2 E2 |
+[V:T] A,2 A,2 G,2 A,2 | A,4 G,4 | A,4 A,4 | G,2 G,2 G,2 G,2 |
+[V:B] F,2 F,2 E,2 A,,2 | D,4 E,4 | A,,4 A,,4 | E,2 E,2 E,2 E,2 |
+[V:S] B4 A4 | G4 G4 | A2 A2 A2 F2 | E4 E4 |
+w: harp\-- strings swept, That on the droo- ping wil- lows
+w: mirth, and cried, Come, song us one of Zi- on's
+w: ho- vah's song While in an al- ien land we
+w: get her skill If I for- get to love thee
+w: joy to me Be dear as Zi- on's joy and
+w: shall re- pay The bit- ter ha- tred of her
+[V:A] =D4 F4 | E4 E4 | E2 E2 F2 D2 | (C2 B,2) D4 |
+[V:T] (F,2 B,2) B,4 | B,4 B,4 | A,2 A,2 A,2 A,2 | (A,2 G,2) B,4 |
+[V:B] B,,4 =D,4 | E,4 D,4 | C,2 C,2 D,2 D,2 | E,4 E,4 |
+[V:S] E4 |]
+w: hung.
+w: songs.
+w: die?
+w: well.
+w: peace.
+w: foe.
+[V:A] C4 |]
+[V:T] A,4 |]
+[V:B] A,,4 |]

@@ -1,0 +1,33 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G | G F G G | A A B G | c c B B | A A G
+w: 1.~Un- clean and bat- tered, torn by sin, By things I do, my thoughts with- in,
+w: 2.~A- cross that road the world passed by turn- ing a deaf ear to my cry,
+w: 3.~And, what of me, when I saw need?  Did I my Sa- vior's bid- ding heed?
+w: 4.~Sin bleeds from me and stops my breath, in A- dam all I know is death;
+w: 5.~But in my need my Sa- vior died, Not pas- sing on the o- ther side.
+w: 6.~Now safe with- in His Church I'm free; Blood, Wa- ter, Spi- rit plead for me,
+w: 7.~May I in Christ my neigh- bor know Bind- ing his wounds serves Christ be- low.
+w: 8.~You loved me when I could not love, For my sin barred me from a- bove.
+[V: S1V2]  D | D D B, D | E D D G | E F G D | E D D
+[V: S2V1]  B, | A, A, G, G, | G, F, G, G, | A, A, B, G, | C C B,
+[V: S2V2]  G, | D, D, E, B,, | C, D, G,, B,, | A,, A,, G,, G, | G, F, G,
+[V: S1V1]  d | c A B B | A A G D | E F G B | A A G |]
+w: I lie there blood- ied on life's road with death and sin my on- ly load.
+w: No help to give, they could not save and so they left me for my grave.
+w: Too of- ten on the o- ther side I've walked a- way be- cause of pride.
+w: My works are rags, my off- erings vain, From dust I came in dust re- main.
+w: Re- breathed His Spir- it in my dust, bound up my wounds, de- clared me just.
+w: The Ark of God, the Inn of Grace Where I be- hold my Fa- ther's face.
+w: Your love for him make plain through me, that he may, too, your Glo- ry see.
+w: In Christ my love is now set free, O praise and bless the Tri- ni- ty.
+[V: S1V2]  G | E D D D | E F G G, | E D B, D | C A, B, |]
+[V: S2V1]  B, | A, A, G, D | C A, B, B, | A, A, G, D, | E, F, G, |]
+[V: S2V2]  G, | A, F, G, G,, | C, D, G,, B,, | C, D, E, B,, | C, D, G,, |]

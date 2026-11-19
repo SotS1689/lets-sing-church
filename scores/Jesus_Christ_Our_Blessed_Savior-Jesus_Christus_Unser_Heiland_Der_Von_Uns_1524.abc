@@ -1,0 +1,51 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=140] D2 A2 | (A3/2 G/ A) D | F2 F2 | (F2 E2) | D2 z2 | F F F F |
+w: 1.~Je- sus Christ, _ _ our bless- èd Sa- _ vior, Turned a- way God's
+w: 2.~As His pledge _ _ of love un- dy- _ ing He, this pre- cious
+w: 3.~Who- so to _ _ this board re- pair- _ eth May take heed how
+w: 4.~Praise the Fa- _ _ ther, who from Hea- _ ven Un- to us such
+w: 5.~Thou shalt hold _ _ with faith un- sha- _ ken That this food is
+w: 6.~To such grace _ _ and mer- cy turn- _ eth Ev- ery soul that
+w: 7.~Christ says, "Come, _ _ all ye that la- _ bor, And re- ceive My
+w: 8.~Use- less were _ _ for thee My pas- _ sion If thy works thy
+w: 9.~If thy heart _ _ this truth pro- fes- _ ses, And thy mouth thy
+w: 10.~But the fruits _ _ must not be mis- _ sing, Love thy neigh- bor
+[V: S1V2]  A,2 ^C2 | (D2 ^C) A, | D2 D2- | D3 ^C | A,2 x2 | D D D C |
+[V: S2V1]  F,2 E,2 | F, D, E, F, | A,2 A,2 | A,4 | F,2 z2 | A, A, _B, C |
+[V: S2V2]  D,2 A,,2 | D, _B,, A,, D, | D,2 D,2 | A,,4 | D,2 x2 | D, D, _B,, A,, |
+[V: S1V1]  G2 G2 | (A3/2 G/ F E) | D4 | F F F F | G2 G2 | (A3/2 G/ F2) |
+w: wrath for- ev- _ _ _ er; By His bit- ter grief and woe _ _
+w: food sup- ply- _ _ _ ing, Gives His bo- dy with the bread _ _
+w: he pre- par- _ _ _ eth; For if he does not be- lieve, _ _
+w: food hath gi- _ _ _ ven And, to mend what we have done, _ _
+w: to be tak- _ _ _ en By the sick who are dis- tressed, _ _
+w: tru- ly mourn- _ _ _ eth; Art thou well? A- void this board, _ _
+w: grace and fa- _ _ _ vor; They who feel no want nor ill _ _
+w: weal could fash- _ _ _ ion. This feast is not spread for thee _ _
+w: sin con- fes- _ _ _ ses, His dear guest thou here shalt be, _ _
+w: with- out ceas- _ _ _ ing, That true love let him re- ceive, _ _
+[V: S1V2]  D2 E2 | (F3/2 E/ D ^C) | A,4 | D D C D | D2 E2 | (F3/2 E/ D2) |
+[V: S2V1]  _B,2 C2 | (C2 A,2) | F,4 | A, A, A, A, | _B,2 C2 | (C2 A,2) |
+[V: S2V2]  G,,2 C,2 | (F,3/2 C,/ D, A,,) | D,4 | D, D, F, D, | G,2 C,2 | (F,3/2 C,/ D,2) |
+[V: S1V1]  c d (c/ B/ A) | F2 G2 | (A3/2 G/ F) E | D4 |]
+w: He saved us _ _ from the e- _ _ vil foe.
+w: And with the _ _ wine the blood _ _ He shed.
+w: Then death for _ _ life he shall _ _ re- ceive.
+w: Gave in- to _ _ death His on- _ _ ly Son.
+w: By hearts that _ _ long for peace _ _ and rest.
+w: Else thou rea- _ _ pest an ill _ _ re- ward.
+w: Need no phy- _ _ si- cian's help _ _ nor skill.
+w: If thine own _ _ sa- vior thou _ _ wilt be.
+w: And Christ Him- _ _ self shall ban- _ _ quet thee.
+w: Which here to _ _ thee thy God _ _ doth give.
+[V: S1V2]  C F (E C) | D2 E2 | (F3/2 E/ D) ^C | A,4 |]
+[V: S2V1]  A, _B, G, F, | A,2 C2 | (C2 A,2) | F,4 |]
+[V: S2V2]  F, _B,, C, F, | D,2 C,2 | (F,3/2 C,/ D, A,,) | D,4 |]

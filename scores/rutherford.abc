@@ -1,0 +1,45 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] A2 | A2 A2 G3 G | F4 F2 F2 | B3 B A2 B2 |
+w: 1.~How blest is he whose tres- pass Hath free- ly been for-
+w: 2.~While I kept guil- ty si- lence, My strength was spent with
+w: 3.~So let the god- ly seek Thee In times when Thou art
+[V:A] F2 | F2 F2 E3 E | D4 D2 F2 | F3 F F2 F2 |
+[V:T] C2 | C2 C2 B,3 B, | A,4 A,2 A,2 | D3 D C2 D2 |
+[V:B] F,2 | F,2 F,2 C,3 C, | D,4 D,2 D,2 | B,,3 B,, F,2 B,,2 |
+[V:S] G6 G2 | c3 c B2 B2 | A4 G2 G2 | F2 F2 (E F) (G E) |
+w: giv'n, Whose sin is whol- ly co- vered Be- fore the sight _ of _
+w: grief, Thy hand was hea- vy on me, My soul found no _ re- _
+w: near; No whelm- ing floods shall reach them Nor cause their hearts _ to _
+[V:A] E6 E2 | F3 F E2 E2 | F4 D2 D2 | C2 C2 C2 C2 |
+[V:T] C6 C2 | C3 C C2 C2 | C4 B,2 B,2 | A,2 A,2 (G, A,) (B, G,) |
+[V:B] C,6 B,2 | A,3 A, G,2 G,2 | F,4 B,,2 B,,2 | C,2 C,2 C,2 C,2 |
+[V:S] F6 F2 | F3 F F2 G2 | A4 A2 F2 | F3 F F2 G2 |
+w: heav'n. Blest he to whom Je- ho- vah Im- pu- teth not his
+w: lief; But when I owned my tres- pass, My sin hid not from
+w: fear. In Thee, O Lord, I hide me, Thou sa- vest me from
+[V:A] C6 C2 | D3 D F2 E2 | F4 F2 C2 | D3 D F2 E2 |
+[V:T] A,6 A,2 | D3 D _D2 _D2 | C4 C2 A,2 | D3 D _D2 _D2 |
+[V:B] F,6 F,2 | B,3 B, B,2 B,2 | F,4 F,2 F,2 | B,3 B, B,2 B,2 |
+[V:S] A6 (A B) | c2 c2 d3 c | c4 B2 B2 | A2 A2 G3 F |
+w: sin, Who _ hath a gui- leless spi- rit, Whose heart is true with-
+w: Thee, When _ I con- fessed trans- gres- sion, Then Thou for- ga- vest
+w: ill, And _ songs of Thy sal- va- tion My heart with rap- ture
+[V:A] F6 (F E) | F2 F2 F3 F | F4 E2 E2 | F2 F2 E3 C |
+[V:T] C6 C2 | C2 C2 B,3 C | C4 C2 C2 | C2 C2 B,3 A, |
+[V:B] F,6 (F, G,) | A,2 A,2 B,3 A, | A,4 G,2 G,2 | F,2 F,2 C,3 F, |
+[V:S] F6 |]
+w: in.
+w: me.
+w: thrill.
+[V:A] C6 |]
+[V:T] A,6 |]
+[V:B] F,6 |]

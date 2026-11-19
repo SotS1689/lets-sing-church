@@ -1,0 +1,75 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] (C C) | F2 F2 G2 | A2 d2 (c A) | G3 F G2 |
+w: 1.~Who- _ le- hearted thanks- gi- ving to _ Thee I will
+w: 2.~My _ e- ne- mies turn and are _ scat- tered in
+w: 3.~Re- _ buked are the na- tions, the _ wi- cked de-
+w: 4.~Thou, _ Lord, art a re- fuge for _ all the op-
+w: 5.~Give _ praise to Je- ho- vah, the _ might- y deeds
+w: 6.~Be- _ hold my a- fflic- tion, Thy _ mer- cy ac-
+w: 7.~The _ sins of the na- tions their _ ru- in have
+w: 8.~The _ wi- cked shall per- ish, the _ na- tions shall
+w: 9.~A- _ rise in Thy jus- tice, O _ Lord, and Thy
+[V:A] C C | C2 C2 E2 | F2 F2 F2 | E3 D E2 |
+[V:T] A, A, | A,2 C2 C2 | C2 B,2 (A, C) | C3 C C2 |
+[V:B] F, F, | F,2 A,,2 C,2 | F,2 B,,2 F,2 | C,3 C, C,2 |
+[V:S] A4 C2 | F2 F2 G2 | (A2 d2) c A | G2 e2 d2 |
+w: bring; In praise of Thy mar- _ vel- ous works I will
+w: fear, They stum- ble and per- _ ish be- cause Thou art
+w: stroyed, Their me- mo- ry pe- _ rished, their dwel- ling\-- place
+w: pressed; All trust Thee who know _ Thee, and trust- ing are
+w: tell Of Him Who has cho- _ sen in Zi- on to
+w: cord, And back from death's por- _ tals re- store me, O
+w: wrought, Their own e- vil- doing _ de- struc- ti- on has
+w: fall For- get- ting their God, _ Who is God o- ver
+w: might, No long- er let sin- _ ners pre- vail in Thy
+[V:A] F4 C2 | C2 C2 E2 | F4 F F | E2 G2 F2 |
+[V:T] C4 A,2 | A,2 C2 C2 | (C2 B,2) A, C | C2 C2 =B,2 |
+[V:B] F,4 F,2 | F,2 A,,2 C,2 | (F,2 B,,2) F, F, | G,2 G,2 G,2 |
+[V:S] c4 (c c) | f3 e d2 | c2 A2 c2 | f3 e d2 |
+w: sing, In _ Thee I will joy and e- xul- ting- ly
+w: near; For _ Thou hast de- fen- ded my right and my
+w: void; En- _ throned and e- ter- nal, Je- ho- vah shall
+w: blest; For _ ne- ver, O Lord, did Thy mer- cy for-
+w: dwell, Of _ Him to Whom jus- tice and ven- geance be-
+w: Lord, That _ I in the gates of Thy Zi- on may
+w: brought; In _ this the Lord's jus- tice e- ter- nal- ly
+w: all; But _ God will re- mem- ber the prayer of the
+w: sight; Great _ Judge of the na- tions, in judg- ment ap-
+[V:A] E4 F F | F3 F F2 | F2 F2 A2 | F3 F F2 |
+[V:T] C4 A, A, | D3 C B,2 | A,2 C2 A,2 | D3 C B,2 |
+[V:B] C,4 F, F, | B,,3 B,, B,,2 | F,2 F,2 F,2 | B,,3 B,, B,,2 |
+[V:S] c4 (C C) | F2 F2 G2 | (A2 d2) c A | G3 F G2 |
+w: cry Thy _ Name I will praise, _ O Je- ho- vah Most
+w: cause, Thou _ sit- test in judg- _ ment, u- phol- ding Thy
+w: reign, The _ peo- ples to judge _ and the right to main-
+w: sake The _ soul that has sought _ of Thy grace to par-
+w: long, Who _ vi- sits the low- _ ly and o- verth- rows
+w: raise My _ song of sal- va- _ tion and show forth Thy
+w: stands, That _ sin- ners are snared _ in the work of their
+w: weak, Most _ sure- ly ful- fill- _ ing the hope of the
+w: pear To _ hum- ble the proud _ and to teach them to
+[V:A] F4 C C | C2 C2 E2 | F4 F F | E3 F C2 |
+[V:T] A,4 A, A, | A,2 C2 C2 | (C2 B,2) A, C | B,3 A, B,2 |
+[V:B] F,4 F, F, | F,2 A,,2 C,2 | (F,2 B,,2) F, F, | C,3 C, C,2 |
+[V:S] F4 |]
+w: High.
+w: laws.
+w: tain.
+w: take.
+w: wrong.
+w: praise.
+w: hands.
+w: meek.
+w: fear.
+[V:A] C4 |]
+[V:T] A,4 |]
+[V:B] F,4 |]

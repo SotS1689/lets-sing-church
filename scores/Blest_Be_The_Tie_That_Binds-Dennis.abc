@@ -1,0 +1,29 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=110] B | (B G) B | (A F) A | !fermata!G2 G | (G E) G | (G D) G | !fermata!F2
+w: 1.~Blest be * the tie * that binds Our hearts * in Christ- * ian love; 
+w: 2.~Be- fore * our Fa- * ther's throne We pour * our ar- * dent prayers; 
+w: 3.~We share * each o- * ther's woes, Our mu- * tual bur- * dens bear; 
+w: 4.~When we * a- sun- * der part, It gives * us in- * ward pain; 
+w: 5.~This glor- * ious hope * re- vives Our cou- * rage by * the way; 
+w: 6.~From sor- _ row, toil _ and pain, And sin, _ we shall _ be free,
+[V: S1V2] G | (G D) G | (F D) F | (!fermata!D !fermata!E) =F | E2 C | D2 D | !fermata!D2
+[V: S2V1] D, | (D, B,,) D, | D,2 D, | (!fermata!D, !fermata!E,) D, | C,2 C, | B,,2 B,, | !fermata!D,2
+[V: S2V2] G,, | G,,2 G,, | D,2 C, | (!invertedfermata!B,, !invertedfermata!C,) D, | C,2 E,,/2F,,/2 | G,,2 B,, | !invertedfermata!D,2
+[V: S1V1] A | (A F) A | (G B) d | (d A) c | (B d) e | (d B) c | (B G) A | !fermata!G2 |]
+w: The fel- * low- ship * of kin- * dred minds * Is like * to that * a- bove. 
+w: Our fears, * our hopes, * our aims * are one * Our com- * forts and * our cares. 
+w: And of- * ten for * each o- * ther flows * The sym- * pa- thi- * zing tear. 
+w: But we * shall still * be joined * in heart, * And hope * to meet * a- gain. 
+w: While each * in ex- * pec- ta- * tion lives, * And longs * to see * the day. 
+w: And per- _ fect love _ and friend- _ ship reign _ Through all _ e- ter- _ ni- ty.
+[V: S1V2] F | (F D) D | (D G) G | (A F) A | G2 G | G2 G | (G E) F | !fermata!D2 |]
+[V: S2V1] D, | (F, D,) C, | (B,, D,) D, | (F, D,) D, | D,2 G, | G,2 E, | D,2 C, | !fermata!B,,2 |]
+[V: S2V2] D, | D,2 F,, | G,,2 B,, | D,2 F,, | (G,, B,,) C, | (B,, G,,) A,, | D,2 D,, | !invertedfermata!G,,2 |]

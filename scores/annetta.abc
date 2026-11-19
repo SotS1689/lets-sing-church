@@ -1,0 +1,38 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=110
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] G2 | c2 B2 c3 G | B2 A2 G3 F | E2 A2 G3 C |
+w: 1.~Ye right- eous, in the Lord re- joice; 'Tis co- mely that with
+w: 2.~For u- pright is Je- ho- vah's word, And all the do- ings
+w: 3.~Je- ho- vah speaks, the heav'ns ap- pear; He breathes, and, lo, each
+[V:A] E2 | E2 F2 G3 E | G2 F2 E3 D | C2 F2 E3 C |
+[V:T] G,2 | G,2 G,2 G,3 C | C2 C2 C3 G, | G,2 C2 C3 G, |
+[V:B] C,2 | C,2 D,2 E,3 C, | F,2 F,2 C,3 B,, | C,2 C,2 C,3 E, |
+[V:S] F2 E2 D4 | E2 E E A2 ^F2 | G6 G2 | d3 c (B A) (G F) |
+w: joy- ful voice God's saints His Name should praise. With harp and hymn _ of _
+w: of the Lord In jus- tice have their birth; In judg- ment and _ in _
+w: shin- ing sphere In splen- dor stands a- rrayed; He rolls the wa- _ ters _
+[V:A] B,2 C2 B,4 | C2 C C E2 D2 | D6 G2 | F3 E F2 B,2 |
+[V:T] G,2 G,2 G,4 | G,2 G, G, C2 C2 | B,6 B,2 | B,3 C D2 G,2 |
+[V:B] D,2 C,2 G,,4 | C,2 C, C, A,,2 D,2 | G,,6 G,2 | G,3 G, G,2 G,,2 |
+[V:S] E2 A2 G2 G2 | d3 c (B A) (G F) | E2 A2 G2 G2 | A3 A d2 B2 |
+w: glad- ness sing, Your gift of sweet- _ est _ mu- sic bring, To Him a new song
+w: deeds of right The Lord for- ev- _ er _ takes de- light, With good- ness fills the
+w: heap on heap, He stores a- way _ the _ might- y deep In gar- ners for it
+[V:A] C2 F2 E2 E2 | F3 E F2 B,2 | C2 F2 E2 E2 | F3 C F2 F2 |
+[V:T] G,2 C2 C2 C2 | B,3 C D2 G,2 | G,2 C2 C2 C2 | C3 A, A,2 G,2 |
+[V:B] C,2 C,2 C,2 G,2 | G,3 G, G,2 G,,2 | C,2 C,2 C,2 C,2 | F,3 F, D,2 G,2 |
+[V:S] c6 |]
+w: raise.
+w: earth.
+w: made.
+[V:A] E6 |]
+[V:T] G,6 |]
+[V:B] C,6 |]

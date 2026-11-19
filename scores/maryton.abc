@@ -1,0 +1,61 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G2 G2 G2 | A4 G2 | F4 F2 | F6 |
+w: 1.~My song for- ev- er shall re- cord
+w: 2.~I sing of mer- cies that en- dure,
+w: 3.~Be- hold God's truth and grace dis- played,
+w: 4.~The heav'ns shall join in glad ac- cord
+w: 5.~Who in the heav'n- ly dwel- lings fair
+w: 6.~With fear and rev- erence at His feet
+w: 7.~O Thou Je- ho- vah, God of Hosts,
+w: 8.~The swell- ing sea o- beys Thy will,
+w: 9.~The heavens and earth, by right di- vine,
+[V:A] E2 E2 E2 | E4 E2 | C4 C2 | F6 |
+[V:T] B,2 B,2 B,2 | C4 B,2 | C4 F,2 | B,6 |
+[V:B] E,2 E,2 E,2 | E,4 E,2 | A,,4 =A,,2 | B,,6 |
+[V:S] B2 B2 A2 | G4 e2 | (e2 d2) c2 | B6 |
+w: The ten- der mer- cies of _ the Lord;
+w: For- ev- er buil- ded firm _ and sure,
+w: For He has faith- ful cov’- _ nant made,
+w: To praise Thy won- drous works, _ O Lord;
+w: Can with the Lord Him- self _ com- pare?
+w: God's ho- ly ones in coun- _ cil meet;
+w: What might- y one Thy like- _ ness boasts?
+w: Its an- gry waves Thy voice _ can still;
+w: The world and all there- in, _ are Thine;
+[V:A] D2 E2 F2 | E4 G2 | (G2 F2) E2 | D6 |
+[V:T] B,2 B,2 B,2 | B,4 B,2 | =A,4 =A,2 | B,6 |
+[V:B] B,,2 C,2 D,2 | E,4 C,2 | F,4 F,2 | B,,6 |
+[V:S] B2 c2 B2 | e4 d2 | (d2 c2) B2 | A4 G2 |
+w: Thy faith- ful- ness will I _ pro- claim, And
+w: Of faith- ful- ness that ne- _ ver dies, E-
+w: And He has sworn that Da- _ vid's son Shall
+w: Thy faith- ful- ness shall praise _ com- mand Where
+w: Or who a- mong the might- _ y shares The
+w: Yea, more than all a- bout _ His throne Must
+w: In all Thy works and vast _ de- signs Thy
+w: Thy might- y e- ne- mies _ are slain, Thy
+w: The whole cre- a- tion's won- _ drous frame Pro-
+[V:A] F2 F2 F2 | E4 E2 | E4 E2 | (E2 D2) E2 |
+[V:T] D2 C2 D2 | B,4 B,2 | A,4 B,2 | B,4 B,2 |
+[V:B] A,2 A,2 A,2 | G,4 G,2 | A,4 G,2 | F,4 E,2 |
+[V:S] F4 E2 | A4 G2 | (F2 C2) D2 | E6 |]
+w: ev'- ry age shall know _ Thy name.
+w: sta- blished change- less in _ the skies.
+w: ev- er sit up- on _ his throne.
+w: ho- ly ones as- sem- _ bled stand.
+w: like- ness that Je- ho- _ vah bears.
+w: He be feared, and He _ a- lone.
+w: faith- ful- ness for- ev- _ er shines.
+w: foes re- sist Thy power _ in vain.
+w: claims its Ma- ker's glor- _ ious Name.
+[V:A] D4 C2 | F4 E2 | C4 B,2 | B,6 |]
+[V:T] A,4 G,2 | B,4 B,2 | A,4 F,2 | G,6 |]
+[V:B] B,,4 C,2 | D,4 E,2 | (A,,2 F,,2) B,,2 | E,6 |]

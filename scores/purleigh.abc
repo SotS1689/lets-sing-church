@@ -1,0 +1,50 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=108
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:A
+[V:S] A2 | A2 E2 F2 A2 | A2 G2 A2 c2 | c2 A2 B2 E2 |
+w: 1.~Blest be the Lord, my rock, my might, My con- stant help- er
+w: 2.~Lord, what is man, what hath he wrought, The son of man, that
+w: 3.~Lord, how thy heav'ns in might de- scend, Touch Thou the hills, the
+w: 4.~Stretch forth Thy hand and res- cue me From troub- le's dark and
+w: 5.~Now will I sing a glad new song, Thy praise, O God, I
+w: 6.~O Thou to Whom in trust I flee, Stretch forth Thy hand and
+[V:A] C2 | C2 E2 D2 C2 | F2 E2 E2 E2 | E2 E2 E2 E2 |
+[V:T] E,2 | E,2 A,2 A,2 A,2 | B,2 B,2 C2 A,2 | A,2 A,2 G,2 B,2 |
+[V:B] A,,2 | A,,2 C,2 D,2 F,2 | D,2 E,2 A,,2 A,,2 | A,,2 C,2 E,2 G,2 |
+[V:S] A2 G2 F2 B2 | G2 A2 G2 F2 | E6 E2 | F2 E2 (F G) A2 |
+w: in the fight, My shield, my right- eous- ness, My strong high to- _ wer,
+w: in thy thought To hold him Thou shouldst deign? For man is like _ a
+w: moun- tains rend, And they shall smoke and flame; As ar- rows send _ Thy
+w: ra- ging sea, And from the al- ien throng, Whose mouth but va- _ ni-
+w: will pro- long, For Thou hast heard my prayer; Sal- va- tion Thou _ dost
+w: res- cue me From all the al- ien throng, Whose mouth but va- _ ni-
+[V:A] ^D2 E2 ^D2 F2 | E2 F2 E2 ^D2 | E6 E2 | D2 E2 D2 C2 |
+[V:T] B,2 B,2 B,2 B,2 | B,2 C2 B,3 A, | G,6 A,2 | A,2 A,2 D,2 E,2 |
+[V:B] F,2 E,2 B,,2 ^D,2 | E,2 A,,2 B,,2 B,,2 | E,6 C,2 | D,2 C,2 B,,2 A,,2 |
+[V:S] A2 B2 G2 B2 | c2 e2 d2 c2 | B2 A2 G2 A2 | F2 B2 A2 G2 |
+w: my Saviour true, Who doth my e- ne- mies sub- due, My shel- ter in dis-
+w: breath, a sight, His days on earth as quick- ly fly As sha- dows o'er the
+w: ligh- tnings out to put Thy e- ne- mies to rout, And fill thy foes with
+w: ty doth speak, Whose hand of strength a- gainst the weak Is filled with craft and
+w: give to kings, Thy own dost keep, with shel- t'ring wings, From hurt- ful sword and
+w: ty doth speak, Whose hand of strength a- gainst the weak Is filled with craft and
+[V:A] C2 ^D2 E2 E2 | E2 E2 F2 E2 | D2 ^D2 E2 E2 | D2 F2 E2 E2 |
+[V:T] F,2 A,2 B,2 G,2 | A,2 A,2 A,2 A,2 | F,2 A,2 B,2 A,2 | A,2 D2 C2 B,2 |
+[V:B] F,2 F,2 E,2 E,2 | A,2 C,2 D,2 A,,2 | D,2 F,2 E,2 C,2 | D,2 B,,2 E,2 E,2 |
+[V:S] A6 |]
+w: tress.
+w: plain.
+w: shame.
+w: wrong.
+w: snare.
+w: wrong.
+[V:A] E6 |]
+[V:T] C6 |]
+[V:B] A,,6 |]

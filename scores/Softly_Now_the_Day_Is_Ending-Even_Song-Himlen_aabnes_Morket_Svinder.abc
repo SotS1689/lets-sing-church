@@ -1,0 +1,30 @@
+X: 1
+M: 2/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] G G | c c | d F | E E | C C | E E | A A | G G | 
+w: 1.~Sof- tly now the day is en- ding,  Night o'er hill and vale de- scen- ding; 
+w: 2.~May Thy church Thy peace in- he- rit; Guide our lea- ders by Thy Spi- rit; 
+w: 3.~Keep me, Je- sus, while I slum- ber, From my pe- rils with- out num- ber; 
+[V: S1V2]  E E| E E | F D | C C | A, A, | C C | C C | C C | 
+[V: S2V1]  G, G, | G, G, | B, B, | C A, | E, F, | G, G, | F, F, | E, E, | 
+[V: S2V2]  C, C,| C, C, | G, G, | A, A,, | A,, F,, | C, C, | F,, A,, | C, C, | 
+[V: S1V1] G A/B/ | c B/A/ | G A | G x | =F F/G/ | A A | c c/d/ | e B | 
+w: I will * kneel be- * fore Thee, Lord. Un- to * Thee my thanks I * ren- der 
+w: Give our * coun- try * strength and peace. To the * sin- ner, sad and * drea- ry, 
+w: Shield me, * Mas- ter, * in Thy might, That, re- * leased from sin and * sor- row, 
+[V: S1V2] D D | E D/C/ | B, C | B, z | D D | E F | G A | E E | 
+[V: S2V1] G, G, | G, ^F, | G, ^F, | G, x | A, A, | A, C | C E | B, B, | 
+[V: S2V2] B,, B,, | A,, D, | E, D, | G,, z | D, D, | C, F, | E, A, | G, G, | 
+[V: S1V1] A A | G G | F F | E E |  D D | G C/D/ | C B, | !fermata!C x |]
+w: That Thou didst, in mer- cy ten- der Life and peace to * me ac- cord. 
+w: To each Chris- tian, faint or wea- ry, Give Thou so- lace * and sur- cease. 
+w: I may sing this song to- mor- row: Je- sus was my * Sun this night. 
+[V: S1V2] E D | D C | C B, | B, C | C B, | C A, | G, G, | !fermata!G, z |]
+[V: S2V1] C C | B, B, | A, A,  | ^G, A, | A, =G, | G, A,/F,/ | E, D, | !fermata!E, x |]
+[V: S2V2] F, F, | F, E,  | E, D, | D, C, | F, F, | E, F,, | G,, G,, | !invertedfermata!C, z |]

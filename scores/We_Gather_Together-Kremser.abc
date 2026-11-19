@@ -1,0 +1,37 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] A | A3/2 B/ A | F G A | G3/2 F/ E | F D
+w: 1.~We ga- ther to- ge- ther to ask the Lord's bless- ing; 
+w: 2.~Be- side us to guide us, our God with us join- ing, 
+w: 3.~We all do ex- tol Thee, Thou Lea- der tri- um- phant, 
+[V: S1V2]  D | D3/2 D/ D | D D D | D3/2 D/ C | D D
+[V: S2V1]  F, | F,3/2 G,/ F, | A, A, A, | B,3/2 B,/ C | A, F,
+[V: S2V2]  D, | D,3/2 D,/ D, | D, E, F, | E,3/2 E,/ A, | D, D,
+[V: S1V1]  A | A3/2 B/ c | d3/2 e/ c | B3/2 A/ B | A2
+w: He cha- stens and ha- stens His will to make known. 
+w: Or- dain- ing, main- tain- ing His king- dom di- vine; 
+w: And pray that Thou still our De- fen- der will be. 
+[V: S1V2]  F | E3/2 E/ E | F E E | F3/2 F/ ^G | E2
+[V: S2V1]  A, | A,3/2 A,/ A, | A, ^G, A, | A,3/2 D/ D | C2
+[V: S2V2]  D, | C,3/2 C,/ C, | B,, E, A,, | D,3/2 B,,/ E, | A,,2
+[V: S1V1]  A | A3/2 B/ c | d A A | (A3/2 B/) G/A/ | F D
+w: The wi- cked op- pres- sing now cease * from dis- tres- sing. 
+w: So from the be- gin- ning the fight * we were win- ning; 
+w: Let Thy con- gre- ga- tion es- cape * trib- u- la- tion; 
+[V: S1V2]  E | E3/2 E/ E | D D D | D2 C/C/ | D D
+[V: S2V1]  C | C3/2 B,/ A, | A, A, A, | B,2 A,/A,/ | A, F,
+[V: S2V2]  A, | G,3/2 G,/ G, | F, F, F, | E,2 A,/A,/ | D, D,
+[V: S1V1]  D | G3/2 A/ B/G/ | (A3/2 G/) F/F/ | G E3/2 D/ | D2 |]
+w: Sing prai- ses to His Name; * He for- gets not His own. 
+w: Thou, Lord, were at our side, * all * glo- ry be Thine! 
+w: Thy Name be ev- er praised! * O * Lord, make us free! 
+[V: S1V2]  D | D3/2 D/ D/D/ | E2 D/D/ | D C3/2 D/ | D2 |]
+[V: S2V1]  F, | G,3/2 F,/ G,/G,/ | (E, A,) A,/A,/ | G, G,3/2 F,/ | F,2 |]
+[V: S2V2]  D, | B,,3/2 A,,/ G,,/B,,/ | C,2 D,/D,/ | E, A,,3/2 D,/ | D,2 |]

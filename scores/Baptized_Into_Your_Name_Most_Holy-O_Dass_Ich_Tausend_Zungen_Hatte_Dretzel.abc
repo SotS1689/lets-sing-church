@@ -1,0 +1,53 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=140] F A F | G2 c | B2 A | G F2 | G G G | A2 c |
+w: 1.~Bap- tized in- to Thy Name most ho- ly, O Fa- ther, Son, and 
+w: 2.~My lov- ing Fa- ther, Thou dost take me To be hence- forth Thy
+w: 3.~And I have vowed to fear and love Thee And to o- bey Thee,
+w: 4.~My faith- ful God, Thou fail- est ne- ver, Thy cov'- nant sure- ly
+w: 5.~Yea, all I am and love most dear- ly I of- fer now, O
+w: 6.~Hence, Prince of dark- ness, hence for- ev- er, For I be- long now
+w: 7.~And ne- ver let my pur- pose fal- ter, O Fa- ther, Son, and
+[V: S1V2] C C C | E2 F | D2 C | C C2 | E D E | F2 C |
+[V: S2V1] A, F, A, | C2 C | F,2 F, | E, A,2 | G, G, C | C2 G, |
+[V: S2V2] F, F,, F, | C,2 A,, | B,,2 F,, | C, F,,2 | C, =B,, C, | F,2 E, |
+[V: S1V1] c2 =B | c3 | F A F | G2 c | B2 A | G F2 |
+w: Ho- ly Ghost, I claim a place, though weak and low- ly, 
+w: child and heir; My faith- ful Sa- vior, Thou dost make me
+w: Lord, a- lone; Be- cause the Ho- ly Ghost did move me,
+w: will a- bide; Oh, cast me not a- way for- ev- er
+w: Lord, to Thee. Oh, let me make my vows sin- cere- ly
+w: to my God! 'Tis true, I sinned; but my dear Sa- vior
+w: Ho- ly Ghost, But keep me faith- ful to Thine al- tar
+[V: S1V2] D2 D | E3 | C C C | E2 F | D2 C | C C2 |
+[V: S2V1] A,2 G, | G,3 | A, F, A, | C2 C | F,2 F, | E, A,2 |
+[V: S2V2] F,2 G, | C,3 | F, F,, F, | C,2 A,, | B,,2 F,, | C, F,,2 |
+[V: S1V1] G G G | A2 c | c2 =B | c3 | G G G | A2
+w: A- mong Thy seed, Thy cho- sen host. Bur- ied with Christ 
+w: The fruit of all Thy sor- rows share; Thou, Ho- ly Ghost,
+w: I dared to pledge my- self Thine own, Re- noun- cing sin
+w: Should I trans- gress it on my side! Tho' I have oft
+w: And help me Thine own child to be! Let naught with- in
+w: Hath cleansed me with His ho- ly blood. A- way, vain world,
+w: Till Thou shalt call me from my post. So un- to Thee
+[V: S1V2] E D E | F2 C | D2 D | E3 | C =B, C | C2
+[V: S2V1] G, G, C | C2 G, | A,2 G, | G,3 | E, F, G, | F,2
+[V: S2V2] C, =B,, C, | F,2 E, | F,2 G, | C,3 | C, D, E, | F,2
+[V: S1V1] F | B2 A | G3 | c c c | B2 A | G G2 | !fermata!F3 |]
+w: and dead to sin, Thy Spi- rit now shall live with- in. 
+w: wilt com- fort me When dark- est clouds a- round I see.
+w: to keep the faith And war with e- vil un- to death.
+w: my soul de- filed, Do Thou for- give, re- store, Thy child.
+w: me, naught I own, Serve a- ny will but Thine a- lone.
+w: sin, leave me now, I turn from you; God hears my vow.
+w: I live or die And praise Thee ev- er- more on high.
+[V: S1V2] D | (D E) F E3 | E E F | D2 F | F E2 | !fermata!F3 |]
+[V: S2V1] A, | B,2 C | C3 | G, G, A, | B,2 C | D C2 | !fermata!A,3 |]
+[V: S2V2] D, | G,2 F, | C,3 | C, C, F,, | G,,2 A,, | B,, C,2 | !invertedfermata!F,,3 |]

@@ -1,0 +1,33 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=100] D F F | F3 F G G | A2 A | A2 A A B | A3
+w: 1.~Have mer- cy on me, O my God Ac- cor- ding to Your grace;
+w: 2.~O purge me now and I'll be clean, As clean and white as snow;
+[V: S1V2] D D D | D3 D B, C | A,2 D | D2 ^C D D | D3 
+[V: S2V1] F, A, A, | A,3 A, G, G, | ^F,2 F, | ^F,2 =E, F, G, | ^F,3 
+[V: S2V2] D, D, D, | D,3 F, E, E, | D,2 D, | D,2 A,, D, G,, | D,3
+[V: S1V1] D A A | A3 F G G | A2 A | A2 A B G | A3
+w: Ac- cor- ding to Your ten- der Love Blot out trans- gres- sions great;
+w: O wash me in the Blood of Christ, Make me Your glad- ness know;
+[V: S1V2] D D D | D3 D D C | A,2 D | D2 D D B, | D3
+[V: S2V1] =F, F, F, | F,3 A, G, G, | ^F,2 F, | ^F,2 F, G, G, | ^F,3 
+[V: S2V2] D, D, D, | D,3 F, E, E, | D,2 D, | D,2 D, G,, G,, | D,3
+[V: S1V1] A | A3/2 (B/ c)  d2 c | B B A2 F | G2 D E E | D3
+w: For I ac- * know- ledge all my sin, Be- fore my face they stand;
+w: Cre- ate in * me a clean heart, Lord, Re- new me tho- rough- ly;
+[V: S1V2] D | D (F E) D2 F | D D D2 D | D2 D D C | B,3
+[V: S2V1] =F, | F,3/2 (G,/ A,) B,2 A, | G, G, F,2 A, | B,2 G, G, G, | G,3
+[V: S2V2] D, | D,2 C, B,,2 F,, | G,, G,, D,2 D, | G,,2 B,, C, C, | G,,3
+[V: S1V1] G | B3/2 (A/ G) F2 D | G3/2 (F/ E) D2 F | [Q:1/4=90] E C D D | D3 |]
+w: A- gainst You * on- ly have I * sinned, There's e- vil on my hands.
+w: Re- store sal- * va- tion's joy a- * gain, Up- hold me ten- der- ly.
+[V: S1V2] B, | B,2 B, B,2 B, | B,2 B, B,2 B, | B, C B, B, | A,3 |]
+[V: S2V1] D, | G,3/2 (F,/ E,) D,2 F, | B,3/2 (A,/ G,) F,2 D, | G, G, G, D,/=E,/ | ^F,3 |]
+[V: S2V2] G,, | G,,2 G,, B,,2 B,, | G,, E,,2 B,,2 B,, | E,, E,, G,, G,, | D,3 |]

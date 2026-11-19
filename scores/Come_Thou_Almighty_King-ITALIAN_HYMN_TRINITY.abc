@@ -1,0 +1,18 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] G z2 | d B G | (A G) F | G3 | G A B | (c/ d/ c) B | A3 | d B G | D3 | A B c | B3/2 A/ G | A B c | B3/2 A/ G | G B d | d3/2 e/ d | c B A |]
+w: 1.~Come, thou Al- might- y _ King, Help us thy name to _ _ sing, Help us to praise: Fa- ther, all glo- ri- ous, O'- er all vic- tor- ious, Come, and reign o- ver us, An- cient of days.
+w: 2.~Come, thou In- car- nate _ Word, Gird on thy might- y _ _ sword, Our prayer at- tend: Come and thy peo- ple bless, And give thy Word suc- cess; Spi- rit of ho- li- ness, On us de- scend.
+w: 3.~Come, Ho- ly Com- fort- _ er, Thy sac- red wit- ness _ _ bear In this glad hour: Thou who al- might- y art, Now rule in ev- ery heart, And ne'er from us de- part, Spi- rit of power.
+w: 4.~To the great One in _ Three E- ter- nal prais- es _ _ be, Hence ev- er- more. His sover- eign ma- jes- ty May we in glo- ry see, And to e- ter- ni- ty Love and a- dore.
+[V:A] D z2 | G G D | E D D | D3 | D D G | F A G | F3 | d B G | D3 | F G A | G3/2 D/ D | F G A | G3/2 D/ D | G B d | G3/2 G/ G | A G F |]
+[V:T] B, z2 | B, D D | C B, A, | B,3 | B, D D | D2 D | D3 | D B, G, | D,3 | D D D | D3/2 C/ B, | D D D | D3/2 C/ B, | G, B, D | B,3/2 C/ B, | E D C |]
+[V:B] [G,G,,] z2 | G, B, B,, | C, D, D, | G,,3 | G, F, G, | A, F, G, | D,3 | D B, G, | D,3 | D, D, D, | G,3/2 G,/ G, | D, D, D, | G,3/2 G,/ G, | G, B, D | G,3/2 G,/ G, | C, D, D, |]

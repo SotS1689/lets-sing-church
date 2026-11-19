@@ -1,0 +1,33 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=120] B B B e | d3/2 c/ B2 | B G F B | d3/2 c/ c2 |
+w: 1.~Ev- 'ry morn- ing mer- cies new Fall as fresh as morn- ing dew; 
+w: 2.~Still the great- ness of Thy love Dai- ly doth our sins re- move; 
+w: 3.~Let our prayers each morn pre- vail, That these gifts may nev- er fail; 
+w: 4.~As the morn- ing light re- turns, As the sun with splen- dor burns, 
+[V: S1V2] D E D G | F3/2 E/ D2 | F E D F | =E E F2 |
+[V: S2V1] F, G, F, B, | B,3/2 A,/ B,2 | B, B, B, B, | B, B, A,2 |
+[V: S2V2] B,, B,, B,, B, | F,3/2 F,/ B,2 | D, E, B,, D, | G, C, F,2 |
+[V: S1V1] B B B e | d3/2 c/ B2 | G A/B/ d3/2 c/ | B G F2 |
+w: Ev- 'ry morn- ing let us pay Tri- bute * with the ear- ly day: 
+w: Dai- ly, far as east from west, Lifts the * bur- den from the breast; 
+w: And, as we con- fess the sin And the * temp- ter's pow'r with- in, 
+w: Teach us still to turn to Thee, Ev- er * bless- ed Tri- ni- ty, 
+[V: S1V2] F F G G | D3/2 D/ D2 | =E E F _E | D =E F2 |
+[V: S2V1] B, B, B, B, | A,3/2 A,/ B,2 | C C F, ^F, | G, B, A,2 |
+[V: S2V2] D, D, E, G, | ^F,3/2 F,/ G,2 | C, B,, A,,3/2 A,,/ | B,, C, F,2 |
+[V: S1V1] e e d B | d3/2 c/ B2 | A3/2 G/ F B | G3/2 A/ B2 |]
+w: For Thy mer- cies, Lord, are sure; Thy com- pas- sion doth en- dure. 
+w: Gives un- bought to those who pray Strength to stand in e- vil day. 
+w: Feed us with the Bread of Life, Fit us for our dai- ly strife. 
+w: With our hands our hearts to raise, In un- fail- ing prayer and praise. 
+[V: S1V2] F F F G | ^F3/2 F/ G2 | C3/2 ^C/ D F | F E D2 |]
+[V: S2V1] C C B, B, | A,3/2 A,/ B,2 | B,3/2 B,/ B, D | D C B,2 |]
+[V: S2V2] A, A, B, G, | D,3/2 D,/ G,2 | =E,3/2 E,/ F, F, | F,3/2 F,/ B,,2 |]

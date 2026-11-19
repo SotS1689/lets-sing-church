@@ -1,0 +1,36 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1]  [Q:1/4=120] D | D2 E | F2 G | F2 E | D2 D | A2 A |
+w: 1.~O chief of ci- ties, Beth- le- hem, Of Da- vid's 
+w: 2.~Be- yond the sun in splen- dor bright, A- bove you 
+w: 3.~The wise men, see- ing Him so fair, Bow low be- 
+w: 4.~The gold- en tri- bute owns Him King, But frank- in- 
+w: 5.~O Je- sus, whom the Gen- tiles see, With Fa- ther,
+[V: S1V2]  A, | B,2 C | D2 D | D2 A, | ^F,2 B, | (D G) F |
+[V: S2V1]  F, | F,2 A, | A,2 D, | (A, B,) C | D2 D | D2 A, |
+[V: S2V2]  D, | B,,2 A,, | (D, C,) B,, | (A,, G,,) A,, | D,2 G, | (F, E,) D, |
+[V: S1V1]  (A B) c | d2 d | d2 A | d2 d | c2 A |
+w: crown * the fair- est gem, But more to us than 
+w: stands * a won- drous light Pro- claim- ing from the 
+w: fore * Him, and with prayer Their trea- sured east- ern 
+w: cense * to God they bring, And last, pro- phe- tic 
+w: Spi- _ rit, One in Three: To You, O God, be
+[V: S1V2]  E2 E | F2 G | F2 E | (D F) E | E2 D |
+[V: S2V1]  A,2 A, | A,2 B, | A,2 A, | B,2 B, | (A, G,) F, |
+[V: S2V2]  C,2 A,, | D,2 D, | D,2 C, | (B,, A,,) ^G,, | A,,2 D, |
+[V: S1V1]  B2 B | A2 G | A2 F | E2 F | D2 C | !fermata!D2 |]
+w: Da- vid's name, In you, as man, the Sa- vior came.
+w: con- scious skies That here, in flesh, the God- head lies.
+w: gifts un- fold Of in- cense, myrrh, and ro- yal gold.
+w: sign, with myrrh, They sha- dow forth His se- pul- cher.
+w: glo- ry giv'n By saints on earth and saints in Heav'n.
+[V: S1V2]  B,2 D | D2 B, | E2 D | C2 D | B,2 A, | !fermata!A,2 |]
+[V: S2V1]  G,2 G, | F,2 G, | E,2 A, | A,2 A, | (G, F,) E, | !invertedfermata!F,2 |]
+[V: S2V2]  G,,2 B,, | D,2 E, | C,2 D, | (A,, G,,) F,, | G,,2 A,, | !fermata!D,2 |]

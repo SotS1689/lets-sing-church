@@ -1,0 +1,57 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] z G G G | G G G/A/ B | c2 z c | d d c G |
+w: 1.~That man a god- ly life * might live, God did these ten com- 
+w: 2.~I am thy God and Lord _ a- lone, No o- ther God be-
+w: 3.~By id- le word and speech _ pro- fane Take not My ho- ly
+w: 4.~Hal- low the day which God _ hath blest That thou and all thy
+w: 5.~Give to thy par- ents hon- _ or due, Be du- ti- ful, and
+w: 6.~Kill thou not out of e- _ vil will, Nor hate, nor ren- der
+w: 7.~Be faith- ful to thy mar- _ riage vows, Thy heart give on- ly
+w: 8.~Steal not; op- pres- sive acts _ ab- hor; Nor wring their life blood
+w: 9.~Bear not false wit- ness nor _ be- lie Thy neigh- bor by foul
+w: 10.~Thy neigh- bor's house de- sire _ thou not, His wife, nor aught that
+w: 11.~God these com- mand- ments gave _ there- in To show thee, child of
+w: 12.~Help us, Lord Je- sus Christ, _ for we A me- di- a- tor
+[V: S1V2]  x D E E | D E D/C/ D | E2 x E | D F E E |
+[V: S2V1]  z B, B, C | B, C G, G, | G,2 z G, | B, A, C B, |
+[V: S2V2]  x G, E, C, | G, C, B,,/A,,/ G,, | C,2 x C, | G, D, A, E, |
+[V: S1V1]  A B c2 | z c d d | c G A G | F2 
+w: mand- ments give By His true ser- vant Mo- ses, high
+w: fore Me own; Put thy whole con- fi- dence in Me
+w: name in vain And praise but that as good and true
+w: house may rest; Keep hand and heart from la- bor free
+w: lov- ing, too, And help them when their strength de- cays,
+w: ill for ill; Be pa- tient and of gen- tle mood,
+w: to thy spouse; Thy life keep pure, and lest thou sin,
+w: from the poor; But o- pen wide thy lov- ing hand
+w: ca- lum- ny. De- fend his in- no- cence from blame;
+w: he hath got, But wish that his such good may be
+w: man, thy sin And make thee al- so well per- ceive
+w: have in Thee. Our works can- not sal- va- tion gain;
+[V: S1V2]  D G G2 | x F F F | E E C E | D2 
+[V: S2V1]  A, D E2 | z A, A,3/2 B,/ | C B, A, C | A,2 
+[V: S2V2]  F, G, C,2 | x F, D, D, | A, E, F, C, | D,2 
+[V: S1V1]  z F | A B c2 | _B G B2 | _B3/2 A/ G2 | G4 |]
+w: Up- on the mount Si- na- i. Have mer- cy, Lord. 
+w: And love Me e'er cor- dial- ly. Have mer- cy, Lord!
+w: Which I My- self say and do. Have mer- cy, Lord!
+w: That God may so work in thee. Have mer- cy, Lord!
+w: So shalt thou have length of days. Have mer- cy, Lord!
+w: And to thy foe do thou good. Have mer- cy, Lord.
+w: Use tem- perance and di- sci- pline. Have mer- cy, Lord!
+w: To all the poor in the land. Have mer- cy, Lord.
+w: With char- it- y hide his shame. Have mer- cy, Lord!
+w: As thy heart doth wish for thee. Have mer- cy, Lord!
+w: How man un- to God should live. Have mer- cy, Lord!
+w: They mer- it but end- less pain. Have mer- cy, Lord!
+[V: S1V2]  x D | A, D E2 | D D G2 | G3/2 F/ (E D) | D4 |]
+[V: S2V1]  z A, | D B, G,2 | _B, B, D2 | D3/2 D (C =B,//A,//) | B,4 |]
+[V: S2V2]  x D, | F, G, C,2 | G,, G,, G,,2 | G,3/2 D,/ (E,/F,/ G,) | G,,4 |]

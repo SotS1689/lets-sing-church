@@ -1,0 +1,19 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] (B,/ D/) | F3/2 G/ F B | B3/2 G/ F (B,/ D/) | F3/2 F/ (G/ F/) (D/ B,/) | C3 (B,/ D/) | F3/2 G/ F B | B3/2 G/ F (B/ c/) | d3/2 B/ c d | B3 (B/ c/) | d3/2 B/ c d | (B3/2 G/ B) G | F3/2 F/ (G/ F/) (D/ B,/) | C3 (B,/ D/) | F3/2 G/ F B | B3/2 G/ F (B/ c/) | d3/2 B/ c d | B4 |]
+w: 1.~There _ is a foun- tain filled with blood drawn _ from Im- ma- _ nuel's _ veins; and _ sin- ners, plunged be- neath that flood, lose _ all their guil- ty stains: lose _ all their guil- ty stains, _ _ lose all their guil- _ ty _ stains; and _ sin- ners, plunged be- neath that flood, lose _ all their guil- ty stains.
+w: 2.~The _ dy- ing thief re- joiced to see that _ foun- tain in _ his _ day; and _ there have I, as vile as he, washed _ all my sins a- way: washed _ all my sins a- way, _ _ washed all my sins _ a- _ way; and _ there have I, as vile as he, washed _ all my sins a- way.
+w: 3.~E'er _ since by faith I saw the stream your _ flow- ing wounds _ sup- _ ply, re- _ deem- ing love has been my theme, and _ shall be till I die: and _ shall be till I die, _ _ and shall be till _ I _ die; re- _ deem- ing love has been my theme, and _ shall be till I die.
+w: 4.~Then _ in a no- bler, swee- ter song I'll _ sing your pow'r _ to _ save, when _ this poor li- sping, stamm'- ring tongue lies _ si- lent in the grave: lies _ si- lent in the grave, _ _ lies si- lent in _ the _ grave; when _ this poor li- sping, stamm'- ring tongue lies _ si- lent in the grave.
+w: 5.~Dear _ dy- ing Lamb, your pre- cious blood shall _ ne- ver lose _ its _ pow'r, till _ all the ran- somed church of God be _ saved to sin no more: be _ saved to sin no more, _ _ be saved to sin _ no _ more; till _ all the ran- somed church of God be _ saved to sin no more.
+[V:A] B, | D3/2 E/ D F | E3/2 E/ D B, | D3/2 D/ E/ D/ B, | A,3 B, | D3/2 E/ D F | E3/2 E/ D D/ E/ | F3/2 F/ F F | D3 D/ E/ | F3/2 D/ F F | E3 E | D3/2 D/ E/ D/ B, | A,3 B, | D3/2 E/ D F | E3/2 E/ D F | F3/2 F/ F F | D4 |]
+[V:T] D,/ F,/ | B,3/2 B,/ B, B, | G,3/2 B,/ B, D,/ F,/ | B,3/2 B,/ B, F, | F,3 D,/ F,/ | B,3/2 B,/ B, B, | G,3/2 B,/ B, B, | B,3/2 B,/ A, F, | F,3 F, | B,3/2 B,/ A, B, | G,3/2 B,/ G, B, | B,3/2 B,/ B, F, | F,3 D,/ F,/ | B,3/2 B,/ B, B, | G,3/2 B,/ B, B,/ A,/ | B,3/2 B,/ A, A, | F,4 |]
+[V:B] B,, | B,,3/2 E,/ B,, D, | E,3/2 E,/ B,, B,, | B,,3/2 B,,/ B,, B,,/ D,/ | F,3 B,, | B,,3/2 E,/ B,, D, | E,3/2 E,/ B,, B,, | B,,3/2 D,/ F, F, | B,,3 B,, | B,,3/2 B,,/ F, D, | E,3 E, | B,,3/2 B,,/ B,, B,,/ D,/ | F,3 B,, | B,,3/2 E,/ B,, D, | E,3/2 E,/ B,, D,/ F,/ | B,,3/2 D,/ F, F,, | B,,4 |]

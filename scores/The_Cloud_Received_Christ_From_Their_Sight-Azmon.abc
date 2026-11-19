@@ -1,0 +1,41 @@
+X: 1 
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=200] E2 | A A B2 B2 | c B A2 B2 | c c d2 c2 | B4
+w: 1.~The cloud re- ceived Christ from their sight. They stood, their mouths a- gape. 
+w: 2.~The cloud kept safe God's peo- ple as Through the dry sea they trod, 
+w: 3.~On Si- nai's height the cloud did rest To make a home be- low. 
+w: 4.~Ap- pear- ing on the mer- cy seat with- in the in- most place, 
+w: 5.~On moun- tain high Christ's face did shine like sun, a bla- zing light. 
+w: 6.~While here in flesh You taught us, Lord The ob- ject sure and right:
+w: 7.~A goal be- yond our reach You've shown; We can- not pay the price.
+w: 8.~You are the Truth, You are the Way for us to see His face.
+w: 9.~On Ea- ster day, Lord, You were raised First- fruits of our new Life;
+w: 10.~We wait to see the cloud's re- turn To be with us be- low,
+w: 11.~And though we wait to see You now We know that You are near.
+w: 12.~You give us faith by Your strong Word In wa- ter, wine, and bread.
+[V: S1V2]  E2 | E C E2 E2 | E D C2 E2 | E E E2 E2 | E4
+[V: S2V1]  E,2 | E, A, G,2 G,2 | A, G, A,2 G,2 | A, A, B,2 A,2 | G,4
+[V: S2V2]  E,2 | C, A,, E,2 E,2 | A, E, F,2 E,2 | A, A, G,2 A,2 | E,4
+[V: S1V1]  e2 | e c c2 A2 | A F F2 (A F) | E A A2 B2 | A4 |]
+w: Re- mind- ed of the things He taught His * peo- ple still do wait. 
+w: And led them through the wild- er- ness; They * tru- ly walked with God!
+w: The Ark first then His writ- ten Word His * pre- sence now would show. 
+w: the Tem- ple showed God's pro- mi- ses to * save our fal- len race. 
+w: The cloud once more ap- peared on earth a * tru- ly fear- ful sight. 
+w: To see our Fa- ther's glo- ry bright, To _ have e- ter- nal life.
+w: No work of ours a- tones for sin, We _ can- not set things right.
+w: You died for us a sin- ner's death a- _ ban- doned in our place.
+w: And in the cloud we see the day When _ joy will end all strife.
+w: When You ful- fill Your pro- mis- es To _ bring us to Your home.
+w: Your pro- mis- es to build our faith Are _ stron- ger than our fear.
+w: The Spi- rit works through earth- ly means, in _ pas- tures green we're fed.
+[V: S1V2]  G2 | A E E2 E2 | F D D2 (F D) | C C C2 D2 | C4 |]
+[V: S2V1]  B,2 | C A, A,2 A,2 | A, A, A,2 A,2 | A, A, A,2 G,2 | A,4 |]
+[V: S2V2]  E,2 | A, A, A,2 C,2 | D, D, D,2 D,2 | E, E, E,2 E,2 | A,,4 |]

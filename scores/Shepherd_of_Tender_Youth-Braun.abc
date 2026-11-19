@@ -1,0 +1,19 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G F G | A3/2 G/ F | B A G | F3/2 G/ A | G G A | B3 | _d d d | c B A | =B B B | B3/2 A/ _G | E F _G | A3/2 _G/ F | B G F | E3 |]
+w: 1.~Shep- herd of ten- der youth, Guid- ing in love and truth Through de- vious ways; Christ our tri- um- phant king, We come Thy name to sing And here our child- ren bring To join Thy praise.
+w: 2.~Thou art our ho- ly Lord, O all sub- du- ing Word, Hea- ler of strife. Thou didst Thy- self a- base That from sin's deep dis- grace Thou migh- test save our race And give us life.
+w: 3.~Thou art the great high priest; Thou hast pre- pared the feast Of ho- ly love; And in our mor- tal pain, None calls on Thee in vain; Help Thou dost not dis- dain, Help from a- bove.
+w: 4.~Ev- er be Thou our guide, Our shep- herd and our pride, Our staff and song; Je- sus, Thou Christ of God, By Thine en- du- ring Word Lead us where Thou hast trod, Make our faith strong.
+w: 5.~So now, and till we die, Sound we Thy prais- es high And joy- ful sing; In- fants and the glad throng Who to Thy Church be- long, U- nite to swell the song To Christ, our king.
+[V:A] E C E | F3/2 E/ _D | F F E | C3/2 E/ E | E D F | F3 | _G G F | A A F | _G G G | _G F _D | =B, E E | E E E | E C D | E3 |]
+[V:T] B, A, B, | _D B, A, | B, C C | A, C C | B, B, C | _D3 | B, B, B, | E E _D | E E =B, | _D =B, _B, | _G, =B, _B, | =B, B, B, | B, A, A, | G,3 |]
+[V:B] E, F, E, | _D, D, D, | D, F, C, | F, C, A,, | E, G, F, | B,,3 | _G,, G,, G,, | A,, C, _D, | =B,, B,, E, | _G, G, G, | =B,, A,, _G,, | F,, _G,, A,, | G,, A,, B,, | E,3 |]

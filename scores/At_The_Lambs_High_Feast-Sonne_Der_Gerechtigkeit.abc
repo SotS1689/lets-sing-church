@@ -1,0 +1,21 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] F/ E/- | E/ D C2 z/ | C C G c | B/ A1/4 G1/4 A/ A/ G2 | A A B A | (G/ A/ G/) F/ E2 | E/ D/ E/ F/ G/ G/ C | (E/ D/) (E/ C/) (B,/ C/) D |]
+w: 1.~At the _ Lamb's high feast we sing, Praise to our vic- tor- ious King, Who has washed us in _ _ the tide Flow- ing from his pierc- èd side; Al- _ le- _ lu- _ ia!
+w: 2.~Praise we _ Him, whose love di- vine Gives His sac- red blood for wine, Gives His bo- dy for _ _ the feast, Christ the Vic- tim, Christ the Priest. Al- _ le- _ lu- _ ia!
+w: 3.~Where the _ Pas- chal blood is poured, Death's dark an- gel sheathes his sword; Is- rael's hosts tri- um- _ _ phant go Through the wave that drowns the foe. Al- _ le- _ lu- _ ia!
+w: 4.~Praise we _ Christ, whose blood was shed, Pas- chal Vic- tim, Pas- chal Bread; With sin- ce- ri- ty _ _ and love Eat we Man- na from a- bove. Al- _ le- _ lu- _ ia!
+w: 5.~Might- y _ Vic- tim from the sky, Hell's fierce pow'rs be- neath Thee lie; Thou hast con- quered in _ _ the fight, Thou hast brought us life and light; Al- _ le- _ lu- _ ia!
+w: 6.~Now no _ more can death ap- pall, Now no more the grave enth- rall; Thou hast o- pened Par- _ _ a- dise, And in Thee Thy saints shall rise. Al- _ le- _ lu- _ ia!
+w: 7.~Pas- chal _ tri- umph, Ea- ster joy, This a- lone can sin de- stroy; From sin's death do Thou _ _ set free Souls re- born, O Lord, in Thee. Al- _ le- _ lu- _ ia!
+[V:A] C/ C/- | C A,/ C2 z/ | C2 E C | F3/2 E/ E2 | F C E F | E2 C2 | C2 E/ E/ C | C/ B,/ C/ C/ G,/ G,/ B, |]
+[V:T] A,/ G,/- | G,/ F, G,2 z/ | E,2 G, G, | D2 C, D,/ E,/ | F,2 A, F, | G,3/2 G,/ C, D,/ E,/ | E, G, G,/ G,/ E, | G,/ G,/ G, D,/ E,/ G, |]
+[V:B] F,/ C,/- | C, D,/ C,2 z/ | C,2 C, E, | D,2 C,2 | C,2 B,, C, | E,3/2 E,/ G,,2 | C, E, E,/ G,/ C, | E,/ D,/ E, B,,/ C,/ D, |]

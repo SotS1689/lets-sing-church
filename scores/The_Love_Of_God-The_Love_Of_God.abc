@@ -1,0 +1,51 @@
+X:1
+M: 3/4
+L: 1/8
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Db
+[V: S1V1] [Q:1/4=90] D D3/2 E/ | F3 A B3/2 A/ | (A2 F) A A3/2 F/ | E3 G F3/2 E/ | F3
+w: 1.~The love of God is great- er far * Than tongue or pen can ev- er tell, 
+w: 2.~When hoar- y time shall pass a- way, _ And earth- ly thrones and king- doms fall;
+w: 3.~Could we with ink the o- cean fil- _ l,And were the skies of parch- ment made,
+[V: S1V2] A, A,3/2 A,/ | D3 F G3/2 F/ | (F2 D) D D3/2 D/ | A,3 E D3/2 C/ | D3
+[V: S2V1] F, F,3/2 G,/ | A,3 D D3/2 D/ | (D2 A,) F, F,3/2 A,/ | A,3 A, A,3/2 A,/ | A,3
+[V: S2V2] D, D,3/2 D,/ | D,3 D, D,3/2 D,/ | D,3 D, D,3/2 D,/ | A,,3 A,, A,,3/2 A,,/ | D,3
+[V: S1V1] D D3/2 E/ | F3 A B3/2 A/ | (A2 F) A A3/2 F/ | E3 G F3/2 E/ | D3
+w: It goes be- yond the high- est star, * And reach- es to the low- est hell; 
+w: When men who here re- fuse to pray, _ On rocks and hills and moun- tains call;
+w: Were ev- ery stalk on earth a quill _ And ev- ery man a scribe by trade;
+[V: S1V2] A, A,3/2 A,/ | D3 F G3/2 F/ | (F2 D) D D3/2 D/ | C3 D D3/2 C/ | D3
+[V: S2V1] F, F,3/2 G,/ | A,3 D D3/2 D/ | (D2 A,) F, F,3/2 A,/ | G,3 B, A,3/2 G,/ | F,3
+[V: S2V2] D, D,3/2 D,/ | D,3 D, D,3/2 D,/ | D,3 D, D,3/2 D,/ | A,,3 A,, A,,3/2 A,,/ | D,3
+[V: S1V1] d d3/2 d/ | B3 d d3/2 d/ | (A2 F) A A3/2 B/ | (A2 E2) G2 | F3
+w: The guilt- y pair, bowed down with care, * God gave His Son * to win; 
+w: God's love, so sure, shall still en- dure, _ All meas- ure- less _ and strong;
+w: To write the love of God a- bove _ Would drain the o- _ cean dry;
+[V: S1V2] D D3/2 D/ | D3 D D3/2 D/ | D3 D D3/2 D/ | C4 E2 | D3
+[V: S2V1] F, G,3/2 A,/ | B,3 B, B,3/2 G,/ | (F,2 A,) F, F,3/2 F,/ | A,4 A,2 | A,3
+[V: S2V2] D, E,3/2 F,/ | G,3 G, G,,3/2 B,,/ | D,3 D, D,3/2 D,/ | E,4 C,2 | D,3
+[V: S1V1] d d3/2 d/ | B3 d d3/2 d/ | (A2 F) A A3/2 B/ | (A2 E2) F2 | D3
+w: His err- ing child, He rec- on- ciled, * And par- doned from * his sin. 
+w: Re- deem- ing grace to A- dam's race— _ The saints' and an- _ gels' song.
+w: Nor could the scroll con- tain the whole, _ Tho' stretched from sky _ to sky.
+[V: S1V2] D D3/2 D/ | D3 D D3/2 D/ | D3 D D3/2 D/ | C4 C2 | D3
+[V: S2V1] F, G,3/2 A,/ | B,3 B, B,3/2 G,/ | (F,2 A,) F, F,3/2 F,/ | (E,2 G,2) A,2 | F,3
+[V: S2V2] D, E,3/2 F,/ | G,3 G, G,,3/2 B,,/ | D,3 D, D,3/2 D,/ | A,,4 A,,2 | D,3
+[V: S1V1] d d3/2 d/ | d3 d c3/2 B/ | (A2 F) A A3/2 B/ | (A2 E2) B2 | A3
+w: Oh love of God, how rich and pure! * How meas- ure- less * and strong! 
+w: Oh love of God, how rich and pure! _ How meas- ure- less _ and strong!
+w: Oh love of God, how rich and pure! _ How meas- ure- less _ and strong!
+[V: S1V2] D D3/2 D/ | D3 D D3/2 D/ | D3 D D3/2 D/ | C4 C2 | D3
+[V: S2V1] F, G,3/2 A,/ | B,3 B, A,3/2 G,/ | (F,2 A,) F, F,3/2 G,/ | A,4 G,2 | F,3
+[V: S2V2] D, E,3/2 F,/ | G,3 G, G,3/2 G,/ | D,3 D, D,3/2 D,/ | (E,2 A,2) A,,2 | D,3
+[V: S1V1] d d3/2 d/ | d3 d c3/2 B/ | (A2 F) A A3/2 B/ | (A2 E2) F2 | D3 |]
+w: It shall for- ev- er- more en- dure, * The saints' and an- * gels' song. 
+w: It shall for- ev- er- more en- dure, _ The saints' and an- _ gels' song.
+w: It shall for- ev- er- more en- dure, _ The saints' and an- _ gels' song.
+[V: S1V2] D D3/2 D/ | D3 D D3/2 D/ | D3 D D3/2 D/ | C4 C2 | D3 |]
+[V: S2V1] F, G,3/2 A,/ | B,3 B, A,3/2 G,/ | (F,2 A,) F, F,3/2 F,/ | (E,2 G,2) A,2 | F,3 |]
+[V: S2V2] D, E,3/2 F,/ | G,3 G, G,3/2 G,/ | D,3 D, D,3/2 D,/ | A,,4 A,,2 | D,3 |]

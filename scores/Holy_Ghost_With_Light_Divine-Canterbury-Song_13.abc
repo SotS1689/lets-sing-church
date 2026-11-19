@@ -1,0 +1,43 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100] G A B c | F F G2 | B c d e | c c B2 |
+w: 1.~Ho- ly Ghost, with light di- vine Shine up- on this heart of mine;
+w: 2.~Let me see my Sa- vior's face, Let me all His beau- ties trace; 
+w: 3.~Ho- ly Ghost, with pow'r di- vine Cleanse this guil- ty heart of mine;
+w: 4.~Ho- ly Ghost, with joy di- vine Cheer this sad- dened heart of mine;
+w: 5.~Ho- ly Spir- it, all di- vine, Dwell with- in this heart of mine; 
+w: 6.~See, to Thee I yield my heart, Shed Thy life through ev- ery part;
+w: 7.~Ho- ly Spi- rit, Truth di- vine, Dawn up- on this soul of mine;
+w: 8.~Ho- ly Spi- rit, Love di- vine, Glow with- in this heart of mine;
+w: 9.~Ho- ly Spi- rit, Power di- vine Fill and nerve this will of mine;
+w: 10.~Ho- ly Spi- rit, Right di- vine, King with- in my con- science reign;
+w: 11.~Ho- ly Spi- rit, Peace di- vine, Still this rest- less heart of mine;
+w: 12.~Ho- ly Spi- rit, Joy di- vine, Glad- den Thou this heart of mine;
+w: 13.~Now in- cline me to re- pent, Let me now my sins la- ment,
+[V: S1V2]  E E E E | E D E2 | F F F E | G F/E/ D2 |
+[V: S2V1]  B, C B, A,/G,/ | F, B, B,2 | B, =A, B, B, | B, =A, B,2 |
+[V: S2V2]  E, C, G,, A,, | B,, B,, E,2 | D, F, B, G, | E, F, B,,2 |
+[V: S1V1]  G A B c | A G F2 | B A/G/ F E | F F E2 |]
+w: Chase the shade of night a- way, Turn my _ dark- ness in- to day.
+w: Show those glo- rious truths to me Which are * on- ly known to Thee. 
+w: Long has sin, with- out con- trol, Held do- _ min- ion o'er my soul.
+w: Bid my ma- ny woes de- part, Heal my _ wound- ed, blee- ding heart.
+w: Cast down ev- ery i- dol\- throne, Reign su- * preme, and reign a- lone. 
+w: A pure tem- ple I would be, Whol- ly _ de- di- cate to Thee.
+w: Word of God and in- ward light Wake my _ spi- rit, clear my sight.
+w: Kin- dle ev- ery high de- sire; Per- ish _ self in Thy pure fire.
+w: Grant that I may strong- ly live, Bra- vely _ bear, and no- bly strive.
+w: Be my Lord, and I shall be Firm- ly _ bound, for- ev- er free.
+w: Speak to calm this toss- ing sea, Stayed in _ Thy tran- qui- li- ty.
+w: In the des- ert ways I sing, "Spring, O _ Well, for- ev- er spring."
+w: Now my foul re- volt de- plore, Weep, be- _ lieve, and sin no more.
+[V: S1V2]  E E E E | F =E F2 | F3/2 E/ D E | E D E2 |]
+[V: S2V1]  B, A, G, E, | C C/B,/ A,2 | B, B, A, G, | C B,/A,/ G,2 |]
+[V: S2V2]  E, C, B,, A,, | C, C, F,2 | D,3/2 E,/ B,, C, | A,, B,, E,2 |]

@@ -1,0 +1,90 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=135
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] G4 G3 A | B6 d2 | (c2 E2) (F2 A2) | G6 B,2 |
+w: 1.~And can it be that I _ should _ gain An
+w: 2.~’Tis mys- tery all: th’Im- mor- _ tal _ dies: Who
+w: 3.~He left His Fa- ther’s throne _ a- _ bove So
+w: 4.~Long my im- pris- oned spi- _ rit _ lay, Fast
+w: 5.~Still the small in- ward voice _ I _ hear, That
+w: 6.~No con- dem- na- tion now _ I _ dread; Je-
+[V:A] B,4 D3 D | D6 D2 | (E2 C2) C4 | B,6 B,2 |
+[V:T] D,4 G,3 F, | G,6 B,2 | A,4 (A,2 F,2) | G,6 D,2 |
+[V:B] G,,4 B,,3 D, | (G,2 D,2 B,,2) G,,2 | C,4 D,4 | G,,6 G,,2 |
+[V:S] (C2 A2) (F2 D2) | G4 (A2 G2) | F4 E4 | D8 |
+w: in- _ terest _ in the _ Sa- vior’s blood?
+w: can _ ex- _ plore His _ strange de- sign?
+w: free, _ so _ in- fi- _ nite His grace—
+w: bound _ in _ sin and _ na- ture’s night;
+w: whis- _ pers _ all my _ sins for- given;
+w: sus, _ and _ all in _ Him, is mine;
+[V:A] C4 A,4 | D4 D4 | D4 ^C4 | D8 |
+[V:T] E,4 D,2 F,2 | G,4 (C2 B,2) | A,4 G,4 | F,8 |
+[V:B] C,4 (D,2 C,2) | B,,4 (A,,2 G,,2) | A,,4 A,,4 | D,8 |
+[V:S] D4 F2 G2 | (G4 F2) D2 | G4 B4 | A6 D2 |
+w: Died He for me, _ who caused His pain— For
+w: In vain the first- _ born ser- aph tries To
+w: Emp- tied Him- self _ of all but love, And
+w: Thine eye diff- used _ a quick- ening ray— I
+w: Still the a- ton- _ ing blood is near, That
+w: A- live in Him, _ my liv- ing head, And
+[V:A] D4 D2 D2 | D6 D2 | D4 D4 | D6 D2 |
+[V:T] F,4 A,2 B,2 | (B,4 A,2) F,2 | G,4 G,4 | F,6 G,2 |
+[V:B] D,4 D,2 D,2 | D,6 C,2 | B,,4 G,,4 | D,6 B,,2 |
+[V:S] (E2 G4) E2 | (D2 G4) A2 | B4 A4 | G8 |
+w: me, _ who Him _ to death pur- sued?
+w: sound _ the depths _ of love di- vine.
+w: bled _ for A- _ dam’s help- less race:
+w: woke, _ the dun- _ geon flamed with light;
+w: quenched _ the wrath _ of hos- tile Heaven.
+w: clothed _ in right- _ eous- ness di- vine,
+[V:A] (C2 E4) C2 | D6 E2 | D4 C4 | B,8 |
+[V:T] G,6 G,2 | G,6 G,2 | G,4 F,4 | G,8 |
+[V:B] C,6 C,2 | B,,6 C,2 | D,4 D,4 | G,,8 |
+[V:S] B4 A2 D2 | G4 (A2 B2) | (c2 E2) (A2 G2) | (F3 E D2) D2 |
+w: A- ma- zing love! How _ can _ it _ be, _ _ That
+w: ’Tis mer- cy all! Let _ earth _ a- _ dore, _ _ Let
+w: ’Tis mer- cy all, im- _ mense _ and _ free, _ _ For
+w: My chains fell off, my _ heart _ was _ free, _ _ I
+w: I feel the life His _ wounds _ im- _ part; _ _ I
+w: Bold I ap- proach th’e- _ ter- _ nal _ throne, _ _ And
+[V:A] D4 D2 D2 | D4 D4 | E4 E4 | D6 A,2 |
+[V:T] G,4 F,2 F,2 | G,4 F,2 G,2 | G,4 (E,2 A,2) | (A,3 G, F,2) F,2 |
+[V:B] G,,4 D,2 C,2 | B,,4 A,,2 G,,2 | C,4 ^C,4 | D,6 D,2 |
+[V:S] (B,2 D2 G2) D2 | (E2 G2 c2) E2 | (F2 A2 d2) F2 | G6 G2 |
+w: Thou, _ _ my God, _ _ shouldst die _ _ for me? A-
+w: an- _ _ gel minds _ _ in- quire _ _ no more. ’Tis
+w: O _ _ my God, _ _ it found _ _ out me! ’Tis
+w: rose, _ _ went forth, _ _ and fol- _ _ lowed Thee. My
+w: feel _ _ the Sa- _ _ vior in _ _ my heart. I
+w: claim _ _ the crown, _ _ through Christ _ _ my own. Bold
+[V:A] B,6 B,2 | C2 E4 E2 | D6 C2 | B,6 G2 |
+[V:T] G,6 G,2 | G,6 A,2 | (A,2 F,4) A,2 | G,6 z2 |
+[V:B] G,,6 G,,2 | C,6 C,2 | D,6 D,2 | G,,6 z2 |
+[V:S] B4 B4 | A6 A2 | c4 c4 | B6 B2 |
+w: ma- zing love! How can it be, That
+w: mer- cy all! Let earth a- dore; Let
+w: mer- cy all, im- mense and free, For
+w: chains fell off, my heart was free, I
+w: feel the life His wounds im- part; I
+w: I ap- proach th’e- ter- nal throne, And
+[V:A] B4 D4 | (D2 D2 D2) A2 | c4 D4 | (D2 D2 D2) B2 |
+[V:T] z4 G,4 | (F,2 F,2 F,2) z2 | z4 F,4 | G,2 (B,2 B,2) z2 |
+[V:B] z4 G,,4 | (D,2 D,2 D,2) z2 | z4 D,4 | (G,2 G,2 G,2) z2 |
+[V:S] (e2 G2) e4 | d4 (c2 A2) | G4 F4 | G8 |]
+w: Thou, _ my God, shouldst _ die for me?
+w: an- _ gel minds in- _ quire no more.
+w: O _ my God, it _ found out me!
+w: rose, _ went forth, and _ fol- lowed Thee.
+w: feel _ the Sa- vior _ in my heart.
+w: claim _ the crown, through _ Christ my own.
+[V:A] e2 G2 (G2 G2) | G4 E4 | D4 C4 | B,8 |]
+[V:T] z2 C2 (C2 C2) | B,4 (A,2 C2) | B,4 A,4 | G,8 |]
+[V:B] z2 C,2 (E,2 C,2) | G,4 C,4 | D,4 D,4 | G,,8 |]

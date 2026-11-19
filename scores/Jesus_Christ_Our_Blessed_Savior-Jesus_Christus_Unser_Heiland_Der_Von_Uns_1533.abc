@@ -1,0 +1,37 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=140] F2 c2 | A F G A | B2 A2 | F c A d | c B c2 | A4 |
+w: 1.~Je- sus Christ, our bless- èd Sa- vior, Turned a- way God's wrath for- ev- er;
+w: 2.~As His pledge of love un- dy- ing He, this pre- cious food sup- ply- ing,
+w: 3.~Who- so to this board re- pair- eth May take heed how he pre- par- eth;
+w: 4.~Praise the Fa- ther, who from Hea- ven Un- to us such food hath gi- ven
+w: 5.~Thou shalt hold with faith un- sha- ken That this food is to be tak- en
+w: 6.~To such grace and mer- cy turn- eth Ev- ery soul that tru- ly mourn- eth;
+w: 7.~Christ says, "Come, all ye that la- bor, And re- ceive My grace and fa- vor;
+w: 8.~Use- less were for thee My pas- sion If thy works thy weal could fash- ion.
+w: 9.~If thy heart this truth pro- fes- ses, And thy mouth thy sin con- fes- ses,
+w: 10.~But the fruits must not be mis- sing, Love thy neigh- bor with- out ceas- ing,
+[V: S1V2]  C2 E2 | C D E C | D2 C2 | C E F F | F D E2 | C4 |
+[V: S2V1]  A,2 G,2 | F, A, C F, | F,2 F,2 | A, G, F, B, | A, G, G,2 | F,4 |
+[V: S2V2]  F,2 C,2 | F, D, B,, F, | B,,2 F,2 | F, C, D, B,, | F, G, C,2 | F,4 |
+[V: S1V1]  c c B A | A G F2 | c2 A F | c B A G | A4 |]
+w: By His bit- ter grief and woe He saved us from the e- vil foe.
+w: Gives His bo- dy with the bread And with the wine the blood He shed.
+w: For if he does not be- lieve, Then death for life he shall re- ceive.
+w: And, to mend what we have done, Gave in- to death His on- ly Son.
+w: By the sick who are dis- tressed, By hearts that long for peace and rest.
+w: Art thou well? A- void this board, Else thou rea- pest an ill re- ward.
+w: They who feel no want nor ill Need no phy- si- cian's help nor skill.
+w: This feast is not spread for thee If thine own sa- vior thou wilt be.
+w: His dear guest thou here shalt be, And Christ Him- self shall ban- quet thee.
+w: That true love let him re- ceive, Which here to thee thy God doth give.
+[V: S1V2]  F G F F | F E D2 | E2 C C | E D D D | E4 |]
+[V: S2V1]  A, C D C | C C A,2 | G,2 F, F, | G, G, F, D | ^C4 |]
+[V: S2V2]  F, E, D, F, | A,, C, D,2 | C,2 F,, A,, | C, G,, D, B,, | A,,4 |]

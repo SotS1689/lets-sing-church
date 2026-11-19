@@ -1,0 +1,27 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=120] A | B A c d | G3 F | E B A B | E3 
+w: 1.~We know Thee who Thou art, Lord Je- sus, Ma- ry's Son; 
+w: 2.~That sac- red fount of grace, 'Mid all the bliss of Heav'n, 
+w: 3.~Brought home from ways per- verse, At peace Thine arms with- in, 
+w: 4.~We dare not ask to live Hence- forth from tri- als free; 
+w: 5.~We know Thee who Thou art, Our own re- deem- ing Lord; 
+[V: S1V2] F | G A G F | E3 D | D C D D | C3
+[V: S2V1] D | D D G, A, |A,3 A, | B, A, D B, | A,3
+[V: S2V2] D, | G, F, E, D, | C,3 D, | G, G, F, G, | A,3
+[V: S1V1] F | F E D d | c B A D | G F E E | D3 |]
+w: We know the yearn- ings of Thy heart To end Thy work be- gun. 
+w: Has joy when- e'er we seek Thy face, And kneel to be for- giv'n. 
+w: We pray Thee, shield us from the curse Of fall- ing back to sin. 
+w: But oh! when next they tempt us, give More strength to cling to Thee. 
+w: Be Thou by will, and mind, and heart, Ac- cep- ted, loved, a- dored. 
+[V: S1V2] D | B, B, A, F | E D/E/ F D | D/C/ D D C D3 |]
+[V: S2V1] A, | G, G, F, A, | G,/A,/ B,/C/ D A, | G, A, B, A,/G,/ | F,3 |]
+[V: S2V2] D, | D, D, D, D, | E,/F,/ G, D, F, | E, D, G,, A,, | D,3 |]

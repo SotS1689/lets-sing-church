@@ -1,0 +1,61 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=140] B G B | A2 G | F3 | E2 B | (c3/2 d/) e | (d3/2 c/) d | c3 |
+w: 1.~A- wake, my heart, with glad- ness, See what _ to- day _ is done!
+w: 2.~The foe in tri- umph shou- ted When Christ _ lay in _ the tomb;
+w: 3.~Up- on the grave is stand- ing The He- * ro look- * ing round;
+w: 4.~This is a sight that glad- dens; What peace _ it doth _ im- part!
+w: 5.~Now hell, its prince, the de- vil Of all _ their pow'rs _ are shorn;
+w: 6.~The world a- gainst me ra- geth Its fu- _ ry I _ dis- dain;
+w: 7.~Now I will cling for- ev- er To Christ, _ my Sa- _ vior true;
+w: 8.~To halls of heaven- ly splen- dor With Him _ I pe- _ ne- trate;
+w: 9.~He brings me to the por- tal That leads _ to bliss _ un- told,
+[V: S1V2] E E E | C2 B, | B,3 | B,2 E | E2 E/F/ | G2 G | E3 |
+[V: S2V1] G, B, E, | E,2 E, | (D,3/2 C,/ D,) | G,2 G, | A,2 G,/C/ | (=B,3/2 =A,/) B, | G,3 |
+[V: S2V2] E, E, G,, | A,,2 E, | B,,3 | E,,2 E, | (A,,3/2 B,,/) C, | G,,2 G,, | C,3 |
+[V: S1V1] B G B | A2 G | F3 | E2 B | (c3/2 d/) e | (d3/2 c/) d | c3 |
+w: Now, af- ter gloom and sad- ness, Comes forth _ the glor- _ ious Sun!
+w: But, lo, he now is rou- ted, His boast _ is turned _ to gloom.
+w: The foe, no more with- stand- ing, His wea- * pons on * the ground
+w: Now no- thing ev- er sad- dens The joy _ with- in _ my heart.
+w: Now I am safe from e- vil, And sin _ I laugh _ to scorn.
+w: Though bit- ter war it wa- geth Its work _ is all _ in vain.
+w: My Lord will leave me ne- ver, What- e'er _ He pas- _ seth through.
+w: And trou- ble ne'er may hin- der Nor make _ me he- _ si- tate.
+w: Where- on this rhyme im- mor- tal Is found _ in script _ of gold:
+[V: S1V2] E E E | C2 B, | B,3 | B,2 E | E2 E/F/ | G2 G | E3 |
+[V: S2V1] G, B, E, | E,2 E, | (D,3/2 C,/ D,) | G,2 G, | A,2 G,/C/ | (=B,3/2 =A,/) B, | G,3 |
+[V: S2V2] E, E, G,, | A,,2 E, | B,,3 | E,,2 E, | (A,,3/2 B,,/) C, | G,,2 G,, | C,3 |
+[V: S1V1] G B E | (D3/2 E/) F | E3 | A c F | (=E3/2 F/) G | F2
+w: My Sa- vior there _ was laid Where our bed must _ be made
+w: For Christ a- gain _ is free; In glor- ious vic- _ to- ry
+w: Throws down, his hell- * ish pow'r To Christ must he * give o'er,
+w: No gloom shall ev- _ er shake, No foe shall ev- _ er take,
+w: Grim Death with all _ his might Can- not my soul _ af- fright;
+w: My heart from care _ is free, No trou- ble troub- _ les me.
+w: He rends death's i- _ ron chain, He breaks through sin _ and pain,
+w: Let tem- pests rage _ at will, My Sa- vior shields _ me still;
+w: Who there My cross _ hath shared Finds here a crown _ pre- pared;
+[V: S1V2] B, B, G, | B,2 B, | B,3 | F E _D | C2 C | C2
+[V: S2V1] G, F, E, | (F,3/2 E,/) D, | G,3 | C C B, | (G,3/2 F,/) =E, | =A,2
+[V: S2V2] E, D, C, | B,,2 B,, | E,,3 | F,, A,, B,, | C,2 C, | F,,2
+[V: S1V1] F | (G3/2 A/) B |  (=A3/2 B/) c | B2 B | (c3/2 d/) e | (d3/2 c/) d | e3 |]
+w: When to _ the realms _ of light Our spi- _ rit wings _ its flight.
+w: He who _ is strong _ to save Has tri- _ umphed o'er _ the grave.
+w: And to * the Vic- * tor's bands Must yield * his feet * and hands.
+w: The hope _ which God's _ own Son In love _ for me _ hath won.
+w: He is _ a pow'r- _ less form, How- e'er _ he rave _ and storm.
+w: Mis- for- _ tune now _ is play And night _ is bright _ as day.
+w: He shat- _ ters hell's _ dark thrall, I fol- _ low Him _ through all.
+w: He grants _ a- bid- _ ing peace And bids _ all tu- _ mult cease.
+w: Who there _ with Me _ hath died Shall here _ be glo- _ ri- fied.
+[V: S1V2] D | E2 F | F2 F | D2 E | E2 E | F2 F | G3 |]
+[V: S2V1] B, | B,2 B, | (C3/2 B,/) =A, | B,2 G, | A,2 G, | B,2 B, | B,3 |]
+[V: S2V2] B,, | E,2 D, | F,2 F, | B,,2 E, | (A,,3/2 B,,/) C, | B,,2 B,, | E,,3 |]

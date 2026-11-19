@@ -1,0 +1,25 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] G2 G F E D | G2 A2 B3 | B2 B B A G | c2 B2 A3 |
+w: 1.~How blest the per- fect in the way Who from God's law do not de- part,
+w: 2.~Yea, they are kept from paths of sin Who walk in God's ap- point- ed way;
+w: 3.~My wav'- ring heart is now re- solved Thy ho- ly sta- tutes to ful- fill;
+w: 4.~To Thee my praise sin- cere shall rise When I Thy right- eous judg- ments learn;
+[V: S1V2]  D2 D D B, B, | B,2 D2 D3 | D2 D G F G | G2 G2 F3 |
+[V: S2V1]  B,2 B, A, G, F, | G,2 F,2 G,3 | G,2 B, D C B, | E2 D2 D3 |
+[V: S2V2]  G,2 G, D, E, B,, | E,2 D,2 G,,3 | G,2 G, G, D, E, | C,2 G,,2 D,3 |
+[V: S1V1]  G2 A B A G | E2 F2 G3 | d2 B G A c | B2 A2 G3 |]
+w: Who, hold- ing fast the word of truth, Seek Him with un- div- id- ed heart.
+w: Thy pre- cepts Thou hast gi- ven us That we should faith- ful- ly o- bey.
+w: No more shall I be brought to shame When I re- gard Thy ho- ly will.
+w: For- sake me not, but be my guide, And from Thy truth I will not turn.
+[V: S1V2]  G2 F G F D | E2 D2 D3 | D2 D G F E/F/ | G2 F2 D3 |]
+[V: S2V1]  B,2 D D D D | (C B,) A,2 B,3 | B,2 G, B, D E | D2 (D C) B,3 |]
+[V: S2V2]  E,2 D, G, D, B,, | C,2 D,2 G,,3 | G,2 G, E, D, A,, | (B,, C,) D,2 G,,3 |]

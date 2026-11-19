@@ -1,0 +1,85 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] z c B A | G A F G | E/D/ C2 E |
+w: 1.~I come, O Sa- vior, to Thy ta- * ble, For 
+w: 2.~Oh, grant that I in man- ner wor- _ thy May
+w: 3.~Un- wor- thy though I am, O Sa- _ vior, Be-
+w: 4.~Oh, let me loathe all sin for- ev- _ er As
+w: 5.~Thy heart is filled with fer- vent yearn- _ ing That
+w: 6.~Wear- y am I and hea- vy la- _ den, With
+w: 7.~Thou here wilt find a heart most low- _ ly That
+w: 8.~By faith I call Thy ho- ly ta- _ ble The
+w: 9.~What high- er gift can we in- her- _ it? It
+w: 10.~This feast is man- na, wealth a- bound- _ ing Un-
+w: 11.~Thy bo- dy, giv'n for me, O Sa- _ vior, Thy
+w: 12.~With Thee, Lord, I am now u- ni- _ ted; I
+w: 13.~Who can con- demn me now? For sure- _ ly The
+w: 14.~Though death may threat- en with dis- a- _ ster, It
+w: 15.~My heart has now be- come Thy dwell- _ ing, O
+[V: S1V2]  x E G F | E E D/C/ B, | C C2 C |
+[V: S2V1]  z G, G, C | C C A, G, | G,/F,/ E,2 G, |
+[V: S2V2]  x C, E, F, | C, A,, D, G,, | C, C,2 C, |
+[V: S1V1] D G ^F c | B A G2 | z c B A | G A F G |
+w: weak and wear- y is my soul; Thou, Bread of Life, a- lone art 
+w: now ap- proach Thy heav'n- ly board And, as I low- ly bow be-
+w: cause I have a sin- ful heart, Yet Thou Thy lamb wilt ban- ish
+w: death and poi- son to my soul That I through will- ful sin- ning
+w: sin- ners may sal- va- tion see Who, Lord, to Thee in faith are
+w: sin my soul is sore op- prest; Re- ceive me gra- ciou- sly and
+w: hum- bly falls be- fore Thy feet, That du- ly weeps o'er sin, yet
+w: te- sta- ment of Thy deep love; For, lo, the- reby I now am
+w: is faith's bond and sol- id base; It is the strength of heart and
+w: to the poor, to weak ones power, To an- gels joy, to hell con-
+w: blood which Thou for me didst shed, These are my life and strength for-
+w: live in Thee and Thou in me. No sor- row fills my soul, de-
+w: Lord is nigh, who ju- sti- fies. No hell I fear, and thus se-
+w: can- not rob me of my cheer; For He Who is of death the
+w: bless- èd, ho- ly Tri- ni- ty. With an- gels I, Thy prais- es
+[V: S1V2]  B, B, D E | G3/2 ^F/ G2 | x E G F | E E D/C/ B, |
+[V: S2V1]  G, G, A, C | D D B,2 | z G, G, C | C C A, G, |
+[V: S2V2]  G,, E, D, A,, | B,,/C,/ D, G,,2 | x C, E, F, | C, A,, D, G,, |
+[V: S1V1]  E/D/ C2 E | D G ^F c | B A G2 |
+w: ab- * le To sa- tis- fy and make me whole: 
+w: fore _ Thee, Look on- ly un- to Thee, O Lord!
+w: ne- _ ver, For Thou my faith- ful Shep- herd art:
+w: ne- _ ver May see Thy judg- ment take its toll!
+w: turn- _ ing; So I, a sin- ner, come to Thee.
+w: glad- _ den My heart, for I am now Thy guest.
+w: sole- _ ly Thy mer- it pleads, as it is meet.
+w: ab- _ le To see how love Thy heart doth move.
+w: spi- _ rit, The cov- e- nant of hope and grace.
+w: foun- _ ding, And life for me in death's dark hour.
+w: ev- _ er, By them my hun- gry soul is fed.
+w: light- _ ed It finds its on- ly joy in Thee.
+w: cure- _ ly With Je- sus I to Hea- ven rise.
+w: Mas- _ ter, With aid and com- fort e'er is near.
+w: tell- _ ing, Shall live in joy e- ter- nal- ly.
+[V: S1V2]  C C2 C | B, B, D E | G3/2 ^F/ G2 |
+[V: S2V1]  G,/F,/ E,2 G, | G, G, A, C | D D B,2 |
+[V: S2V2]  C, C,2 C, | G,, E, D, A,, | B,,/C,/ D, G,,2 |
+[V: S1V1]  z G c c | A A d d | B3 c | F E D c | c B !fermata!c2 |]
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good! 
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+w: Lord, may Thy bo- dy and Thy blood Be for my soul the high- est good!
+[V: S1V2]  x D C E | C ^C D D | D3 C | D C B, C | D D !fermata!E2 |]
+[V: S2V1]  z B, G, G, |  A, G, ^F,/G,/ A, | G,3 G, | A, G, G, G, | A, G, !invertedfermata!G,2 |]
+[V: S2V2]  x G, E, C, | F, E, D,/E,/ ^F, | G,3 E, | D, E,/F,/ G, E, | F, G, !fermata!C,2 |]

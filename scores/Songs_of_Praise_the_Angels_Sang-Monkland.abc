@@ -1,0 +1,30 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=113
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] C2 E2 G2 E2 | (F G) (A B) c4 | e2 e2 d2 c2 | B2 A2 G4 |
+w: 1.~Songs of praise the an- _ gels _ sang, hea- ven with al- le- luias rang,
+w: 2.~Songs of praise a- woke _ the _ morn when the Prince of peace was born;
+w: 3.~Heaven and earth must pass _ a- _ way; songs of praise shall crown that day:
+w: 4.~And shall we a- lone _ be _ dumb till that glor- ious king- dom come?
+w: 5.~Saints be- low, with heart _ and _ voice, still in songs of praise re- joice;
+w: 6.~Hymns of glo- ry, songs _ of _ praise, Fa- ther, un- to thee we raise,
+[V:A] C2 C2 D2 C2 | C2 F2 E4 | G2 G2 G2 G2 | G2 ^F2 G4 |
+[V:T] E,2 A,2 B,2 G,2 | A,2 F,2 G,4 | C2 C2 B,2 C2 | D3 C B,4 |
+[V:B] C,2 A,,2 G,,2 C,2 | F,2 D,2 C,4 | (C, D,) (E, F,) G,2 E,2 | D,2 D,2 G,4 |
+[V:S] d2 (d c) B2 G2 | c2 e2 d4 | e2 (d c) B2 c2 | c2 B2 c4 |]
+w: when cre- _ a- tion was be- gun, when God _ spake and it was done.
+w: songs of _ praise a- rose when he cap- tive _ led cap- ti- vi- ty.
+w: God will _ make new heavens and earth; songs of _ praise shall hail their birth.
+w: No, the _ church de- lights to raise psalms and _ hymns and songs of praise.
+w: lear- ning _ here, by faith and love, songs of _ praise to sing a- bove.
+w: Je- su, _ glo- ry un- to thee, with the _ Spi- rit, ev- er be.
+[V:A] G2 D2 D2 G2 | G2 G2 G4 | G2 G2 G2 G2 | G2 D2 E4 |]
+[V:T] B,2 A,2 G,2 B,2 | C2 C2 B,4 | C2 (B, C) D2 C2 | D2 G,2 G,4 |]
+[V:B] G,2 ^F,2 G,2 (G, =F,) | E,2 C,2 G,4 | C,2 (D, E,) F,2 E,2 | G,2 G,,2 C,4 |]

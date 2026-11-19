@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] E | A G F E | D2 E B | c c B/A/ B | A3
+w: 1.~A Pil- grim and a stran- ger, I jour- ney here * be- low; 
+w: 2.~I've met with storm and dan- ger, E'en from my ear- * ly years, 
+w: 3.~It is a well worn path- way, Ma- ny have gone * be- fore: 
+w: 4.~Who would share A- br'm's bles- sing, Must A- br'm's path * pur- sue, 
+w: 5.~So I must has- ten for- wards Thank God, the end * will come! 
+w: 6.~There still my thoughts are dwell- ing, 'Tis there I long _ to be!
+w: 7.~There I shall dwell for- ev- er, No more a stran- _ ger guest,
+[V: S1V2]  C | C C C/D/ D/C/ | (C B,) C D | C/D/ E E3/2 D/ | C3
+[V: S2V1]  G, | F, G, A,/G,/ G, | (A, G,) G, ^G, | A, A, A, ^G, | A,3
+[V: S2V2]  C, | F, E, A,,/B,,/ C, | (F,, G,,) C, B,, | A,,/B,,/ C,/D,/ E, E,, | A,,3
+[V: S1V1]  E | A G F E | D2 E B | c c B/A/ B | A3
+w: Far dis- tant is my coun- try The home to which * I go. 
+w: With e- ne- mies and con- flicts, With figh- tings and * with fears. 
+w: The ho- ly saints and pro- phets, The pa- tri- archs * of yore. 
+w: A stran- ger and a pil- grim, Like him, must jour- * ney through. 
+w: This land of my so- jour- ning Is not my des- * tined home. 
+w: Come, Lord, and call Thy ser- vant To bless- ed- ness _ with Thee!
+w: With all Thy blood\-- bought child- ren In ev- er- last- _ ing rest.
+[V: S1V2]  C | C C C/D/ D/C/ | (C B,) C D | C/D/ E E3/2 D/ | C3
+[V: S2V1]  G, | F, G, A,/G,/ G, | (A, G,) G, ^G, | A, A, A, ^G, | A,3
+[V: S2V2]  C, | F, E, A,,/B,,/ C, | (F,, G,,) C, B,, | A,,/B,,/ C,/D,/ E, E,, | A,,3
+[V: S1V1]  c | B/A/ G A B | c2 c G | A G F F | E3
+w: Here I * must toil and tra- vel, Oft wea- ry and op- prest, 
+w: There's no- * thing here that tempts me To wish a lon- ger stay, 
+w: They trod * the toil- some jour- ney In pa- tience and in faith; 
+w: The foes * must be en- coun- tered, The dan- gers must be passed; 
+w: That e- * ver more a- bi- deth, Jer- u- sa- lem a- bove, 
+w: Come, bid _ my toils be end- ed, Let all my wan- derings cease;
+w: The pil- _ grim toils for- got- ten, The pil- grim con- flicts o'er,
+[V: S1V2]  E | D/F/ E/D/ C F | (F E/D/) E E | F E E D | ^C3
+[V: S2V1]  A,/G,/ | F,/A,/ C/B,/ A,/G,/ F,/G,/ | (A, G,/F,/) G, C | C _B, A, A, | A,3
+[V: S2V2]  A,, | D, E, F,/E,/ D, | C,2 C, C, | F,/E,/ D,/^C,/ D,/E,/ F,/G,/ | A,3
+[V: S1V1]  =c | B/c/ d c B | A2 B E | F E D G | E3 |]
+w: But there * my God shall lead me To e- ver- las- ting rest. 
+w: So I * must has- ten for- wards, No hal- ting or de- lay. 
+w: And them * I fain would fol- low, Like them in life and death! 
+w: On- ly * a faith- ful sol- dier Re- ceives the crown at last. 
+w: The e- * ver- las- ting ci- ty, The land of light and love. 
+w: Call from _ the wa- yside lod- ging, To the sweet home of peace!
+w: All earth- _ ly griefs be- hind us, E- ter- nal joys be- fore!
+[V: S1V2]  D | D D E/^F/ G | (G ^F) G C/B,/ | A,/B,/ C C/A,/ B, | C3 |]
+[V: S2V1]  A, | G, A, G,/A,/ B,/G,/ | (E D) D G, | F, G, G, G, | G,3 |]
+[V: S2V2]  ^F, | G, ^F, E, D, | (^C, D,) G,, =C, | D, E,/F,/ G, G,, | C,3 |]

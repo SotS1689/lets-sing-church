@@ -1,0 +1,42 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=103
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] C2 | F A c2 A2 | A G G2 A2 | B B B2 G2 |
+w: 1.~With grate- ful heart my thanks I bring, Be- fore the great Thy
+w: 2.~I cried to Thee and Thou didst save, Thy word of grace new
+w: 3.~O Lord, en- throned in glo- ry bright, Thou reig- nest in the
+w: 4.~Thou wilt stretch forth Thy might- y arm To save me when my
+[V:A] C2 | C C F2 F2 | F E E2 F2 | F F F2 D2 |
+[V:T] C,2 | A, A, A,2 C2 | C C C2 C2 | D D D2 B,2 |
+[V:B] C,2 | F, F, F,2 F,2 | C, C, C,2 F,2 | B,, B,, B,,2 B,,2 |
+[V:S] F E F2 C2 | F A c2 A2 | A G G2 A2 | B B B2 G2 |
+w: praise I sing: I wor- ship in Thy ho- ly place And praise Thee for Thy
+w: cou- rage gave; The kings of earth shall thank Thee, Lord, For they have heard Thy
+w: heav'n- ly height; The proud in vain Thy fa- vor seek, But Thou hast mer- cy
+w: foes al- arm; The work Thou hast for me be- gun Shall by Thy grace be
+[V:A] C C C2 C2 | C C F2 F2 | F E E2 F2 | F F F2 D2 |
+[V:T] A, G, A,2 C,2 | A, A, A,2 C2 | C C C2 C2 | D D D2 B,2 |
+[V:B] C, C, F,2 C,2 | F, F, F,2 F,2 | C, C, C,2 F,2 | B,, B,, B,,2 B,,2 |
+[V:S] F E F2 | c2 | c c c2 c2 | d d d2 d2 |
+w: truth and grace; For truth and grace to- ge- ther shine In
+w: won- drous word; Yea, they shall come with songs of praise, For
+w: for the meek; Thro' trou- ble though my path- way be, Thou
+w: ful- ly done; For- ev- er mer- cy dwells with Thee; O
+[V:A] C C C2 | F2 | F E F2 F2 | F F F2 F2 |
+[V:T] A, G, A,2 | A,2 | A, B, C2 A,2 | B, B, B,2 B,2 |
+[V:B] C, C, F,2 | F,2 | F, G, A,2 F,2 | B,, B,, B,,2 B,,2 |
+[V:S] c A A2 F2 | A A G2 C2 | F F F2 A2 | G G F2 |]
+w: Thy most ho- ly Word di- vine, In Thy most ho- ly Word di- vine.
+w: great and glor- ious are Thy ways, For great and glor- ious are Thy ways.
+w: wilt re- vive and streng- then me, Thou wilt re- vive and streng- then me.
+w: Lord, my Ma- ker, think on me, O Lord, my Ma- ker, think on me.
+[V:A] F C C2 C2 | C C C2 C2 | C A, D2 C2 | C B, A,2 |]
+[V:T] A, F, F,2 A,2 | F, F, E,2 E,2 | F, F, F,2 F,2 | F, E, F,2 |]
+[V:B] F, F, F,2 F,2 | F,, A,, C,2 C,2 | A,, F,, B,,2 F,,2 | C, C, F,,2 |]

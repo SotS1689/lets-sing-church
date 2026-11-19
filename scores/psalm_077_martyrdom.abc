@@ -1,0 +1,33 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D | G2 E | D2 (G/ A/) | B2 A | G2 B | d2 (B/ A/) | G2 B | A3- | A2 d | B2 A | G2 B | c2 B | A2 B | (D E) (G/ A/) | B2 A | G2 |]
+w: 1.~Un- to the Lord I _ with my voice, I un- to _ God did cry; _ Ev'n with my voice, and un- to me his ear _ he _ did ap- ply.
+w: 2.~I in my trou- ble _ sought the Lord, my sore by _ night did run, _ And ceas- èd not; my griev- èd soul did con- _ so- _ la- tion shun.
+w: 3.~I to re- mem- brance _ God did call, yet trou- ble _ did re- main; _ And o- ver- whelm'd my spi- rit was, whilst I _ did _ sore com- plain.
+w: 4.~Mine eyes, de- barred from _ rest and sleep, thou ma- kest _ still to wake; _ My trou- ble is so great that I u- na- _ ble _ am to speak.
+w: 5.~The days of old to _ mind I called, and oft did _ think up- on _ The times and a- ges that are past full ma- _ ny _ years a- gone.
+w: 6.~By night my song I _ call to mind, and com- mune _ with my heart; _ My sp'rit did ca- re- fully en- quire how I _ might _ ease my smart.
+w: 7.~For ev- er will the _ Lord cast off, and gra- cious _ be no more? _ For ev- er is his mer- cy gone? fails his _ word _ ev- er- more?
+w: 8.~Is't true that to be _ gra- ci- ous the Lord for- _ got- ten hath? _ And that his ten- der mer- cies he hath shut _ up _ in his wrath?
+w: 9.~Then did I say, That _ sure- ly this is mine in- _ firm- it- y: _ I'll mind the years of the right hand of him _ that _ is most High.
+w: 10.~Yea, I re- mem- ber _ will the works per- form- èd _ by the Lord: _ The won- ders done of old by thee I sure- _ ly _ will re- cord.
+w: 11.~I al- so will of _ all thy works my me- di- _ ta- tion make; _ And of thy do- ings to di- scourse great plea- _ sure _ I will take.
+w: 12.~O God, thy way most _ ho- ly is with- in thy _ sanc- tua- ry; _ And what god is so great in pow'r as is _ our _ God most high?
+w: 13.~Thou art the God that _ won- ders do'st by thy right _ hand most strong: _ Thy might- y pow'r thou hast de- clared the na- _ ti- _ ons a- mong.
+w: 14.~To thine own peo- ple _ with thine arm thou didst re- _ demp- tion bring; _ To Ja- cob's sons, and to the tribes of Jo- _ seph _ that do spring.
+w: 15.~The wa- ters, Lord, per- _ ceiv- èd thee, the wa- ters _ saw thee well; _ And they for fear a- side did flee; the depths _ on _ trem- bling fell.
+w: 16.~The clouds in wa- ter _ forth were poured, sound loud- ly _ did the sky; _ And swift- ly through the world a- broad thine ar- _ rows _ fierce did fly.
+w: 17.~Thy thun- der's voice a- _ longst the heav'n a might- y _ noise did make; _ By ligh- tnings ligh- tened was the world, th'earth trem- _ ble _ did and shake.
+w: 18.~Thy way is in the _ sea, and in the wa- ters _ great thy path; _ Yet are thy foot- steps hid, O Lord; none know- _ ledge _ there- of hath.
+w: 19.~Thy peo- ple thou didst _ safe- ly lead, like to a _ flock of sheep; _ By Mo- ses' hand and Aa- ron's thou didst them _ con- _ duct and keep.
+[V:A] B, | B,2 C | B,2 (D/ E/) | D2 C | B,2 D | G2 D | D2 D | D3- | D2 D | D2 C | B,2 =F | E2 D | D2 D | D C (D/ E/) | D2 C | B,2 |]
+[V:T] G, | D,2 G, | G,2 G, | G,2 F, | G,2 G, | B,2 (G,/ F,/) | G,2 G, | F,3- | F,2 A, | G,2 F, | G,2 G, | G,2 G, | F,2 G, | G,2 G, | G,2 F, | G,2 |]
+[V:B] G,, | G,,2 G,, | G,,2 (B,,/ C,/) | D,2 D, | G,,2 G, | G,2 (G,,/ A,,/) | B,,2 G,, | D,3- | D,2 F, | G,2 D, | E,2 D, | C,2 G,, | D,2 G,, | (B,, C,) (B,,/ C,/) | G,2 D, | G,,2 |]

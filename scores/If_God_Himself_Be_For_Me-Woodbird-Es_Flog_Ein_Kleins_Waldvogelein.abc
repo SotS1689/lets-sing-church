@@ -1,0 +1,85 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=130] G | G d B G | (F3/2 G/) A D | E G G F | G3
+w: 1.~If God Him- self be for _ me, I may a host de- fy,
+w: 2.~This I be- lieve, yea, ra- * ther, Of this I make my boast,
+w: 3.~I build on this foun- da- * tion, That Je- sus and His blood
+w: 4.~My Je- sus is my Splen- * dor, My Sun, my Light, a- lone;
+w: 5.~He can- celed my of- fen- * ses, De- liv- ered me from death;
+w: 6.~Naught, naught, can now con- demn _ me Nor set my hope a- side;
+w: 7.~His Ho- ly Spi- rit dwel- _ leth With- in my will- ing heart,
+w: 8.~And when my soul is ly- _ ing Weak, trem- bling, and op- prest,
+w: 9.~To mine His Spi- rit spea- _ keth Sweet words of soo- thing power,
+w: 10.~In yon- der home doth flour- _ ish My he- ri- tage, my lot;
+w: 11.~Who clings with re- so- lu- _ tion To Him whom Sa- tan hates
+w: 12.~From me this is not hid- _ den, Yet I am not a- fraid;
+w: 13.~Though earth be rent a- sun- _ der, Thou'rt mine e- ter- nal- ly;
+w: 14.~No an- gel and no glad- _ ness, No throne, no pomp, no show,
+w: 15.~My heart for joy is spring- _ ing And can no more be sad,
+[V: S1V2]  D | E D D G | D2 D D | D C/B,/ A, D | D3
+[V: S2V1]  B, | B, A, B, D | (A,3/2 G,/) F, G,/F,/ | E, E D A, | (C B,2)
+[V: S2V2]  G, | E, F, G, B,, | D,2 D, B,, | C, A,, D, D, | [G,,3D,3]
+[V: S1V1]  G | G d B G | (F3/2 G/) A D | E G G F | G3
+w: For when I pray, be- fore _ me My foes con- found- ed fly.
+w: That God is my dear Fa- * ther, The Friend who loves me most,
+w: A- lone are my sal- va- * tion, The true, e- ter- nal good.
+w: Were He not my De- fen- * der Be- fore God's awe\- full throne,
+w: He is the Lord who clean- * ses My soul from sin through faith.
+w: Now hell no more can claim _ me, Its fu- ry I de- ride.
+w: Tames it when it re- bel- _ leth, And soothes the kee- nest smart.
+w: He pleads with groans and si- _ ghing That can- not be ex- prest;
+w: How God to Him that see- _ keth For rest, hath rest in store;
+w: Though here I die and per- _ ish, My heaven shall fail me not.
+w: Must look for per- se- cu- _ tion; For him the bur- den waits
+w: I leave my cares, as bid- _ den, To whom my vows were paid.
+w: Not fire nor sword nor thun- _ der Shall se- ver me from Thee;
+w: No love, no hate, no sad- _ ness, No pain, no depth of woe,
+w: 'Tis full of mirth and sing- _ ing, Sees naught but sun- shine glad.
+[V: S1V2]  D | E D D G | D2 D D | D C/B,/ A, D | D3
+[V: S2V1]  B, | B, A, B, D | (A,3/2 G,/) F, G,/F,/ | E, E D A, | B,3
+[V: S2V2]  G, | E, F, G, B,, | D,2 D, B,, | C, A,, D, D, | G,3
+[V: S1V1]  B | G d d/c/ B | A2 A c | B A B G | A3
+w: If Christ, the Head, _ be- friend me, If God be my sup- port,
+w: And that, what- e'er * be- tide me, My Sa- vior is at hand
+w: With- out Him all * that plea- ses Is val- ue- less on earth;
+w: I nev- er should * find fa- vor And mer- cy in His sight,
+w: In Him I can * be cheer- ful, Bold, and un- daun- ted aye;
+w: No sen- tence e'er _ re- proves me, No ill des- troys my peace;
+w: He crowns His work _ with bless- ing, And hel- peth me to cry
+w: But God's quick eye _ di- scerns them, Al- though they give no sound,
+w: How God Him- self _ pre- par- eth My he- ri- tage and lot,
+w: Though care my life _ oft sad- dens And cau- seth tears to flow,
+w: Of mock- ery, shame, _ and los- ses, Heaped on his bla- meless head;
+w: Though life and limb _ it cost me And ev- ery- thing I won,
+w: Not hun- ger, thirst, _ nor dan- ger, Not pain nor pov- er- ty
+w: No scheme of man's _ con- tri- vance, How- ev- er small or great,
+w: The Sun that cheers _ my spi- rit Is Je- sus Christ, my King;
+[V: S1V2]  D | D A G G | E2 F E | D D D B, | (^C D2)
+[V: S2V1]  G, | B, D E3/2 D/ | (D ^C) D G, | G, F, F, G, | (E, F,2)
+[V: S2V2]  G, | G, F, E, E, | A,2 D, =C,/E,/ | G, D, B,, E, | (A,, D,2)
+[V: S1V1]  d | c B A G | (F3/2 G/) A D | E G G F | G3 |]
+w: The mis- chief they in- tend _ me Shall quick- ly come to naught.
+w: Through storm- y seas to guide * me And bring me safe to land.
+w: The gifts I owe to Je- * sus A- lone my love are worth.
+w: But be de- stroyed for- ev- * er As dark- ness by the light.
+w: In Him I am not fear- * ful Of God's great Judg- ment Day.
+w: For Christ, my Sa- vior, loves _ me And shields me with His grace.
+w: My Fa- ther! with- out ceas- _ ing To Him who reigns on high.
+w: And in- to lang- uage turns _ them E'en in the heart's deep ground.
+w: And though my bo- dy wea- _ reth, My Heav'n shall fail me not.
+w: The light of Je- sus glad- _ dens And swee- tens ev- ery woe.
+w: A thou- sand plagues and cros- _ ses Will be his dai- ly bread.
+w: Un- sha- ken shall I trust _ Thee And cleave to Thee a- lone.
+w: Nor might- y prin- ces' an- _ ger Shall ev- er hin- der me.
+w: Shall draw me from Thy gui- _ dance Nor from Thee se- pa- rate.
+w: That which I shall in- her- _ it Makes me re- joice and sing.
+[V: S1V2]  D | E D C D | D2 D D | D C/B,/ A, D | D3 |]
+[V: S2V1]  G, | G, G, E,/F,/ G, | (A,3/2 G,/) F, G,/F,/ | E, E D A, | B,3 |]
+[V: S2V2]  B,, | C, G,, A,, B,, | D,2 D, B,, | C, A,, D, D, | G,,3 |]

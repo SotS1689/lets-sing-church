@@ -1,0 +1,45 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] A2 A2 A2 | c4 F2 | G4 G2 | A6 |
+w: 1.~Je- sus, Thou Joy of lov- ing hearts,
+w: 2.~Thy truth un- changed hath ev- er stood;
+w: 3.~We taste Thee, O Thou liv- ing Bread,
+w: 4.~Our rest- less spir- its yearn for Thee,
+w: 5.~O Je- sus, ev- er with us stay,
+[V:A] F2 F2 F2 | F4 F2 | F4 E2 | F6 |
+[V:T] C2 C2 C2 | C4 C2 | D4 C2 | C6 |
+[V:B] F,2 F,2 F,2 | A,,4 A,,2 | B,,4 C,2 | F,6 |
+[V:S] c2 c2 c2 | B4 G2 | A4 B2 | G6 |
+w: Thou Fount of life, Thou Light of men,
+w: Thou sa- vest those that on Thee call;
+w: And long to feast up- on Thee still;
+w: Whe- rever our chang- eful lot is cast;
+w: Make all our mo- ments calm and bright;
+[V:A] F2 F2 F2 | D4 E2 | F4 G2 | E6 |
+[V:T] C2 C2 C2 | D4 C2 | C4 D2 | C6 |
+[V:B] A,2 A,2 A,2 | G,4 C,2 | F,4 B,,2 | C,6 |
+[V:S] G2 G2 G2 | G4 G2 | =B4 G2 | c6 |
+w: From the best bliss that earth im- parts,
+w: To them that seek Thee Thou art good,
+w: We drink of Thee, the Foun- tain- head,
+w: Glad when Thy gra- cious smile we see,
+w: Chase the dark night of sin a- way,
+[V:A] E2 E2 E2 | F4 F2 | F4 F2 | E6 |
+[V:T] C2 C2 C2 | D4 D2 | D4 =B,2 | C6 |
+[V:B] C,2 C,2 C,2 | =B,,4 =B,,2 | G,,4 G,2 | C,6 |
+[V:S] A2 A2 A2 | (A2 G2) F2 | F4 E2 | F6 |]
+w: We turn un- filled _ to Thee a- gain.
+w: To them that find _ Thee all in all.
+w: And thirst our souls _ from Thee to fill.
+w: Blessed when our faith _ can hold Thee fast.
+w: Shed over the world _ Thy ho- ly light.
+[V:A] F2 E2 _E2 | D4 D2 | C4 C2 | C6 |]
+[V:T] C2 C2 C2 | B,4 A,2 | (G,2 A,2) B,2 | A,6 |]
+[V:B] F,2 F,2 F,2 | B,,4 =B,,2 | C,4 C,2 | F,6 |]

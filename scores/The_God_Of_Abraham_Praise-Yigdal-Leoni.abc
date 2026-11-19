@@ -1,0 +1,73 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=120] C | F G A B | c3 A | B c d e | c3
+w: 1.~The God of Ab- r'ham praise, Who reigns en- throned a- bove; 
+w: 2.~The God of Ab- r'ham praise, at Whose su- preme com- mand 
+w: 3.~The God of Ab- r'ham praise, Whose all suf- fic- ient grace 
+w: 4.~He by Him- self has sworn; I on His oath de- pend, 
+w: 5.~Tho' na- ture's strength de- cay, and earth and hell with- stand, 
+w: 6.~The good- ly land I see, with peace and plen- ty bless'd;
+w: 7.~There dwells the Lord our King, the Lord our right- eous- ness,
+w: 8.~He keeps His own se- cure, He guards them by His side,
+w: 9.~Be- fore the great Three\-- One they all e- xul- ting stand;
+w: 10.~The God Who reigns on high the great arch- an- gels sing,
+w: 11.~Be- fore the Sa- vior's face the ran- somed na- tions bow;
+w: 12.~The whole tri- um- phant host give thanks to God on high;
+[V: S1V2]  C | F C C F | =E3 C | F E F E | E3
+[V: S2V1]  C, | F, =E, F, F, | G,3 A, | F, A, A, G, | A,3
+[V: S2V2]  z | z C, F, D, | C,3 F, | D, C, B,, E, | A,,3
+[V: S1V1]  G | A B c d | e G A d | c2 B2 | A3
+w: An- cient of e- ver- last- ing days, and God of Love; 
+w: From earth I rise and seek the joys at His right hand; 
+w: Shall guide me all my hap- py days, in all my ways. 
+w: I shall, on ea- gle wings up- borne, to Heav'n a- scend. 
+w: To Ca- naan's bounds I urge my way, at His com- mand. 
+w: A land of sac- red lib- er- ty, and end- less rest.
+w: Tri- um- phant o'er the world and sin, the Prince of peace;
+w: Ar- rays in gar- ments, white and pure, His spot- less bride:
+w: And tell the won- ders He hath done, through all their land:
+w: And "Ho- ly, ho- ly, ho- ly!" cry, "Al- might- y King!
+w: O'er- whelmed at His al- might- y grace, for- ev- er new:
+w: "Hail, Fa- ther, Son, and Ho- ly Ghost," they ev- er cry.
+[V: S1V2]  E | E D C F | E D C F | E2 (E D) | C3
+[V: S2V1]  B, | A, G, A, A, | A, B, A, A, | A,2 G,2 | A,3
+[V: S2V2]  E, | C, B,, A,, D, | C, E, F, B,, | E,2 E,2 | A,,3
+[V: S1V1]  A | c c c c | B3 A/G/ | F/G/ A/B/ c F | (F =E2)
+w: Je- ho- vah, great I AM! by * earth * and * Heav'n con- fessed; * 
+w: I all on earth for- sake, its * wis- * dom, * fame, and pow'r; * 
+w: He calls a worm His friend, He * calls * Him- * self my God! * 
+w: I shall be- hold His face; I * shall * His * pow'r a- dore, * 
+w: The wa- t'ry deep I pass, with * Je- * sus * in my view; * 
+w: There milk and hon- ey flow, and _ oil _ and _ wine a- bound, _
+w: On Si- on's sac- red height His _ king- _ dom _ still main- tains, _
+w: With streams of sac- red bliss, with _ groves _ of _ liv- ing joys _
+w: The list'- ning spheres at- tend, and _ swell _ the _ gro- wing fame; _
+w: Who was, and is, the same, and _ ev- _ er- _ more shall be: _
+w: He shows His prints of love they _ kin- _ dle _ to a flame! _
+w: Hail, A- bra- ham's God, and mine! _ (I _ join _ the heav'nly lays,) _
+[V: S1V2]  E | E C E F | G3 E | D D C D | C3
+[V: S2V1]  C | A, A, A, A, | G,3 A, | A, F, A, A, | G,3
+[V: S2V2]  A, | A, A,, C, =D, | E,3 C, | D, D, A,, B,, | C,3
+[V: S1V1]  C | F G A B | c B/c/ d c/B/ | A2 G2 | F3 |]
+w: I bow and bless the sa- cred * Name for- * ev- er blessed. 
+w: And Him my on- ly Por- tion * make, my * Shield and Tow'r. 
+w: And He shall save me to the * end, thro' * Je- sus' blood. 
+w: And sing the won- ders of His * grace for- * ev- er- more. 
+w: And thro' the how- ling wil- der- * ness my * way pur- sue. 
+w: And trees of life for- ev- er _ grow with _ mer- cy crowned.
+w: And glor- ious with His saints in _ light for- _ ev- er reigns.
+w: With all the fruits of Par- a- _ dise, He _ still sup- plies.
+w: And sing, in songs which ne- ver _ end, the _ won- drous Name.
+w: Je- ho- vah Fa- ther great I _ AM, we _ wor- ship Thee!"
+w: And sound thro' all the worlds a- _ bove the _ slaugh- tered Lamb.
+w: All might and ma- jes- ty are _ Thine, and _ end- less praise.
+[V: S1V2]  C | C C C E | E F F F | F2 =E2 | F3 |]
+[V: S2V1]  =E, | F, =E, F, G, | A, A, B, D | C2 (C B,) | A,3 |]
+[V: S2V2]  C, | A,, C, F, _E, | A,, D, B,, B,, | C,2 C,2 | F,3 |]

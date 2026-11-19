@@ -1,0 +1,41 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] B2 B2 B2 | (B2 c2) d2 | d4 c2 | B6 |
+w: 1.~Un- less the Lord _ the house shall build,
+w: 2.~In vain you rise _ ere morn- ing break,
+w: 3.~Lo, child- ren are _ a great re- ward,
+w: 4.~And blest the man _ whose age is cheered
+[V:A] D2 D2 ^D2 | E4 D2 | E4 D2 | D6 |
+[V:T] G,2 G,2 F,2 | G,4 G,2 | G,4 F,2 | G,6 |
+[V:B] G,,2 G,,2 B,,2 | E,4 B,,2 | A,,4 D,2 | G,,6 |
+[V:S] A2 A2 A2 | (A2 d2) F2 | (G2 F2) E2 | D6 |
+w: The wear- y buil- _ ders toil _ in vain;
+w: And late your nigh- _ tly vig- _ ils keep,
+w: A gift from God _ in ver- _ y truth;
+w: By stal- wart sons _ and daugh- _ ters fair;
+[V:A] ^C2 D2 ^C2 | D4 D2 | (D2 ^C2) ^C2 | D6 |
+[V:T] A,2 A,2 G,2 | F,4 B,2 | (B,2 A,2) G,2 | F,6 |
+[V:B] G,2 F,2 E,2 | D,4 B,,2 | (E,2 A,,2) A,,2 | D,6 |
+[V:S] B2 B2 B2 | (c2 B2) d2 | e4 e2 | A6 |
+w: Un- less the Lord _ the ci- ty shield,
+w: And of the bread _ of toil par- take;
+w: With ar- rows is _ his qui- ver stored
+w: No e- ne- mies _ by him are feared,
+[V:A] D2 D2 D2 | (C2 D2) =F2 | (E2 G2) G2 | F6 |
+[V:T] G,2 G,2 G,2 | (G,2 G,2) G,2 | (G,2 C2) A,2 | A,6 |
+[V:B] G,,2 G,2 =F,2 | (E,2 D,2) B,,2 | C,4 ^C,2 | D,6 |
+[V:S] B2 d2 d2 | (d2 c2) A2 | (B2 c2) A2 | G6 |]
+w: The guards a use- _ less watch _ main- tain.
+w: God give to His _ be- lov- _ ed sleep.
+w: Who joys in child- _ ren of _ his youth.
+w: No lack of love, _ no want _ of care.
+[V:A] D2 G2 =F2 | D4 E2 | D4 (D C) | B,6 |]
+[V:T] G,2 B,2 G,2 | (^G,2 A,2) C2 | (B,2 A,2) F,2 | G,6 |]
+[V:B] G,2 G,2 B,,2 | C,4 C,2 | D,4 D,2 | G,,6 |]

@@ -1,0 +1,33 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] D2 F A | A3/2 G/ F2 | E2 E G | G3/2 F/ E2 |
+w: 1.~My faith looks up to Thee, Thou Lamb of Cal- va- ry, 
+w: 2.~May Thy rich grace im- part Strength to my faint- ing heart, 
+w: 3.~While life's dark maze I tread, And griefs a- round me spread, 
+w: 4.~When ends life's trans- ient dream, When death's cold sul- len stream 
+[V: S1V2]  A,2 D D | E3/2 E/ D2 | C2 C E | E3/2 D/ C2 |
+[V: S2V1]  F,2 A, F, | A,3/2 A,/ A,2 | A,2 A, A, | A,3/2 A,/ A,2 |
+[V: S2V2]  D,2 D, D, | C,3/2 C,/ D,2 | A,,2 A,, A,, | C,3/2 D,/ A,,2 |
+[V: S1V1]  F2 E B | A4 | A2 F G | A3/2 B/ A2 | A2 F G |
+w: Sa- vior di- vine! Now hear me while I pray, take all my 
+w: my zeal in- spire! As Thou hast died for me, O may my 
+w: be Thou my Guide; Bid dark- ness turn to day, wipe sor- row's
+w: ov- er me roll; Blest Sa- vior, then in love, fear and dis- 
+[V: S1V2]  D2 C D | C4 | D2 D D | D3/2 D/ D2 | D2 D D |
+[V: S2V1]  A,2 A, ^G, | G,4 | F,2 D, E, | F,3/2 G,/ F,2 | F,2 D, E, |
+[V: S2V2]  D,2 E, E, | A,,4 | D,2 D, D, | D,3/2 D,/ D,2 | D,2 D, D, |
+[V: S1V1]  A3/2 B/ A2 | d2 c B | A3/2 G/ F D | E2 A2 | D4 |]
+w: guilt a- way, O let me from this day be whol- ly Thine! 
+w: love to Thee, Pure warm, and change- less be, a liv- ing fire! 
+w: tears a- way, Nor let me ev- er stray from Thee a- side. 
+w: trust re- move; O bear me safe a- bove, a ran- somed soul! 
+[V: S1V2]  D3/2 D/ (D E) | D2 E E | F3/2 C/ D D | D2 C2 | D4 |]
+[V: S2V1]  F,3/2 G,/ (F, A,) | B,2 A, G, | F,3/2 G,/ A, A, | B,2 (A, G,) | F,4 |]
+[V: S2V2]  D,3/2 D,/ (D, C,) | B,,2 C, C, | D,3/2 E,/ F, F,, | G,,2 A,,2 | D,4 |]

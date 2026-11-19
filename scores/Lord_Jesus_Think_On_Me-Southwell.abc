@@ -1,0 +1,31 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=110] F | A A G G | F3 A | A A B B | c3
+w: 1.~Lord Je- sus, think on me And purge a- way my sin; 
+w: 2.~Lord Je- sus, think on me, With ma- ny'a care op- pressed; 
+w: 3.~Lord Je- sus, think on me A- mid the bat- tle's strife; 
+w: 4.~Lord Je- sus, think on me Nor let me go a- stray; 
+w: 5.~Lord Je- sus, think on me When floods the tem- pest high; 
+w: 6.~Lord Je- sus, think on me That, when the flood is past,
+w: 7.~Lord Je- sus, think on me That I may sing a- bove
+[V: S1V2]  C | C F F =E | F3 C | C C F E | E3
+[V: S2V1]  A, | A, A, D C | A,3 A, | A, A, A, G, | A,3
+[V: S2V2]  F, | F, D, B,, C, | F,3 F, | F, E, D, E, | A,,3
+[V: S1V1]  c | e e d d | c c B c | B A G G | F3 |]
+w: From earth- born pas- sions set me free And make me pure with- in. 
+w: Let me Thy lo- ving ser- vant be And taste Thy pro- mised rest. 
+w: In all my pain and mi- se- ry Be Thou my Health and Life. 
+w: Through dark- ness and per- plex- it- y Point Thou the heav'n- ly way. 
+w: When on doth rush the e- ne- my, O Sa- vior, be Thou nigh! 
+w: I may th'e- ter- nal bright- ness see And share Thy joy at last.
+w: To Fa- ther, Spi- rit, and to Thee The strains of praise and love.
+[V: S1V2]  E | A G F E | E E E =E | F F F =E | F3 |]
+[V: S2V1]  A, | C B, A, B, | A, A, G, G, | B, C D C/B,/ | A,3 |]
+[V: S2V2]  A, | A, E, F, G, | A, C, E, C, | D, C, B,, C, | F,,3 |]

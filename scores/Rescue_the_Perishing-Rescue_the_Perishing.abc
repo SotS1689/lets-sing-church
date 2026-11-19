@@ -1,0 +1,41 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=100] F D/ E/ F/ F/ F | B A/ G/ G F | F G/ A/ B c/ d/ |
+w: 1.~Res- cue the per- ish- ing, care for the dy- ing, Snatch them in pi- ty from 
+w: 2.~Though they are slight- ing Him, still He is wait- ing, Wait- ing the pen- i- tent
+w: 3.~Down in the hu- man heart, crushed by the temp- ter, Feel- ings lie bur- ied that
+w: 4.~Res- cue the per- ish- ing, du- ty de- mands it; Strength for thy la- bor the
+[V: S1V2] D B,/ C/ D/ D/ D | D F/ E/ E D | C E/ E/ F F/ F/ |
+[V: S2V1] B, F,/ F,/ B,/ B,/ B, | B, B,/ B,/ B, B, | A, B,/ C/ D A,/ B,/ |
+[V: S2V2] B,, B,,/ B,,/ B,,/ B,,/ B,, | B,, E,/ E,/ B,, B,, | F, F,/ F,/ F, F,/ B,,/ |
+[V: S1V1] c B/ G/ F z | F D/ E/ F/ F/ F | B A/ G/ G F |
+w: sin and the grave; Weep o'er the err- ing one, lift up the fall- en, 
+w: child to re- ceive; Plead with them earn- est- ly, plead with them gent- ly;
+w: grace can re- store; Touched by a lov- ing heart, wa- kened by kind- ness,
+w: Lord will pro- vide; Back to the nar- row way pa- tient- ly win them;
+[V: S1V2] F =E/ E/ F x | D B,/ C/ D/ D/ D | D F/ E/ E D |
+[V: S2V1] A, G,/ B,/ A, z | B, F,/ F,/ B,/ B,/ B, | B, B,/ B,/ B, B, |
+[V: S2V2] C, C,/ C,/ F, x | B,, B,,/ B,,/ B,,/ B,,/ B,, | B,, E,/ E,/ B,, B,, |
+[V: S1V1] F G/ A/ B c/ d/ | c B/ A/ B2 | c B/ c/ d3/4 c/4 B |
+w: Tell them of Je- sus, the might- y to save. Res- cue the per- ish- ing, 
+w: He will for- give they should on- ly be- lieve. Res- cue the per- ish- ing,
+w: Chords that were bro- ken will vi- brate once more. Res- cue the per- ish- ing,
+w: Tell the poor wan- d'rer a Sa- vior has died. Res- cue the per- ish- ing,
+[V: S1V2] C E/ E/ F F/ F/ | G F/ F/ F2 | F F/ F/ F3/4 E/4 D |
+[V: S2V1] A, B,/ C/ D A,/ B,/ | B, D/ C/ D2 | A, G,/ A,/ B,3/4 B,/4 B, |
+[V: S2V2] F, F,/ F,/ F, F,/ B,,/ | E, F,/ F,/ B,,2 | F, F,/ F,/ B,,3/4 B,,/4 B,, |
+[V: S1V1] c B/ c/ d B | B A/ G/ F/ B/ d | c B/ A/ B2 |]
+w: care for the dy- ing, Je- sus is mer- ci- ful, Je- sus will save. 
+w: care for the dy- ing, Je- sus is mer- ci- ful, Je- sus will save.
+w: care for the dy- ing, Je- sus is mer- ci- ful, Je- sus will save.
+w: care for the dy- ing, Je- sus is mer- ci- ful, Je- sus will save.
+[V: S1V2] F F/ F/ F F | G F/ E/ D/ F/ F | G F/ F/ F2 |]
+[V: S2V1] A, G,/ A,/ B, D | E B,/ B,/ B,/ D/ B, | B, D/ E/ D2 |]
+[V: S2V2] F, F,/ F,/ B,, B,, | E, E,/ E,/ B,,/ B,,/ B,, | E, F,/ F,/ B,,2 |]

@@ -1,0 +1,37 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: A
+[V: S1V1] [Q:1/4=120] A E A B | c3/2 d/ c B | e A B c/d/ | c B c2 |
+w: 1.~Lo He comes! whom e- very na- tion, Taught of God, de- * sired to see, 
+w: 2.~See He comes! Whom kings and sa- ges, Pro- phets, pa- tri- * archs of old, 
+w: 3.~See the Lamb of God ap- pear- ing, God of God, from _ Heav'n a- bove;
+[V: S1V2] E B, C E | E E E E | E C F F | E E E2 |
+[V: S2V1] C B, A, G, | A,3/2 B,/ A, G, | A, A, A, A, | A, G, A,2 |
+[V: S2V2] A, G, F, E,/D,/ |C, A,, E, E, | C, F, D, C,/B,,/ | E, E, A,,2 |
+[V: S1V1] c B c e | A G G F | B B e G | F F E2 |
+w: Filled with hope and ex- pec- ta- tion That He would their Sa- vior be. 
+w: Dis- ant climes and count- less a- ges, Wai- ted ea- ger to be- hold. 
+w: See the Heav'n- ly Bride- groom cheer- ing His dear Bride with words of love!
+[V: S1V2] E E E E | C/^D/ E E D | F G/F/ E E | E ^D E2 |
+[V: S2V1] A, G, A, B, | C B, B, B, | A, B,/A,/ G, B, | C B,/A,/ G,2 |
+[V: S2V2] A, E, A, G, | F, G,/A,/ B, B,, | ^D, B,, C, B,, | B,, B,, E,2 |
+[V: S1V1] E3/2 F/ G B | A G F E | A B c/d/ e | d c B2 |
+w: Sing, o sing with e- xul- ta- tion, Lo! He calls * us to our home; 
+w: Sing, o sing with e- xul- ta- tion, Haste we to * our Fa- ther's home; 
+w: Glo- ry to th'E- ter- nal Fa- ther, Glo- ry to _ th'In- car- nate Son
+[V: S1V2] E3/2 E/ E F | E E D C | C E E E | E E E2 |
+[V: S2V1] G,3/2 A,/ B, =D | C B, A,/B,/ C | A, G, A,/B,/ C | G, A, G,2 |
+[V: S2V2] E,3/2 E,/ E, B,, | C,/D,/ E, F,/G,/ A, | F, E, A, C, | B,, A,, (E, D,) |
+[V: S1V1] A E A B | c3/2 d/ c B | e A d c | B B A2 |]
+w: Peace, re- demp- tion, joy, sal- va- tion, Now from Heav'n to earth are come. 
+w: Peace, re- demp- tion, joy, sal- va- tion, Now from Heav'n to earth are come. 
+w: Glo- ry to the Ho- ly Spi- rit, Glo- ry to the Three in One!
+[V: S1V2] E E E E | E A E E | E C F E | E3/2 D/ C2 |]
+[V: S2V1] A, G, A, G, | A,3/2 B,/ A, G, | A, A, A, A, | A, G, A,2 |]
+[V: S2V2] C, E,/D,/ C, B,, | A,, F, E,3/2 D,/ | C, F, D, A,, | E, E, A,,2 |]

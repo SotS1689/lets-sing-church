@@ -1,0 +1,36 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=110] F F/E/ D | C2 G | (A G) F | =E3 | c c c |
+w: 1.~My soul * shall mag- ni- fy * the Lord, And with my 
+w: 2.~Be- hold, * I am for- ev- * er blessed, For God has 
+w: 3.~The Lord * has shown His might- * y arm, Those proud in 
+w: 4.~The hun- * gry with good things * are filled, They see God's 
+w: 5.~The Lord * helps His be- lov- * ed ones, In mer- cy 
+[V: S1V2]  C C B, | A,2 C | C2 C/B,/ | C3 | C E E |
+[V: S2V1]  A, F, F, | A,2 G, | (F, G,) A,/F,/ | G,3 | A, A, A, |
+[V: S2V2]  F, A,, B,, | F,2 =E, | (F, E,) D, | C,3 | A,, C, A,, |
+[V: S1V1]  B2 A | B G2 | A3 | e e d | c2 c | (c B) A |
+w: spir- it I re- joice; My Sav- ior has re- gard * for 
+w: done great things for me; His mer- cy rests on those * who 
+w: heart He shall put down; The haught- y from their thrones * re- 
+w: kind- ness ev- 'ry day; But on the rich no bless- * ing 
+w: He His cov- 'nant keeps; Just as He pro- mised long * a- 
+[V: S1V2]  (E D) C | D B,2 | C3 | A A G | A2 E | E2 E/=D/ |
+[V: S2V1]  G,2 A, | F, E,2 | E,3 | C A, B, | C2 C | (A, B,) C/A,/ |
+[V: S2V2]  E,2 F, | D, E,2 | A,,3 | A,, C, E, | A,2 A, | (A, G,) F, |
+[V: S1V1]  G2 G | (A G) F | =E2 c | A2 G/F/ | F3 |]
+w: me, He hears * His low- ly ser- vant's * voice. 
+w: fear, Who hon- * or His Name most ho- * ly. 
+w: moved, The low- * ly have God's bless- ing * found. 
+w: rests, With emp- * ty hands they're sent a- * way. 
+w: go, to A- * bra- ham, and to his * Seed. 
+[V: S1V2]  E2 =E | (F C3/2) B,/ | C2 C | C2 =E/F/ | C3 |]
+[V: S2V1]  B,2 C | C2 F, | G,2 F, | F,2 G, | A,3 |]
+[V: S2V2]  E,2 C, | (F, E,) D, | C,2 A,, | C,2 C, | [F,,3F,3] |]

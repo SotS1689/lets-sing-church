@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=100] c B A F | A G =E C | F3/2 G/ A G | c B A3/2 z/ |
+w: 1.~O- ver Kid- ron Je- sus tread- eth To His pas- sion for us all; 
+w: 2.~Da- vid once, with heart af- flic- ted, Crossed the Kid- ron's nar- row strand, 
+w: 3.~See how, an- guish struck, He fall- eth Pro- strate, and with strug- gling breath, 
+w: 4.~See how, in that hour of dark- ness, Batt- ling with the e- vil pow'r, 
+w: 5.~But, O flow'rs, so sad- ly wa- tered By this pure and prec- ious dew, 
+w: 6.~When as flow'rs them- selves I with- er, When I droop and fade like grass,
+[V: S1V2] F =E F F | F D C B, | A,3/2 D/ C E | A G E3/2 x/ |
+[V: S2V1] A, B, C A, | C B, G, =E, | F,3/2 B,/ A, B, | E3/2 D/ C3/2 z/ |
+[V: S2V2] F, G, A, D, | A,, B,, C, C, | D,3/2 B,,/ F, E,/D,/ | C, E, A,3/2 x/ |
+[V: S1V1] c B A F | A G =E C | F3/2 G/ A G | c B A3/2 z/ |
+w: Ev- ery hu- man eye be weep- ing, Tears of bit- ter grief let fall! 
+w: Clouds of gloom and grief a- bout him When an ex- ile from his land. 
+w: Three times on His God He call- eth, Pray- ing that the bit- ter death 
+w: A- gon- ies un- told as- sail Him, On His soul the ar- rows show'r; 
+w: In some bless- ed hour your blos- soms 'Neath the ol- ive sha- dows grew! 
+w: When the life\-- streams through my pul- ses Dull and ev- er dul- ler pass,
+[V: S1V2] F G =E F | D D C C | D3/2 D/ E D | C E/D/ C3/2 x/ |
+[V: S2V1] C D C A, | D B, G, =E, | A,3/2 B,/ C B, | A, G, A,3/2 z/ |
+[V: S2V2] A,, B,, C, D, | B,, B,, C, C, | C,3/2 B,,/ A,, _F, | E, E, A,,3/2 x/ |
+[V: S1V1] B B c A | d c B3/2 z/ | c c d B | e d c3/2 z/ | d c
+w: Round His Spi- rit flock the foes, Place their shafts and bend their bows, Aim- ing 
+w: But, O Je- sus, black- er now Bends the cloud a- bove Thy brow, Hast- ing 
+w: And the cup of doom may go, Still He cries, in all His woe: "Not My 
+w: All the gar- den flow'rs are wet With the drops of blood- y sweat, From His 
+w: E- den's gar- den did not bear  Aught that can with you com- pare, For the 
+w: When at last they cease to roll, Then, to cheer my sin- king soul, Grace of
+[V: S1V2] E E A A | G A G3/2 x/ | A B B B | =A B =A3/2 x/ | B G
+[V: S2V1] G, G, E C | D E E3/2 z/ | E E F D | E F F3/2 z/ | F =E
+[V: S2V2] E, D, C, F, | B,, C,/D,/ E,3/2 x/ | A, _G, F, _G, | C, D,/E,/ F,3/2 x/ | B,, C,
+[V: S1V1] B c | A G F D | C3/2 =E/ F A | c2 (B A) | G4 | F4 |]
+w: at the Sav- ior sole- ly, While the world for- sakes Him * whol- ly. 
+w: to death's drea- ry por- tals For the shame and sin of * mor- tals. 
+w: will, but Thine, O Fa- ther!" And the an- gels round Him * ga- ther.
+w: an- guished frame dis- till- ing\- World's re- demp- tion thus ful- * fill- ing! 
+w: blood, thus free- ly giv- en, Makes my soul the heir of * hea- ven. 
+w: Je- sus, be Thou gi- ven\- Source of tri- umph! pledge of _ hea- ven!
+[V: S1V2] F G | F =E C B, | B,3/2 B,/ A, F | A2 (G F) | (F2 =E2) | C4 |]
+[V: S2V1] F =E | C B, A, F, | =E,3/2 G,/ F, F, | D2 D2 | B,4 | A,4 |]
+[V: S2V2] D, C, | F,, G,, A,, B,, | C,3/2 C,/ D, D,/C,/ | B,,2 B,,2 | C,4 | F,4 |]

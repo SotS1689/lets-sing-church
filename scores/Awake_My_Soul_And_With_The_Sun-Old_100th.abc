@@ -1,0 +1,39 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] G2 G F E D | G2 A2 B3 | B2 B B A G | c2 B2 A3 |
+w: 1.~A- wake, my soul, and with the sun Thy dail- y stage of du- ty run; 
+w: 2.~Thy prec- ious time mis- spent, re- deem, Each pre- sent day thy last es- teem, 
+w: 3.~By in- flu- ence of Light di- vine Let thy own light to o- thers shine. 
+w: 4.~In con- ver- sa- tion be sin- cere; Keep con- science as the noon- tide clear; 
+w: 5.~Wake, and lift up thy- self, my heart, And with the an- gels bear thy part, 
+w: 6.~All praise to Thee, Who safe has kept And hast re- freshed me while I slept
+w: 7.~Heav'n is, dear Lord, wher- e'er Thou art, O ne- ver then from me de- part;
+w: 8.~Lord, I my vows to Thee re- new; Dis- perse my sins as morn- ing dew.
+w: 9.~Di- rect, con- trol, sug- gest, this day, All I de- sign, or do, or say,
+w: 10.~I would not wake nor rise a- gain And Heaven it- self I would dis- dain,
+w: 11.~Praise God, from Whom all bless- ings flow; Praise Him, all crea- tures here be- low;
+[V: S1V2]  D2 D D B, B, | B,2 D2 D3 | D2 D G F G | G2 G2 F3 |
+[V: S2V1]  B,2 B, A, G, F, | G,2 F,2 G,3 | G,2 B, D C B, | E2 D2 D3 |
+[V: S2V2]  G,2 G, D, E, B,, | E,2 D,2 G,,3 | G,2 G, G, D, E, | C,2 G,,2 D,3 |
+[V: S1V1]  G2 A B A G | E2 F2 G3 | d2 B G A c | B2 A2 G3 |]
+w: Shake off dull sloth, and joy- ful rise, To pay thy morn- ing sac- ri- fice. 
+w: Im- prove thy tal- ent with due care; For the great day thy- self pre- pare. 
+w: Re- flect all Heaven's pro- pit- ious ways In ar- dent love, and cheer- ful praise. 
+w: Think how all see- ing God thy ways And all thy sec- ret thoughts sur- veys. 
+w: Who all night long un- wear- ied sing High praise to the e- ter- nal King. 
+w: Grant, Lord, when I from death shall wake I may of end- less light par- take.
+w: For to my soul 'tis hell to be But for one mo- ment void of Thee.
+w: Guard my first springs of thought and will, And with Thy- self my spi- rit fill.
+w: That all my powers, with all their might, In Thy sole glo- ry may u- nite.
+w: Wert Thou not there to be en- joyed, And I in hymns to be em- ployed.
+w: Praise Him a- bove, ye heaven- ly host; Praise Fa- ther, Son, and Ho- ly Ghost.
+[V: S1V2]  G2 F G F D | E2 D2 D3 | D2 D G F E/F/ | G2 F2 D3 |]
+[V: S2V1]  B,2 D D D D | (C B,) A,2 B,3 | B,2 G, B, D E | D2 (D C) B,3 |]
+[V: S2V2]  E,2 D, G, D, B,, | C,2 D,2 G,,3 | G,2 G, E, D, A,, | (B,, C,) D,2 G,,3 |]

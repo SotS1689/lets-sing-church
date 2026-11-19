@@ -1,0 +1,57 @@
+X:1
+M:4/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F2 F2 G2 G2 | A4 c4 | B2 B2 G2 G2 | A8 |
+w: 1.~At the name of Je- sus, Ev- ery knee shall bow,
+w: 2.~Might- y and mys- ter- ious In the high- est height,
+w: 3.~At His voice cre- a- tion Sprang at once to sight,
+w: 4.~Hum- bled for a sea- son, To re- ceive a name
+w: 5.~Bore it up tri- um- phant With its hu- man light,
+w: 6.~Name Him, bro- thers, name Him, With love strong as death
+w: 7.~In your hearts en- throne Him; There let Him sub- due
+w: 8.~Bro- thers, this Lord Je- sus Shall re- turn a- gain,
+[V:A] C2 C2 C2 C2 | C4 _E4 | D2 F2 C2 C2 | C8 |
+[V:T] A,2 A,2 G,2 G,2 | F,4 F,4 | F,2 D,2 E,2 E,2 | F,8 |
+[V:B] F,2 F,2 E,2 E,2 | F,4 A,,4 | B,,2 B,,2 C,2 C,2 | F,,8 |
+[V:S] F2 F2 G2 G2 | A4 F4 | E2 E2 D2 D2 | C8 |
+w: Ev- ery tongue con- fess Him King of glo- ry now;
+w: God from ev- er- last- ing, Ver- y light of light:
+w: All the an- gel fa- ces, All the hosts of light,
+w: From the lips of sin- ners Un- to whom He came,
+w: Through all ranks of crea- tures, To the cen- tral height,
+w: But with awe and won- der, And with ba- ted breath!
+w: All that is not ho- ly, All that is not true;
+w: With His Fa- ther’s glo- ry, With His an- gel train;
+[V:A] C2 C2 C2 C2 | C4 C4 | C2 C2 A,2 =B,2 | C8 |
+[V:T] A,2 A,2 G,2 G,2 | F,4 F,4 | G,2 G,2 F,2 F,2 | E,8 |
+[V:B] F,2 F,2 E,2 E,2 | F,4 A,,4 | G,,2 G,,2 G,,2 G,,2 | C,8 |
+[V:S] c2 c2 c2 c2 | d4 c4 | B2 B2 A2 A2 | G8 |
+w: ’Tis the Fa- ther’s plea- sure We should call Him Lord,
+w: In the Fa- ther’s bo- som With the Spi- rit blest,
+w: Thrones and wide do- min- ions, Stars up- on their way,
+w: Faith- ful- ly He bore it, Spot- less to the last,
+w: To the throne of God- head, To the Fa- ther’s breast;
+w: He is God the Sa- vior, He is Christ the Lord,
+w: Crown Him as your cap- tain In temp- ta- tion’s hour;
+w: For all wreaths of em- pire Meet up- on His brow,
+[V:A] C2 F2 E2 F2 | F4 F4 | F2 E2 F2 F2 | E8 |
+[V:T] A,2 A,2 B,2 C2 | B,4 C4 | D2 C2 C2 C2 | C8 |
+[V:B] F,2 F,2 G,2 A,2 | B,4 A,4 | G,2 G,2 F,2 F,2 | C,8 |
+[V:S] A2 A2 G2 G2 | F4 G4 | A2 A2 G2 G2 | F8 |]
+w: Who from the be- gin- ning Was the might- y Word.
+w: Love, in love e- ter- nal, Rest, in per- fect rest.
+w: All the heav’n- ly or- ders, In their great ar- ray.
+w: Brought it back vic- tor- ious When from death He passed.
+w: Filled it with the glo- ry Of that per- fect rest.
+w: Ev- er to be wor- shiped, Tru- sted and a- dored.
+w: Let His will en- fold you In its light and power.
+w: And our hearts con- fess Him King of glo- ry now.
+[V:A] F2 F2 E2 E2 | D4 D4 | C2 F2 D2 E2 | C8 |]
+[V:T] C2 C2 B,2 B,2 | A,4 (G,2 F,2) | F,2 A,2 C2 B,2 | A,8 |]
+[V:B] F,2 F,2 ^C,2 ^C,2 | D,4 =B,,4 | C,2 C,2 C,2 C,2 | F,8 |]

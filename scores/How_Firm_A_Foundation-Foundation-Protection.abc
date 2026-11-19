@@ -1,0 +1,42 @@
+X: 1
+M: 2/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=125] (E F) | A2 F A | E2 A B | c2 B c | E2 E2 | A2 F A |
+w: 1.~How * firm a foun- da- tion, ye saints of the Lord, Is laid for your 
+w: 2.~In * ev- ery con- di- tion, in sick- ness, in health; In po- ver- ty's 
+w: 3.~Fear * not, I am with thee, O be not dis- mayed, For I am thy 
+w: 4.~When * through the deep wa- ters I call thee to go, The ri- vers of 
+w: 5.~When * through fie- ry tri- als thy path- ways shall lie, My grace, all su- 
+w: 6.~Even _ down to old age all My peo- ple shall prove My sover- eign, e-
+w: 7.~The _ soul that on Je- sus has leaned for re- pose, I will not, I
+[V: S1V2]  (E D) | (C E) D D | C2 C D | E2 E ^D | E2 D2 | C2 D F |
+[V: S2V1]  A,2 | (E, A,) A, A, | A,2 E, E, | A,2 G, F, | G,2 E,2 | A,2 A, A, |
+[V: S2V2]  A,,2 | (A,, C,) D, F, | A,2 A,, A,, | A,,2 B,, B,, | E,2 E,2 | A,,2 D, D, |
+[V: S1V1]  E2 A B | c2 B B | A2 c2 | e2 c e | A2 A B |
+w: faith in His ex- cel- lent Word! What more can He say than to 
+w: vale, or a- bound- ing in wealth; At home and a- broad, on the 
+w: God and will still give thee aid; I'll strength- en and help thee, and 
+w: woe shall not thee o- ver- flow; For I will be with thee, thy 
+w: ffic- ient, shall be thy sup- ply; The flame shall not hurt thee; I 
+w: ter- nal, un- chang- ea- ble love; And when hoar- y hairs shall their
+w: will not des- ert to its foes; That soul, though all hell should en-
+[V: S1V2]  E2 C D | E2 D D | C2 E2 | A2 E E | F2 E E |
+[V: S2V1]  A,2 A, A, | A,2 G, G, | A,2 A,2 | C2 A, B, | C2 A, G, |
+[V: S2V2]  C,2 F, F, | E,2 E, E, | A,,2 A,2 | A,2 A, G, | F,2 C, B,, |
+[V: S1V1]  c2 B c | E2 E2 | A2 F A | E2 A B | c2 B B | A2 |]
+w: you He hath said, You, who un- to Je- sus for re- fuge have fled? 
+w: land, on the sea, As thy days de- mand, shall thy strength ev- er be.
+w: cause thee to stand Up- held by My right- eous, om- ni- po- tent hand. 
+w: trou- bles to bless, And sanc- ti- fy to thee thy deep- est dis- tress. 
+w: on- ly de- sign Thy dross to con- sume, and thy gold to re- fine. 
+w: tem- ples a- dorn, Like lambs they shall still in My bo- som be borne.
+w: dea- vor to shake, I'll ne- ver, no ne- ver, no ne- ver for- sake.
+[V: S1V2]  E2 E ^D | E2 D2 | C2 D F | E2 C D | E2 D D | C2 |]
+[V: S2V1]  A,2 G, F, | G,2 E,2 | A,2 A, A, | A,2 A, A, | A,2 G, G, | A,2 |]
+[V: S2V2]  A,,2 B,, B,, | E,2 E,2 | C,2 D, D, | C,2 F, F, |  E,2 E, E, | A,,2 |]

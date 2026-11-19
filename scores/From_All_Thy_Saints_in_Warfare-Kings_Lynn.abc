@@ -1,0 +1,109 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] A | G A D E | (F G) c B/A/ | G3/2 F/ D C | D3
+w: 1.~From all Thy saints in war- * fare, for * all Thy saints at rest
+w: * * * * * * * * * * * * * * *
+w: 19.~Ap- ost- les, pro- phets, mar- * tyrs, and * all the sac- red throng,
+w: 4.~Then praise we God the Fa- _ ther, and _ praise we God the Son,
+w: 5.~Praise, Lord, for Thine a- pos- _ tle, The _ first to wel- come Thee,
+w: 6.~All praise for Thine a- pos- _ tle, Whose _ short\-- lived doub- tings prove
+w: 7.~Praise for the first of mar- _ tyrs, Who _ saw Thee rea- dy stand
+w: 8.~Praise for the loved dis- ci- _ ple, E- _ xile on Pat- mos' shore;
+w: * * * * * * * * * * * * * * *
+w: 10.~Praise for the light from Hea- _ ven, Praise _ for the voice of awe,
+w: 11.~Lord, Thine a- bid- ing pre- _ sence Di- _ rects the won- drous choice
+w: 12.~For him, O Lord, we praise _ Thee, The _ weak by grace made strong,
+w: 13.~All praise for Thine a- pos- _ tle, Blest _ guide to Greek and Jew,
+w: 14.~The Son of Con- so- la- _ tion, Moved _ by Thy law of love,
+w: 15.~We praise Thee for the Bap- _ tist, Fo- _ re- runner of the Word,
+w: 16.~Praise for Thy great a- pos- _ tle, The _ ea- ger and the bold;
+w: 17.~For him, O Lord, we praise _ Thee, Who, _ slain by He- rod's sword
+w: 18.~All praise for Thine a- pos- _ tle, The _ faith- ful, pure, and true,
+w: 19.~Praise, Lord, for Him whose Gos- _ pel Thy _ hu- man life de- clared,
+w: 20.~For that "be- lov- ed phy- _ sician," All _ praise, whose Gos- pel shows
+w: 21.~Praise, Lord, for Thine ap- ost- _ les, Who _ sealed their faith to- day:
+[V: S1V2]  D | D [DF] D2 | (C D) [CG] [CF] | D3/2 C/ B, A, | A,3
+[V: S2V1]  F, | B, A, B, G, | (C B,) C F, | B,3/2 A,/ F,2 | F,3
+[V: S2V2]  D, | G,, D, B,,2 | (A,, G,,/F,,/) E,, F,, | G,,3/2 A,,/ B,, F,, | D,,3
+[V: S1V1] D/E/ | F G A c/A/ | d2 d c | A c A G | A3
+w: To * Thee O bless- ed * Je- sus, all prais- es be ad- dressed.
+w: * * * * * * * * * * * * * * *
+w: Who * wear the spot- less * raim- ent, who raise the cease- less song;
+w: And _ God the Ho- ly _ Spi- rit, e- ter- nal Three in One;
+w: The _ first to lead his _ bro- ther The ver- y Christ to see.
+w: Thy _ per- fect two- fold _ na- ture, The full- ness of Thy love.
+w: To _ aid in midst of _ tor- ments, To plead at God's right hand.
+w: Praise _ for the faith- ful _ re- cord He to Thy God- head bore,
+w: * * * * * * * * * * * * * * *
+w: Praise _ for the glor- ious _ vi- sion The per- se- cu- tor saw.
+w: For _ one in place of _ Ju- das The faith- ful now re- joice.
+w: Whose _ la- bors and whose _ Gos- pel En- rich our tri- umph song.
+w: And _ him sur- named Thy _ bro- ther Keep us Thy breth- ren true,
+w: For- _ sa- king earth- ly _ trea- sures, Sought rich- es from a- bove.
+w: Our _ true E- li- as, _ mak- ing A high- way for the Lord.
+w: Thrice _ fall- ing, yet re- _ pent- ant, Thrice charged to keep Thy fold.
+w: Drank _ of Thy cup of _ suf- fering, Ful- fill- ing thus Thy word.
+w: Whom _ un- der- neath the _ fig tree Thine eye all see- ing knew.
+w: Who, _ world- ly gains for- _ sa- king, Thy path of suf- fering shared.
+w: The _ hea- ler of the _ na- tions, The sha- rer of our woes.
+w: One _ love, one zeal im- _ pelled them To tread the sac- red way.
+[V: S1V2] D | D E F E | (F G) F C | C [CF] D E | F3
+[V: S2V1] F,/G,/ | A, C C2 | (A, B,) A, G, | F, F,2 C | C3
+[V: S2V2] D, | D, C, F,/G,/ A, | D,2 D, E, | F, A,, B,, C, | F,,3
+[V: S1V1]  D/E/ | F G A c/A/ | d2 c A | c c A G | A3
+w: Thou, * Lord didst win the * bat- tle that they might con- querors be;
+w: * * * * * * * * * * * * * * *
+w: For * these, passed on be- * fore us, Sa- vior, we Thee a- dore,
+w: Till _ all the ran- somed _ num- ber fall down be- fore the throne,
+w: With _ hearts for Thee made _ rea- dy, Watch we through- out the year,
+w: On _ all who wait Thy _ com- ing Shed forth Thy peace, O Lord,
+w: Share _ we with him, if _ sum- moned By death our Lord to own,
+w: Praise _ for the mys- tic _ vi- sion Through him to us re- vealed.
+w: * * * * * * * * * * * * * * *
+w: Thee, _ Lord, for his con- _ ver- sion, We glor- i- fy to- day;
+w: Thy _ Church from false ap- _ ost- les For- ev- er- more de- fend,
+w: May _ we in all our _ weak- ness Find strength from Thee sup- plied,
+w: And _ grant us grace to _ know Thee, The Way, the Truth, the Life;
+w: As _ earth now teems with _ in- crease, Let gifts of grace de- scend,
+w: Of _ pro- phets last and _ grea- test, We saw Thy daw- ning ray:
+w: Lord, _ make Thy pa- stors _ faith- ful To guard their flocks from ill,
+w: Curb _ we all vain im- _ pa- tience To read Thy veiled de- cree,
+w: Like _ him may we be _ gui- leless, True Is- rae- lites in- deed,
+w: From _ all un- righ- teous _ Mam- mon O give us hearts set free,
+w: Thy _ wine and oil, O _ Sa- vior, And bruised hearts deign to pour,
+w: May _ we with zeal as _ earn- est The faith of Christ main- tain,
+[V: S1V2]  D | D E F F | F2 F E | F [FA] F E | E3
+[V: S2V1]  F,/G,/ | A, C C C | B,2 A, C | A, C C C | C3
+[V: S2V2]  D, | D, C, F, A,, | (B,, D,) F, A, | F, F,,/G,,/ A,, C, | (A,,3/2 =B,,/ C,)
+[V: S1V1]  A | G A D E | (F G) c B/A/ | G3/2 F/ D C | D3 |]
+w: Their crowns of liv- ing glo- * ry are * lit with rays from Thee.
+w: * * * * * * * * * * * * * * *
+w: And, walk- ing in their foot- * steps, would * serve Thee more and more.
+w: And hon- or, pow'r, and glo- _ ry a- _ scribe to God a- lone.
+w: For- ward to lead our breth- _ ren To _ own Thine ad- vent near.
+w: And grant us faith to know _ Thee, True _ man, true God, a- dored.
+w: On earth the faith- ful wit- _ ness, In _ heaven the mar- tyr's crown.
+w: May we, in pa- tience wait- _ ing, With _ Thine e- lect be sealed.
+w: * * * * * * * * * * * * * * *
+w: So ligh- ten all our dark- _ ness With _ Thy true Spir- it's ray.
+w: And by Thy part- ing pro- _ mise Be _ with her to the end.
+w: And all, as fruit- ful branch- _ es, In _ Thee, the Vine, a- bide.
+w: To wrest- le with temp- ta- _ tions Till _ vic- tors in the strife.
+w: That Thy true con- so- la- _ tions May _ through the world ex- tend.
+w: Make us the ra- ther bless- _ ed Who _ love Thy glor- ious day.
+w: And grant them daunt- less cou- _ rage, With _ hum- ble, earn- est will.
+w: And count it joy to suf- _ fer, If _ so brought near- er Thee.
+w: That Thy a- bid- ing pre- _ sence Our _ long- ing souls may feed.
+w: That we, what- e'er our call- _ ing, May _ rise and fol- low Thee.
+w: And with true balm of Gil- _ ead A- _ noint us ev- er- more.
+w: And, bound in love as breth- _ ren, At _ length Thy rest at- tain.
+[V: S1V2]  F | E2 A, C | (C D) [CG] [CF] | D3/2 C/ B, A, | A,3 |]
+[V: S2V1]  =B, | =B, C F, G, | (C B,) C F, | B,3/2 A,/ F,2 | F,3 |]
+[V: S2V2]  D, | E, A,, D, C, | (A,, G,,/F,,/) E,, F,, | G,,3/2 A,,/ B,, F,, | D,,3 |]

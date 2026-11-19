@@ -1,0 +1,36 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] c2 | c c d c | c2 A2 B2 | A G2 F2 E | F3
+w: 1.~A great and might- y won- der, a full and ho- ly cure: 
+w: 2.~The Word be- comes in- car- nate and yet re- mains on high,
+w: 3.~While thus they sing your Mon- arch, those bright an- gel- ic bands,
+w: 4.~Since all He comes to ran- som, by all be He a- dored,
+w: 5.~And i- dol forms shall per- ish, and er- ror shall de- cay,
+[V: S1V2]  A2 | A F F F | E2 D2 D2 | C2 D A, C2 | C3
+[V: S2V1]  C2 | C A, B, A, | G,2 F,2 F,2 | A, C (B, A,2) G, | A,3
+[V: S2V2]  F,2 | F, F, B, F, | C,2 D,2 B,,2 | F, E, D,2 C,2 | F,3
+[V: S1V1]  c2 | c c d c | c2 A2 B2 | A G2 F2 E | F3
+w: The vir- gin bears the In- fant with vir- gin hon- or pure! 
+w: And cher- u- bim sing an- thems to shep- herds from the sky.
+w: Re- joice, ye vales and moun- tains, ye o- ceans, clap your hands.
+w: The In- fant born in Beth- l'em, the Sa- vior and the Lord.
+w: And Christ shall wield His scep- ter, our Lord and God for aye.
+[V: S1V2]  A2 | A F F F | E2 D2 D2 | C2 D A, C2 | C3
+[V: S2V1]  C2 | C A, B, A, | G,2 F,2 F,2 | A, C (B, A,2) G, | A,3
+[V: S2V2]  F,2 | F, F, B, F, | C,2 D,2 B,,2 | F, E, D,2 C,2 | F,3
+[V: S1V1]  A | G E F D | C3 c | c c d c | c2 A2 B2 | A G2 F2 E | F3 |]
+w: Re- peat the hymn a- gain: "To God on high be glo- ry And peace on earth to men!"
+w: Re- peat the hymn a- gain: "To God on high be glo- ry And peace on earth to men!"
+w: Re- peat the hymn a- gain: "To God on high be glo- ry And peace on earth to men!"
+w: Re- peat the hymn a- gain: "To God on high be glo- ry And peace on earth to men!"
+w: Re- peat the hymn a- gain: "To God on high be glo- ry And peace on earth to men!"
+[V: S1V2]  F | D C C =B, | C3 E | G F F F | E2 D2 D2 | F (D E) F C2 | C3 |]
+[V: S2V1]  C | B, A, A, G, | E,3 G, | G, A, B, A, | G,2 ^F,2 G,2 | C B, A,2 G,2 | A,3 |]
+[V: S2V2]  F, | G, A, F, G, | C,3 C, | E, F, B,, F, | C,2 D,2 G,,2 | A,, B,, C,2 C,2 | [F,,3F,3] |]

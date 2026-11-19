@@ -1,0 +1,51 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100] G G G | G3/2 F/ F | A A A | A G2 | c d c |
+w: 1.~Great is Thy faith- ful- ness, O God my Fa- ther; There is no 
+w: 2.~Sum- mer and win- ter and spring- time and har- vest, Sun, moon and
+w: 3.~Par- don for sin and a peace that en- du- reth Thine own dear
+[V: S1V2]  E E E | E3/2 E/ E | D E F | E E2 | E E E |
+[V: S2V1]  B, B, =B, | C3/2 C/ C | B, C D | C B,2 | A, B, A, |
+[V: S2V2]  E, E, E, | A,,3/2 A,,/ A,, | B,, B,, B,, | E, E,2 | A, A, A, |
+[V: S1V1] B3/2 A/ G | F G =A | B3 | B c d | e3/2 d/ c |
+w: sha- dow of turn- ing with Thee; Thou chan- gest not, Thy com- 
+w: stars in their cour- ses a- bove Join with all na- ture in
+w: pre- sence to cheer and to guide; Strength for to- day and bright
+[V: S1V2] E3/2 D/ E | F =E _E | D3 | A A A | G3/2 B/ A |
+[V: S2V1] B,3/2 B,/ B, | =A, B, C | B,3 | D D B, | B,3/2 C/ D | 
+[V: S2V2] G,3/2 F,/ E, | C, C, F, | B,,3 | B, B, B, | E,3/2 E,/ E, |
+[V: S1V1]  B A G | G F2 | c d e | e3/2 B/ B | G G F | E3 |
+w: pas- sions, they fail not; As Thou hast been, Thou for- ev- er will be.
+w: man- i- fold wit- ness To Thy great faith- ful- ness, mer- cy and love.
+w: hope for to- mor- row, Bless- ings all mine, with ten thou- sand be- side!
+[V: S1V2]  G F E | E E2 | ^F F F | G3/2 G/ G | E D B, | B,3 |
+[V: S2V1]  E C B, | C C2 | E D C | B,3/2 E/ E | C B, A, | G,3 |
+[V: S2V2]  E, F, G, | A, A,2 | =A, A, A, | B,3/2 B,/ B, | B,, B,, B,, | E,3 |
+[V: S1V1] "^Refrain" B B F | A3/4 G/4 G2 | c c G | B3/4 A/4 A2 | B c d |
+w: Great is Thy faith- ful- ness! Great is Thy faith- ful- ness! Mor- ning by 
+w: Great is Thy faith- ful- ness! Great is Thy faith- ful- ness! Morn- ing by
+w: Great is Thy faith- ful- ness! Great is Thy faith- ful- ness! Morn- ing by
+[V: S1V2]  D D D | E3/4 E/4 E2 | =E E E | F3/4 F/4 F2 | A A A |
+[V: S2V1]  F, F, B, | C3/4 B,/4 B,2 | B, G, C | _D3/4 C/4 C2 | D D B, |
+[V: S2V2]  B,, B,, B,, | E,3/4 E,/4 E,2 | C, C, C, | F,3/4 F,/4 F,2 | B,, B,, B,, |
+[V: S1V1] e B c | d e c | B3 | B c d | e3/2 d/ c |
+w: mor- ning new mer- cies I see. All I have nee- ded Thy 
+w: morn- ing new mer- cies I see. All I have nee- ded Thy
+w: morn- ing new mer- cies I see. All I have nee- ded Thy
+[V: S1V2]  G G _G | F G E | D3 | A A A | G3/2 B/ A |
+[V: S2V1]  B, B, B, | B, B, =A, | B,3 | D D B, | B,3/2 C/ D |
+[V: S2V2]  E, E, E, | F, F, F, | B,,3 | B, B, B, | E,3/2 E,/ E, |
+[V: S1V1] B A G | G F z | !emphasis!c !emphasis!d !emphasis!e | !emphasis!e3/2 !emphasis!B/ B | G A D | E3|]
+w: hand hath pro- vi- ded; Great is Thy faith- ful- ness, Lord, un- to me!
+w: hand hath pro- vi- ded; Great is Thy faith- ful- ness, Lord, un- to me!
+w: hand hath pro- vi- ded; Great is Thy faith- ful- ness, Lord, un- to me!
+[V: S1V2] G F E | E E z | ^F F F | G3/2 G/ G | "^rall."E D B, | B,3 |]
+[V: S2V1] E C B, | C C z | E D C | B,3/2 E/ E | B, F, A, | G,3 |]
+[V: S2V2] E, F, G, | A, A, z | =A, A, A, | B,3/2 B,/ B, | B,, B,, B,, | E,3 |]

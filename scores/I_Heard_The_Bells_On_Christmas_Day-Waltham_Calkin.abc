@@ -1,0 +1,36 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100] E  | G3/2 ^F/ G G | A3/2 G/ A =A |
+w: 1.~I heard the bells on Christ- mas day Their 
+w: 2.~And thought how, as the day had come, The 
+w: 3.~Till ring- ing, sing- ing on its way The 
+w: 4.~And in des- pair I bowed my head "There 
+w: 5.~Then pealed the bells more loud and deep: "God 
+[V: S1V2] E | E3/2 E/ E _D | =D3/2 D/ D E |
+[V: S2V1]  G, | B,3/2 B,/ B, B, | B,3/2 B,/ B, C |
+[V: S2V2]  E, | E, B,, E, =E, | F, B,, F, ^F, |
+[V: S1V1]  B e d c | c3/2 B/ B B | B3/2 A/ G 
+w: old fa- mil- iar car- ols play, And wild and sweet 
+w: bel- fries of all Christ- en- dom Had rolled a- long 
+w: world re- volved from night to day, A voice, a chime, 
+w: is no peace on earth," I said, "For hate is strong 
+w: is not dead, nor doth He sleep; The wrong shall fail, 
+[V: S1V2]  E G G E | F3/2 F/ F E | E3/2 E/ E 
+[V: S2V1]  B, B, B, E | D3/2 D/ D E | C3/2 C/ B, 
+[V: S2V2]  G, B,, E, G, | A,3/2 A,/ A, G, | A,3/2 A,/ E, 
+[V: S1V1] A | G3/2 F/ E F | G A B c | D3/2 F/ !fermata!E |]
+w: the words re- peat Of peace on earth, good will to men. 
+w: th'un- bro- ken song Of peace on earth, good will to men. 
+w: a chant sub- lime Of peace on earth, good will to men. 
+w: and mocks the song Of peace on earth, good will to men." 
+w: the right pre- vail With peace on earth, good will to men." 
+[V: S1V2] B | =B,3/2 B,/ C E | E E E E | D3/2 D/ !fermata!E |]
+[V: S2V1]  E, | G,3/2 G,/ G, A, | B, C B, F, | F,3/2 A,/ !invertedfermata!G, |]
+[V: S2V2]  E, | D,3/2 D,/ C, F,, | B,, A,, G,, A,, | B,,3/2 B,,/ !fermata!E, |]

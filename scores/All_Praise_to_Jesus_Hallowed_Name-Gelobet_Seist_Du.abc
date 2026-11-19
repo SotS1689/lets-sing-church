@@ -1,0 +1,42 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] G | G G A G | c d c2 | B d e d |
+w: 1.~All praise to Je- sus' hal- lowed Name Who of vir- gin 
+w: 2.~Th'E- ter- nal Fa- ther's on- ly Son For a man- ger
+w: 3.~He whom the world could not in- wrap Yon- der lies in
+w: 4.~Th'E- ter- nal Light, come down from heav'n, Hath to us new
+w: 5.~The Fa- ther's Son, God ev- er— blest, In the world be-
+w: 6.~He came to earth so mean and poor, Man to pi- ty
+w: 7.~All this He did to show His grace To our poor and
+[V: S1V2]  D | E E C E | E G/F/ E2 | G G G ^F |
+[V: S2V1]  B, | B, C A, B, | C B, C2 | D B, C A, |
+[V: S2V2]  G, | E, C, F, E, | A, G, C,2 | G, G, C, D, |
+[V: S1V1]  B A !fermata!G G | c B d A | G E !fermata!D D |
+w: pure be- came True man for us! The an- gels sing As 
+w: leaves His throne Dis- guised in our poor flesh and blood See
+w: Ma- ry's lap; He is be- come an in- fant small, Who
+w: sun- shine giv'n; It shin- eth in the midst of night, And
+w: came a guest; He leads us from this vale of tears, And
+w: and re- store, And make us rich in heaven a- bove, E-
+w: sin- ful race; For this let Christ- en- dom a- dore And
+[V: S1V2]  D ^F !fermata!G E | G G G ^F | E ^C !fermata!D D |
+[V: S2V1]  B, D/C/ !invertedfermata!B, C | C D D D | B, A, !invertedfermata!^F, F, |
+[V: S2V2]  G, D, !fermata!G, C, | E, G, B,, D, | E, A,, !fermata!D, D, |
+[V: S1V1]  A A A d | c A (G/A/ B | !fermata!A) G G G | !fermata!G z2 |]
+w: the glad news to earth they bring. * * * Hal- le- lu- jah! 
+w: now the ev- er- last- ing Good. _ _ _ Hal- le- lu- jah!
+w: by His might up- hold- eth all. _ _ _ Hal- le- lu- jah!
+w: mak- eth us the sons of light. _ _ _ Hal- le- lu- jah!
+w: makes us in his king- dom heirs. _ _ _ Hal- le- lu- jah!
+w: qual with an- gels through his love. _ _ _ Hal- le- lu- jah!
+w: praise His name for ev- er- more. _ _ _ Hal- le- lu- jah!
+[V: S1V2]  ^C E D D | E D (B,/ C/ D | !fermata!D) B, D E | !fermata!E x2 |]
+[V: S2V1]  E, A,/G,/ ^F, G, | G, ^F, (G,2 | !invertedfermata!^F,) G, G, G,/A,/ | !invertedfermata!B, z2 |]
+[V: S2V2]  A,, ^C, D, B,, | C, D, (E, B,,/C,/ | !fermata!D,) E, B,, C, | !fermata!G, x2 |]

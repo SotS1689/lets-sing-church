@@ -1,0 +1,55 @@
+X:1
+M:3/2
+L:1/8
+Q:1/4=145
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] F4 | D2 F2 G4 F4 | G2 A2 B4 B4 | A2 c2 d4 B4 |
+w: 1.~My God, My God, I cry to Thee; O why hast Thou for-
+w: 2.~But Thou art ho- ly in Thy ways, En- throned up- on Thy
+w: 3.~They cried, and, trust- ing in Thy Name, Were saved, and were not
+w: 4.~My words a cause for scorn they make, The lip they curl, the
+w: 5.~My trust on Thee I learned to rest When i was on My
+w: 6.~O let Thy strength and pre- sence cheer, For trou- ble and dis-
+w: 7.~Un- num- bered foes would do Me wrong, They press a- bout Me,
+w: 8.~Down un- to death Thou lea- dest Me, Con- sumed by thirst and
+w: 9.~While on My was- ted form they stare, The gar- ments torn from
+w: 10.~O Lord, a- far no long- er stay; O Thou My help- er,
+w: 11.~I live and will de- clare Thy fame Where breth- ren ga- ther
+[V:A] D4 | B,2 D2 E4 D4 | E2 E2 D4 F4 | F2 F2 F4 G4 |
+[V:T] B,4 | F,2 B,2 B,4 B,4 | B,2 F,2 F,4 D4 | C2 C2 B,4 D4 |
+[V:B] B,,4 | B,,2 B,,2 E,4 B,,4 | E,2 F,2 B,,4 B,,4 | F,2 A,2 B,4 B,,4 |
+[V:S] A2 G2 F4 F4 | B2 c2 d4 B4 | e2 d2 c4 c4 | d2 B2 G4 F4 |
+w: sa- ken Me? A- far from Me, Thou dost not heed, Though day and night for
+w: peo- ple's praise; Our fa- thers put their trust in Thee, Be- lieved, and Thou didst
+w: put to shame; But in the dust My hon- or lies, While all re- proach and
+w: head they shake, And, mock- ing, bid Me trust the Lord Till He sal- va- tion
+w: mo- ther's breast; From birth Thou art My God a- lone, Thy care My life has
+w: tress are near; Be Thou not far a- way from Me, I have no source of
+w: fierce and strong, Like beasts of prey their rage they vent, My cou- rage fails, My
+w: a- go- ny; With cru- el hate and an- ger fierce My help- less hands and
+w: Me they share, My shame and sor- row hee- ding not, And for My robe they
+w: haste, I pray; From death and e- vil set Me free; I live, for Thou didst
+w: in Thy Name; Where all Thy faith- ful peo- ple meet, I will Thy wor- thy
+[V:A] F2 =E2 F4 F4 | F2 F2 F4 F4 | F2 F2 F4 F4 | F2 F2 E4 F4 |
+[V:T] C2 B,2 A,4 F,4 | B,2 A,2 B,4 B,4 | A,2 B,2 A,4 A,4 | B,2 B,2 B,4 B,4 |
+[V:B] C,2 C,2 F,4 F,4 | D,2 F,2 B,4 D,4 | C,2 B,,2 F,4 F,4 | B,,2 D,2 E,4 D,4 |
+[V:S] G2 A2 B4 |]
+w: help I plead.
+w: set them free.
+w: all des- pise.
+w: shall af- ford.
+w: ev- er known.
+w: help but Thee.
+w: strength is spent.
+w: feet they pierce.
+w: cast the lot.
+w: an- swer Me.
+w: praise re- peat.
+[V:A] E2 E2 D4 |]
+[V:T] B,2 F,2 F,4 |]
+[V:B] E,2 F,2 B,,4 |]

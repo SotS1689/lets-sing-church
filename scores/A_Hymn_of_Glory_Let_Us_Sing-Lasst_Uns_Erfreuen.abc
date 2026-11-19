@@ -1,0 +1,49 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=160] D2 | D E F D F G | [E4A4] D2 | D E F D F G | [E4A4]
+w: 1.~A hymn of glo- ry let us sing New songs through- out the world shall ring
+w: 2.~To whom the an- gels draw- ing nigh, Why stand and gaze up- on the sky?
+w: 3.~A- gain ye shall be- hold Him so, As ye have to- day seen Him go.
+w: 4.~O grant us thi- ther- ward to tend And with un- wear- ied hearts a- scend,
+w: 5.~Be Thou our joy and strong de- fense, Who art our fu- ture re- com- pense,
+w: 6.~O ri- sen Christ, a- scen- ded Lord, All praise to Thee let earth ac- cord,
+[V: S1V2]  A,2 | D4 D2 | (D2 C2) D2 | A, C D2 D2 | (D2 C2)
+[V: S2V1]  F,2 | F, G, A, F, B,2 | A,4 (A, B,) | A, G, A,2 B,2 | A,4
+[V: S2V2]  D,2 | D,2 D, D,/C,/ B,, E, | (A,,2 A, G,) (F, G,) | F, E, D, C, B,, E, | (A,,2 A, G,)
+[V: S1V1]  (d c) | B2 A2 d c | B2 A2 d2 | d A A G F G | [E4A4]
+w: Al- le- lu- ia, Al- le- lu- ia. Christ, by a road be- fore un- trod
+w: Al- le- lu- ia, Al- le- lu- ia. This is the Sa- vior, thus they say.
+w: Al- le- lu- ia, Al- le- lu- ia. In glor- ious pomp as- cend- ing high
+w: Al- le- lu- ia, Al- le- lu- ia. Un- to Thy king- dom's throne, where Thou
+w: Al- le- lu- ia, Al- le- lu- ia. So shall the light that springs from Thee
+w: Al- le- lu- ia, Al- le- lu- ia. Who art, while end- less a- ges run,
+[V: S1V2]  A2 | (A G) F2 D E | (F E) C2 (A G) | F2 F E D2 | (D2 C2)
+[V: S2V1]  D2 | D2 D2 F, A, | (A, ^G,) A,2 D2 | D2 D A, A, G, | (E,2 A,2)
+[V: S2V2]  F,2 | G,2 D,2 B,, C, | (D, E,) A,,2 (F, E,) | D, C, B,, C, D, B,, | (A,,2 A, G,)
+[V: S1V1]  [A2d2] | [Ad] [GA] [FA] G F G | A4 (G F) | E2 D2 
+w: As- cen- deth to the throne of God. Al- le- lu- ia,
+w: This is His no- ble tri- umph day. Al- le- lu- ia,
+w: Up to the por- tals of the sky. Al- le- lu- ia,
+w: As is our faith, art sea- ted now, Al- le- lu- ia,
+w: Be ours through all e- ter- ni- ty, Al- le- lu- ia,
+w: With Fa- ther and with Spi- rit One, Al- le- lu- ia,
+[V: S1V2]  (D E) | D C D D3 | (D C F E) D2 | (D C) D2 
+[V: S2V1]  A,2 | A,2 A, D C B, | A,4  B,2 | (B, A,) A,2
+[V: S2V2]  (F, G,) | F, E, D, B, A, G, | (F, E, D, C,) (B,, A,,) | G,,2 F,,2 
+[V: S1V1] (G F) | E2 D2 d c | B2 A2 d c | B2 A2 G F | E6 | D4 |]
+w: Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia.
+w: Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia.
+w: Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia.
+w: Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia.
+w: Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia.
+w: Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia, Al- le- lu- ia.
+[V: S1V2] D2 | (D C) B,2 F E | (F E) C2 [F2A2] | [FA] [E2G2] [B,F] B, D | (D2 C4) | A,4 |]
+[V: S2V1]  (B, A,) | (B, G,) F,2 F, A, | (A, ^G,) A,2 [F,2A,2] | (F, G,) (E, F,) G, A, | (B,2 A,2 G,2) | F,4 |]
+[V: S2V2] (E,, F,,) | (G,, A,,) B,,2 B,, C, | (D, E,) A,,2 B,, C, | (D, E,) (C, ^D,) E, F, | (G,2 A,2 A,,2) | D,4 |]

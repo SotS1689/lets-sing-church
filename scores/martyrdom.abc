@@ -1,0 +1,22 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D | G2 E | D2 (G/ A/) | B2 A | G2 B | d2 (B/ A/) | G2 B | A3- | A2 d | B2 A | G2 B | c2 B | A2 B | (D E) (G/ A/) | B2 A | G2 |]
+w: 1.~To thee, O God, do _ we give thanks, we do give _ thanks to thee; _ Be- cause thy won- drous works de- clare thy great _ name _ near to be.
+w: 2.~I pur- pose, when I _ shall re- ceive the con- gre- _ ga- ti- on, _ That I shall judg- ment u- prigh- tly ren- der _ to _ ev’- ry one.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 4.~I to the fool- ish _ peo- ple said, Do not deal _ foo- lish- ly; _ And un- to those that wi- cked are, Lift not _ your _ horn on high.
+w: 5.~Lift not your horn on _ high, nor speak with stub- born _ neck. But know, _ That not from east, nor west, nor south, pro- mo- _ ti- _ on doth flow.
+w: 6.~But God is judge; he _ puts down one, and sets a- _ no- ther up. _ For in the hand of God most high of red _ wine _ is a cup:
+w: 7.~‘Tis full of mix- ture, _ he pours forth, and makes the _ wi- cked all _ Wring out the bit- ter dregs there- of; yea, and _ they _ drink them shall.
+w: 8.~But I for ev- er _ will de- clare, I Ja- cob’s _ God will praise. _ All horns of lewd men I’ll cut off; but just _ men’s _ horns will raise.
+[V:A] B, | B,2 C | B,2 (D/ E/) | D2 C | B,2 D | G2 D | D2 D | D3- | D2 D | D2 C | B,2 =F | E2 D | D2 D | D C (D/ E/) | D2 C | B,2 |]
+[V:T] G, | D,2 G, | G,2 G, | G,2 F, | G,2 G, | B,2 (G,/ F,/) | G,2 G, | F,3- | F,2 A, | G,2 F, | G,2 G, | G,2 G, | F,2 G, | G,2 G, | G,2 F, | G,2 |]
+[V:B] G,, | G,,2 G,, | G,,2 (B,,/ C,/) | D,2 D, | G,,2 G, | G,2 (G,,/ A,,/) | B,,2 G,, | D,3- | D,2 F, | G,2 D, | E,2 D, | C,2 G,, | D,2 G,, | (B,, C,) (B,,/ C,/) | G,2 D, | G,,2 |]

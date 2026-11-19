@@ -1,0 +1,32 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F | F E F A | G G F F | B A F G | A3 A | A B c A | F G A A | G F F E | F3 |]
+w: 1.~In thy great in- dig- na- ti- on, O Lord, re- buke me not; Nor on me lay thy chast'- ning hand, in thy dis- plea- sure hot.
+w: 2.~For in me fast thine ar- rows stick, thine hand doth press me sore: And in my flesh there is no health, nor sound- ness a- ny more.
+w: 3.~This grief I have, be- cause thy wrath is forth a- gainst me gone; And in my bones there is no rest, for sin that I have done.
+w: 4.~Be- cause gone up a- bove mine head my great trans- gres- sions be; And, as a weigh- ty bur- den, they too hea- vy are for me.
+w: 5.~My wounds do stink, and are cor- rupt; my fol- ly makes it so. I troub- led am, and much bowed down; all day I mourn- ing go.
+w: 6.~For a di- sease that loath- some is so fills my loins with pain, That in my weak and wear- y flesh no sound- ness doth re- main.
+w: 7.~So fee- ble and in- firm am I, and bro- ken am so sore, That, through dis- qu- iet of my heart, I have been made to roar.
+w: 8.~O Lord, all that I do de- sire is still be- fore thine eye; And of my heart the sec- ret groans not hid- den are from thee.
+w: 9.~My heart doth pant in- ces- sant- ly, my strength doth quite de- cay; As for mine eyes, their won- ted light is from me gone a- way.
+w: 10.~My lo- vers and my friends do stand at di- stance from my sore; And those do stand a- loof that were kin- smen and kind be- fore.
+w: 11.~Yea, they that seek my life lay snares: who seek to do me wrong Speak things mis- chie- vous, and de- ceits i- ma- gine all day long.
+w: 12.~But, as one deaf, that hea- reth not, I suf- fered all to pass; I as a dumb man did be- come, whose mouth not o- pened was:
+w: 13.~As one that hears not, in whose mouth are no re- proofs at all. For, Lord, I hope in thee; my God, thou'lt hear me when I call.
+w: 14.~For I said, Hear me, lest they should re- joice o'er me with pride; And o'er me mag- ni- fy them- selves, when as my foot doth slide.
+w: 15.~For I am near to halt, my grief is still be- fore mine eye: For I'll de- clare my sin, and grieve for mine in- iq- ui- ty.
+w: 16.~But yet mine en'- mies li- vely are, and strong are they be- side; And they that hate me wrong- ful- ly are great- ly mul- ti- plied.
+w: 17.~And they for good that ren- der ill, as en'- mies me with- stood; Yea, ev'n for this, be- cause that I do fol- low what is good.
+w: 18.~For- sake me not, O Lord; my God, far from me ne- ver be. O Lord, thou my sal- va- tion art, haste to give help to me.
+[V:A] C | C C C F | F E F F | F F F D | E3 F | F F E E | D E F F | E D D C | C3 |]
+[V:T] A, | G, G, A, A, | D C A, A, | B, C D D | ^C3 =C | C B, G, A, | A, C C C | C A, G, G, | A,3 |]
+[V:B] F, | C, C, F, D, | B,, C, F, F, | D, F, B, B, | A,3 F, | F, D, C, C, | D, C, F, F, | C, D, B,, C, | F,3 |]

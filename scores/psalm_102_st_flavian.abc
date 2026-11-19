@@ -1,0 +1,40 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F | F E F A | G G F F | B A F G | A3 A | A B c A | F G A A | G F F E | F3 |]
+w: 1.~O Lord, un- to my pray'r give ear, my cry let come to thee; And in the day of my dis- tress hide not thy face from me.
+w: 2.~Give ear to me; what time I call, to an- swer me make haste: For, as an hearth, my bones are burnt, my days, like smoke, do waste.
+w: 3.~My heart with- in me smit- ten is, and it is wi- ther- èd Like ver- y grass; so that I do for- get to eat my bread.
+w: 4.~By rea- son of my groan- ing voice my bones cleave to my skin. Like pe- li- can in wild- er- ness for- sa- ken I have been:
+w: 5.~I like an owl in des- ert am, that nigh- tly there doth moan; I watch, and like a spar- row am on the house\-- top a- lone.
+w: 6.~My bit- ter en'- mies all the day re- proa- ches cast on me; And, be- ing mad at me, with rage a- gainst me sworn they be.
+w: 7.~For why? I ash- es ea- ten have like bread, in sor- rows deep; My drink I al- so min- gled have with tears that I did weep.
+w: 8.~Thy wrath and in- dig- na- ti- on did cause this grief and pain; For thou hast lift me up on high, and cast me down a- gain.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 10.~But thou, Lord, ev- er- last- ing art, and thy re- mem- brance shall Con- ti- nual- ly en- dure, and be to gen- er- a- tions all.
+w: 11.~Thou shalt a- rise, and mer- cy have up- on thy Zi- on yet; The time to fa- vor her is come, the time that thou hast set.
+w: 12.~For in her rub- bish and her stones thy ser- vants plea- sure take; Yea, they the ver- y dust there- of do fa- vor for her sake.
+w: 13.~So shall the hea- then peo- ple fear the Lord's most ho- ly name; And all the kings on earth shall dread thy glo- ry and thy fame.
+w: 14.~When Zi- on by the might- y Lord built up a- gain shall be, In glo- ry then and ma- jes- ty to men ap- pear shall he.
+w: 15.~The prayer o- f the de- sti- tute he sure- ly will re- gard; Their pra- yer will he not des- pise, by him it shall be heard.
+w: 16.~For gen- er- a- tions yet to come this shall be on re- cord: So shall the peo- ple that shall be cre- a- ted praise the Lord.
+w: 17.~He from his sanc- tu- a- ry's height hath down- ward cast his eye; And from his glor- ious throne in heav'n the Lord the earth did spy;
+w: 18.~That of the mourn- ful pri- so- ner the groa- nings he might hear, To set them free that un- to death by men ap- point- ed are:
+w: 19.~That they in Zi- on may de- clare the Lord's most ho- ly name, And pu- blish in Je- ru- sa- lem the prais- es of the same;
+w: 20.~When as the peo- ple ga- ther shall in troops with one ac- cord, When king- doms shall as- sem- bled be to serve the high- est Lord.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 22.~My God, in mid\-- time of my days take thou me not a- way: From age to age e- ter- nal- ly thy years en- dure and stay.
+w: 23.~The firm foun- da- tion of the earth of old time thou hast laid; The hea- vens al- so are the work which thine own hands have made.
+w: 24.~Thou shalt for ev- er- more en- dure, but they shall per- ish all; Yea, ev'- ry one of them wax old, like to a gar- ment, shall:
+w: 25.~Thou, as a ves- ture, shalt them change, and they shall chang- èd be: But thou the same art, and thy years are to e- ter- ni- ty.
+w: 26.~The child- ren of thy ser- vants shall con- ti- nual- ly en- dure; And in thy sight, O Lord, their seed shall be e- sta- blished sure.
+[V:A] C | C C C F | F E F F | F F F D | E3 F | F F E E | D E F F | E D D C | C3 |]
+[V:T] A, | G, G, A, A, | D C A, A, | B, C D D | ^C3 =C | C B, G, A, | A, C C C | C A, G, G, | A,3 |]
+[V:B] F, | C, C, F, D, | B,, C, F, F, | D, F, B, B, | A,3 F, | F, D, C, C, | D, C, F, F, | C, D, B,, C, | F,3 |]

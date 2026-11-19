@@ -1,0 +1,46 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=125
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] (c2 d2) c2 | (A2 B2) A2 | (G2 F2) G2 | A6 |
+w: 1.~Hear _ this, all _ ye peo- _ ple, hear,
+w: 2.~Truth _ with all _ my heart _ I seek,
+w: 3.~Why _ should I _ to fear _ give way
+w: 4.~They _ that trust _ in trea- _ sured gold,
+w: 5.~If _ from death _ one would _ be free
+[V:A] F4 F2 | F4 F2 | (E2 D2) E2 | F6 |
+[V:T] (A,2 B,2) A,2 | (C2 D2) C2 | C4 C2 | C6 |
+[V:B] F,4 F,2 | F,4 F,2 | C,4 C,2 | F,6 |
+[V:S] (c2 d2) c2 | (A2 B2) A2 | (G2 D2) E2 | F6 |
+w: Earth's _ in- ha- _ bi- tants _ give ear;
+w: And _ my mouth _ shall wis- _ dom speak;
+w: When _ I see _ the e- _ vil day,
+w: Tho' _ they boast _ of wealth _ un- told,
+w: And _ cor- ru- _ ption ne- _ ver see,
+[V:A] F4 F2 | F4 F2 | D4 C2 | C6 |
+[V:T] (A,2 B,2) A,2 | (C2 D2) C2 | B,4 B,2 | A,6 |
+[V:B] F,4 F,2 | F,4 F,2 | B,,4 C,2 | F,6 |
+[V:S] (G2 c2) B2 | (A2 f2) e2 | (d2 c2) =B2 | c6 |
+w: All _ of high _ and low _ de- gree,
+w: Hear- _ ken while _ in ly- _ ric strain
+w: When _ with wick- _ ed- ness _ my foes
+w: None _ can bid _ his bro- _ ther live,
+w: Cost- _ ly is _ life's ran- _ som price,
+[V:A] E4 G2 | (F2 A2) G2 | (F2 E2) F2 | E6 |
+[V:T] G,4 C2 | (C2 D2) ^C2 | (D2 E2) D2 | (C4 B,2) |
+[V:B] E,4 E,2 | (F,2 D,2) E,2 | (F,2 G,2) G,2 | C,6 |
+[V:S] (c2 d2) c2 | (A2 B2) A2 | (G2 D2) E2 | F6 |]
+w: Rich _ and poor, _ give heed _ to me.
+w: I _ make hid- _ den wis- _ dom plain.
+w: Shall _ sur- round _ me and _ o- ppose?
+w: None _ to God _ a ran- _ som give.
+w: Far _ be- yond _ all sac- _ ri- fice.
+[V:A] F4 F2 | F4 F2 | D4 C2 | C6 |]
+[V:T] (A,2 B,2) A,2 | (C2 D2) C2 | B,4 B,2 | A,6 |]
+[V:B] F,4 F,2 | F,4 F,2 | B,,4 C,2 | F,6 |]

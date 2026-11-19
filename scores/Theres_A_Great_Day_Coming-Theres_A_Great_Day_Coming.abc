@@ -1,0 +1,44 @@
+X: 1
+M: 4/4
+L: 1/8
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=80] D D | G2 G2 G/2 G3/2 z G | B2 B2 A/2 G3/2  E D | G2 G2
+w: 1.~There's a great day com- ing, A great day com- ing, There's a great day 
+w: 2.~There's a bright day com- ing, A bright day com- ing, There's a bright day
+w: 3.~There's a sad day com- ing, A sad day com- ing, There's a sad day
+[V: S1V2]  B, B, | B,2 B,2 B,/2 B,3/2 x B, | D2 D2 C/2 B,3/2 C B, | B,2 B,2
+[V: S2V1]  G, G, | G,2 G,2 G,/2 G,3/2 z G, | G,2 G,2 G,/2 G,3/2 G, G, | G,2 G,2
+[V: S2V2]  G,, G,, | G,,2 G,,2 G,,/2 G,,3/2 x G,, | G,2 G,2 G,/2 G,3/2 G, G, | G,,2 G,,2
+[V: S1V1]  G/2 G3/2 A B | A6 G A | B2 B B B D' D' B | A G G E D2
+w: com- ing by and by; When the saints and the sin- ners shall be par- ted right and left, 
+w: com- ing by and by; But its bright- ness shall on- ly come to them that love the Lord,
+w: com- ing by and by; When the sin- ner shall hear his doom, "De- part, I know ye not,"
+[V: S1V2]  D/2 D3/2 D D | D6 D D | D2 D D D D D D | E E E C B,2
+[V: S2V1]  G,/2 G,3/2 F, G, | F,6 G, F, | G,2 G, G, G, B, B, G, | C C C G, G,2
+[V: S2V2]  B,,/2 B,,3/2 A,, G,, | D,6 B,, D, | G,2 G, G, G, G, G, G, | C, C, C, C, G,,2
+[V: S1V1] D D | G/2 G3/2 G G A2 A2 | G6 z2 || !mf! D'3 D' E' D' z2 |
+w: Are you rea- dy for that day to come? Are you rea- dy? 
+w: Are you rea- dy for that day to come? Are you rea- dy?
+w: Are you rea- dy for that day to come? Are you rea- dy?
+[V: S1V2] B, B, | D/2 D3/2 D D C2 C2 | B,6 x2 || G3 G G G x2 |
+[V: S2V1] G, G, | G,/2 G,3/2 G, G, F,2 F,2 | G,6 z2 || B,3 B, C B, z2 |
+[V: S2V2] G,, G,, | B,,/2 B,,3/2 B,, B,, D,2 D,2 | G,,6 x2 || G,3 G, G, G, x2 |
+[V: S1V1]  !pp! B3 B C' B z2 | G3 G G G G G | B2 A2 A4 |
+w: Are you rea- dy? Are you rea- dy for the judg- ment day?
+w: Are you rea- dy? Are you rea- dy for the judg- ment day?
+w: Are you rea- dy? Are you rea- dy for the judg- ment day?
+[V: S1V2]  G3 G G G x2 | D3 D B, B, D D | ^C2 C2 D4 |
+[V: S2V1]  D3 D E D z2 | G,3 G, G, G, G, G, | G,2 E,2 F,4 |
+[V: S2V2]  G,3 G, G, G, x2 | B,,3 B,, G,, G,, B,, B,, | A,,2 A,,2 D,4 |
+[V: S1V1] !mf! D'3 D' E' D' z2 |  !pp!B3 B C' B z2 | G3 G A2 A2 | G6 |]
+w: Are you rea- dy? Are you rea- dy? For the judg- ment day?
+w: Are you rea- dy? Are you rea- dy? For the judg- ment day?
+w: Are you rea- dy? Are you rea- dy? For the judg- ment day?
+[V: S1V2] G3 G G G x2 | G3 G G G x2 | D3 D C2 C2 | B,6 |]
+[V: S2V1] B,3 B, C B, z2 | D3 D E D z2 | G,3 G, F,2 F,2 | D,6 |]
+[V: S2V2] G,3 G, G, G, x2 | G,3 G, G, G, x2 | B,,3 B,, D,2 D,2 | G,,6 |]

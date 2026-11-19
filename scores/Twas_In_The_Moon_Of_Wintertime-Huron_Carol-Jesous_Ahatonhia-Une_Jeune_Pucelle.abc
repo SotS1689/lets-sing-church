@@ -1,0 +1,41 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=120] F B c d | e d c B | A B B c | A B3 |
+w: 1.~'Twas in the moon of win- ter- time, When all the birds had fled, 
+w: 2.~With- in a lodge of bro- ken bark The ten- der babe was found,
+w: 3.~The ear- liest moon of win- ter- time Is not so round and fair
+w: 4.~Oh child- ren of the for- est free, Oh sons of Man- i- tou,
+[V: S1V2] F B c B | B B A F | A B B A | A F3 |
+[V: S2V1] F, B, A, F, | G, F, F,/E,/ D, | F, G, G, F, | F,/E,/ D,3 |
+[V: S2V2] F, B, A, F, | G, F, F,/E,/ D, | F, G, G, F, | F,/E,/ D,3 |
+[V: S1V1]  F B c d | e d c B | A B B c | A B3 |
+w: That might- y Git- chi Man- i- tou Sent an- gel choirs in- stead; 
+w: A rag- ged robe of rab- bit skin En- wrapped His beau- ty 'round;
+w: As was the ring of glo- ry on The help- less In- fant there.
+w: The ho- ly Child of earth and Heav'n Is born to- day for you.
+[V: S1V2] F B c B | B B A F | A B B A | A F3 |
+[V: S2V1] F, B, A, F, | G, F, F,/E,/ D, | F, G, G, F, | F,/E,/ D,3 |
+[V: S2V2] F, B, A, F, | G, F, F,/E,/ D, | F, G, G, F, | F,/E,/ D,3 |
+[V: S1V1] B f f c | d e3/2 d/ c | c d c B | B c3/2 B/ (B | A2) z2 |
+w: Be- fore their light the stars grew dim, And wan- d'ring hun- ters heard the hymn: * 
+w: But as the hun- ter braves drew nigh, The an- gel song rang loud and high: _
+w: The chiefs from far be- fore Him knelt With gifts of fox and bea- ver pelt. _
+w: Come kneel be- fore the ra- diant Boy, Who brings you beau- ty, peace and joy. _
+[V: S1V2] G/A/ B B A | B B3/2 B/ A | A B A F | G A3/2 G/ (F | F2) x2 |
+[V: S2V1] E, D, D,/E,/ F, | F, G,3/2 G,/ A, | G, F, F,/E,/ D, | G, F,3/2 D,/ (D, | C,2) z2 |
+[V: S2V2] E, D, D,/E,/ F, | F, G,3/2 G,/ A, | G, F, F,/E,/ D, | G, F,3/2 D,/ (D, | C,2) x2 |
+[V: S1V1] F B B2 | A G F2 | B2 A F | B2 B c | d e f F | B2 z2 |]
+w: Je- sus your King is born, Je- sus is born, In ex- cel- sis glo- ri- a. 
+w: Je- sus your King is born, Je- sus is born, In ex- cel- sis glo- ri- a.
+w: Je- sus your King is born, Je- sus is born, In ex- cel- sis glo- ri- a.
+w: Je- sus your King is born, Je- sus is born, In ex- cel- sis glo- ri- a.
+[V: S1V2] D F F2 | F E D2 | D2 F F | F2 F A | B B B F/E/ | D2 z2 |]
+[V: S2V1] B, D D2 | C C A,2 | B,2 C A, | A, G, D C | C B, D D/C/ | B,3 z |]
+[V: S2V2] B,, B,, B,,2 | C, C, D,2 | B,,2 C, C, | D, C, D, F, | F, G, F, F, | B,,2 z2 |]

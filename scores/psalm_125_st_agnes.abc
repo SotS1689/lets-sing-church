@@ -1,0 +1,19 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] B B B | A2 B | c2 F | G3 | D D D | B2 A | A3 | c c B | A2 G | F2 E | D3 | D E G | B2 A | G3 |]
+w: 1.~They in the Lord that firm- ly trust shall be like Zi- on hill, Which at no time can be re- moved, but stan- deth ev- er still.
+w: 2.~As round a- bout Je- ru- sa- lem the moun- tains stand al- way, The Lord his folk doth com- pass so, from hence- forth and for aye.
+w: 3.~For ill men's rod up- on the lot of just men shall not lie; Lest right- eous men stretch forth their hands un- to in- iq- ui- ty.
+w: 4.~Do thou to all those that be good thy good- ness, Lord, im- part; And do thou good to those that are u- pright with- in their heart.
+w: 5.~But as for such as turn a- side af- ter their crook- ed way, God shall lead forth with wi- cked men: on Is- r'el peace shall stay.
+[V:A] D D D | E2 D | (C E) D | D3 | D D D | D2 ^C | D3 | E E D | C2 ^C | D2 ^C | D3 | D D C | B,2 C | B,3 |]
+[V:T] B, B, G, | C2 G, | A,2 A, | B,3 | C B, A, | G,2 G, | F,3 | E, F, ^G, | A,2 A, | A,2 G, | F,3 | G, G, G, | G,2 F, | G,3 |]
+[V:B] G, G, B,, | C,2 B,, | A,,2 D, | G,3 | A, G, F, | G,2 E, | D,3 | A,, A,, A,, | A,,2 A,, | D,2 D, | (D,2 =C,) | B,, C, E, | D,2 D, | G,,3 |]

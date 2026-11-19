@@ -1,0 +1,36 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] E2 G G | A B c B | A2 B2 | c G A
+w: 1.~Wilt thou, O man, live hap- pi- ly, And dwell with God 
+w: 2.~I am the Lord and God! take heed No o- ther god
+w: 3.~Hon- or My Name in word and deed, And call on Me
+w: 4.~O- be- dient al- ways, next to Me, To fa- ther and
+w: 5.~Steal not, nor do thy neigh- bor wrong By bear- ing wit-
+[V: S1V2]  B,2 E D | E G E3/2 D/ | C2 E2 | E D C
+[V: S2V1]  G,2 C D | C B, A, ^G, | A,2 ^G,2 | A, B, E,
+[V: S2V2]  E,2 C, B,, | A,, E, A, E, | A,,2 E,2 | C, B,, A,, 
+[V: S1V1]  E | (G2 E C | G) F E2 | B2 c d | c A ^G A | B2
+w: e- ter- * * * nal- ly, The ten com- mand- ments keep, for thus 
+w: doth thee _ _ _ mis- lead; Thy heart shall trust a- lone in Me,
+w: in time _ _ _ of need: Hal- low the Sab- bath, that I may
+w: to mo- _ _ _ ther be; Kill no man: ev- en an- ger dread;
+w: ness with _ _ _ false tongue; Thy neigh- bor's wife de- sire thou not,
+[V: S1V2]  C | (D2 C C | D) D ^C2 | D2 E G | E D B, C | E2 
+[V: S2V1]  A, | (B, G,2 E, | B,) A, A,2 | B,2 G, G, | G, F, E,3/2 ^F,/ | ^G,2
+[V: S2V2]  A,, | (G,, B,, C,2 | G,,) D, A,,2 | G,,2 C, B,, | C, D, E, A,, | E,2
+[V: S1V1]  E2 | B c (B G) | A F (E C) | G3/2 F/ E2 | E4 |]
+w: Our God Him- self * bid- deth us. * Kyr' e- lei- son! 
+w: My king- dom then _ thou shalt be. _ Kyr' e- lei- son!
+w: Work in thy heart _ on that day. _ Kyr' e- lei- son!
+w: Keep sac- red thy _ mar- riage bed. _ Kyr' e- lei- son!
+w: Nor grudge him aught _ he hath got. _ Kyr' e- lei- son!
+[V: S1V2]  B,2 | D E (D E) | E D (C A,) | D3/2 D/ C2 | B,4 |]
+[V: S2V1]  =G,2 | F, G, (G, B,) | A, A, (A, E,) | B,3/2 A,/ A,2 | ^G,4 |]
+[V: S2V2]  E,2 | D, C, (G, E,) | C, D, A,,2 | G,,3/2 D,/ A,,2 | E,4 |]

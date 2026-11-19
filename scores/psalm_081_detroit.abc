@@ -1,0 +1,27 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Dm
+[V:S] D2 F G | A2 F2 | (G/ F/) (D/ C/) D2 | D2 F G | A c d2- | d2 A2 | d (d/ c/) A2 | G2 (F/ G/) A/ =B/ | c2 A2 | (G3/2 F/) D C | D4 |]
+w: 1.~Sing loud to God our strength; _ with _ joy to Ja- cob's God do sing. _ Take up a _ psalm, the pleas- _ ant harp, tim- brel and _ psal- t'ry bring.
+w: 2.~Blow trum- pets at new\-- moon, _ what _ day our feast ap- point- ed is: _ For charge to _ Is- r'el, and _ a law of Ja- cob's _ God was this.
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 4.~His shoul- der I from bur- _ dens _ took, his hands from pots did free. _ Thou didst in _ trou- ble on _ me call, and I de- _ liv- ered thee:
+w: 5.~In sec- ret place of thun- _ de- _ ring I did thee an- swer make; _ And at the _ streams of Me- _ ri- bah of thee a _ proof did take.
+w: 6.~O thou, my peo- ple, give _ an _ ear, I'll te- sti- fy to thee; _ To thee, O _ Is- r'el, if _ thou wilt but hear- ken _ un- to me.
+w: 7.~In midst of thee there shall _ not _ be a- ny strange god at all; _ Nor un- to _ a- ny god _ un- known thou bow- ing _ down shalt fall.
+w: 8.~I am the Lord thy God, _ which _ did from E- gypt land thee guide; _ I'll fill thy _ mouth a- bun- _ dant- ly, do thou it _ o- pen wide.
+w: 9.~But yet my peo- ple to _ my _ voice would not at- ten- tive be; _ And ev'n my _ cho- sen Is- _ ra- el he would have _ none of me.
+w: 10.~So to the lust of their _ own _ hearts I them de- liv- er- èd; _ And then in _ coun- sels of _ their own they vain- ly _ wand- er- èd.
+w: 11.~O that my peo- ple had _ me _ heard, Is- r'el my ways had chose! _ I had their _ en'- mies soon _ sub- dued, my hand turned _ on their foes.
+w: 12.~The ha- ters of the Lord _ to _ him sub- mis- sion should have feigned; _ But as for _ them, their time _ should have for ev- er- _ more re- mained.
+w: 13.~He should have al- so fed _ them _ with the fi- nest of the wheat; _ Of hon- ey _ from the rock _ thy fill I should have _ made thee eat.
+[V:A] D2 D C | D2 D2 | C C D2 | D2 C C | D/ E/ C D2- | D2 D2 | D D D2 | C2 F/ E/ D | C2 F2 | D3/2 C/ D D | D4 |]
+[V:T] A,2 A, =B, | A,2 D2 | C C D2 | D2 C D | A, G, A,2- | A,2 F,3/2 E,/ | D, D,/ E,/ F,2 | G,2 A, D | C2 C2 | D3/2 C/ A, A, | A,4 |]
+[V:B] D,2 F, E, | D,2 F,2 | C, A,, D,2 | A,2 F, D, | A, G,/ F,/ D,2- | D,2 F,3/2 G,/ | A, A, D,2 | E,2 F, D, | C,2 F,2 | D,3/2 C,/ A,, A,, | D,4 |]

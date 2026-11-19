@@ -1,0 +1,42 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1]  [Q:1/4=100]  D | G2 B/G/ | B2 A | G2 E | D2 D |
+w: 1.~A- maz- ing * grace! How sweet the sound That 
+w: 2.~'Twas grace that * taught my heart to fear, And 
+w: 3.~Through ma- ny * dan- gers, toils and snares, I 
+w: 4.~The Lord has * pro- mised good to me, His 
+w: 5.~Yea, when this _ flesh and heart shall fail, And
+w: 6.~The earth shall _ soon dis- solve like snow, The
+w: 7.~When we've been _ there ten thou- sand years, Bright
+[V: S1V2]  B, | B,2 D | D2 C | B,2 C | B,2 B, |
+[V: S2V1]  G, | D,2 G, | G,2 F, | G,2 G, | G,2 G, |
+[V: S2V2]  G,, | G,,2 G,,/B,,/ | D,2 D, | E,2 C, | G,,2 G,, |
+[V: S1V1]  G2 B/G/ | B2 A | d3- | d2 B | (d3/2 B/) d/B/ | G2 D |
+w: saved a * wretch like me! * I once * was * lost, but
+w: grace my * fears re- lieved; * How pre- * cious * did that 
+w: have al- * rea- dy come; * 'Tis grace * hath * brought me 
+w: Word my * hope se- cures;  * He will * my * Shield and 
+w: mor- tal _ life shall cease, _ I shall _ pos- _ sess, with
+w: sun for- _ bear to shine; _ But God, _ Who _ called me
+w: shin- ing _ as the sun, _ We've no _ less _ days to
+[V: S1V2]  B,2 D | D2 D | D3- | D2 D | D2 D | D2 D |
+[V: S2V1]  D,2 G, | G,2 F, | G,3- | G,2 G, | (B,3/2 G,/) B,/G,/ | G,2 G, |
+[V: S2V2]  G,,2 G,,/B,,/ | D,2 C, | B,,3- | B,,2 G,, | G,2 G, | B,,2 B,, |
+[V: S1V1]  (E3/2 G/) G/E/ | D2 D | G2 B/G/ | B2 A | G3- | G2 |]
+w:   now * am * found; Was blind, but * now I see. * 
+w:   grace * ap- * pear The hour I * first be- lieved. * 
+w:  safe * thus * far, And grace will * lead me home. * 
+w: Por- * tion * be, As long as * life en- dures. * 
+w: in _ the _ veil, A life of _ joy and peace. _
+w: here _ be- _ low, Shall be for- _ ev- er mine. _
+w: sing _ God's _ praise Than when we'd _ first be- gun. _
+[V: S1V2]  C3/2 D/ C | B,2 D | B,2 D | G2 F | D3- | D2 |]
+[V: S2V1]  G,2 E,/G,/ | G,2 G, | G,2 G,/B,/ | D2 C | B,3- | B,2 |]
+[V: S2V2]  (C,3/2 B,,/) C, | G,,2 B,, | E,2 D, | D,2 D, | G,3- | G,2 |]
