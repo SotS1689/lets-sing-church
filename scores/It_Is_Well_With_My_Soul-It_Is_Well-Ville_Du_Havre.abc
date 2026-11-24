@@ -1,0 +1,50 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Db
+[V: S1V1] [Q:1/4=100] A | A2 G F | F2 E F | (G B) A G | F3 A | d2 c
+w: 1.~When peace, like a ri- ver, at- ten- * deth my way, When sor- rows 
+w: 2.~Though Sa- tan should buf- fet, though tri- _ als should come, Let this blest
+w: 3.~My sin, oh, the bliss o- f this _ glor- ious thought! My sin, not
+w: 4.~For me, be it Christ, be it Christ _ hence to live: If Jor- dan
+w: 5.~But, Lord, 'tis for Thee, for Thy com- _ ing we wait, The sky, not
+w: 6.~And Lord, haste the day when my faith _ shall be sight, The clouds be
+[V: S1V2]  F | F2 E D | D2 C D | C2 C E | D3 F | F2 E
+[V: S2V1]  A, | A,2 A, A, | A,2 A, A, | A,2 A, C | D3 A, | B,2 =A,
+[V: S2V2]  D, | D,2 D, D,/F,/ | A,2 G, F, | E,2 A,, A,, | D,3 D, | B,,2 C,
+[V: S1V1]  B | B2 A =G | A3 A | d2 d c | B2 B B | e2 e d |
+w: like sea bil- lows roll; What- ev- er my lot, Thou has taught me to 
+w: a- ssu- rance con- trol, That Christ has re- gar- ded my help- less e-
+w: in part but the whole, Is nailed to the cross, and I bear it no
+w: a- bove me shall roll, No pang shall be mine, for in death as in
+w: the grave, is our goal; Oh trump of the an- gel! Oh voice of the
+w: rolled back as a scroll; The trump shall re- sound, and the Lord shall de-
+[V: S1V2]  D | F2 E E | E3 G | F2 F A | G2 B A | =G2 =G =G |
+[V: S2V1]  B, | D2 C B, | C3 C | D2 D D | D2 D =D | E2 E E |
+[V: S2V2]  D, | D,2 E, E, | A,,3 A, | D,2 D, F, | G,2 G, F, | E,2 E, E, |
+[V: S1V1]  c2 B A | d2 d d | d2 c3/2 d/ | !fermata!d2 "^Refrain" A A |
+w: say, It is well, it is well, with my soul. It is 
+w: state, And hath shed His own blood for my soul. It is
+w: more, Praise the Lord, praise the Lord, O my soul! It is
+w: life Thou wilt whis- per Thy peace to my soul. It is
+w: Lord! Bless- èd hope, bless- èd rest of my soul! It is
+w: scend, Ev- en so, it is well with my soul. It is
+[V: S1V2]  A2 A A | A2 D D | F2 E3/2 F/ | !fermata!F2 z2 |
+[V: S2V1]  E2 D C | D2 A, B, | A,2 A,3/2 A,/ | !invertedfermata!A,2 z2 |
+[V: S2V2]  A,2 A, A,/G,/ | F,2 F, G, | A,2 A,,3/2 A,,/ | !fermata!D,2 z2 |
+[V: S1V1]  A4- | A2 A A | A4- | A2 F A | B2 B d | d2 c3/2 d/ | d3 |]
+w: well,  * with my soul,  * It is well, it is well with my soul. 
+w: well, _ with my soul, _ It is well, it is well with my soul.
+w: well, _ with my soul, _ It is well, it is well with my soul.
+w: well, _ with my soul, _ It is well, it is well with my soul.
+w: well, _ with my soul, _ It is well, it is well with my soul.
+w: well, _ with my soul, _ It is well, it is well with my soul.
+[V: S1V2]  z2 F F | E2 z2 | z2 E G | F2 D F | G2 G G | F2 E3/2 F/ | F3 |]
+[V: S2V1]  z2 A, D | C2 z2 | z2 C E | D2 A, D | D2 D B, | A,2 A,3/2 A,/ | A,3 |]
+w: It is well,  with my soul,  * * * * * * * * *
+[V: S2V2]  z2 D, F, | A,2 z2 | z2 A,, A,, | D,2 D, D, | G,2 G, G, | A,2 A,,3/2 A,,/ | D,3 |]

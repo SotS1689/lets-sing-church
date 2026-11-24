@@ -1,0 +1,23 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=110] F2 c B | A G F2 | c2 e d | c B c2 |
+w: 1.~Breathe on me, breath of God, Fill me with life a- new, 
+w: 2.~Breathe on me, breath of God, Un- til my heart is pure, 
+w: 3.~Breathe on me, breath of God, So shall I ne- ver die, 
+[V: S1V2]  C2 F G | F =E F2 | _E2 E F | E E E2 |
+[V: S2V1]  A,2 C D | C C A,2 | A,2 A, A, | A, G, A,2 |
+[V: S2V2]  F,2 A,, B,, | C, C, F,2 | A,,2 C, D, | E, E, A,,2 |
+[V: S1V1]  z A G F | c A B A | !fermata!G F c B | A2 G2 | F4 |]
+w: That I may love what Thou dost love, And do what Thou wouldst do. 
+w: Un- til with Thee I will one will, To do and to en- dure. 
+w: But live with Thee the per- fect life Of Thine e- ter- ni- ty. 
+[V: S1V2]  x F E D | E F F F | !fermata!=E F F G | F2 =E2 | F4 |]
+[V: S2V1]  z C C A, | A, A, D C | !invertedfermata!C A, C D | C2 (C B,) | A,4 |]
+[V: S2V2]  x F, C, D, | A,, D, B,, F, | !fermata!C, D, A,, B,, | C,2 C,2 | F,,4 |]

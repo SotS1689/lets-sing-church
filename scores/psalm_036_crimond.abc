@@ -1,0 +1,25 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] C | A2 (B3/4 G1/4) | c2 (B/ G/) | F2 E | F2 A | (A G) G | =B2 B | c2 A | (A B) A | G2 A | (B c) B | A2 A | (G B) d | F2 E | F2 |]
+w: 1.~The wi- cked _ man's trans- _ gres- si- on with- in _ my heart thus says, Un- doub- _ ted- ly the fear _ of God is not _ be- fore his eyes.
+w: 2.~Be- cause him- _ self he _ flat- te- reth in his _ own blin- ded eye, Un- til _ the ha- te- fulness _ be found of his _ in- iq- ui- ty.
+w: 3.~Words from his _ mouth pro- _ cee- ding are, fraud and _ in- iq- ui- ty: He to _ be wise, and to _ do good, hath left _ off ut- ter- ly.
+w: 4.~He mis- chief, _ ly- ing _ on his bed, most cun- _ ning- ly doth plot: He sets _ him- self in ways _ not good, ill he _ ab- hor- reth not.
+w: 5.~Thy mer- cy, _ Lord, is _ in the heav'ns; thy truth _ doth reach the clouds: Thy jus- _ tice is like moun- _ tains great; thy judg- _ ments deep as floods:
+w: 6.~Lord, thou pre- _ ser- vest _ man and beast. How pre- _ cious is thy grace! There- fore _ in sha- dow of _ thy wings men's sons _ their trust shall place.
+w: 7.~They with the _ fat- ness _ of thy house shall be _ well sa- tis- fied; From ri- _ vers of thy plea- _ sures thou wilt drink _ to them pro- vide.
+w: 8.~Be- cause of _ life the _ foun- tain pure re- mains _ a- lone with thee; And in _ that pur- est light _ of thine we clear- _ ly light shall see.
+w: 9.~Thy lo- ving\-- _ kind- ness _ un- to them con- ti- _ nue that thee know; And still _ on men u- pright _ in heart thy right- _ eous- ness be- stow.
+w: 10.~Let not the _ foot of _ cru- el pride come, and _ a- gainst me stand; And let _ me not re- mov- _ èd be, Lord, by _ the wick- ed's hand.
+w: 11.~There fal- len _ are they, _ and ru- ined, that work _ i- ni- qui- ties: Cast down _ they are, and ne- _ ver shall be ab- _ le to a- rise.
+[V:A] C | F2 E | F2 D | C2 C | C2 F | C2 C | (D G) F | E2 F | (F G) F | E2 F | (G E) G | F2 (F/ E/) | D2 D | C2 C | C2 |]
+[V:T] A, | C2 C | C2 (G,/ B,/) | A,2 G, | A,2 C | F, G, G, | G,2 G, | C2 C | C2 C | C2 C | (D C) C | C2 C | (B, G,) G, | A,2 G, | A,2 |]
+[V:B] F, | F,2 (G,3/4 B,1/4) | (A, A,,) B,, | C,2 C, | F,2 F, | (F, E,) E, | G,2 G,, | C,2 F, | (F, E,) F, | (C, B,) A, | (G, C,) (D,/ E,/) | F,2 F, | B,,2 B,, | C,2 C, | F,2 |]

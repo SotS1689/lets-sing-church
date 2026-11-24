@@ -1,0 +1,49 @@
+X:1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=130] F2 F G | A2 (G A) | B2 (A G) | A4 | 
+w: 1.~To God my earn- est _ voice I _ raise,
+w: 2.~When gloom and sor- row _ com- pass _ me,
+w: 3.~All un- pro- tec- ted, _ lo, I _ stand,
+w: 4.~O Lord, my Sa- viour, _ now to _ Thee,
+w: 5.~Be Thou my help when _ troub- les _ throng,
+w: 6.~The right- eous then shall _ ga- ther _ round
+[V: S1V2] C2 C E | F2 (G ^F) | G2 (F E) | F4 | 
+[V: S2V1] A,2 A, C | C2 (D C) | D2 C2 | C4 | 
+[V: S2V2] F,2 F, C, | F,2 (B, A,) | G,2 C,2 | F,4 | 
+[V: S1V1] A2 A A | B2 (A G) | F2 (E F) | G4 | 
+w: To God my voice im- _ plo- ring _ prays;
+w: The path I take is _ known to _ Thee,
+w: No friend- ly guard- ian _ at my _ hand,
+w: With- out a hope be- _ sides, I _ flee,
+w: For I am weak and _ foes are _ strong;
+w: To share the bless- ing _ I have _ found,
+[V: S1V2] F2 F F | F2 (F E) | F2 C2 | E4 | 
+[V: S2V1] C2 C C | D2 C2 | C2 (B, A,) | C4 | 
+[V: S2V2] F,2 F, F, | F,2 (F, B,) | A,2 (G, F,) | C,4 | 
+[V: S1V1] F2 FG | A2 (G A) | B2 (A G) | A4 | 
+w: Be- fore His face my _ grief I _ show
+w: And all the toils that _ foes do _ lay
+w: No place of flight or _ re- fuge _ near,
+w: To Thee, my shel- ter _ from the _ strife,
+w: My cap- tive soul from _ pri- son _ bring,
+w: Their hearts made glad be- _ cause they _ see
+[V: S1V2] C2 C E | F2 (G ^F) | G2 (F E) | F4 | 
+[V: S2V1] A,2 A, C | C2 (D C) | D2 C2 | C4 | 
+[V: S2V2] F,2 F, C, | F,2 (B, A,) | G,2 C,2 | F,4 | 
+[V: S1V1] A2 A A | G2 F2 | G2 (A F) | F4 |]
+w: And tell my trou- ble and my _ woe.
+w: To snare Thy ser- vant in his _ way.
+w: And none to whom my soul is _ dear.
+w: My por- tion in the land of _ life.
+w: And thank- ful prais- es I will _ sing.
+w: How rich- ly God has dealt with _ me.
+[V: S1V2] F2 F F | E2 F2 | F2 E2 | F4 |]
+[V: S2V1] C2 C C | (C B,) A,2 | D2 (C B,) | A,4 |]
+[V: S2V2] F,2 F, F, | C,2 F,2 | B,,2 C,2 | F,4 |]

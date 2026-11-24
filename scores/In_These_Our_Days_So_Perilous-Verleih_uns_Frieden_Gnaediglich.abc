@@ -1,0 +1,24 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=110] G2 G G | F G B A | !fermata!G2 B2 | c c B c | d2 !fermata!d2 |
+w: 1.~In these our days so per- il- ous, Lord, peace in mer- cy send us; 
+[V: S1V2]  D2 D D | D E (F//D// G) ^F/ | !fermata!G2 G2 | A E G G | (G ^F/E/) !fermata!^F2 |
+[V: S2V1]  B,2 B, B, | A, C D D | !invertedfermata!B,2 D2 | F C D G, | (B, A,/G,/) !invertedfermata!A,2 |
+[V: S2V2]  G,2 G, B,, | D, C, B,,3/4C,//D,/ D,/ | !fermata!G,,2 G,2 | F, A, G, _E, | D,2 !fermata!D,2 |
+[V: S1V1]  d d c d | B c (B A) | !fermata!G2 G =F | G (B c) G | (^F G) !fermata!G2 |
+w: No God but Thee can fight for * us, No God but Thee * de- fend * us; 
+[V: S1V2]  =F F3/2 F/ F | G G2 ^F | !fermata!G2 D D | D G3/4F//_E3/4D// C | D2 !fermata!D2 |
+[V: S2V1]  A, B, A, A, | G, (_E D3/2) C/ | !invertedfermata!B,2 B, A, | (B,3/4A,// G,) G, G, | (A, B,) !invertedfermata!B,2 |
+[V: S2V2]  D, B,, F, D, | E, C, D,2 | !fermata!G,,2 G, D, | G, _E,3/4D,//C,3/4D,// _E, | (D, G,,) !fermata!G,,2 |
+[V: S1V1]  c2 (d c) | B G B A/G/ | (B2 G2) | G4 |]
+w: Thou our * on- ly God and * Sa- * vior. 
+[V: S1V2]  F3 A | G2 D _E | (D2 _E2) | D4 |]
+[V: S2V1]  A,2 (B,/A,//G,// A,) | D3/2 C/ B, C | (G, G,/A,/ B, C) | =B,4 |]
+[V: S2V2]  F,,2 (B,, F,,) | G,, G,2 C, | (G,3/2 F,/ _E,/D,/ C,) | G,,4 |]

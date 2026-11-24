@@ -1,0 +1,51 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=160] A2 A A | B2 A2 | d3/2 e/ d c | B2 A2 | B2 d2 | A2 F2 |
+w: 1.~O Lord, we praise Thee, bless Thee, and a- dore Thee, In thanks- giv- ing 
+w: 2.~Thy ho- ly bo- dy in- to death was gi- ven, Life to win for 
+w: 3.~May God be- stow on us His grace and fa- vor To please Him with
+[V: S1V2]  E2 F C | E2 E2 | F3/2 E/ F E | E2 C2 | E2 D2 | E2 D2 |
+[V: S2V1]  C2 D A, | ^G,2 A,2 | F,3/2 A,/ A, A, | ^G,2 A,2 | G,2 F,2 | A,2 B,2 |
+[V: S2V2]  A,2 D, F, | E,2 C,2 | B,,3/2 C,/ D, A, | E,2 A,,2 | E,2 B,,2 | C,2 E,2 |
+[V: S1V1]  G2 F2 | (E2 G2) | A4 | A2 A A | B2 A2 | d3/2 e/ d c | B2 A2 |
+w: bow be- fore * Thee Thou with Thy bo- dy and Thy blood didst nou- rish 
+w: us in hea- * ven. No great- er love than this to Thee could bind us; 
+w: our be- ha- _ vior And live as breth- ren here in love and un- ion
+[V: S1V2]  D2 D2 | (C2 E2) | E4 | E2 F C | E2 E2 | F3/2 E/ F E | E2 C2 |
+[V: S2V1]  G,2 F,2 | (F,2 G,2) | A,4 | C2 D A, | ^G,2 A,2 | F,3/2 A,/ A, A, | ^G,2 A,2 |
+[V: S2V2]  E,,2 B,,2 |    C,4 | F,,4 | A,2 D, F, | E,2 C,2 | B,,3/2 C,/ D, A, | E,2 A,,2 |
+[V: S1V1]  B2 d2 | A2 F2 | G2 F2 | (E2 G2) | A4 | A2 A A | (B3/2 A/ ^G2) | A4 |
+w: Our weak souls that they may flou- * rish: O Lord, have mer- * * cy! 
+w: May this feast there- of re- mind * us! O Lord, have mer- * * cy! 
+w: Nor re- pent this blest Co- mmun- _ ion! O Lord, have mer- _ _ cy!
+[V: S1V2]  E2 D2 | E2 D2 | D2 D2 | (C2 E2) | E4 | F2 F E | (F2 E2) | E4 |
+[V: S2V1]  G,2 F,2 | A,2 B,2 | G,2 F,2 | (F,2 G,2) | A,4 | D2 D E | (D3/2 C/ B,2) | C4 |
+[V: S2V2]  E,2 B,,2 | C,2 E,2 | E,,2 B,,2 | C,4 | F,,4 | D,2 D, C, | (B,,2 E,2) | A,,4 |
+[V: S1V1]  A2 A2 | B2 c2 | d2 A A | B2 A2 | c2 d2 | e2 e2 |
+w: May Thy bo- dy, Lord, born of Ma- ry, That our sins and 
+w: Lord, Thy kind- ness did so con- strain Thee That Thy blood should 
+w: Let not Thy good Spi- rit for- sake us; Grant that heav'n— _
+[V: S1V2]  E2 F2 | ^G2 A2 | A2 F !accent!E | G2 A2 | A2 A2 | ^G2 A2 |
+[V: S2V1]  C2 C2 | E2 E2 | F2 D !accent!C | E2 !accent!C2 | E2 F2 | B,2 C2 |
+[V: S2V2]  A,2 F,2 | E,2 A,2 | D,2 D, !accent!A, | E,2 !accent!A,,2 | A,2 F,2 | E,2 C,2 |
+[V: S1V1]  (d3/2 c/) B2 | A2 (A3/2 G/) | E4 | F2 ^G2 | A4 | F2 ^G2 | A4 |
+w: sor- * rows did car- * ry, And Thy blood for us plead 
+w: bless * and sus- tain * me. All our debt Thou hast paid; 
+w: mind- _ ed He make _ us; Give Thy Church, Lord, to see
+[V: S1V2]  F2 (D E) | E2 E2 | E4 | A,2 B,2 | C4 | F2 E2 | E4 |
+[V: S2V1]  A,2 (B, ^G,) | C2 (C3/2 B,/) | C4 | D2 D2 | E4 | B,2 B,2 | C4 |
+[V: S2V2]  (D, F,) (B,, E,) | A,,2 (A,,3/2 E,/) | A,4 | D,2 B,,2 | A,,4 | D,2 E,2 | A,,4 |
+[V: S1V1]  E2 G2 | F2 E2 | F2 E2 | D4 | A2 A A | (B3/2 A/ ^G2) | A4 |]
+w: In all tri- al, fear, and need: O Lord, have mer- * * cy! 
+w: Peace with God once more is made: O Lord, have mer- * * cy. 
+w: Days of peace and u- ni- ty: O Lord, have mer- _ _ cy!
+[V: S1V2]  C2 D2 | D2 E2 | D2 C2 | D4 | F2 F E | (F2 E2) | E4 |]
+[V: S2V1]  A,2 B,2 | A,2 A,2 | A,2 A,2 | F,4 | D2 D E | (D3/2 C/ B,2) | C4 |]
+[V: S2V2]  A,,2 G,,2 | D,2 C,2 | D,2 A,,2 | D,4 | D,2 D, C, | (B,,2 E,2) | A,,4 |]

@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] G3/2 A/ G F | E3/2 D/ D2 | G A c B | B3/2 A/ A2 |
+w: 1.~See a- mid the win- ter's snow, Born for us on earth be- low, 
+w: 2.~Lo, with- in a man- ger lies He Who built the star- ry skies;
+w: 3.~Say, you ho- ly shep- herds, say, Tell your joy- ful news to- day.
+w: 4.~"As we watched at dead of night, Lo, we saw a won- drous light;
+w: 5.~Sac- red In- fant, all di- vine, What a ten- der love was Thine,
+w: 6.~Teach, O teach us, ho- ly Child, By Thy face so meek and mild,
+[V: S1V2]  B,2 C D | G, A, (B, C) | D2 G2 | G2 F2 |
+[V: S2V1]  G,2 G, D, | E, F, (G, A,) | B,2 E D | D ^C D2 |
+[V: S2V2]  G,,2 A,, B,, | C,2 G,,2 | G, F, E, G, | D,2 (D, C,) |
+[V: S1V1]  G3/2 A/ G F | E3/2 D/ D2 | G A B c | A3/2 G/ G2 |
+w: See, the gen- tle Lamb ap- pears, Pro- mised from e- ter- nal years. 
+w: He Who, thronèd in height sub- lime, Sits a- mid the cher- u- bim.
+w: Why have you now left your sheep On the lone- ly moun- tain steep?
+w: An- gels sing- ing 'Peace on earth' Told us of the Sa- vior's birth."
+w: Thus to come from high- est bliss Down to such a world as this.
+w: Teach us to re- sem- ble Thee, In Thy sweet hu- mil- i- ty.
+[V: S1V2]  D B, C D | G, A, (B, A,) | B, C D E | C2 B,2 |
+[V: S2V1]  G,2 G, D, | E, F, (G, A,) | G,2 G,2 | G, F, G,2 |
+[V: S2V2]  B,, G,, A,, B,, | C,2 (G, F,) | E,2 D, C, | D,2 G,,2 |
+[V: S1V1]  d3/2 d/ c B | A G F2 | d3/2 d/ c B | A G F2 |
+w: Hail that ev- er bles- sèd morn, Hail re- demp- tion's hap- py dawn, 
+w: Hail that ev- er bless- èd morn, Hail re- demp- tion's hap- py dawn,
+w: Hail that ev- er bless- èd morn, Hail re- demp- tion's hap- py dawn,
+w: Hail that ev- er bless- èd morn, Hail re- demp- tion's hap- py dawn,
+w: Hail that ev- er bless- èd morn, Hail re- demp- tion's hap- py dawn,
+w: Hail that ev- er bless- èd morn, Hail re- demp- tion's hap- py dawn,
+[V: S1V2]  G3/2 G/ G G | D D D2 | D3/2 G/ G G | E D D2 |
+[V: S2V1]  B,3/2 B,/ E D | C B, A,2 | G,3/2 G,/ E D | C B, A,2 |
+[V: S2V2]  G,3/2 G,/ G, G, | F, G, D,2 | B,,3/2 B,,/ C, G,, | A,, B,,/C,/ D,2 |
+[V: S1V1]  G3/2 A/ G F | E3/2 D/ D2 | d3/2 B/ G c | B A G2 |]
+w: Sing through all Jer- u- sa- lem: Christ is born in Beth- le- hem. 
+w: Sing through all Je- ru- sa- lem: Christ is born in Beth- le- hem.
+w: Sing through all Je- ru- sa- lem: Christ is born in Beth- le- hem.
+w: Sing through all Je- ru- sa- lem: Christ is born in Beth- le- hem.
+w: Sing through all Je- ru- sa- lem: Christ is born in Beth- le- hem.
+w: Sing through all Je- ru- sa- lem: Christ is born in Beth- le- hem.
+[V: S1V2]  B,3/2 B,/ ^C D | D ^C D2 | D3/2 D/ E G | F F G2 |]
+[V: S2V1]  G,3/2 G,/ E, D, | B, A,/G,/ F,2 | G,3/2 G,/ G, E | D C B,2 |]
+[V: S2V2]  E,3/2 E,/ A,, B,, | G,, A,, (D, C,) | B,,3/2 B,,/ C, A,, | D, D, G,,2 |]

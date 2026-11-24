@@ -1,0 +1,49 @@
+X:1
+M:4/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] A4 G2 F2 | B4 A4 | (A2 G2) (F2 G2) | A8 |
+w: 1.~The God Who sits en- throned _ on _ high
+w: 2.~From heav'n the Lord with search- _ ing _ eye
+w: 3.~From right- eous- ness they all _ de- _ part,
+w: 4.~Has know- ledge with the wi- _ cked _ failed,
+w: 5.~Thy low- ly ser- vant they _ des- _ pise,
+w: 6.~O that from Zi- on His _ a- _ bode
+[V:A] C4 C2 C2 | F4 F4 | E4 F2 C2 | C8 |
+[V:T] A,4 A,2 A,2 | D4 C4 | (C2 B,2) B,4 | A,8 |
+[V:B] F,4 F,2 F,2 | F,4 F,4 | C,4 (D,2 E,2) | F,8 |
+[V:S] c4 B2 A2 | (A2 G2) (G2 F2) | F4 F4 | E8 |
+w: The fool- ish in _ their _ heart de- ny;
+w: Looked down the sons _ of _ men to try,
+w: Cor- rupt are all, _ and _ vile in heart;
+w: That they My peo- _ ple _ have as- sailed,
+w: Be- cause he on _ the _ Lord re- lies;
+w: Sal- va- tion were _ on _ us be- stowed!
+[V:A] F4 E2 F2 | E4 D4 | C4 =B,4 | C8 |
+[V:T] A,4 C2 C2 | A,4 A,4 | A,4 G,4 | G,8 |
+[V:B] A,4 G,2 F,2 | ^C,4 D,4 | D,4 G,,4 | C,8 |
+[V:S] E4 F2 G2 | A4 G4 | (c2 =B2) (A2 =B2) | (c4 B4) |
+w: Not one does good; cor- rupt _ in _ tho't, _
+w: To see if a- ny un- _ der- _ stood _
+w: yea, ev'- ry man has e- _ vil _ done; _
+w: That they de- light in works _ of _ shame, _
+w: But they shall trem- ble yet _ in _ fear, _
+w: When God His ex- iles shall _ re- _ store, _
+[V:A] C4 C2 C2 | C4 C4 | F4 F4 | (E4 G4) |
+[V:T] C4 C2 B,2 | A,4 C4 | D4 (C2 D2) | C8 |
+[V:B] B,4 A,2 G,2 | F,4 E,4 | D,4 G,4 | (C,4 E,4) |
+[V:S] A4 ^G2 A2 | (B2 A2) (G2 F2) | A4 G4 | F8 |]
+w: Un- righ- teous works _ their _ hands have wrought.
+w: And sought for God, _ the _ on- ly good.
+w: Not one does good, _ not _ ev- en one.
+w: And call not on _ Je- _ ho- vah's Name?
+w: For to the right- _ eous _ God is near.
+w: They shall in song _ His _ grace a- dore.
+[V:A] F4 F2 F2 | F4 (E2 F2) | F4 E4 | F8 |]
+[V:T] C4 =B,2 C2 | (D2 C2) (B,2 A, B,) | C4 B,4 | A,8 |]
+[V:B] F,4 F,2 F,2 | (B,,2 F,2) (C,2 D,2) | C,4 C,4 | F,8 |]

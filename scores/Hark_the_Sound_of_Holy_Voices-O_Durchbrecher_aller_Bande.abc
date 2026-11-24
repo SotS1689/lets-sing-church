@@ -1,0 +1,49 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] D E F E | F ^G A A | d d c d | c B A2 |
+w: 1.~Hark the sound of ho- ly voi- ces, chan- ting at the crys- tal sea 
+w: 2.~Pa- tri- arch and ho- ly pro- phet, who pre- pared the way for Christ, 
+w: 3.~They have come from tri- bu- la- tion, and have washed their robes in Blood, 
+w: 4.~Mar- ching with Thy Cross their ban- ner they have tri- umphed fol- lo- wing 
+w: 5.~Now they reign in hea- v'nly glo- ry, now they walk in gol- den light, 
+w: 6.~God of God, the One\-- be- got- ten, Light of Light, Em- man- u- el,
+[V: S1V2]  A, C D E | D D E E | D F E D/F/ | E E C2 |
+[V: S2V1]  F, A, A, A, | A, D D C | A, A, A, F, | A, ^G, A,2 |
+[V: S2V2]  D, A,, D, C, | D, B,, A,, A,, | F, D, A,, B,, | C, E, A,,2 | 
+[V: S1V1]  D E F E | F ^G A A | d d c d | c B A2 |
+w: Hal- le- lu- ia! Hal- le- lu- ia! Hal- le- lu- ia! Lord to Thee. 
+w: King, A- pos- tle, Saint, and Mar- tyr Con- fes- sor, E- van- ge- list, 
+w: Washed them in the Blood of Je- sus; tried they were, and firm they stood; 
+w: Thee the Cap- tain of Sal- va- tion, Thee their Sa- vior and their King; 
+w: Now they drink, as from a ri- ver, ho- ly bliss and in- fi- nite; 
+w: In whose Bo- dy joined to- ge- ther all the saints for- ev- er dwell,
+[V: S1V2]  A, C D E | D D E E | D F E D/F/ | E E C2 |
+[V: S2V1]  F, A, A, A, | A, D D C | A, A, A, F, | A, ^G, A,2 |
+[V: S2V2]  D, A,, D, C, | D, B,, A,, A,, | F, D, A,, B,, | C, E, A,,2 | 
+[V: S1V1]  d A B B |  A3/2 G/ F D | F F A A | G F E2 |
+w: Mul- ti- tude which none can num- ber, like the stars in glo- ry stand 
+w: Saint- ly Mai- den, god- ly Ma- tron, Wi- dows who have watched to prayer, 
+w: Mocked, im- pri- soned, stoned, tor- men- ted, sawn a- sun- der, slain with sword, 
+w: Glad- ly, Lord, with Thee they suf- fered; glad- ly, Lord, with Thee they died; 
+w: Love and Peace they taste fo- re- ver, and all Truth and Know- ledge see 
+w: Pour up- on us of Thy full- ness, that we may for- ev- er- more
+[V: S1V2]  D F G G | E C D D | D D E F | D D C2 |
+[V: S2V1]  A, D D E | A, A, A, F, | A, B, A, D  | B, A,  A,2 |
+[V: S2V2]  F, D, G, E, | C, A,, D, D, | D, B,, C, D, | G,, D, A,,2 |
+[V: S1V1]  A A G F | G3/2 A/ F D | E F G A | F E D2 |]
+w: Clothed in white ap- pa- rel, hol- ding palms of vic- t'ry in their hand. 
+w: Joined in ho- ly con- cert sing- ing to the Lord of all are there. 
+w: They have con- quered Death and Sa- tan, by the might of Christ the Lord. 
+w: And by death to Life im- mor- tal they were born, and glo- ri- fied. 
+w: In the be- a- ti- fic vi- sion of the Bles- sèd Tri- ni- ty. 
+w: God the Fa- ther, God the Son, and God the Ho- ly Ghost a- dore.
+[V: S1V2]  E F E ^D | E3/2 E/ D D | B, ^D E E | =D C A,2 |]
+[V: S2V1]  A, D B, B, | B,3/2 C/ A, A, | B, A, B, A, | A, A, F,2 |]
+[V: S2V2]  C, D,  E, B,, | E,3/2 A,,/ D, F, | G, F, E, C, | D, A,, D,2 |]

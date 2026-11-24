@@ -1,0 +1,54 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=140] F2 G2 | A3 G | A c d2 | c4 | c d B2 | B c A2 |
+w: 1.~Why should cross and tri- al grieve me? Christ is near With His cheer;
+w: 2.~Nought not e'en the life I'm li- ving, Is mine own, God a- lone
+w: 3.~Though a hea- vy cross I'm bear- ing And my heart feels the smart,
+w: 4.~God oft gives me days of glad- ness, Shall I grieve If He give
+w: 5.~Though u- ni- ted world and de- vil, All their pow'r Can no more
+w: 6.~Ho- peful, cheer- ful, and un- daun- ted Ev- ery- where they ap- pear
+w: 7.~Death can- not de- stroy for- ev- er; From our fears, cares and tears
+w: 8.~There I'll reap en- du- ring plea- sure, Af- ter woe Here be- low
+w: 9.~What is all this life pos- ses- ses? But a hand full of sand
+w: 10.~Lord, my Shep- herd, take me to Thee. Thou art mine; I was Thine
+w: 11.~Thou art mine; I love and own Thee. Light of joy, ne'er shall I
+[V: S1V2]  C2 C2 | F3 E | F F D2 | E4 | F F D2 | D C C2 |
+[V: S2V1]  A,2 G,2 | C3 C | C C2 =B, | C4 | A, A, B,2 | F, G, A,2 |
+[V: S2V2]  F,2 E,2 | F,3 C, | F, A, G,2 | C,4 | F, D, G,2 | D, E, F,2 |
+[V: S1V1] A c B A | G2 !fermata!F2 | c2 B2 | A3 G | F E D2 | C4 |
+w: Ne- ver will He leave me. Who can rob me of the hea- ven 
+w: All to me is gi- ving. Must I then His own re- store Him?
+w: Shall I be des- pai- ring? God, my help- er, who doth send it,
+w: Sea- sons too of sad- ness? God is good, and tem- pers e- ver
+w: Do but mock and quib- ble. Let them now em- ploy their jee- ring,
+w: Who in Christ are plant- ed. Death it- self can- not ap- pall them,
+w: It will us de- li- ver. It will close life's mourn- ful sto- ry,
+w: Suf- fered in large mea- sure. Last- ing good we find here ne- ver,
+w: That the heart dis- tres- ses. No- ble gifts that pall me ne- ver
+w: Ev- en ere I knew Thee. I am Thine, for Thou hast bought me;
+w: From my heart deth- rone Thee. Sa- vior, let me soon be- hold Thee
+[V: S1V2] F G F F- | F E !fermata!F2 | F2 D2 | F3 E | D C2 =B, | C4 |
+[V: S2V1] C C D C | C2 !invertedfermata!A,2 | A,2 B,2 | C3 C | A, G, G,2 | E,4 |
+[V: S2V2] F, E, D, F, | C,2 !fermata!F,,2 | F,,2 G,,2 | A,,3 C, | D, E, G,2 | C,4 |
+[V: S1V1]   c d B2 | B c A2 | A G B A | G2 !fermata!F2 |]
+w: That God's Son, For my own, To my faith hath gi- ven?
+w:  Though be- reft Of my flesh Still shall I a- dore Him.
+w: Well doth know all my woe And how best to end it.
+w:  All my ill, And He will Whol- ly leave me ne- ver.
+w: Christ will here Then ap- pear Strike their hearts with fea- ring.
+w: They re- joice when the voice Of their Lord doth call them.
+w: Make a way that we may En- ter heaven- ly glo- ry.
+w: All that earth Deems as worth Va- ni- shes for ev- er.
+w: Christ, our Lord, will ac- cord To His saints for- ev- er.
+w: Lost I stood, but Thy blood Free sal- va- tion bought me.
+w: Face to face, may Thy grace Ev- er- more en- fold me!
+[V: S1V2]   F F D2 | D C C2 | F E F F- | F E !fermata!F2 |]
+[V: S2V1]  A, A, B,2 | F, G, A,2 | C C D C | C2 !invertedfermata!A,2 |]
+[V: S2V2]  F, D, G,2 | D, E, F,2 | F, C, B,, F, | C,2 !fermata!F,,2 |]

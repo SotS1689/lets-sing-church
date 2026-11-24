@@ -1,0 +1,23 @@
+X:1
+M:3/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] E2 | A A B2 B2 | c B A2 B2 | c c d2 c2 | B4 e2 | e c c2 A2 | A F F2 ((A F)) | E A A2 B2 | A4 |]
+w: 1.~O come, let us sing to the Lord: come, let us ev'- ry one A joy- ful noise make to the Rock of _ our sal- va- ti- on.
+w: 2.~Let us be- fore his pre- sence come with praise and thank- ful voice; Let us sing psalms to him with grace, and _ make a joy- ful noise.
+w: 3.~For God, a great God, and great King, a- bove all gods he is. Depths of the earth are in his hand, the _ strength of hills is his.
+w: 4.~To him the spa- cious sea be- longs, for he the same did make; The dry land al- so from his hands its _ form at first did take.
+w: 5.~O come, and let us wor- ship him, let us bow down wi- thal, And on our knees be- fore the Lord our _ Ma- ker let us fall.
+w: 6.~For he's our God, the peo- ple we of his own pas- ture are, And of his hand the sheep; to\-- day, if _ ye his voice will hear,
+w: 7.~Then har- den not your hearts, as in the pro- vo- ca- ti- on, As in the des- ert, on the day o- _ f the ten- ta- tion:
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 9.~I said, This peo- ple errs in heart, my ways they do not know: To whom I swore in wrath, that to my _ rest they should not go.
+[V:A] E2 | E C E2 E2 | E D C2 E2 | E E E2 E2 | E4 G2 | A E E2 E2 | F D D2 (F D) | C C C2 D2 | C4 |]
+[V:T] E,2 | E, A, G,2 G,2 | A, G, A,2 G,2 | A, A, B,2 A,2 | G,4 B,2 | C A, A,2 A,2 | A, A, A,2 A,2 | A, A, A,2 G,2 | A,4 |]
+[V:B] E,2 | C, A,, E,2 E,2 | A, E, F,2 E,2 | A, A, G,2 A,2 | E,4 E,2 | A, A, A,2 C,2 | D, D, D,2 D,2 | E, E, E,2 E,2 | A,,4 |]

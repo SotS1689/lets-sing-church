@@ -1,0 +1,17 @@
+X:1
+M:2/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:E
+[V:S] G | G2 G2 | A3 G | G2 F2 | F3 F | B2 F2 | G2 A2 | G3 A | B2 B2 | e3 d | d2 c2 | c3 c | B3 G | G2 F2 | E4 |]
+w: 1.~How pleas- ant and how good it is When breth- ren in the Lord In one a- no- ther's joy de- light And dwell in sweet ac- cord.
+w: 2.~Such love is like a- noin- ting oil In con- se- cra- tion poured; Such love is like the morn- ing dew, With sweet re- fresh- ment stored.
+w: 3.~To those who dwell in bro- ther- hood The Lord His bless- ing sends, He crowns them with the crown of life, Of life that ne- ver ends.
+[V:A] E | E2 E2 | E3 E | E2 E2 | D3 D | E2 D2 | E2 D2 | E3 D | E2 E2 | E3 F | E2 E2 | E3 E | E3 E | D2 D2 | E4 |]
+[V:T] B, | B,2 B, =C | C3 B, | ^A,2 A,2 | B,3 B, | B,2 B,2 | B,2 B,2 | B,3 B, | B,2 B,2 | B,3 =C | C2 A,2 | A,3 =G, | G,3 B, | B,2 A,2 | G,4 |]
+[V:B] E, | E,2 E,2 | E,3 E, | C,2 C,2 | B,,3 A, | G,2 A,2 | G,2 F,2 | E,3 F, | G,2 G,2 | G,3 G, | A,2 A,,2 | A,,3 ^A,, | B,,3 B,, | B,,2 B,,2 | E,4 |]

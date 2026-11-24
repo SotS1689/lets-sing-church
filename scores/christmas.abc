@@ -1,0 +1,37 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=102
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] (F3/2 G1/2) | A2 d2 c2 B2 | A2 (D3/2 E1/2) F2 (F3/2 G1/2) | A2 A2 A2 (G F) |
+w: 1.~Praise _ ye the Lord a- mong His _ saints, New _ songs of glad- ness _
+w: 2.~Yea, _ let them praise His bless- ed _ name With _ all a- bound- ing _
+w: 3.~the _ Lord takes plea- sure in His _ saints, he _ is His peo- ple's _
+w: 4.~Ye _ saints, by day and night re- _ joice, E- _ xult and joy- ful _
+w: 5.~This _ is the glor- ious judg- ment _ giv'n: His _ saints shall rule the _
+[V:A] (D3/2 C1/2) | D2 F2 (E F) G2 | D2 (D3/2 C1/2) D2 D2 | D2 D2 (D F) (E D) |
+[V:T] A,2 | A,2 A,2 A,2 (B, C) | D2 A,2 A,2 A,2 | A,2 F,2 D2 B,2 |
+[V:B] (D,3/2 E,1/2) | F,2 D,2 A,2 G,2 | F,2 (F,3/2 E,1/2) D,2 (D,3/2 E,1/2) | F,2 D,2 F,2 G,2 |
+[V:S] (F2 E4) (c d) | e2 A2 G2 G2 | G2 (F E) F2 (d c) | B2 A2 G2 F2 |
+w: sing; _ Let _ Zi- on's child- ren praise and _ bless Their _ Ma- ker and their
+w: joy, _ The _ sound- ing tim- brel and the _ harp In _ songs of praise em-
+w: strength, _ And _ He will glor- i- fy the _ meek With _ vic- to- ry at
+w: stand, _ Je- _ ho- vah's prais- es in your _ mouth, His _ sword with- in your
+w: earth; _ Then _ bless the Lord, His glo- ry _ tell, And _ ce- le- brate His
+[V:A] (D2 C4) A2 | (A G) F2 E2 C2 | D2 D2 D2 F2 | G2 F2 D2 D2 |
+[V:T] A,6 E2 | E2 (D =C) B,2 A,2 | A,2 (A, G,) A,2 A,2 | D,2 (D C) B,2 A,2 |
+[V:B] A,6 (A,, B,,) | C,2 D,2 E,2 A,,2 | D,2 D,2 D,2 D,2 | D,2 D,2 D,2 D,2 |
+[V:S] (B2 A4) e2 | A2 d2 F2 E2 | D6 |]
+w: King, _ Their Ma- ker and their King.
+w: ploy, _ In songs of praise em- ploy.
+w: length, _ With vic- to- ry at length.
+w: hand, _ His sword with- in your hand.
+w: worth, _ And ce- le- brate His worth.
+[V:A] D6 E2 | F2 (D3/2 E1/2) D2 C2 | D6 |]
+[V:T] (G,2 F,4) (B,3/2 C1/2) | D2 (A,3/2 B,1/2) A,3 G, | F,6 |]
+[V:B] D,6 G,2 | F,2 (F,3/2 G,1/2) A,2 A,,2 | D,6 |]

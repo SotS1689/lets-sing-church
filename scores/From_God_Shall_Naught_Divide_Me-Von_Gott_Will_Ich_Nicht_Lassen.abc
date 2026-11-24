@@ -1,0 +1,53 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=100] G | G A B c | A2 F F | G G A A | D2 z 
+w: 1.~From God shall naught di- vide me, For He is true for aye
+w: 2.~If sor- row comes, He sent it In Him I put my trust; 
+w: 3.~What- e'er shall be His plea- sure Is sure- ly best for me; 
+w: 4.~Oh, praise Him, for He ne- ver For- gets our dai- ly need;
+w: 5.~Yea, when the world shall per- ish With all its pride and power,
+w: 6.~What though I here must suf- fer Dis- tress and tri- als sore,
+w: 7.~For such His will who made us; The Fa- ther seeks our good;
+[V: S1V2]  B, | D E D C | E2 E D | C C C ^C | D2 x 
+[V: S2V1]  G, | G, G, G, G, | C2 A, B, | B, B, A, G, | F,2 z 
+[V: S2V2]  G,, | B,, C, D, E, | C,2 F, B,, | E, =E, F, A,, | B,,2 x 
+[V: S1V1] G | G A B c | A2 F F | G G A A | D2 z  
+w: And on my path will guide me, Who else should of- ten stray.
+w: I ne- ver shall re- pent it, For He is true and just, 
+w: He gave His dea- rest trea- sure, That our weak hearts might see 
+w: Oh, blest the hour when- ev- er To Him our thoughts can speed;
+w: What- ev- er world- lings cher- ish Shall va- nish in that hour.
+w: I mer- it ways still rough- er; And yet there is in store
+w: The Son hath grace to aid us, And save us by His blood;
+[V: S1V2] D | =E F F =E | F2 D D | D ^C/D/ =E C | D2 x 
+[V: S2V1] B, | C C D/C/ B, | C2 D A, | B, B, A, G, | F,2 z 
+[V: S2V2] B,, | B,, A,, G,, G, | F,2 B,, F, | F, =E,/D,/ ^C, A,, | D,2 x 
+[V: S1V1]  d | c B A G | A2 z A | B c d d | c2 A  
+w: His right hand hold- eth me; For me He tru- ly car- eth,
+w: And loves to bless us still; My life and soul I owe them 
+w: How good His will toward us; And in His Son He gave us 
+w: Yea, all the time we spend With- out Him is but was- ted,
+w: But though in death they make The deep- est grave our co- ver,
+w: For me e- ter- nal bliss, Yea, plea- sures with- out mea- sure,
+w: His Spi- rit rules our ways, By faith in us a- bid- ing,
+[V: S1V2]  D | E D E D | =E2 x ^F | G F F F | G2 F 
+[V: S2V1]  F, | A, B, C D | ^C2 z D | D C C B, | G,2 C
+[V: S2V2]  B,, | F, G, C, B,, | A,,2 x D, | G,, A,, B,, D, | =E,2 F,
+[V: S1V1]  c | B A G G | A2 F _E | D G G ^F | G2 z|] 
+w: My bur- dens ev- er bear- eth, Wher- ev- er I may be.
+w: To Him who doth be- stow them, Let Him do as He will. 
+w: What- e'er could bless and save us; Praise Him who lo- veth thus! 
+w: Till we His joy have tas- ted, The joy that hath no end.
+w: When there our sleep is o- ver, Our God will us a- wake.
+w: Since Christ is now my trea- sure, And shall be ev- er- more.
+w: To heav'n our foot- steps guid- ing; To Him be thanks and praise.
+[V: S1V2]  E | D ^F G =E | =E2 D =C | C B, C D | D2 x |] 
+[V: S2V1]  A, | B, D D/C/ B, | A,2 A, A, | F, G, G, A, | B,2 z |] 
+[V: S2V2]  ^F, | G, D, B,, C, | ^C,2 D, F, | B,, E, E, D, | G,,2 z |] 

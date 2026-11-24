@@ -1,0 +1,45 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] F/E/ | (D3/2 E/) F/G/ | A2 B/c/ | (d c) B | A2 B/c/ | (d c) B | (A B)
+w: 1.~The * first * No- * el the * an- gel did say Was to cer- tain poor shep- herds 
+w: 2.~They _ look- _ èd _ up and _ saw _ a star Shin- ing in _ the east, _
+w: 3.~And _ by _ the _ light of _ that _ same star Three _ Wise _ Men came _
+w: 4.~This _ star _ drew _ nigh to _ the _ north- west, Ov- er Beth- _ le- hem _
+w: 5.~Then _ did _ they _ know as- _ sur- _ ed- ly With- _ in _ that house _
+[V: S1V2]  D | A,2 D | E2 E | A- A G | F2 D/E/ | (A F) G | (A D)
+[V: S2V1]  A,/G,/ | F,2 D | C2 B, | A,- A, B,/C/ | D2 B,/A,/ | A,- A, C | (D B,)
+[V: S2V2]  D, | D,2 B,, | (A,, A,) G, | F,- F, G, | D,2 G,/G,/ | (F, D,) E, | (F, G,)
+[V: S1V1]  c | (d A) G | F2 F/E/ | (D3/2 E/) F/G/ | A2 B/c/ | (d c) B | A2
+w: in fields as they lay; In * fields * where * they lay * tend- ing their sheep, 
+w: be- yond _ them far; And _ to _ the _ earth it _ gave _ great light,
+w: from coun- _ try far; To _ seek _ for a King was _ their _ in- tent,
+w: it took _ its rest; And _ there _ it _ did both _ stop _ and stay,
+w: the King _ did lie; One _ en- _ tered _ it them _ for _ to see,
+[V: S1V2]  G | F- F E | D2 C | A,2 D/-D/ | E2 E | A- A G | F2
+[V: S2V1]  G, | (A, D) A, | A,2 A,/G,/ | F,2 D/-D/ | (D C) B, | A,- A, B,/C/ | D2
+[V: S2V2]  E, | (F,/G,/ A,) A, | D,2 A,, | D,2 B,,/-B,,/ | (A,, A,) G, | F,- F, G, | D,2
+[V: S1V1]  B/c/ | (d c) B | (A B) c | (d A) G | F2
+w: On a cold win- ter's night * that was * so deep. 
+w: And _ so it con- tin- ued both day _ and night.
+w: And to fol- low the star _ wher- ev- er it went.
+w: Right _ ov- er the place _ where Je- _ sus lay.
+w: And _ found _ the Babe _ in pov- _ er- ty.
+[V: S1V2]  D/E/ | (A F) G | (A G) G | F2 E | D2
+[V: S2V1]  B,/A,/ | A,- A, C | D- D E | (A, D) A, | A,2
+[V: S2V2]  G,/G,/ | (F, D,) E, | (F, G,) E, | (F,/G,/ A,) A,, | D,2
+[V: S1V1]  F/E/ | (D3/2 E/) F/G/ | A2 d/c/ | B2 B | (A2 A) | d c B | (A B) c | (d A) G | F2 |]
+w: No- * el, * No- * el, No- * el, No- el, * Born is the King * of Is- * ra- el. 
+w: No- _ el, _ No- _ el, No- _ el, No- el, _ Born is the King _ of Is- _ ra- el.
+w: No- _ el, _ No- _ el, No- _ el, No- el, _ Born is the King _ of Is- _ ra- el.
+w: No- _ el, _ No- _ el, No- _ el, No- el, _ Born is the King _ of Is- _ ra- el.
+w: No- _ el, _ No- _ el, No- _ el, No- el, _ Born is the King _ of Is- _ ra- el.
+[V: S1V2]  C | A,2 D | C2 F | G2 G | (F2 A) | F F G | F2 G | F2 E | D2 |]
+[V: S2V1]  A,/G,/ | F,2 B, | A,2 A, | (B,3/2 C/) D/E/ | (F2 E) | D D D | D2 G, | A,2 A, | A,2 |]
+[V: S2V2]  A,, | D,2 B,, | F,2 D, | (G,3/2 A,/) B,/C/ | (D2 C) | B, A, G, | (D D,) E, | (F,/G,/ A,) A,, | D,2 |]

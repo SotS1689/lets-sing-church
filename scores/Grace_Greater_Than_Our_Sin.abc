@@ -1,0 +1,18 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] G3/2 F/ G | A G A | B2 A | G3 | F F G | A2 F | G G A | B3 | G3/2 F/ G | A G A | B2 A | G3 | A3/2 A/ B | c B A | G2 F | G3 | B3 | G3 | c3 | B3 | A3/2 A/ A | A B A | G2 c | B3 | B3 | G3 | c3 | B3 | A3/2 A/ B | c B A | G2 F | G3 |]
+w: 1.~Mar- vel- ous grace of our lov- ing Lord, Grace that ex- ceeds our sin and our guilt! Yon- der on Cal- va- ry's mount out- poured, There where the blood of the Lamb was spilled. Grace, grace, God's grace, Grace that will par- don and cleanse with- in; Grace, grace, God's grace, Grace that is great- er than all our sin.
+w: 2.~Sin and des- pair, like the sea waves cold, Threat- en the soul with in- fi- nite loss; Grace that is great- er, yes, grace un- told, Points to the re- fuge, the might- y cross. Grace, grace, God's grace, Grace that will par- don and cleanse with- in; Grace, grace, God's grace, Grace that is great- er than all our sin.
+w: 3.~Dark is the stain that we can- not hide. What can a- vail to wash it a- way? Look! There is flow- ing a crim- son tide, Bright- er than snow you may be to- day. Grace, grace, God's grace, Grace that will par- don and cleanse with- in; Grace, grace, God's grace, Grace that is great- er than all our sin.
+w: 4.~Mar- vel- ous, in- fi- nite, match- less grace, Free- ly be- stowed on all who be- lieve! You that are long- ing to see His face, Will you this mo- ment His grace re- ceive? Grace, grace, God's grace, Grace that will par- don and cleanse with- in; Grace, grace, God's grace, Grace that is great- er than all our sin.
+[V:A] D3/2 D/ D | F E D | D2 D | D3 | D D D | F2 D | D D D | G3 | D3/2 D/ D | F E D | D2 F | E3 | E3/2 E/ G | G G E | D2 D | D3 | G3/2 G/ G | D3 | G3/2 G/ G | G3 | F3/2 F/ F | F F D | D2 G | G3 | G3/2 G/ G | D3 | G3/2 G/ G | G3 | E3/2 E/ G | G G E | D2 D | D3 |]
+[V:T] B,3/2 A,/ B, | C B, A, | G,2 C | B,3 | A, A, B, | C2 A, | B, B, C | D3 | B,3/2 A,/ B, | C B, A, | G,2 C | B,3 | C3/2 C/ D | E D C | B,2 A, | B,3 | D3 | B,3 | E3 | D3 | C3/2 C/ C | C D C | B,2 E | D3 | D3 | B,3 | E3 | D3 | C3/2 C/ D | E D C | B,2 A, | B,3 |]
+[V:B] G,3/2 G,/ G, | D, E, F, | G,2 D, | G,3 | D, D, D, | D,2 D, | G, G, G, | G,3 | G,3/2 G,/ G, | D, E, F, | G,2 D, | E,3 | C,3/2 C,/ B,, | A,, B,, C, | D,2 D, | G,3 | G,3/2 G,/ G, | G,3 | G,3/2 G,/ G, | G,3 | D,3/2 D,/ D, | D, D, D, | G,2 G, | G,3 | G,3/2 G,/ G, | G,3 | G,3/2 G,/ G, | G,3 | C,3/2 C,/ B,, | A,, B,, C, | D,2 D, | G,3 |]

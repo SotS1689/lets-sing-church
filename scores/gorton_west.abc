@@ -1,0 +1,34 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=113
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Ab
+[V:S] E2 | E2 E2 F2 F2 | E6 E2 | E2 E2 A2 A2 |
+w: 1.~Re- mem- ber not, O God, The sins of long a-
+w: 2.~O Lord, our Sa- viour, help, And glor- i- fy Thy
+w: 3.~In Thy com- pas- sion hear Thy pri- s'ner's plain- tive
+w: 4.~Then, safe with- in Thy fold, We will e- xalt Thy
+[V:A] C2 | C2 C2 D2 D2 | C6 C2 | B,2 B,2 C2 C2 |
+[V:T] A,2 | A,2 A,2 A,2 A,2 | A,6 A,2 | B,2 B,2 A,2 A,2 |
+[V:B] A,,2 | A,,2 A,,2 D,2 D,2 | A,,6 A,2 | G,2 G,2 F,2 F,2 |
+[V:S] B6 B2 | c2 c2 A2 A2 | B2 B2 A2 A2 | A2 A2 A2 G2 |
+w: go; In ten- der mer- cy vis- it us, Dis- tressed and hum- bled
+w: Name; De- li- ver us from all our sins And take a- way our
+w: sigh, And in the great- ness of Thy pow'r Save those a- bout to
+w: Name; Our thank- ful hearts with songs of joy Thy good- ness will pro-
+[V:A] E6 E2 | E2 E2 D2 D2 | F2 G2 A2 E2 | E2 E2 E2 E2 |
+[V:T] G,6 G,2 | A,2 A,2 F,2 F,2 | D2 D2 C2 C2 | C2 _C2 B,2 B,2 |
+[V:B] E,6 E,2 | A,,2 A,,2 D,2 D,2 | B,,2 E,2 A,,2 C,2 | E,2 E,2 E,2 E,2 |
+[V:S] A6 |]
+w: low.
+w: shame.
+w: die.
+w: claim.
+[V:A] E6 |]
+[V:T] C6 |]
+[V:B] A,,6 |]

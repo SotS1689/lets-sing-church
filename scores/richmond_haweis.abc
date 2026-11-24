@@ -1,0 +1,53 @@
+X:1
+M:3/4
+L:1/8
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] C2 F2 A2 | c4 B2 | (A2 B2) G2 | F4 A2 |
+w: 1.~O God, give ear un- to _ my cry; un-
+w: 2.~What time my heart is o- _ ver- whelmed, and
+w: 3.~For thou hast for my re- _ fuge been a
+w: 4.~With- in thy ta- ber- na- _ cle I for
+w: 5.~For thou the vows that I _ did make, O
+w: 6.~A life pro- longed for ma- _ ny days thou
+w: 7.~He in God’s pre- sence his _ a- bode for
+[V:A] A,2 C2 F2 | (G2 E2) D2 | (C2 D2) (C B,) | A,4 C2 |
+[V:T] F,2 A,2 C2 | C4 (F, G,) | (A,2 F,2) E,2 | F,4 F,2 |
+[V:B] F,2 F,2 F,2 | (E,2 C,2) (D, E,) | (F,2 B,,2) C,2 | F,4 F,2 |
+[V:S] (G2 c2) F2 | (E2 F2) D2 | C4 G2 | (A2 G2) F2 |
+w: to _ my pray’r _ at- tend. From th’ut- _ most
+w: in _ per- plex- _ it- y, Do thou _ me
+w: shel- _ ter by _ thy pow’r; And for _ de-
+w: ev- _ er will _ a- bide; And un- _ der
+w: Lord _ my God, _ didst hear: Thou hast _ giv’n
+w: to _ the king _ shalt give; Like ma- _ ny
+w: ev- _ er- more _ shall have: O do _ thou
+[V:A] C4 D2 | C4 =B,2 | C4 C2 | (C2 D2) C2 |
+[V:T] G,4 A,2 | G,4 (G, F,) | E,4 C2 | (C2 B,2) C2 |
+[V:B] E,4 F,2 | G,4 G,,2 | C,4 E,2 | (F,2 B,2) A,2 |
+[V:S] (B2 A2) G2 | (c2 B2) A2 | d4 c2 | (D2 B2) A2 |
+w: cor- _ ner of _ the land my cry _ to
+w: lead _ un- to _ the Rock that high- _ er
+w: fense _ a- gainst _ my foes thou hast _ been
+w: co- _ vert of _ thy wings with con- _ fi-
+w: me _ the he- _ ri- tage of those _ thy
+w: gen- _ er- a- _ tions be the years _ which
+w: truth _ and mer- _ cy both pre- pare, _ that
+[V:A] (G2 F2) E2 | (F2 F F) F2 | F4 F2 | D2 E2 (F E) |
+[V:T] (D2 C2) C2 | C4 C2 | B,4 C2 | (F,2 G,2) F,2 |
+[V:B] (G,2 C2) B,2 | (A,2 G,2) F,2 | B,4 A,,2 | (B,,2 G,,2) A,,2 |
+[V:S] (A G F2) E2 | F6 |]
+w: thee _ _ I’ll send.
+w: is _ _ than I.
+w: a _ _ strong tow’r.
+w: dence _ _ me hide.
+w: name _ _ that fear.
+w: he _ _ shall live.
+w: may _ _ him save.
+[V:A] (D D C2) C2 | C6 |]
+[V:T] (F, G, A,2) G,2 | A,6 |]
+[V:B] B,,2 C,2 C,2 | F,6 |]

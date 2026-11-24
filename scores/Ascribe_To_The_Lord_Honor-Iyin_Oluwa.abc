@@ -1,0 +1,27 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=120] B e B B | B G B2 | E G B G | E G F2 |
+w: 1.~A- scribe to the Lord, hon- or, And glo- ry due His Name_
+w: 2.~The Lord of glo- ry thun- ders O'er great and might- y seas;_
+w: 3.~His voice like a might- y flash, Shakes the des- ert of Ka- desh,
+w: 4.~The Lord sits up- on His throne, That's set up- on the flood._
+w: 5.~A- scribe to the Lord, hon- or, And glo- ry due His Name,_
+[V: S1V2] E E F D | B, C/D/ E2 | E E G E | E B,/C/ D2 |
+[V: S2V1] G, G, B, F, | G, B, B,2 | B, B, B, E | C C B,2 |
+[V: S2V2] E, E, D, B,, | G,, B,, E,2 | E, E, B,, E, | G, F,/E,/ B,,2 |
+[V: S1V1] B B/c/ B G | E F C2 | E G B G | F3/2 E/ E2 |]
+w: Wor- ship * in His ho- li- ness, Wor- thy is His pow'r and fame.
+w: His voice * is so ma- jest- ic, It breaks ce- dar to piec- es.
+w: It makes * bare the thick for- est No o- ther voice is its match.
+w: He gives * strength to His peo- ple, Who put their trust in His word.
+w: Wor- ship * Him in hol- i- ness Wor- thy is His might and fame.
+[V: S1V2] F G/A/ G/F/ E | B, B, A,2 | C E E E | C3/2 B,/ B,2 |]
+[V: S2V1] B, B,/A,/ G, E/D/ | C/B,/ B, A,2 | G, B, B, C | A,3/2 G,/ G,2 |]
+[V: S2V2] D, E, B,, E, | G, F, (B,, A,,) | C, E, G,, A,, | B,,3/2 B,,/ E,2 |]

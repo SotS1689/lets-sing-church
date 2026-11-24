@@ -1,0 +1,27 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] D/E/ | F2 F (A3/2 G/) F | (E3/2 F/) G F2 A | (A E) F G2 B | B2 A F2 
+w: 1.~Lord, _ thou hast searched _ me, and _ dost know Wher- e'er _ I rest, wher- e'er I go;
+w: 2.~My _ words from Thee _ I can- _ not hide, I feel _ Thy pow'r on ev'- ry side;
+w: 3.~Where _ can I go _ a- part _ from Thee, Pr whi- _ ther from Thy pre- sence flee?
+w: 4.~If _ I the wings _ of morn- _ ing take, And far _ a- way my dwell- ing make,
+w: 5.~If _ deep- est dark- _ ness co- _ ver me, The dark- _ ness hid- eth not from Thee;
+[V: S1V2]  D | D2 D (F3/2 E/) D | (C3/2 D/) E D2  F | E2 D E2 G | G2 F D2
+[V: S2V1]  F,/G,/ | A,2 A, A,2 A, | A,2 A, A,2 D | C2 A, A,2 C | D2 D A,2
+[V: S2V2]  D, | D,2 D, D,2 D, | A,,2 A,, D,2 D, | A,2 A, A,2 A,, | D,2 D, D,2 
+[V: S1V1]  D/E/ | F2 F (A3/2 G/) F | B2 B (d3/2 c/) B | A2 A (A3/2 G/) F | E3 A3 | F4- F |]
+w: Thou _ kno- west all _ that I have planned, _ And all my ways _ are in Thy hand. _
+w: O _ won- drous know- _ ledge, aw- ful might, _ Un- fa- thomed depth, _ un- meas- ured height! _
+w: In _ heav'n? it is _ Thy dwell- ing fair; _ In death's a- bode? _ lo, Thou art there. _
+w: The _ hand that lead- _ eth me is Thine, _ And my sup- port _ Thy pow'r di- vine. _
+w: To _ Thee both night _ and day are bright, _ The dark- ness shin- _ eth as the light. _
+[V: S1V2]  D | D2 D (F3/2 E/) D | G2 G G2 G | F2 F (F3/2 E/) D | C3 C3 | D4- D |]
+[V: S2V1]  F,/G,/ | A,2 A, A,2 D | D2 D (B,3/2 C/) D | D2 D A,2 A, | A,3 A,3 | A,4- A, |]
+[V: S2V2]  D, | D,2 D, (D,3/2 E,/) F, | G,2 G, G,2 G, | D,2 D, D,2 D, | A,3 A,,3 | D,4- D, |]

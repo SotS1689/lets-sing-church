@@ -1,0 +1,23 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D | G2 E | D2 (G/ A/) | B2 A | G2 B | d2 (B/ A/) | G2 B | A3- | A2 d | B2 A | G2 B | c2 B | A2 B | (D E) (G/ A/) | B2 A | G2 |]
+w: 1.~Show mer- cy, Lord, to _ me, for man would swal- low _ me ou- tright; _ He me op- pres- seth, while he doth a- gainst _ me _ dai- ly fight.
+w: 2.~They dai- ly would me _ swal- low up that hate me _ spi- te- fully; _ For they be ma- ny that do fight a- gainst _ me, _ O most High.
+w: 3.~When I'm a- fraid I'll _ trust in thee: In God I'll _ praise his word; _ I will not fear what flesh can do, my trust _ is _ in the Lord.
+w: 4.~Each day they wrest my _ words; their thoughts 'gainst me are _ all for ill. _ They meet, they lurk, they mark my steps, wait- ing _ my _ soul to kill.
+w: 5.~But shall they by in- _ iq- ui- ty es- cape thy _ judg- ments so? _ O God, with in- dig- na- tion down do thou _ the _ peo- ple throw.
+w: 6.~My wan- d'rings all what _ they have been thou know'st, their _ num- ber took; _ In- to thy bott- le put my tears: are they _ not _ in thy book?
+w: 7.~My foes shall, when I _ cry, turn back; I know't, God _ is for me. _ In God his word I'll praise; his word in God _ shall _ prais- èd be.
+w: 8.~In God I trust; I _ will not fear what man can _ do to me. _ Thy vows up- on me are, O God: I'll ren- _ der _ praise to thee.
+w: 9.~Wilt thou not, who from _ death me saved, my feet from _ falls keep free, _ To walk be- fore God in the light of those _ that _ liv- ing be?
+[V:A] B, | B,2 C | B,2 (D/ E/) | D2 C | B,2 D | G2 D | D2 D | D3- | D2 D | D2 C | B,2 =F | E2 D | D2 D | D C (D/ E/) | D2 C | B,2 |]
+[V:T] G, | D,2 G, | G,2 G, | G,2 F, | G,2 G, | B,2 (G,/ F,/) | G,2 G, | F,3- | F,2 A, | G,2 F, | G,2 G, | G,2 G, | F,2 G, | G,2 G, | G,2 F, | G,2 |]
+[V:B] G,, | G,,2 G,, | G,,2 (B,,/ C,/) | D,2 D, | G,,2 G, | G,2 (G,,/ A,,/) | B,,2 G,, | D,3- | D,2 F, | G,2 D, | E,2 D, | C,2 G,, | D,2 G,, | (B,, C,) (B,,/ C,/) | G,2 D, | G,,2 |]

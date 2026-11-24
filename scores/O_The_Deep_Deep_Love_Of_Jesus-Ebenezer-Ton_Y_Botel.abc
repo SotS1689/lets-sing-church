@@ -1,0 +1,37 @@
+X: 1
+M: 8/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=180] F2(3FGA  G2 F2 | G2(3GAB  (A3/2 G/) F2 | c2(3Bcd  (c3/2 B/) A2 | (B3/2 A/) G2 F4 |
+w: 1.~O the * * deep, deep love of * * Je- * sus, vast, un- * * meas- * ured, bound- * less, free! 
+w: 2.~O the * * deep, deep love of * * Je- * sus, spread His * * praise * from shore * to shore! 
+w: 3.~O the * * deep, deep love of * * Je- * sus, love of * * ev- * ery love * the best! 
+[V: S1V2]  C2 C2 =E2 F2 | F2 =E2 F2 C2 | C2(3::2_E2F  G2 F2 | F2 =E2 F4 |
+[V: S2V1]  A,2 C2 C2 A,2 | D2 C2 (C3/2 B,/) A,2 | E2(3::2B,2A,  C2 C2 | (D3/2 C/) B,2 A,4 |
+[V: S2V2]  F,,2 A,,2 C,2 D,2 | B,,2 C,2 F,2 F,2 | A,2(3::2G,2F,  =E,2 F,2 | B,,2 C,2 F,4 |
+[V: S1V1]  F2(3FGA  G2 F2 | G2(3GAB  (A3/2 G/) F2 | c2(3Bcd  (c3/2 B/) A2 | (B3/2 A/) G2 F4 |
+w: Rol- ling * * as a might- y * * o- * cean in its * * full- * ness ov- * er me! 
+w: How He * * lov- eth, ev- er * * lov- * eth, chang- eth * * ne- * ver, nev- * er- more! 
+w: 'Tis an * * o- cean full of * * bless- * ing, 'tis a * * ha- * ven giv- * ing rest! 
+[V: S1V2]  C2 C2 =E2 F2 | F2 =E2 F2 C2 | C2(3::2_E2F  G2 F2 | F2 =E2 F4 |
+[V: S2V1]  A,2 C2 C2 A,2 | D2 C2 (C3/2 B,/) A,2 | E2(3::2B,2A,  C2 C2 | (D3/2 C/) B,2 A,4 |
+[V: S2V2]  F,,2 A,,2 C,2 D,2 | B,,2 C,2 F,2 F,2 | A,2(3::2G,2F,  =E,2 F,2 | B,,2 C,2 F,4 |
+[V: S1V1]  c2(3ABc  B2 B2 | A2(3FGA  G2 G2 | F2(3FGA  B2 B2 | A2(3BAB  c4 |
+w: Un- der- * * neath me, all ar- * * ound me, is the * * cur- rent of Thy * * love 
+w: How He * * watch- es o'er His * * loved ones, died to * * call them all His * * own; 
+w: O the * * deep, deep love of * * Je- sus, 'tis a * * heav'n of heav'ns to * * me; 
+[V: S1V2]  E2 E2 E2 E2 | C2 F2 F2 =E2 | F2 C2 F2 E2 | C2 F2 =E4 |
+[V: S2V1]  A,2 A,2 A,2 G,2 | A,2 C2 C2 C2 | F,2 A,2 A,2 G,2 | A,2 F,2 G,4 |
+[V: S2V2]  A,,2 C,2 E,2 E,2 | F,2 A,,2 C,2 C,2 | F,2 E,2 D,2 E,2 | (F, E,) D,2 C,4 |
+[V: S1V1]  F2(3FGA  G2 F2 | G2(3GAB  (A3/2 G/) F2 | c2(3Bcd  (c3/2 B/) A2 | (B3/2 A/) G2 F4 |]
+w: Lead- ing * * on- ward, lead- ing * * home- * ward to Thy * * glor- * ious rest * a- bove! 
+w: How for * * them He in- ter- * * ce- * deth, watch- eth * * o'er * them from * the throne! 
+w: And it * * lifts me up to * * glo- * ry, for it * * lifts * me up * to Thee! 
+[V: S1V2]  A,2 F2 =E2 F2 | F2 =E2 F2 F2 | E2 E2 E2 F2 | F2 =E2 F4 |]
+[V: S2V1]  F,2 C2 C2 A,2 | D2 C2 (C3/2 B,/) A,2 | A,2(3G,A,B,  (A,3/2 G,/) F,2 | (D3/2 C/) B,2 A,4 |]
+[V: S2V2]  D,2 A,,2 C,2 D,2 | B,,2 C,2 F,2 F,2 | A,2 E,2 A,,2 D,2 | B,,2 C,2 F,4 |]

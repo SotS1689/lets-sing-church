@@ -1,0 +1,33 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] B G A d | B G A2 | G G G G | A B A2 | G4 |
+w: 1.~Bles- sed Je- sus, at Thy Word We are ga- thered all to hear Thee; 
+w: 2.~All our know- ledge, sense, and sight Lie in deep- est dark- ness shroud- ed, 
+w: 3.~Glor- ious Lord, Thy- self im- part! Light of light, from God pro- ceed- ing, 
+w: 4.~Fa- ther, Son, and Ho- ly Ghost, Praise to Thee and a- do- ra- tion! 
+[V: S1V2] D D D F | D E F2 | D D E D | F G2 F | G4 |
+[V: S2V1] G, B, A, A, | G, B, D2 | G, B, C G, | C D D2 | B,4 |
+[V: S2V2] G, G, F, D, | G, E, D,2 | B,, G,, C, B,, | A,, G,, D,2 | G,,4 |
+[V: S1V1] B G A d | B G A2 | G G G G | A B A2 | G4 |
+w: Let our hearts and souls be stirred Now to seek and love and fear Thee, 
+w: Til Thy Spir- it breaks our night With the beams of truth un- cloud- ed; 
+w: O- pen Thou our ears and heart; Help us by Thy Spir- it's plead- ing; 
+w: Grant that we Thy Word may trust And ob- tain true con- so- la- tion, 
+[V: S1V2] D D D F | D E F2 | D D E D | F G2 F | G4 |
+[V: S2V1] G, B, A, A, | G, B, D2 | G, B, C G, | C D D2 | B,4 |
+[V: S2V2] G, G, F, D, | G, E, D,2 | B,, G,, C, B,, | A,, G,, D,2 | G,,4 |
+[V: S1V1] D D E F | G A F D | G G A B | c B A2 | G4 |]
+w: By Thy teach- ings sweet and ho- ly, Drawn from earth to love Thee sole- ly. 
+w: Thou a- lone to God canst win us; Thou must work all good with- in us. 
+w: Hear the cry Thy peo- ple rais- es; Hear and bless our prayers and prais- es. 
+w: While we here be- low must wan- der, Till we sing Thy prais- es yon- der. 
+[V: S1V2] D D ^C D | D E D D | D B, D D | E D D2 | B,4 |]
+[V: S2V1] B, A, G, A, | B, A, A, F, | G, G, F, G, | G, G,2 F, | G,4 |]
+[V: S2V2] G, F, E, D, | B,, ^C, D, D, | B,, E, D, G,, | C, G,, D,2 | G,,4 |]

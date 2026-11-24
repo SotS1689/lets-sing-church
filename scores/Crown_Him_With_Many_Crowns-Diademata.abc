@@ -1,0 +1,61 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=110] D D/D/ F F | B3 B | A D G F | E3
+w: 1.~Crown Him with man- y crowns, the Lamb up- on His throne. 
+w: 2.~Crown Him the vir- gin's Son, the God in- car- nate born, 
+w: 3.~Crown Him the Son of God, be- fore the worlds be- gan, 
+w: 4.~Crown Him the Lord of life, who tri- umphed o'er the grave, 
+w: 5.~Crown Him the Lord of peace, Whose pow'r a scep- ter sways 
+w: 6.~Crown Him the Lord of love, be- hold His hands and side,
+w: 7.~Crown Him the Lord of Heaven, en- throned in worlds a- bove,
+w: 8.~Crown Him the Lord of lords, who o- ver all doth reign,
+w: 9.~Crown Him the Lord of years, the Po- ten- tate of time,
+[V: S1V2]  A, A,/A,/ D D | D3 D | D D C D | C3
+[V: S2V1]  F, F,/F,/ F, F, | G,3 G, | A, B, G, A, | A,3
+[V: S2V2]  D, D,/D,/ B,, B,, | G,,3 G, | F, G, E, D, | A,,3
+[V: S1V1]  E | F A B A | ^G F/E/ A d | c d B B | A3
+w: Hark! How the heav'n- ly an- them * drowns all mu- sic but its own. 
+w: Whose arm those crim- son tro- phies * won which now His brow a- dorn; 
+w: And ye who tread where He hath * trod, crown Him the Son of Man; 
+w: And rose vic- tor- ious in the * strife for those He came to save. 
+w: From pole to pole, that wars may * cease, and all be prayer and praise. 
+w: Those wounds, yet vi- si- ble a- _ bove, in beau- ty glo- ri- fied.
+w: Crown Him the King to Whom is _ given the won- drous name of Love.
+w: Who once on earth, th’in- car- nate _ Word, for ran- somed sin- ners slain,
+w: Cre- a- tor of the rol- ling _ spheres, i- nef- fa- bly sub- lime.
+[V: S1V2]  C | D E D D | B, B, E D | E F B, E | C3
+[V: S2V1]  A, | A, A, F, F, | E, ^G, A, =G, | A, A, A, ^G, | A,3
+[V: S2V2]  A,, | D, C, B,, D, | E, D, C, B,, | A,, D, E, E, | A,3
+[V: S1V1]  A | A F E D | B3 B | B ^G F E | c3
+w: A- wake, my soul, and sing of Him who died for thee, 
+w: Fruit of the mys- tic rose, as of that rose the stem; 
+w: Who ev- ery grief hath known that wrings the hu- man breast, 
+w: His glo- ries now we sing, Who died, and rose on high, 
+w: His reign shall know no end, and round His pierc- ed feet 
+w: No an- gel in the sky can ful- ly bear that sight,
+w: Crown Him with ma- ny crowns, as thrones be- fore Him fall;
+w: Now lives in realms of light, where saints with an- gels sing
+w: All hail, Re- deem- er, hail! For Thou has died for me;
+[V: S1V2]  C | D D C D | D3 ^D | E E =D D | C3
+[V: S2V1]  A, | A, A, G, A, | B,3 A, | ^G, B, A, B, | A,3
+[V: S2V2]  =G, | F, D, E, F, | G,3 F, | E, E, F, ^G, | A,3
+[V: S1V1]  c | d3/2 c/ B A | G E F A | G F E E | D4 |]
+w: And hail Him as thy match- less King through all e- ter- ni- ty. 
+w: The root whence mer- cy ev- er flows, the Babe of Beth- le- hem. 
+w: And takes and bears them for His own, that all in Him may rest. 
+w: Who died e- ter- nal life to bring, and lives that death may die.  
+w: Fair flow'rs of pa- ra- dise ex- tend their fra- grance ev- er sweet. 
+w: But down- ward bends his burn- ing eye at my- ste- ries so bright.
+w: Crown Him, ye kings, with ma- ny crowns, for He is King of all.
+w: Their songs be- fore Him day and night, their God, Re- deem- er, King.
+w: Thy praise and glo- ry shall not fail through- out e- ter- ni- ty.
+[V: S1V2]  E | D D D D | D C D D | D D D C | D4 |]
+[V: S2V1]  A, | A, A, G, A, | B, A, A, A, | B, A, A,3/2 G,/ | F,4 |]
+[V: S2V2]  =G, | F, F, G, F, | E, A, D, F,, | G,, D, A,, A,, | D,4 |]

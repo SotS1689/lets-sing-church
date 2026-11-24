@@ -1,0 +1,51 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=100] D | G3/2 G/ B G | A A B E | E E D G | F G A 
+w: 1.~How blest are hearts, which Christ the Lord Cou- ples as with a sil- ver cord, 
+w: 2.~When an- gels sang Cre- a- tion's birth, Man, fa- shioned from the dust of earth. 
+w: 3.~O ho- ly wed- lock ra- ti- fied In Heav'n a knot for life is tied 
+w: 4.~An- thems an- gel- i- cal were heard, When Christ, the e- ver- las- ting Word 
+w: 5.~At Ca- na's feast that Hea- v'nly Guest Did first His God- head ma- ni- fest, 
+w: 6.~Mir- rored in nu- ptial pur- i- ty The mar- riage of the Church we see
+w: 7.~Bless these Thy ser- vants, gra- cious Lord, Whom Thou dost join in sweet ac- cord,
+w: 8.~Be with them, Lord, as day by day They with one heart to- ge- ther pray,
+w: 9.~May they for- ev- er have Thee near, Mak- ing them to Thy- self more dear,
+w: 10.~To Fa- ther, whose pa- ter- nal Love Sends be- ne- dic- tions from a- bove,
+[V: S1V2]  B, | D3/2 D/ D D/G/ | G F G C | C C D D | D3/2 ^C/ D 
+[V: S2V1]  G, | B,3/2 B,/ G, D | D D D G, | G, G, G, G, | A, G, F,  
+[V: S2V2]  G,, | G,,3/2 G,,/ G,, B,, | D, D, G,, C, | C, C, B,, G,, | D, E, D, 
+[V: S1V1] A | A G F E | D3 D | F3/2 G/ A c | B G A 
+w: In nu- ptial u- ni- ty: That a- ni- ma- ted are by love 
+w: In E- den was a- lone; But God made Eve from A- dam's side 
+w: By God in Pa- ra- dise! O hap- pi- ness be- yond com- pare! 
+w: To wed His Bride did come, And take that con- se- cra- ted Bride, 
+w: And wa- ter change to wine; In wed- lock tears of sor- r'wring earth 
+w: And Christ the Bri- degroom's Love; An- gels look down, and an- thems sing,
+w: The bride- groom and the bride; In sor- row, sick- ness, and in health
+w: Thy Word to- ge- ther read, To- ge- ther at Thine al- tar kneel,
+w: And each to each in Thee; So, when from earth- ly cares re- leased,
+w: E- ter- nal prais- es be; And God the Son, In- car- nate Word,
+[V: S1V2] D | D D D ^C | D3 D | D3/2 D/ D D | D D D 
+[V: S2V1] F, | A, B, A,3/2 G,/ | F,3 F, | A,3/2 B,/ A, F, | G, B, F, 
+[V: S2V2] D, | F,, G,, A,, A,, | D,3 D, | D,3/2 G,/ F, D, | G, G, D, 
+[V: S1V1]  E | F3/2 A/ c B | G B A c | B E F F | G3|] 
+w: And a- spi- ra- tions from a- bove, O Ho- ly Ghost, by Thee! 
+w: And brought her to him as a Bride, And willed them to be one. 
+w: What tongues of An- gels to de- clare The bles- sed- ness su- fice? 
+w: Cleansed by the life- blood from His side, Un- to Her hea- v'nly home. 
+w: Are changed to wine of hea- v'nly mirth, By pow'r and love di- vine. 
+w: The Ho- ly Dove, the gol- den wing, Sheds bless- ings from a- bove.
+w: In trib- u- la- tion and in wealth, Be Thou their Help and Guide!
+w: And with Thy Blood their un- ion seal, On Thee to- ge- ther feed.
+w: May they at Thine own mar- riage feast Be blest e- ter- nal- ly!
+w: With Ho- ly Spi- rit be a- dored; One God and Per- sons Three!
+[V: S1V2]  E | D3/2 D/ E D | D D D E | D C C C | B,3 |] 
+[V: S2V1]  A, | A,3/2 F,/ G, G, | G, G, F, G, | G, G, A, A, | G,3 |] 
+[V: S2V2]  ^C, | D,3/2 D,/ C, G,, | B,, G,, D, C, | G,, C, A,, D, | G,,3 |] 

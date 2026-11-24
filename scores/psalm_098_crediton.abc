@@ -1,0 +1,21 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] G | c B c G | A (G/ F/) E G | (A/ B/) c F E | D3 G | G (G/ A/) B e | d c B G | (A/ B/) c d (c/ B/) | c4 |]
+w: 1.~O sing a new song to the _ Lord, for won- _ ders he hath done: His right hand _ and his ho- ly arm him vic- _ to- ry hath _ won.
+w: 2.~The Lord God his sal- va- ti- _ on hath caus- _ èd to be known; His jus- tice _ in the hea- then's sight he o- _ pen- ly hath _ shown.
+w: 3.~He mind- ful of his grace and _ truth to Is- _ r'el's house hath been; And the sal- _ va- tion of our God all ends _ of th'earth have _ seen.
+w: 4.~Let all the earth un- to the _ Lord send forth _ a joy- ful noise; Lift up your _ voice a- loud to him, sing prais- _ es, and re- _ joice.
+w: 5.~With harp, with harp, and voice of _ psalms, un- to _ Je- ho- vah sing: With trum- pets, _ cor- nets, glad- ly sound be- fore _ the Lord the _ King.
+w: 6.~Let seas and all their full- ness _ roar; the world, _ and dwell- ers there; Let floods clap _ hands, and let the hills to- ge- _ ther joy de- _ clare
+w: 7.~Be- fore the Lord; be- cause he _ comes, to judge _ the earth comes he: He'll judge the _ world with right- eous- ness, his folk _ with e- qui- _ ty.
+[V:A] E | E F G E | F E/ D/ C C | C C B, C | B,3 G | G F E G | F E D G | F G F E/ D/ | E4 |]
+[V:T] G, | G, G, G, C | C B, C C/ B,/ | A, G, G, G, | G,3 B, | C F, G, G, | G, G, B, C | C/ D/ C A, G, | G,4 |]
+[V:B] C, | C, D, E, C, | F, G, C, E, | F, E, D, C, | G,,3 G,/ F,/ | E, D, C, C, | B,, C, G, E, | F, E, F, G, | C,4 |]

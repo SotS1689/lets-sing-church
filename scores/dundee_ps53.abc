@@ -1,0 +1,43 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=105
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] E2 | G2 A2 B2 E2 | F2 G2 A2 G2 | F2 E2 E2 D2 |
+w: 1.~That there is not a God, the fool doth in his heart con-
+w: 2.~The Lord up- on the sons of men from heav’n did cast his
+w: 3.~They al- to- ge- ther fil- thy are, they all are back- ward
+w: 4.~These wor- kers of in- iq- ui- ty, do they not know at
+w: 5.~Ev’n there they were a- fraid, and stood with trem- bling, all dis-
+w: 6.~For God his bones that thee be- sieged hath scat- tered all a-
+w: 7.~Let Is- r’el’s help from Zi- on come: when back the Lord shall
+[V:A] B,2 | E2 E2 D2 E2 | D2 E2 E2 E2 | D2 C2 C2 B,2 |
+[V:T] G,2 | B,2 E,2 F,2 B,2 | A,2 B,2 C2 B,2 | B,2 G,2 A,2 F,2 |
+[V:B] E,2 | E,2 C,2 B,,2 G,2 | F,2 E,2 A,,2 E,2 | B,,2 C,2 A,,2 B,,2 |
+[V:S] E6 B2 | e2 d2 c2 B2 | B2 =A2 B2 G2 | F2 E2 E2 D2 |
+w: clude: They are cor- rupt, their works are vile, not one of them doth
+w: eyes, To see if a- ny one there was that sought God, and was
+w: gone; And there is none that do- eth good, no, not so much as
+w: all, That they my peo- ple eat as bread, and on God do not
+w: mayed, Whe- reas there was no cause at all why they should be a-
+w: broad; Thou hast con- found- ed them, for they des- pised are o- f
+w: bring His cap- tives, Ja- cob shall re- joice, and Is- ra- el shall
+[V:A] B,6 E2 | G2 F2 E2 D2 | C2 C2 D2 E2 | C2 B,2 C2 B,2 |
+[V:T] G,6 G,2 | B,2 B,2 G,2 F,2 | G,2 F,2 F,2 B,2 | A,2 G,2 F,2 F,2 |
+[V:B] E,6 E,2 | E,2 B,,2 C,2 D,2 | E,2 F,2 B,,2 E,,2 | F,,2 G,,2 A,,2 B,,2 |
+[V:S] E6 |]
+w: good.
+w: wise.
+w: one.
+w: call?
+w: fraid:
+w: God.
+w: sing.
+[V:A] B,6 |]
+[V:T] G,6 |]
+[V:B] E,6 |]

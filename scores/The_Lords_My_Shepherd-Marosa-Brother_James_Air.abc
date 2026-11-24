@@ -1,0 +1,45 @@
+X: 1
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/2=70] D2 | F A d2 A2 | B d A2 G2 | F D D2 C2 | D4
+w: 1.~The Lord's my shep- herd I'll not want, He makes me down to lie 
+w: 2.~My soul He doth re- store a- gain, And me to walk doth make. 
+w: 3.~Yea, though I walk in death's dark vale, Yet will I fear no ill, 
+w: 4.~My ta- ble Thou hast fur- nished well In pre- sence of my foes; 
+w: 5.~Good- ness and mer- cy all my days Will sure- ly fol- low me: 
+[V: S1V2] D2 | D F F2 F2 | G G F2 C2 | D B, A,2 A,2 | A,4
+[V: S2V1] F,2 | A, D D2 D2 | D D D2 A,2 | A, B, F,2 G,2 | F,4
+[V: S2V2] D,2 | D, D, D,2 D,2 | G,, B,, D,2 E,2 | D, G,, A,,2 A,,2 | D,4
+[V: S1V1] D2 | F A d2 A2 | B d A2 G2 | F D D2 C2 | D4
+w: In pas- tures green He lead- eth me The qui- et wa- ters by. 
+w: With- in the paths of bless- ed- ness, E'en for His Own Name's sake; 
+w: For Thou art with me, and Thy rod And staff me com- fort still; 
+w: My head Thou dost with oil a- noint, And my cup o- ver- flows; 
+w: And in my Fa- ther's heart al- ways My dwell- ing place shall be; 
+[V: S1V2] D2 | D F F2 F2 | G G F2 C2 | D B, A,2 A,2 | A,4
+[V: S2V1] F,2 | A, D D2 D2 | D D D2 A,2 | A, B, F,2 G,2 | F,4
+[V: S2V2] D,2 | D, D, D,2 D,2 | G,, B,, D,2 E,2 | D, G,, A,,2 A,,2 | D,4
+[V: S1V1] E2 | F D !fermata!D2 E2 | F D !fermata!D2 E2 | F A d2 d2 | d4
+w: He lead- eth me, He lead- eth me, The qui- et wa- ters by, 
+w: His Own Name's sake, His Own Name's sake, E'en for His Own Name's sake; 
+w: I'll fear no ill, I'll fear no ill, Yet will I fear no ill, 
+w: It o- ver- flows, It o- ver- flows, And my cup o- ver- flows; 
+w: My dwell- ing place, My dwell- ing place, My dwell- ing place shall be, 
+[V: S1V2] C2 | D B, !fermata!A,2 C2 | D B, !fermata!A,2 C2 | D C D2 [G2D2] | F4
+[V: S2V1] A,2 | A, B, !invertedfermata!F,2 A,2 | A, B, !invertedfermata!F,2 A,2 | A, A, A,2 B,2 | A,4
+[V: S2V2] A,,2 | D, G,, !fermata!D,2 A,,2 | D, G,, !fermata!D,2 A,,2 | D, G, F,2 G,2 | D,4
+[V: S1V1] D2 | F A d2 A2 | B d A2 G2 | F D D2 C2 | D6 |]
+w: In pas- tures green He lead- eth me The qui- et wa- ters by. 
+w: With- in the paths of bless- ed- ness, E'en for His Own Name's sake. 
+w: For Thou art with me, and Thy rod And staff me com- fort still. 
+w: My head Thou dost with oil a- noint, And my cup o- ver- flows. 
+w: And in my Fa- ther's heart al- ways My dwell- ing place shall be. 
+[V: S1V2] D2 | D F F2 F2 | G G F2 C2 | D B, A,2 A,2 | A,6 |]
+[V: S2V1] F,2 | A, D D2 D2 | D D D2 A,2 | A, B, F,2 G,2 | F,6 |]
+[V: S2V2] D,2 | D, D, D,2 D,2 | G,, B,, D,2 E,2 | D, G,, A,,2 A,,2 | D,6 |]

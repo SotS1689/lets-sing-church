@@ -1,0 +1,41 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=120] F2 F | (F E) F | (G A) G | F3 | A2 A | (A G) A |
+w: 1.~Ho- ly God, _ we praise _ Thy Name; Lord of all, _ we
+w: 2.~Hark! the loud _ ce- les- _ tial hymn An- gel choirs _ a-
+w: 3.~Lo! the a- * post- o- * lic train Join the sa- * cred 
+w: 4.~Ho- ly Fa- _ ther, Ho- _ ly Son, Ho- ly Spi- _ rit,
+[V: S1V2]  C2 C | C2 C | E2 E | F3 | F2 F | (F E) F |
+[V: S2V1]  A,2 A, | (A, G,) A, | (B, C) B, | A,3 | C2 C | C2 C |
+[V: S2V2]  F,2 F, | F,2 F, | C,2 C, | F,,3 | F,2 F, | F,2 F, |
+[V: S1V1]  (c B) A | A G2 | F2 F | (F E) F | (G A) G | F3 |
+w: bow _ be- fore Thee! All on earth _ Thy scep- _ ter claim,
+w: bove _ are rais- ing, Cher- u- bim _ and ser- _ a- phim,
+w: Name * to hal- low; Pro- phets swell * the loud * re- frain, 
+w: Three _ we name Thee; While in es- _ sence on- _ ly One,
+[V: S1V2]  (F E) F | F E2 |  C2 C | C2 C | E2 E | F3 |
+[V: S2V1]  C2 C | C C2 | A,2 A, | (A, G,) A, | (B, C) B, | A,3 |
+[V: S2V2]  E,2 F, | C C,2 | F,2 F, | F,2 F, | C,2 C, | F,,3 |
+[V: S1V1]  A2 A | (A G) A | (c B) A | A G2 | G2 A/c/ | (B A) G |
+w: All in Hea- ven a- bove _ a- dore Thee; In- fi- _ nite _ Thy
+w: In un- ceas- _ ing cho- _ rus prais- ing; Fill the _ heavens _ with
+w: And the white * robed mar- * tyrs fol- low; And from  * morn * to 
+w: Un- div- id- _ ed God _ we claim Thee; And a _ do- _ ring
+[V: S1V2]  F2 F | (F E) F | (F E) F | F E2 | (E G) ^F | (G D) E |
+[V: S2V1]  C2 C | C2 C | C2 C | C C2 | (C D) C | B,- B, C |
+[V: S2V2]  F,2 F, | F,- F, F, | E,2 F, | C C,2 | (C B,) A, | G,- G, C, |
+[V: S1V1]  A2 B/d/ | c3 | d2 d | (c B) A | (B A) G | F3 |]
+w: vast do _ main, Ev- er- last- _ ing is _ Thy reign.
+w: sweet ac _ cord: Ho- ly, ho- _ ly, ho- _ ly, Lord.
+w: set of  * sun, Through the Church * the song * goes on. 
+w: bend the _ knee, While we own _ the my- _ ster- y.
+[V: S1V2]  F2 F | E3 | F2 F | (F E) F | F2 E | F3 |]
+[V: S2V1]  C2 F, | G,3 | B,2 B, | G,2 F, | (D C) B, | A,3 |]
+[V: S2V2]  F,2 D, | C,3 | B,,2 B,, | C,2 D, | (B,, C,) C, | F,3 |]

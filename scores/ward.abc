@@ -1,0 +1,50 @@
+X:1
+M:4/4
+L:1/8
+Q:1/4=90
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Bb
+[V:S] F2 F B | A2 B2 | F2 G2 | F3 F |
+w: 1.~Je- ho- vah hear thee in thy grief, Our
+w: 2.~Thy sac- ri- fice may He re- gard, And
+w: 3.~In thy sal- va- tion we re- joice, And
+w: 4.~Sal- va- tion will the Lord com- mand, And
+w: 5.~How vain their ev'- ry con- fi- dence Who
+w: 6.~Now we a- rise and u- pright stand, While
+[V:A] D2 D F | E2 D2 | F2 E2 | D3 D |
+[V:T] B,2 B, D | C2 B,2 | B,2 B,2 | B,3 B, |
+[V:B] B,,2 B,, B,, | F,2 G,2 | D,2 E,2 | B,,3 B,, |
+[V:S] F2 F2 | (F B2) c | d2 (c B) | c4 |
+w: fa- thers' God _ de- fend thee _ still,
+w: all thy of- _ f'rings bear in _ mind;
+w: in God's Name _ our ban- ners _ raise;
+w: His a- noint- _ ed will de- _ fend;
+w: on mere hu- _ man help re- _ ly;
+w: they, sub- dued _ and help- less _ fall;
+[V:A] C2 C2 | F3 F | F2 F =E | F4 |
+[V:T] A,2 A,2 | B,3 A, | B,2 C2 | A,4 |
+[V:B] F,2 (F, E,) | D,3 F, | B,2 (A, G,) | F,4 |
+[V:S] F2 F B | A2 B2 | F2 G2 | F3 F |
+w: Send from His ho- ly place re- lief, And
+w: Thy heart's de- sire to thee ac- cord, Ful-
+w: Je- ho- vah hear- ken to thy voice, Ful-
+w: Yea, with the strength of His right hand From
+w: But we re- mem- ber for de- fense The
+w: Je- ho- vah, save us by Thy hand, The
+[V:A] D2 D F | E2 D2 | F2 E2 | D3 D |
+[V:T] B,2 B, D | C2 B,2 | B,2 B,2 | B,3 B, |
+[V:B] B,2 B,, B,, | F,2 G,2 | D,2 E,2 | B,,3 B,, |
+[V:S] F2 F2 | (F B2) c | d2 c2 | B4 |]
+w: streng- then thee _ from Zi- on's hill.
+w: fill- ing all _ thou hast de- signed.
+w: fill thy prayers _ thro' all thy days.
+w: heav'n He will _ an an- swer send.
+w: Name of God, _ the Lord Most High.
+w: King give an- _ swer when we call.
+[V:A] C2 C2 | F3 G | F2 E2 | D4 |]
+[V:T] A,2 A,2 | B,3 B, | B,2 A,2 | B,4 |]
+[V:B] F,2 (F, E,) | D,3 E, | F,2 F,2 | B,,4 |]

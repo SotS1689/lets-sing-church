@@ -1,0 +1,54 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] E E | E D G G | (A B) c2 | d c B A | c/B/ A G2 |
+w: 1.~Sing, my tongue, the glor- ious bat- _ tle, Sing the end- ing of _ the fray;
+w: 2.~He, our ma- ker, deep- ly grie- _ ving That the first made A- _ dam fell,
+w: 3.~For  the  work  of  our  sal- va- * tion Needs would  have  his  or- * der  so, 
+w: 4.~Tell how, when at length the full- _ ness, Of th'ap- poin- ted time _ was come,
+w: 5.~Lo! He lies an in- fant weep- _ ing, Where the nar- row man- _ ger stands,
+w: 6.~Thus, with thir- ty years ac- com- _ plished, Went He forth from Na- _ za- reth,
+w: 7.~There the nails and spears He suf- _ fers, Vi- ne- gar, and gall, _ and reed;
+w: 8.~Faith- ful cross, thou sign of tri- _ umph, Now for us the nob- _ lest tree,
+w: 9.~Bend thy boughs, O tree of glo- _ ry! Thy re- la- xing si- _ news bend;
+w: 10.~Thou a- lone wast coun- ted wor- _ thy This world's ran- som to _ sus- tain,
+w: 11.~To the Tri- ni- ty be glo- _ ry Ev- er- last- ing, as _ is meet:
+[V: S1V2]  B, B, | C B, E E | (E G) G2 | G E G F | G ^F G2 |
+[V: S2V1]  G, G, | G,  G, B, B, | (C D) E2 | B, C E C | C/D/ D B,2 |
+[V: S2V2]  E, E, | C, G, E, E, | (A, G,) C2 | G, A, E, F, | E,/G,/ D, G,2 |
+[V: S1V1] G A | c B A G | G2 A2 | (A c) A  G/F/ | E  A/G/ E | D2 
+w: Now a- bove the cross, the tro- phy, Sound _ the loud _ tri- um- _ phant lay:
+w: When he ate the fruit for- bid- den Whose _ re- ward _ was death _ and hell,
+w: And  the  mul- ti- form  de- cei- ver's Art  * by  art *  would  o- * ver- throw. 
+w: Christ, the Word, was born of wo- man, Left _ for us _ His heaven- _ ly home;
+w: While the mo- ther\-- maid His mem- bers Wraps _ in mean _ and low- _ ly bands,
+w: Des- tined, de- di- ca- ted, will- ing, Wrought _ His work, _ and met _ His death.
+w: From His sac- red bo- dy pierc- èd Blood _ and wa- _ ter both _ pro- ceed;
+w: None in fo- liage, none in blos- som, None _ in fruit _ thy peer _ may be;
+w: For a- while the an- cient ri- gor That _ thy birth _ be- stowed, _ su- spend;
+w: That a ship- wrecked race for- ev- er Might _ a port _ of re- _ fuge gain,
+w: E- qual to the Fa- ther, e- qual To _ the Son, _ and Pa- _ ra- clete:
+[V: S1V2] D F | G G E E | E2 E2 | (F C) C  E/D/ | C  C/D/ C | B,2 
+[V: S2V1] B, C | C D C B, | C2 C2 | (C G,) A,  C/A,/ | A,  E,/G,/ G, | G,2 
+[V: S2V2] G, F, | E, G, A, E, | (C, A,,) A,2  F,/E,/ | F,  C,/D,/ A,, | (A,, B,,) C, | G,,2 
+[V: S1V1]  G G | G E F G | (G A) A2 | c A G2 | (A G) F/E/ D | E2|]
+w: Tell how Christ the world's Re- deem- _ er, As a vic- tim _ won _ the day.
+w: Marked e'en then this tree the ru- _ in Of the first tree _ to _ dis- pel.
+w: And  from  thence  would  bring  the  med'- * cine Whence  the  ve- nom *  of *  the  foe. 
+w: Showed us hu- man life made per- _ fect, Shone as light a- _ mid _ the gloom.
+w: And the swadd- ling clothes is win- _ ding Round His help- less _ feet _ and hands.
+w: Like a lamb He hum- bly yield- _ ed On the cross His _ dy- _ ing breath.
+w: Pre- cious flood, which all cre- a- _ tion From the stain of _ sin _ hath freed.
+w: Sym- bol of the world's re- demp- _ tion, For the weight that _ hung _ on thee!
+w: And the King of heaven- ly beau- _ ty On thy bo- som _ gent- _ ly tend!
+w: With the sac- red blood a- noint- _ ed Of the Lamb of _ sin- _ ners slain.
+w: God the Three in One, whose prais- _ es All cre- a- ted _ things _ re- peat.
+[V: S1V2]  D D | D C A, C | C2 E2 | F C E2 | E2 D/C/ B, | B,2 |]
+[V: S2V1]  B, B, | G, G, F, E, | E,2 C2 | C/A,/ C C2 | C2 A,/G,/ G, | G,2 |]
+[V: S2V2]  G,, G,, | B,, C, D, C, | (C, A,,) A,2 | F, F, C,/A,,/ C, | (D,2 E,) G, | E,2 |]

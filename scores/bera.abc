@@ -1,0 +1,66 @@
+X:1
+M:2/2
+L:1/8
+Q:1/4=130
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:Eb
+[V:S] G4 G2 F2 | E4 B4 | (B2 F2) (G2 A2) | G8 |
+w: 1.~With firm re- solve I held _ my _ peace
+w: 2.~While I was dumb my grief _ was _ stirred,
+w: 3.~Make me, O Lord, to know _ my _ end,
+w: 4.~My time is no- thing in _ Thy _ sight,
+w: 5.~Man's life is passed in vain _ de- _ sire
+w: 6.~And now, O Lord, what wait _ I _ for?
+w: 7.~Be- cause Thou didst it I _ was _ dumb,
+w: 8.~When Thou for his in- iq- _ ui- _ ty
+w: 9.~Lord, hear my prayer, re- gard _ my _ cry,
+w: 10.~O spare me, Lord, a- vert _ Thy _ wrath,
+[V:A] E4 E2 B,2 | B,4 G4 | (F2 D2) (E2 F2) | E8 |
+[V:T] B,4 B,2 A,2 | G,4 E4 | (D2 B,2) B,4 | B,8 |
+[V:B] E,4 E,2 E,2 | E,4 E,4 | B,,4 B,,4 | E,8 |
+[V:S] e4 e2 c2 | B4 G4 | (F2 d2) (d2 c2) | B8 |
+w: And spake not ei- ther bad _ or _ good,
+w: My heart grew hot with thought _ sup- _ pressed;
+w: Teach me the mea- sure of _ my _ days,
+w: Be- hold, my days are but _ a _ span;
+w: If troub- led years be spent _ for _ gain;
+w: I have no nope ex- cept _ in _ Thee;
+w: I spoke no word of rash _ com- _ plaint;
+w: Re- bu- kest and cor- rec- _ test _ man,
+w: I weep, be Thou my com- _ fort- _ er;
+w: Deal gent- ly with me, I _ im- _ plore,
+[V:A] G4 A2 A2 | G4 E4 | (D2 F2) F4 | F8 |
+[V:T] B,4 C2 E2 | E4 B,4 | B,4 (=A,2 E2) | D8 |
+[V:B] E,4 E,2 E,2 | E,4 E,4 | F,4 F,4 | B,,8 |
+[V:S] B4 B2 c2 | A4 (A2 B2) | G4 (G2 A2) | F8 |
+w: Lest I should ut- ter _ sin- ful _ thoughts
+w: The while I mused the _ fire in- _ creased,
+w: That I may know how _ frail I _ am
+w: yea, tru- ly at his _ best e- _ state,
+w: He knows not whose his _ wealth shall _ be,
+w: Let not ung- od- ly _ men re- _ proach,
+w: Re- move Thy stroke a- _ way from _ me,
+w: His beau- ty is con- _ sumed a- _ way,
+w: I am a stran- ger _ here be- _ low,
+w: That I may yet re- _ co- ver _ strength
+[V:A] G4 G2 A2 | F4 (F2 G2) | E4 (E2 F2) | D8 |
+[V:T] B,4 B,2 B,2 | B,4 B,4 | B,4 B,4 | B,8 |
+[V:B] B,,4 B,,2 B,,2 | B,,4 B,,4 | B,,4 B,,4 | B,,8 |
+[V:S] (G3 F) E2 E2 | E4 E4 | (D2 A2) (A2 D2) | E8 |]
+w: While _ wi- cked men be- fore _ me _ stood.
+w: Then _ to the Lord I made _ re- _ quest.
+w: And _ turn from pride and sin- _ ful _ ways.
+w: A _ breath, a fleet- ing breath, _ is _ man.
+w: And _ all his toil is but _ in _ vain.
+w: From _ all trans- gres- sion set _ me _ free.
+w: Be- _ neath Thy cha- sti- sement _ I _ faint.
+w: How _ weak his strength, how vain _ his _ plan.
+w: A _ pil- grim as my fa- _ thers _ were.
+w: Ere _ I go hence and be _ no _ more.
+[V:A] (E3 B,) B,2 B,2 | C4 B,4 | (B,2 D2) (D2 B,2) | B,8 |]
+[V:T] (B,3 A,) G,2 G,2 | A,4 G,4 | F,4 (F,2 A,2) | G,8 |]
+[V:B] E,4 E,2 E,2 | A,,4 E,4 | B,,4 B,,4 | E,8 |]

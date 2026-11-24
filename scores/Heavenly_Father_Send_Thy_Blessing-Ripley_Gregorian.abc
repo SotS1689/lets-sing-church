@@ -1,0 +1,37 @@
+X: 1
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=120] E G | B3 G A c | B2 G2 B E | A G F2 F2 | E4 
+w: 1.~Heav'n- ly Fa- ther, send Thy bles- sing On Thy chil- dren ga- thered here, 
+w: 2.~Ho- ly Sa- vior, who in meek- ness Didst vouch- safe a child to be, 
+w: 3.~Spread Thy gol- den pi- nions o'er them, Ho- ly Spi- rit, from a- bove, 
+[V: S1V2]  E E | G3 E E A | G2 E2 E B, | C/D/ E E2 D2 | E4 
+[V: S2V1]  G, B, | E3 B, C E | E2 B,2 B, G, | A, B, C2 (B, A,) | G,4 
+[V: S2V2]  E, E, | E,3 _D, C, A,, | E,2 E,2 G, G, | F, E, A,,2 B,,2 | E,4 
+[V: S1V1]  E G | B3 G A c | B2 G2 B E | A G F2 F2 | E4 
+w: May they all, Thy Name con- fes- sing, Be to Thee fo- re- ver dear; 
+w: Guide their steps, and help their weak- ness, Bless and make them like to Thee; 
+w: Guide them, lead them, go be- fore them, Give them peace, and joy, and love; 
+[V: S1V2]  E E | G3 E E A | G2 E2 E B, | C/D/ E E2 D2 | E4 
+[V: S2V1]  G, B, | E3 B, C E | E2 B,2 B, G, | A, B, C2 (B, A,) | G,4 
+[V: S2V2]  E, E, | E,3 _D, C, A,, | E,2 E,2 G, G, | F, E, A,,2 B,,2 | E,4 
+[V: S1V1]  e d | e3 B c c | B2 B2 e d | e3 B c c | B4 
+w: May they be, like Jo- seph, lo- ving, Du- ti- ful, and chaste, and pure; 
+w: Bear Thy lambs, when they are wea- ry, In Thine arms and at Thy breast; 
+w: Thy true tem- ples, Ho- ly Spi- rit, May they with Thy glo- ry shine, 
+[V: S1V2]  G A | B3 G A A | G2 G2 G A | B3 G A A | G4 
+[V: S2V1]  B, B, | B,3 E E E | E2 B,2 B, B, | B,3 E E E | E4 
+[V: S2V2]  E, F, | G,3 E, A,, C, | E,2 E,2 E, F, | G,3 E, A,, C, | E,4 
+[V: S1V1]  E G | B3 G A c | B2 G2 B E | A B F2 F2 | E4|]
+w: And their faith, like Da- vid, pro- ving, Stead- fast un- to death en- dure. 
+w: Through life's de- sert, dry and drea- ry, Bring them to Thy heav'n- ly rest. 
+w: And im- mor- tal bliss in- he- rit, And for e- ver- more be Thine. 
+[V: S1V2]  E E | G3 E E A | G2 E2 E B, | C/D/ E E2 D2 | E4 |]
+[V: S2V1]  G, B, | E3 B, C E | E2 B,2 B, G, | A, B, C2 (B, A,) | G,4 |]
+[V: S2V2]  E, E, | E,3 _D, C, A,, | E,2 E,2 G, G, | F, E, A,,2 B,,2 | E,4 |]

@@ -1,0 +1,37 @@
+X:1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=130] F | B A/G/ F B | D E F F | G/A/ B c c | d3
+w: 1.~I sing the * migh- ty pow'r of God, That made * the moun- tains rise; 
+w: 2.~I sing the * good- ness of the Lord, That filled * the earth with food: 
+w: 3.~There's not a * plant or flow'r be- low, But makes * Thy glo- ries known; 
+[V: S1V2] F | B A/G/ F F | D C/B,/ C D | E F G F | F3
+[V: S2V1] F, | B, A,/G,/ F, B, | B, B, A, B, | B, B, B, A, | B,3
+[V: S2V2] F, | B, A,/G,/ F, D, | G, G, F, B,, | E, D, E, F, | B,,3
+[V: S1V1] F | B A/G/ F B | D E F F | G/A/ B B A | B3
+w: That spread the * flow- ing seas a- broad, And built * the lof- ty skies. 
+w: He formed the * crea- tures with His word, And then * pro- nounced them good. 
+w: And clouds a- * rise and tem- pests blow, By or- * der from Thy throne. 
+[V: S1V2] F | B A/G/ F F | D C/B,/ C D | E D/E/ F F | F3
+[V: S2V1] F, | B, A,/G,/ F, B, | B, B, A, B, | B, B, C C | D3
+[V: S2V2] F, | B, A,/G,/ F, D, | G, G, F, B,, | E, G, F, F, | B,,3
+[V: S1V1] B/c/ | d c d e | c A/B/ c B/c/ | d c d e | c3
+w: I * sing the wis- dom that or- * dained The * sun to rule the day: 
+w: Lord, * how Thy won- ders are dis- * played, Wher- * e'er I turn my eye; 
+w: Crea- * tures that bor- row life from * Thee Are * sub- ject to Thy care: 
+[V: S1V2] D/E/ | F F F G | F F F D/E/ | F F F G | F3
+[V: S2V1] B, | B, C B, B, | A, F,/G,/ A, B, | B, C B, B, | A,3
+[V: S2V2] B, | B, A, B, E, | F, F, F, B, | B, A, B, E, | F,3
+[V: S1V1] F | B A/G/ F B | D E F F | G/A/ B B A | B3 |]
+w: The moon shines * full at His com- mand, And all * the stars o- bey. 
+w: If I sur- * vey the ground I tread, Or gaze * up- on the sky. 
+w: There's not a * place where we can flee, But God * is pre- sent there. 
+[V: S1V2] F | B A/G/ F F | D C/B,/ C D | E D/E/ F F | F3 |]
+[V: S2V1] F, | B, A,/G,/ F, B, | B, B, A, B, | B, B, C C | D3 |]
+[V: S2V2] F, | B, A,/G,/ F, D, | G, G, F, B,, | E, G, F, F, | B,,3 |]

@@ -1,0 +1,47 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] d/ | c B c A | B c d z/ d/ | d A A F | A G F z/
+w: 1.~From Heaven a- bove to earth I come, To bear good news to ev- ery home; 
+w: 2.~To you, this night, is born a Child Of Ma- ry, cho- sen mo- ther mild; 
+w: 3.~'Tis Christ our God, Who far on high Had heard your sad and bit- ter cry; 
+w: 4.~He brings those bless- ings long a- go Pre- pared by God for all be- low; 
+w: 5.~These are the to- kens ye shall mark, The swadd- ling clothes and man- ger dark; 
+w: 6.~Now let us all, with glad- some cheer, Fol- low the shep- herds, and draw near
+w: 7.~Give heed, my heart, lift up thine eyes! What is it in yon man- ger lies?
+w: 8.~Wel- come to earth, Thou no- ble Guest, Through Whom e'en wi- cked men are blest!
+w: 9.~Ah, Lord, Who hast cre- a- ted all, How hast Thou made Thee weak and small,
+w: 10.~Were earth a thou- sand times as fair, Be- set with gold and jew- els rare,
+w: 11.~For vel- vets soft and sil- ken stuff Thou hast but hay and straw so rough,
+w: 12.~Thus hath it pleased Thee to make plain The truth to us, poor fools and vain,
+w: 13.~Ah, dear- est Je- sus, ho- ly Child, Make Thee a bed, soft, un- de- filed,
+w: 14.~My heart for ver- y joy doth leap, My lips no more can si- lence keep,
+w: 15.~Glo- ry to God in high- est Heaven, Who un- to man His Son hath given,
+[V: S1V2]  F/ | E E E F | D G F x/ F/ | F F E D | D B, D x/
+[V: S2V1]  A,/ | A, ^G, A, A, | G, G, A, z/ A,/ | B, C A, A, | F, G, A, z/
+[V: S2V2]  D,/ | A,, E, A,, D, | G, E, D, x/ D,/ | B,, F, C, D, | D, E, B,, x/
+[V: S1V1]  F/ | B B A c | d B A z/ d/ | c B A A | G/F/ E !fermata!D z/ |]
+w: Glad ti- dings of great joy I bring, Where- of I now will say * and sing. 
+w: This ten- der Child of low- ly birth, Shall be the joy of all * your earth. 
+w: Him- self will your Sal- va- tion be, Him- self from sin will make * you free. 
+w: That in His heaven- ly king- dom blest You may with us for- ev- * er rest. 
+w: There shall ye find the young Child laid, By Whom the heav'ns and earth * were made. 
+w: To see this won- drous Gift of God, Who hath His own dear Son _ be- stowed.
+w: Who is this Child, so young and fair? The bless- èd Christ Child li- _ eth there!
+w: Thou com'st to share our mis- er- y, What can we ren- der, Lord, _ to Thee!
+w: To lie up- on the coarse dry grass, The food of hum- ble ox _ and ass.
+w: She yet were far too poor to be A nar- row cra- dle, Lord, _ for Thee.
+w: Where- on Thou King, so rich and great, As 'twere Thy heaven, art throned _ in state.
+w: That this world's hon- or, wealth and might Are naught and worth- less in _ Thy sight.
+w: Here in my poor heart's in- most shrine, That I may ev- er- more _ be Thine.
+w: I too must sing, with joy- ful tongue, That sweet- est an- cient cra- _ dle song.
+w: While an- gels sing, with pi- ous mirth, A glad New Year to all _ the earth.
+[V: S1V2]  D/ | F G E E | D E C x/ D/ | A G F E | D3/2 C/ !fermata!D x/ |]
+[V: S2V1]  B,/ | D D C A, | F, ^G, A, z/ F,/ | A, D D A, | B,/A,/ A, !invertedfermata!F, z/ |]
+[V: S2V2]  B,,/ | B,, G,, A,, A,, | B,, E, A,, x/ B,,/ | F, G, D, C, | B,,/D,/ A,, !fermata!D, x/ |]

@@ -1,0 +1,60 @@
+X:1
+M:2/4
+L:1/8
+Q:1/4=95
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] E2 E G | E3 E | F2 D2 | E3 G |
+w: 1.~Judge me, O God, and plead my cause A-
+w: 2.~O Thou the God of all my strength, Why
+w: 3.~O send Thou forth Thy light and truth, Let
+w: 4.~Then will I to God's al- tar go, To
+w: 5.~Why art thou then cast down, my soul, What
+w: 6.~Hope thou in God; His praise shall yet My
+[V:A] C2 C E | C3 C | D2 B,2 | C3 E |
+[V:T] G,2 G, C | G,3 G, | G,2 G,2 | G,3 C |
+[V:B] C,2 C, C, | C,3 C, | G,,2 G,,2 | C,3 C, |
+[V:S] (c G) (A G) | G2 ^F2 | G2 z2 | E2 E G |
+w: gainst _ a _ god- less race; From men de-
+w: hast _ Thou _ cast me off? Why go I
+w: them _ be _ guides to me, And bring me
+w: God, _ my _ bound- less joy; Yea, God, my
+w: should _ di- _ scou- rage thee? And why with
+w: thank- _ ful _ lips em- ploy; He is the
+[V:A] E2 (F E) | D2 D2 | D2 z2 | C2 C E |
+[V:T] C2 C2 | B,2 A,2 | B,2 z2 | G,2 G, C |
+[V:B] C,2 C,2 | D,2 D,2 | G,,2 z2 | C,2 C, C, |
+[V:S] E3 E | (F E) (F G) | E3 G | (A3/2 B1/2 c) A |
+w: ceit- ful and _ un- _ just De- li- _ _ ver
+w: mourn- ing all _ the _ day, While foes _ _ op-
+w: to Thy ho- _ ly _ hill, Thy dwel- _ _ ling\--
+w: God, Thy Name _ to _ praise My harp _ _ I
+w: ve- xing tho'ts _ art _ thou Dis- qu- _ _ ie-
+w: spring of all _ my _ health, My God, _ _ my
+[V:A] C3 C | (D C) (D E) | C3 G | (F3/2 G1/2 A) F |
+[V:T] G,3 G, | G,2 G,2 | G,3 B, | C3 C |
+[V:B] C,3 C, | G,2 G,,2 | C,3 E, | F,3 F, |
+[V:S] (G E) D2 | E3 E | D3 E | (G F) (E D) |
+w: in _ Thy grace, De- li- ver in _ Thy _
+w: press _ and scoff, While foes op- press _ and _
+w: place _ to see, Thy dwel- ling\-- place _ to _
+w: will _ em- ploy, My harp I will _ em- _
+w: ted _ in me, Dis- qu- ie- ted _ in _
+w: bound- _ less joy, My God, my bound- _ less _
+[V:A] (E C) B,2 | C3 C | B,3 C | (E D) (C B,) |
+[V:T] (C G,) G,2 | G,3 G, | G,3 G, | G,2 G,2 |
+[V:B] G,2 G,,2 | C,3 C, | G,,3 G,, | G,,2 G,,2 |
+[V:S] E4 |]
+w: grace.
+w: scoff?
+w: see.
+w: ploy.
+w: me?
+w: joy.
+[V:A] C4 |]
+[V:T] G,4 |]
+[V:B] C,4 |]

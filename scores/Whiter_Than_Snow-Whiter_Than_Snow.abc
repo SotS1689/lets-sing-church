@@ -1,0 +1,49 @@
+X: 1
+M: 3/4
+L: 1/8
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: A
+[V: S1V1] [Q:1/4=80] E2 | E2 A2 B2 | c6/2 B A2 | B2 c2 B2 | A4 E2 | E2 A2 B2 |
+w: 1.~Lord Je- sus, I long to be per- fect- ly whole; I want Thee for-
+w: 2.~Lord Je- sus, look down from Thy throne in the skies, And help me to
+w: 3.~Lord Je- sus, for this I most hum- bly en- treat, I wait, bless- ed
+w: 4.~Lord Je- sus, Thou see- st I pa- tient- ly wait, Come now, and with-
+[V: S1V2] C2 | C2 E2 E2 | E6/2 D C2 | D2 E2 D2 | C4 C2 | C2 E2 E2 |
+[V: S2V1] A,2 | A,2 A,2 G,2 | A,6/2 A, A,2 | G,2 G,2 G,2 | A,4 A,2 | A,2 A,2 G,2 |
+[V: S2V2] A,,2 | A,,2 C,2 E,2 | A,6/2 A, A,2 | E,2 E,2 E,2 | A,,4 A,,2 | A,,2 C,2 E,2 |
+[V: S1V1] c6/2 B A2 | B2 c2 B2 | A4 c2 | e2 c2 A2 | FA A2 A2 |
+w: ev- er to live in my soul, Break down ev- 'ry i- - dol, cast
+w: make a com- plete sac- ri- fice; I give up my- self, _ and what-
+w: Lord, at Thy cru- ci- fied feet, By faith, for my clean- _ sing, I
+w: in me a new heart cre- ate; To those who have sought _ Thee, Thou
+[V: S1V2] E6/2 D C2 | D2 E2 D2 | C4 E2 | E2 E2 E2 | DF F2 F2 |
+[V: S2V1] A,6/2 A, A,2 | G,2 G,2 G,2 | A,4 A,2 | C2 A,2 A,2 | A,2 A,2 A,2 |
+[V: S2V2] A,6/2 A, A,2 | E,2 E,2 E,2 | A,,4 A,2 | A,2 A,2 C,2 | D,2 D,2 D,2 | 
+[V: S1V1] d2 d2 d2 | c4 E2 | E2 A2 c2 | c6/2 B A2 | B6/2 A B2 | A6 ||
+w: out ev- 'ry foe; Now wash me and I shall be whit- er than snow.
+w: ev- er I know, Now wash me and I shall be whit- er than snow.
+w: see Thy blood flow, Now wash me and I shall be whit- er than snow.
+w: ne- ver said'st ``No,'' Now wash me and I shall be whit- er than snow.
+[V: S1V2] F2 F2 F2 | E4 C2 | C2 E2 E2 | E6/2 D C2 | E6/2 E D2 | C6 ||
+[V: S2V1] A,2 A,2 A,2 | A,4 A,2 | A,2 A,2 A,2 | A,6/2 G, A,2 | G,6/2 F, G,2 | A,6 ||
+[V: S2V2] D,2 D,2 D,2 | A,,4 A,,2 | A,,2 C,2 A,,2 | E,6/2 E, E,2 | E,6/2 E, E,2 | A,,6 ||
+[V: S1V1] B2 B2 B2 | B4 A2 | c2 A2 F2 | E4
+w: Whit- er than snow, yes, whit- er than snow; 
+w: Whit- er than snow, yes, whit- er than snow;
+w: Whit- er than snow, yes, whit- er than snow;
+w: Whit- er than snow, yes, whit- er than snow;
+[V: S1V2] D2 D2 D2 | D4 C2 | C2 C2 D2 | C4
+[V: S2V1] G,2 G,2 G,2 | G,4 A,2 | A,2 A,2 A,2 | A,4
+[V: S2V2] E,2 E,2 E,2 | E,4 F,2 | F,2 F,2 D,2 | A,,4
+[V: S1V1]  E2 | F2 A2 d2 | c6/2 B A2 | B6/2 A B2 | A4 |]
+w: Now wash me, and I shall be whit- er than snow.
+w: Now wash me, and I shall be whit- er than snow.
+w: Now wash me, and I shall be whit- er than snow.
+w: Now wash me, and I shall be whit- er than snow.
+[V: S1V2] C2 | D2 F2 F2 | E6/2 D C2 | E6/2 E D2 | C4 |]
+[V: S2V1] A,2 | A,2 A,2 A,2 | A,6/2 G, A,2 | G,6/2 F, G,2 | A,4 |]
+[V: S2V2] A,,2 | D,2 D,2 D,2 | E,6/2 E, E,2 | E,6/2 E, E,2 | A,,4 |]

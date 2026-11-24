@@ -1,0 +1,26 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:E
+[V:S] E | G A B E | F G A G | F E E D | E3 B | e d c B | B =A B G | F E E D | E3 |]
+w: 1.~Lord, from the ill and fro- ward man give me de- li- ve- rance, And do thou safe pre- serve me from the man of vi- o- lence:
+w: * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+w: 3.~Much like un- to a ser- pent's tongue their tongues they sharp do make; And un- der- neath their lips there lies the poi- son of a snake.
+w: 4.~Lord, keep me from the wick- ed's hands, from vi'- lent men me save; Who ut- ter- ly to ov- er- throw my go- ings pur- posed have.
+w: 5.~The proud for me a snare have hid, and cords; yea, they a net Have by the wa- y\-side for me spread; they gins for me have set.
+w: 6.~I said un- to the Lord, Thou art my God: un- to the cry O- f all my sup- pli- ca- tions, Lord, do thine ear ap- ply.
+w: 7.~O God the Lord, who art the strength of my sal- va- ti- on: A co- v'ring in the day of war my head thou hast put on.
+w: 8.~Un- to the wi- cked man, O Lord, his wi- shes do not grant; Nor fur- ther thou his ill de- vice, lest they them- selves should vaunt.
+w: 9.~As for the head and chief of those a- bout that com- pass me, Ev'n by the mis- chief of their lips let thou them co- ver'd be.
+w: 10.~Let burn- ing coals up- on them fall, them throw in fie- ry flame, And in deep pits, that they no more may rise out of the same.
+w: 11.~Let not an e- vil spea- ker be on earth e- sta- blish- èd: Mis- chief shall hunt the vi'- lent man, till he be ru- in- èd.
+w: 12.~I know God will th'af- flic- ted's cause main- tain, and poor men's right. Sure- ly the just shall praise thy name; th'u- pright dwell in thy sight.
+[V:A] B, | E E D E | D E E E | D C C B, | B,3 E | G F E D | C C D E | C B, C B, | B,3 |]
+[V:T] G, | B, E, F, B, | A, B, C B, | B, G, A, F, | G,3 G, | B, B, G, F, | G, F, F, B, | A, G, F, F, | G,3 |]
+[V:B] E, | E, C, B,, G, | F, E, A,, E, | B,, C, A,, B,, | E,3 E, | E, B,, C, D, | E, F, B,, E,, | F,, G,, A,, B,, | E,3 |]

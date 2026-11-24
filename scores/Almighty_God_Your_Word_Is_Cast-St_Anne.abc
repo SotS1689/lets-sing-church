@@ -1,0 +1,29 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=100] G | E A G c | c B c G | c G A ^F | G3
+w: 1.~Al- might- y God, Your Word is cast Like seed in- to the ground; 
+w: 2.~Let not the foe of Christ and man This ho- ly seed re- move, 
+w: 3.~Let not the world's de- ceit- ful cares The ris- ing plant de- stroy. 
+w: 4.~Nor let Your Word so kind- ly sent To raise us to Your throne 
+w: 5.~Oft as the prec- ious seed is sown, Your quick- 'ning grace be- stow, 
+w: 6.~Great God, come down and on Your Word Your might- y power be- stow,
+[V: S1V2]  C | C C C E | D D E E | E E E D | D3
+[V: S2V1]  E, | G, A, C C | A, G, G, C | C B, A, A, | B,3
+[V: S2V2]  C, | C, F, E, A, | F, G, C, C, | A,, E, C, D, | G,,3
+[V: S1V1]  B | c A d B | c A B G | A c d B | c3 |]
+w: Now let the dew of Heav'n de- scend, And right- eous fruits a- bound. 
+w: But give it root in ev- 'ry heart To bring forth fruits of love. 
+w: But let it yield a hun- dred- fold The fruits of peace and joy. 
+w: Re- turn to You, and sad- ly tell That we re- ject Your Son. 
+w: That all whose souls the truth re- ceive, Its sa- ving power may know. 
+w: That all who hear the joy- ful sound, Your sa- ving grace may know.
+[V: S1V2]  D | E C F D | E3/2 D/ B, C | F E D D | E3 |]
+[V: S2V1]  G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
+[V: S2V2]  G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]

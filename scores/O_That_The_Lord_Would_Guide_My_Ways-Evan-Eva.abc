@@ -1,0 +1,29 @@
+X: 1
+M: 3/2
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Ab
+[V: S1V1] [Q:1/4=130] E2 | E A c2 B2 | A F E2 E2 | E A c2 A2 | B4
+w: 1.~O that the Lord would guide my ways To keep His sta- tutes still! 
+w: 2.~O send Thy Spi- rit down to write Thy law up- on my heart! 
+w: 3.~From van- i- ty turn off mine eyes; Let no cor- rupt de- sign, 
+w: 4.~Or- der my foot- steps by Thy Word, And make my heart sin- cere; 
+w: 5.~My soul hath gone too far a- stray, My feet too of- ten slip;
+w: 6.~Make me to walk in Thy com- mands, 'Tis a de- ligh- tful road;
+[V: S1V2] C2 | C C E2 D2 | C D C2 C2 | C C C2 C2 | E4
+[V: S2V1] A,2 | A, A, A,2 G,2 | A, A, A,2 A,2 |  A, A, A,2 A,2 | G,4
+[V: S2V2] A,,2 | A,, A,, A,,2 E,2 | F, D, A,,2 A,,2 | A,, A, F,2 F,2 | E,4
+[V: S1V1] d2 | c B A2 B2 | c A F2 E2 | E A c2 B2 | A4 |]
+w: O that my God would grant me grace To know and do His will!
+w: Nor let my tongue in- dulge de- ceit, Nor act the li- ar's part.
+w: Nor cov- et- ous de- sires a- rise With- in this soul of mine.
+w: Let sin have no do- min- ion, Lord, But keep my con- science clear.
+w: Yet since I've not for- got Thy way, Re- store Thy wand'r- ing sheep.
+w: Nor let my head, or heart, or hands, Of- fend a- gainst my God.
+[V: S1V2] E2 | E E C2 E2 | E E D2 B,2 | C C E2 D2 | C4 |]
+[V: S2V1] B,2 | A, G, A,2 G,2 | A, A, A,2 G,2 | A, A, A,2 G,2 | A,4 |]
+[V: S2V2] E,2 | A, E, F,2 E,2 | A, C, D,2 E,2 | A,, F, E,2 E,2 | A,,4 |]

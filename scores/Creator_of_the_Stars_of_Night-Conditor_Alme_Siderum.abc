@@ -1,0 +1,29 @@
+X: 1
+M: 8/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100] G E G B c c A B | B c A B A G F G | 
+w: 1.~Cre- a- tor of the stars of night, Thy peo- ple's ev- er- las- ting light, 
+w: 2.~Thou, grie- ving that the an- cient curse Should doom to death a u- ni- verse,
+w: 3.~Thou cam'st the Bride- groom of the bride, As drew the world to e- v'ning tide; 
+w: 4.~At whose dread name, ma- jes- tic now, All knees must bend, all hearts must bow; 
+w: 5.~O Thou whose co- ming is with dread To judge and doom the quick and dead,
+w: 6.~To God the Fa- ther, God the Son, And God the Spi- rit, Three in One,
+[V: S1V2]  D C C D E E E D | E E C D E E D E | 
+[V: S2V1]  B, G, E, F, A, A, A, F, | G, G, A, F, C B, B, B, | 
+[V: S2V2]  G,, C, C, B,, A,, A,, C, B,, | E, C, F, B,, C, E, B,, E, | 
+[V: S1V1] B A F G A G F E | E G A B A G F G |]
+w: Je- su, Re- dee- mer, save us all, And hear Thy ser- vants when they call. 
+w: Hast found the med'- cine, full of grace, To save and heal a ru- ined race.
+w: Pro- cee- ding from a vir- gin shrine, The spot- less Vic- tim all di- vine.
+w: All things ce- les- tial Thee shall own, And things ter- res- trial, Lord a- lone. 
+w: Pre- serve us while we dwell be- low, From e- very in- sult of the foe. 
+w: Laud, hon- or, might, and glo- ry be, From age to age e- ter- nal- ly.
+[V: S1V2] E E B, E E E D C | E D C B, E E D D |]
+[V: S2V1] G, A, B, B, C B, B, G, | G, G, E, E, C B, B, B, |]
+[V: S2V2] E, C, D, E, A,, E, B,, C, | C, B,, A,, G,, A,, E, B,, G,, |]

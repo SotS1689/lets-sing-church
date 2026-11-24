@@ -1,0 +1,31 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:C
+[V:S] G | E A G c | c B c G | c G A ^F | G3 B | c A d B | c A B G | A c d B | c3 |]
+w: 1.~Lord, thou hast been our dwel- ling\-- place in gen- er- a- tions all. Be- fore thou ev- er hadst brought forth the moun- tains great or small;
+w: 2.~Ere ev- er thou hadst formed the earth, and all the world a- broad; Ev'n thou from ev- er- last- ing art to ev- er- last- ing God.
+w: 3.~Thou dost un- to de- struc- ti- on man that is mor- tal turn; And un- to them thou say'st, A- gain, ye sons of men, re- turn.
+w: 4.~Be- cause a thou- sand years ap- pear no more be- fore thy sight Than ye- ster- day, when it is past, or than a watch by night.
+w: 5.~As with an o- ver- flo- wing flood thou car- ry'st them a- way: They like a sleep are, like the grass that grows at morn are they.
+w: 6.~At morn it flou- ri- shes and grows, cut down at ev'n doth fade. For by thine an- ger we're con- sumed, thy wrath makes us a- fraid.
+w: 7.~Our sins thou and i- ni- qui- ties dost in thy pre- sence place, And sett'st our sec- ret faults be- fore the bright- ness of thy face.
+w: 8.~For in thine an- ger all our days do pass on to an end; And as a tale that hath been told, so we our years do spend.
+w: 9.~Three- score and ten years do sum up our days and years, we see; Or, if, by rea- son of more strength, in some four- score they be:
+w: 10.~Yet doth the strength of such old men but grief and la- bor prove; For it is soon cut off, and we fly hence, and soon re- move.
+w: 11.~Who knows the po- wer of thy wrath? ac- cor- ding to thy fear So is thy wrath: Lord, teach thou us our end in mind to bear;
+w: 12.~And so to count our days, that we our hearts may still ap- ply To learn thy wis- dom and thy truth, that we may live the- reby.
+w: 13.~Turn yet a- gain to us, O Lord, how long thus shall it be? Let it re- pent thee now for those that ser- vants are to thee.
+w: 14.~O with thy ten- der mer- cies, Lord, us ear- ly sa- tis- fy; So we re- joice shall all our days, and still be glad in thee.
+w: 15.~Ac- cor- ding as the days have been, where- in we grief have had, And years where- in we ill have seen, so do thou make us glad.
+w: 16.~O let thy work and pow'r ap- pear thy ser- vants' face be- fore; And show un- to their child- ren dear thy glo- ry ev- er- more:
+w: 17.~And let the beau- ty of the Lord our God be us up- on: Our han- dy\-- works e- sta- blish thou, e- sta- blish them each one.
+[V:A] C | C C C E | D D E E | E E E D | D3 D | E C F D | E3/2 D/ B, C | F E D D | E3 |]
+[V:T] E, | G, A, C C | A, G, G, C | C B, A, A, | B,3 G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
+[V:B] C, | C, F, E, A, | F, G, C, C, | A,, E, C, D, | G,,3 G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]

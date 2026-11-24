@@ -1,0 +1,29 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=100] D/E/ | F2 F (A3/2 G/) F | (E3/2 F/) G F2 A | (A E) F G2 B | B2 A F2 
+w: 1.~Just * as I am, * wi- thout * one plea, But that * Thy blood was shed for me, 
+w: 2.~Just * as I am, * and wai- * ting not To rid * my soul of one dark blot, 
+w: 3.~Just * as I am, * though tossed * a- bout With ma- * ny'a con- flict, ma- ny'a doubt, 
+w: 4.~Just * as I am, * poor, wre- * tched, blind; Sight ri- * ches hea- ling of the mind, 
+w: 5.~Just * as I am, * Thou wilt * re- ceive, Wilt wel- * come, par- don, cleanse, re- lieve, 
+w: 6.~Just _ as I am, _ Thy love _ un- known Has bro- _ ken ev- ery bar- rier down;
+[V: S1V2]  D | D2 D (F3/2 E/) D | (C3/2 D/) E D2  F | E2 D E2 G | G2 F D2
+[V: S2V1]  F,/G,/ | A,2 A, A,2 A, | A,2 A, A,2 D | C2 A, A,2 C | D2 D A,2
+[V: S2V2]  D, | D,2 D, D,2 D, | A,,2 A,, D,2 D, | A,2 A, A,2 A,, | D,2 D, D,2 
+[V: S1V1]  D/E/ | F2 F (A3/2 G/) F | B2 B (d3/2 c/) B | A2 A (A3/2 G/) F | E3 A3 | F4- F |]
+w: And * that Thou bid- dest me come to Thee, * O Lamb of God, * I come, I come. * 
+w: To * Thee, Whose blood * can cleanse each spot, * O Lamb of God, * I come, I come.  * 
+w: Figh- * tings and fears * with- in, with- out, * O Lamb of God, * I come, I come.  * 
+w: Yea, * all I need, * in Thee to find, * O Lamb of God, * I come, I come.  * 
+w: Be- * cause Thy pro- * mise I be- lieve, * O Lamb of God, * I come, I come.  * 
+w: Now _ to be Thine, _ yea Thine a- lone, _ O Lamb of God, _ I come, I come. _
+[V: S1V2]  D | D2 D (F3/2 E/) D | G2 G G2 G | F2 F (F3/2 E/) D | C3 C3 | D4- D |]
+[V: S2V1]  F,/G,/ | A,2 A, A,2 D | D2 D (B,3/2 C/) D | D2 D A,2 A, | A,3 A,3 | A,4- A, |]
+[V: S2V2]  D, | D,2 D, (D,3/2 E,/) F, | G,2 G, G,2 G, | D,2 D, D,2 D, | A,3 A,,3 | D,4- D, |]

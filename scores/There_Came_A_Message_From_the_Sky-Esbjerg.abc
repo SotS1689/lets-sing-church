@@ -1,0 +1,36 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: A
+[V: S1V1] [Q:1/4=100] E | A B c A | d c B E | F G A c | B2 !fermata!A 
+w: 1.~There came a mes- sage from the sky: God has the earth be- frien- ded, 
+w: 2.~It first to Na- za- reth did come By Ga- bri- el ex- poun- ded; 
+w: 3.~Thou shalt a Son con- ceive and bear, Who is the Prince of hea- ven, 
+w: 4.~The Ho- ly Spi- rit shall to thee His bound- less po- wer ren- der, 
+w: 5.~Come, Christ- mas Child, and be my guest, Give me Thy Ho- ly Spi- rit, 
+[V: S1V2]  B, | E F E F | E E E E | E D C E | D2 !fermata!C 
+[V: S2V1]  G, | A, F,/G,/ A, C | B, A, G, A, | A, B, A, A,- | A, G, !fermata!A, 
+[V: S2V2]  E, | C, D, A,, F, | G, A, E, C, | D, B,, F, C, | E,2 !invertedfermata!A,, 
+[V: S1V1]  E | A B c A | d c B E | F G A c | B2 !fermata!A 
+w: His Son who dwells in hea- ven high, By an- gel hosts at- ten- ded, 
+w: To Ma- ry, in her hum- ble home, So won- der- ful it soun- ded: 
+w: Who shall to Da- vid's throne be heir And Ja- cob's house be gi- ven; 
+w: A- bun- dant shall the mer- cy be From Him, thy strong De- fen- der; 
+w: Pre- pare my heart and make it blest Fo- re- ver through Thy me- rit, 
+[V: S1V2]  B, | E F E F | E E E E | E D C E | D2 !fermata!C 
+[V: S2V1]  G, | A, F,/G,/ A, C | B, A, G, A, | A, B, A, A,- | A, G, !fermata!A, 
+[V: S2V2]  E, | C, D, A,, F, | G, A, E, C, | D, B,, F, C, | E,2 !invertedfermata!A,, 
+[V: S1V1] c | c c c B | A G F B | G F !fermata! E E | A A d c | B2 !fermata!A  |] 
+w: Will now your flesh and blood put on As Da- vid's Son; Your wret- ched state is en- ded. 
+w: O Ma- ry, hail, thou shalt not fear, The Lord is near, To thee hath grace a- boun- ded! 
+w: He shall ex- tend to e- v'ry race His reign of grace, His king- dom, like a lea- ven. 
+w: This child is there- fore from a- bove, Whom thou shalt love As mo- ther kind and ten- der. 
+w: That I at last may dwell with Thee, Thy king- dom see, And all its gifts in- he- rit. 
+[V: S1V2] E | ^E F C G | F ^E F F | E ^D !fermata!E  B, | E F F/G/ A- | A G !fermata!A  |] 
+[V: S2V1] A, | B, A, G, C  | C B, A, B, | B, A, !fermata!G, G, | A, C D E | (E D) !fermata!C  |] 
+[V: S2V2] A, | G, F, ^E, E, | F, C, D, ^D, | E, B,, !invertedfermata!C, _D, | C, F, B,, C,/D,/ | E,2 !invertedfermata! A,, |] 

@@ -1,0 +1,36 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=120] D2 A F | G2 A2 | D3/2 E/ F G | (F E) D2 | D2 A F |
+w: 1.~Lord of our life, and God of our sal- va- * tion, Star of our 
+w: 2.~See round Thine Ark the hun- gry bil- lows curl- * ing! See how Thy 
+w: 3.~Lord, Thou canst help when earth- ly ar- mor fail- * eth; Lord, Thou canst 
+w: 4.~Peace, in our hearts, our e- vil thoughts as- suag- * ing, Peace, in Thy 
+w: 5.~Grant us Thy help till back- ward they are dri- * ven; Grant them Thy 
+[V: S1V2] A,2 E D | E2 E2 | B,3/2 B,/ C D | C2 A,2 | B,2 C D | 
+[V: S2V1] F,2 A, F, | G,2 A,2 | F,3/2 G,/ F, B, | (A, G,) F,2 | F,2 F, A, |
+[V: S2V2] D,2 C, D, | C,2 A,,2 | B,,3/2 G,,/ A,, B,, | C,2 (D, C,) | B,,2 F,, D, |
+[V: S1V1] G2 A2 | A3/2 G/ A =B | (c =B) A2 | d2 c d | (c B) A2 |
+w: night, and Hope of ev- ery na- * tion, Hear and re- ceive * Thy 
+w: foes their ban- ners are un- furl- * ing! Lord, while their darts * en- 
+w: save when sin it- self as- sail- * eth; Lord, o'er Thy Rock * nor 
+w: Church, where bro- thers are en- ga- * ging, Peace, when the world * its 
+w: Truth, that they may be for- giv- * en; Grant peace on earth, * and 
+[V: S1V2] E2 F2 | F3/2 C/ C F | E2 E2 | F2 G (A | A) G E2 |
+[V: S2V1] C2 C2 | D3/2 G,/ F, F, | G,2 A,2 | A,2 G, A, | (F, G,) A,2 |
+[V: S2V2] C,2 (F, E,) | D,3/2 E,/ F, D, | (C, E,) A,,2 | D,,2 E,, D,, | (F,, G,,) A,,2 |
+[V: S1V1] c3/2 B/ A B | (A G) F2 | A2 D E | (F2 E2) | D4 |]
+w: church- 's sup- pli- ca- * tion, Lord God Al- migh- * ty. 
+w: ven- omed they are hurl- * ing, Thou canst pre- serve * us. 
+w: death nor hell pre- vail- * eth; Grant us Thy peace, * Lord. 
+w: bu- sy war is wa- * ging; Calm Thy foes ra- * ging! 
+w: af- ter we have stri- * ven, Peace in Thy Hea- * ven. 
+[V: S1V2] F3/2 E/ F G | (F E) D2 | E2 B, B, | (C D2 C/B,/) | A,4 |]
+[V: S2V1] F,3/2 G,/ A, G, | (A, G,) A,2 | A,2 F, G, | (A, B, G,2) | (G,2 F,2) |]
+[V: S2V2] F,,3/2 G,,/ A,, G,, | (A,, C,) D,2 | A,,2 B,, G,, | (F,, B,, C, C,,) | D,,4 |]

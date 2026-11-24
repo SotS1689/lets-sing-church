@@ -1,0 +1,81 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: A
+[V: S1V1] [Q:1/4=120] A E A B | c3/2 d/ c B | e A B c/d/ | c B c2 |
+w: 1.~See, the Lord as- cends in tri- umph; see the King in * ro- yal state, 
+w: 2.~Who is this that comes in glo- ry, with the trump of * ju- bi- lee? 
+w: 3.~While He lifts His hands in bless- ing, He is part- ed * from His friends 
+w: 4.~Now our heav'n- ly Aa- ron en- ters, with His blood, with- * in the veil; 
+w: 5.~He has raised our hu- man na- ture in the clouds to * God's right hand; 
+[V: S1V2] E B, C E | E E E E | E C F F | E E E2 |
+[V: S2V1] C B, A, G, | A,3/2 B,/ A, G, | A, A, A, A, | A, G, A,2 |
+[V: S2V2] A, G, F, E,/D,/ |C, A,, E, E, | C, F, D, C,/B,,/ | E, E, A,,2 |
+[V: S1V1] c B c e | A G G F | B B e G | F F E2 |
+w: Ri- ding on the clouds, His char- iot, To His heav'n- ly pal- ace gate. 
+w: Lord of bat- tles, God of arm- ies, He has gained the vic- tor- y. 
+w: While their ea- ger eyes be- hold Him, He up- on the cloud as- cends; 
+w: Josh- ua now is come to Ca- naan, and the kings be- fore Him quail; 
+w: There we sit in heav'n- ly pla- ces, there with Him in glo- ry stand: 
+[V: S1V2] E E E E | C/^D/ E E D | F G/F/ E E | E ^D E2 |
+[V: S2V1] A, G, A, B, | C B, B, B, | A, B,/A,/ G, B, | C B,/A,/ G,2 |
+[V: S2V2] A, E, A, G, | F, G,/A,/ B, B,, | ^D, B,, C, B,, | B,, B,, E,2 |
+[V: S1V1] E3/2 F/ G B | A G F E | A B c/d/ e | d c B2 |
+w: Hark! the choirs of an- gel voi- ces Joy- ful al- * le- lu- ias sing, 
+w: He Who on the cross did suf- fer, He who from * the grave a- rose, 
+w: He Who walked with God and pleased Him, preach- ing truth * and doom to come, 
+w: Now He plants the tribes of Is- rael in their pro- * mised rest- ing place; 
+w: Je- sus reigns, a- dored by an- gels; man with God * is on the throne; 
+[V: S1V2] E3/2 E/ E F | E E D C | C E E E | E E E2 |
+[V: S2V1] G,3/2 A,/ B, =D | C B, A,/B,/ C | A, G, A,/B,/ C | G, A, G,2 |
+[V: S2V2] E,3/2 E,/ E, B,, | C,/D,/ E, F,/G,/ A, | F, E, A, C, | B,, A,, (E, D,) |
+[V: S1V1] A E A B | c3/2 d/ c B | e A d c | B B A2 |]
+w: And the por- tals high are lift- ed To re- ceive their heav'n- ly King. 
+w: He has van- quished sin and Sa- tan, He by death has spoiled His foes. 
+w: He, our E- noch, is trans- la- ted to His ev- er- last- ing home. 
+w: Now our great El- i- jah of- fers dou- ble por- tion of His grace. 
+w: Might- y Lord, in Thine as- cen- sion we by faith be- hold our own. 
+[V: S1V2] E E E E | E A E E | E C F E | E3/2 D/ C2 |]
+[V: S2V1] A, G, A, G, | A,3/2 B,/ A, G, | A, A, A, A, | A, G, A,2 |]
+[V: S2V2] C, E,/D,/ C, B,, | A,, F, E,3/2 D,/ | C, F, D, A,, | E, E, A,,2 |]
+[V: S1V1] A3/2 A/ B c | e c A B | E A B c | B/c/ A G2 |
+w: 6.~Ho- ly Ghost, Il- lum- in- a- tor, shed Thy beams up- on * our eyes, 
+w: 7.~See Him, Who is gone be- fore us, Heav'n- ly man- sions to * pre- pare, 
+w: 8.~Raise us up from earth to Hea- ven, give us wings of faith * and love, 
+w: 9.~So at last, when He ap- pear- eth, we from out our graves * may spring, 
+w: 10.~$1D$2~Glo- ry be to God the Fa- ther, Glo- ry be to God * the Son, 
+[V: S1V2] E3/2 A/ A A | B G F F | E E E E | E ^D E2 |
+[V: S2V1] C3/2 C/ D E | B, E C B, | G, A, G, A, | E A, B,2 |
+[V: S2V2] A,3/2 A,/ A, A, | G, E, F, D, | E, C, E, A, | G,/A,/ F, E,2 |
+[V: S1V1] A3/2 A/ B c | e c A B | E3/2 A/ G E | G/A/ F E2 |
+w: Help us to look up with Ste- phen, and to see be- yond * the skies, 
+w: See Him, who is ev- er plead- ing For us with pre- vail- * ing prayer, 
+w: Gales of ho- ly as- pir- a- tions waft- ing us to realms * a- bove; 
+w: With our youth re- newed like eag- les, flock- ing round our Heav'n- * ly King. 
+w: Dy- ing, ris'n, as- cend- ing for us, who the heav'n- ly realm * has won; 
+[V: S1V2] E3/2 A/ A A | G G F ^D | E3/2 ^D/ E E | E ^D B,2 |
+[V: S2V1] C3/2 C/ D E | E E C B, | G,3/2 A,/ B, C | B, B, G,2 |
+[V: S2V2] A,3/2 A,/ A, A, | C, E, F, B,, | C,3/2 F,,/ G,, A,, | B,, B,, E,2 |
+[V: S1V1] F A G E | F A E E | A B c F | A/B/ G F2 |
+w: Where the Son of Man in glo- ry Stand- ing is at God's * right hand, 
+w: See Him, who with sound of trum- pet, and with His an- gel- * ic train, 
+w: That, with hearts and minds up- lift- ed, we with Christ our Lord * may dwell, 
+w: Caught up on the clouds of Hea- ven, and may meet Him in * the air, 
+w: Glo- ry to the Ho- ly Spir- it, To One God in Per- * sons Three; 
+[V: S1V2] D D E E | E D D C | C D C F | F ^E F2 |
+[V: S2V1] A, A, B, C | A, A, A, A, | A, F, F, D | C C A,2 |
+[V: S2V2] D, F, E, A, | D, F, A, A, | F, D, A,, B,, | C, C, F,2 |
+[V: S1V1] G A F E | A B d c | e c A B | c/A/ G A2 |]
+w: Beck- 'ning on His mar- tyr ar- my, suc- cor- ing His faith- * ful band. 
+w: Sum- mon- ing the world to judg- ment, on the clouds will come * a- gain. 
+w: Where He sits en- throned in glo- ry in His heav'n- ly Cit- * a- del. 
+w: Rise to realms where He is reign- ing, and may reign for ev- * er there. 
+w: Glo- ry both in earth and Hea- ven, glo- ry, end- less glo- * ry, be. 
+[V: S1V2] B, E D C | C E F/G/ A | G E C F | E E C2 |]
+[V: S2V1] B, A, A,/B,/ C | A, G, A, A, | C G, A, A, | A,/C/ B, A,2 |]
+[V: S2V2] E,/D,/ C, D, A,, | F, E, D, A, | C, E, F, D, | E, E, A,,2 |]

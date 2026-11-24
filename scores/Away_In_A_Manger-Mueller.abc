@@ -1,0 +1,22 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves S1 | S2 
+V: S1 clef=treble 
+V: S2 clef=bass 
+K: F
+[V: S1] [Q:1/4=100] [Ac] | [A3/2c3/2] [G/B/] [FA] | [F3/2A3/2] [E/G/] [CF] | [DF] [CE] [B,D] | [A,2C2] [A,C] | [B,3/2C3/2] [B,/D/] [B,C] |
+w: 1.~A- way in a man- ger, no crib for a bed, The lit- tle Lord 
+w: 2.~The cat- tle are low- ing, the Ba- by a- wakes, But lit- tle Lord 
+w: 3.~Be near me, Lord Je- sus, I ask Thee to stay Close by me for- 
+[V: S2]  [F,,F,] | [F,,3F,3] | [F,,3F,3] | [B,,,3B,,3] | [F,,2F,2] [F,,F,] | [C,3E,3] |
+[V: S1]  [B,C] [B,G] [B,E] | [B,D] [A,C] [CF] | [F2A2] [Ac] | [A3/2c3/2] [G/B/] [FA] | ([F3/2A3/2] [E/G/]) [CF] |
+w: Je- sus laid down His sweet head. The stars in the sky * looked 
+w: Je- sus, no cry- ing He makes; I love Thee, Lord Je- sus, look 
+w: ev- er, and love me, I pray; Bless all the dear child- ren in 
+[V: S2]  [C,2E,2] C, | [F,,3-F,3-] | [F,,2F,2] [F,,F,] | [F,,3F,3] | [F,,3F,3] |
+[V: S1]  [DF] [CE] [B,D] | [A,2C2] [A,C] | [G3/2B3/2] [F/A/] [EG] | [FA] [CG] [CF] | [DG] [B,D] [CE] | [C2F2] |]
+w: down where He lay, The lit- tle Lord Je- sus, a- sleep on the hay. 
+w: down from the sky And stay by my cra- dle til morn- ing is nigh. 
+w: Thy ten- der care, And fit us for Hea- ven to live with Thee there. 
+[V: S2]  [B,,,3B,,3] | [F,,2F,2] [F,,F,] | [C,,3C,3] | [F,,3F,3] | [B,,,2B,,2] [C,,C,] | [F,,2F,2] |]

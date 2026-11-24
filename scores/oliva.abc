@@ -1,0 +1,45 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=95
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] C2 | C3/2 F1/2 B3 A | (A3/2 G1/2) F2 E2 | D3 F B D |
+w: 1.~How long wilt thou for- get _ me, O Lord, Thou God of
+w: 2.~O Lord my God, be- hold _ me, And hear my earn- est
+w: 3.~But I with ex- pec- ta- _ tion Have on Thy grace re-
+[V:A] C2 | C3/2 C1/2 F3 F | E2 D2 ^C2 | D3 D D B, |
+[V:T] A,2 | A,3/2 A,1/2 D3 C | (C3/2 B,1/2) A,2 G,2 | F,3 B, F, F, |
+[V:B] F,2 | F,3/2 F,1/2 F,3 F, | C,2 D,2 A,,2 | B,,3 B,, B,, B,, |
+[V:S] C4 C2 | C3/2 F1/2 B3 A | (c3/2 B1/2) A2 F2 | G3 E F D |
+w: grace? How long shall fears be- set _ me, While dark- ness hides Thy
+w: cries; Lest sleep of death en- fold _ me, En- ligh- ten Thou mine
+w: lied; My heart in Thy sal- va- _ tion Shall still with joy con-
+[V:A] A,4 C2 | C3/2 C1/2 F3 F | (A3/2 G1/2) F2 F2 | E3 C D =B, |
+[V:T] F,4 A,2 | A,3/2 A,1/2 D3 C | C2 C2 A,2 | C3 G, G, F, |
+[V:B] F,4 F,2 | F,3/2 F,1/2 F,3 F, | C,2 F,2 F,2 | C,3 C, G,, G,, |
+[V:S] C4 c2 | c3 E F G | (A3/2 B1/2) c2 A2 | A3 E F G |
+w: face? How long shall griefs dis- tress _ me And turn my day to
+w: eyes; Lest now my foe in- sul- _ ting Should boast of his suc-
+w: fide. And I with voice of sing- _ ing Will praise the Lord a-
+[V:A] C4 E2 | E3 C C E | F2 F2 F2 | F3 E D D |
+[V:T] E,4 G,2 | G,3 B, A, G, | (F,3/2 G,1/2) A,2 F,2 | F,3 A, D D |
+[V:B] C,4 C,2 | C,3 C, C, C, | F,2 F,2 F,2 | D,3 ^C, D, B,, |
+[V:S] A4 c2 | f3 c B A | (G3/2 B1/2) d2 d2 | c3 F G A |
+w: night? How long shall foes op- press _ me And tri- umph in their
+w: cess, And e- ne- mies e- xul- _ ting Re- joice in my dis-
+w: bove, Who, rich- est boun- ties bring- _ ing, Has dealt with me in
+[V:A] E4 E2 | F3 F F F | F2 F2 F2 | F3 C C E |
+[V:T] ^C4 B,2 | A,3 A, B, C | D2 B,2 ^G,2 | A,3 A, B, C |
+[V:B] A,,4 G,2 | F,3 _E, D, C, | B,,2 B,,2 =B,,2 | C,3 C, C, C, |
+[V:S] F4 |]
+w: might?
+w: tress.
+w: love.
+[V:A] F4 |]
+[V:T] A,4 |]
+[V:B] F,,4 |]

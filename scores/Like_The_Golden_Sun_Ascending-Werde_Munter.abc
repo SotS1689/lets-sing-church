@@ -1,0 +1,65 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] A B c c | B A G G | A3/2 B/ c A | G G F3/2 z/ | 
+w: 1.~Like the gol- den sun a- scen- ding, Brea- king through the gloom of night, 
+w: 2.~Thanks to Thee, O Christ vic- to- rious! Thanks to Thee, O Lord of life! 
+w: 3.~For my heart finds con- so- la- tion, And my fain- ting soul grows brave, 
+w: 4.~Though I be by sin o'er- ta- ken, Though I lie in help- less- ness, 
+w: 5.~Thou hast died for my trans- gres- sion, All my sins on Thee were laid; 
+w: 6.~Sa- tan's ar- rows all lie bro- ken, Death and hell have met their doom;
+w: 7.~As the Son of God I know Thee, For I see Thy sover- eign pow'r;
+w: 8.~Un- to life Thou shalt a- rouse me By Thy re- sur- rec- tion's pow'r;
+w: 9.~Grant me grace, O bless- ed Sa- vior, And Thy Ho- ly Spi- rit send,
+w: 10.~For the joy Thy birth doth give me, For Thy ho- ly, pre- cious Word;
+[V: S1V2]  F F F F | E F F E | E3/2 F/ G C | D C C3/2 x/ | 
+[V: S2V1]  C D C A, | B, C D C | C3/2 B,/ G, A, | B, B, A,3/2 z/ | 
+[V: S2V2]  F, D, A,, F,, | G,, A,, B,, C, | C,3/2 D,/ E, F, | F, E, F,3/2 x/ | 
+[V: S1V1] A B c c | B A G G | A3/2 B/ c A | G G F3/2 z/ | 
+w: On the earth His glo- ry spen- ding So that dark- ness takes to flight; 
+w: Death has now no po- wer o'er us, Thou hast con- quered in the strife; 
+w: When I stand in con- tem- pla- tion, At Thy dark and dis- mal grave; 
+w: Though I be by friends for- sa- ken, And must suf- fer sore dis- tress, 
+w: Thou hast won for me sal- va- tion, On the cross my debt was paid; 
+w: Christ, Thy ris- ing is the to- ken: Thou hast tri- umphed o'er the tomb;
+w: Sin and death shall not o'er- throw me Ev- en in my dy- ing hour;
+w: Though the hi- deous grave shall house me, And my flesh the worms de- vour;
+w: That my walk and my be- ha- vior May be plea- sing in the end;
+w: Fo- r Thy bapt’sm which doth save me, For Thy gra- cious fest- al board;
+[V: S1V2] F F F E | D/E/ F F E | F3/2 F/ G F | F E C3/2 x/ | 
+[V: S2V1] F, F, G, G, | B, C C C | C3/2 D/ E F | D C/B,/ A,3/2 z/ | 
+[V: S2V2] D, D, C, C, | G, F, C, C, | F,3/2 D,/ C, D, | B,, C, F,,3/2 x/ | 
+[V: S1V1]  G A B B | A A G3/2 z/ | B3/2 c/ d d | c c B3/2 z/ | 
+w: Thus my Je- sus from the grave And death's dis- mal, dread- ful cave, 
+w: Thanks be- cause Thou didst a- rise And hast o- pened pa- ra- dise! 
+w: When I see where Thou didst sleep In death's dun- geon dark and deep, 
+w: Though I be des- pised, con- temned, And by all the world con- demned, 
+w: From the grave I shall a- rise, And shall meet Thee in the skies; 
+w: Thou hast bur- ied all my woe, And my cup doth o- ver- flow;
+w: For Thy res- ur- rec- tion is Su- re- ty for my heav'nly bliss,
+w: Fire and wa- ter may de- stroy My frail bo- dy, yet with joy
+w: That I may not fall a- gain In- to death's grim pit and pain
+w: For Thy death, the bit- ter scorn, For Thy res- ur- rec- tion morn,
+[V: S1V2]  E ^F G G | G ^F D3/2 x/ | F3/2 _E/ D F | G F D3/2 x/ | 
+[V: S2V1]  C C D D | _E D B,3/2 z/ | F,3/2 A,/ B, B, | B, A, B,3/2 z/ | 
+[V: S2V2]  C, A,, G,, B,, | C, D, G,,3/2 x/ | D,3/2 C,/ B,, D, | _E, F, B,,3/2 x/ | 
+[V: S1V1]  A B c c | B A G G | A B c A | G G F !fermata!F  |] 
+w: Rose tri- um- phant Eas- ter mor- ning, At the ear- ly pur- ple daw- ning.
+w: None can ful- ly sing the glo- ry Of the re- sur- rec- tion sto- ry.
+w: Yet didst break all bands a- sun- der, Must I not re- joice and won- der? 
+w: Though the dark grave yawn be- fore me, Yet the light of hope shines o'er me.
+w: Death it- self is tran- si- to- ry, I shall lift my head in glo- ry. 
+w: By Thy res- ur- rec- tion glor- ious I shall wave my palms vic- tor- ious.
+w: And my bapt'sm a re- flec- ti- on Of Thy death and res- ur- rec- tion
+w: I shall rise as Thou hast ri- sen From the deep sep- ul- chral pri- son.
+w: When by grace Thou hast re- ceived me, And from which Thou hast re- lieved me.
+w: Lord I thank Thee and ex- tol Thee, And in heav'n I shall be- hold Thee.
+[V: S1V2] F G G F | F F F E | F F C C | D E C !fermata!C |] 
+[V: S2V1] C D C A, | F, C D C | C F, G, A, | B, B, B, !invertedfermata!A, |] 
+[V: S2V2] F, F, E, _E, | D, C, B,, C, | F, D, E, F, | B,, B,, F, !fermata!F, |] 

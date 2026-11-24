@@ -1,0 +1,61 @@
+X: 1
+M: 3/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: E
+[V: S1V1] [Q:1/4=100] E3/4F// | G2 G3/4A// | (B G) E | (F3/2 G/) A | (A G) E3/4G// | B2 c | B2 G |
+w: 1.~Je- * sus, Thy * bound- * less love * to me * No * thought can reach, no 
+w: 2.~O, * grant that * no- * thing in * my soul * May * dwell but Thy pure 
+w: 3.~O * love, how * cheer- * ing is * thy ray! * All * pain be- fore thy 
+w: 4.~This * love un- * wear- * ied I * pur- sue * And * daunt- less- ly to 
+w: 5.~My * Sa- vior, * Thou * Thy love * to me * In * shame, in want, in 
+w: 6.~More _ hard than _ mar- _ ble is _ my heart, _ And _ foul with sins of
+w: 7.~O _ that I, _ as _ a lit- _ tle child, _ May _ fol- low Thee, and
+w: 8.~Still _ let Thy _ love _ point out _ my way; _ How _ won- drous things Thy
+w: 9.~In _ suf- fering _ be _ Thy love _ my peace, _ In _ weak- ness be Thy
+[V: S1V2]  B, | B,2 E3/4F// | (G E) E | E2 D/F/ | (F E) B,3/4E// | G2 A | G2 E |
+[V: S2V1]  G,3/4A,// | B,2 B,3/4E// | (E B,) B, | (C B,) B, | B,2 G,3/4B,// | E2 E | E2 B, |
+[V: S2V2]  E, | E,2 E, | E,2 G,, | (A,, B,,) B,, | E,2 E, | E,2 E, | E,2 E, |
+[V: S1V1]  G2 F | F2 E3/4F// | G2 G3/4A// | (B G) E | (F3/2 G/) A | (A G) E3/4G// |
+w: tongue de- clare; U- * nite my * thank- * ful heart * with Thee * And * 
+w: love a- lone! Oh, * may Thy * love * pos- sess * me whole, * My * 
+w: pre- sence flies; Care, * an- guish, * sor- * row, melt * a- way * Wher- * 
+w: Thee a- spire. Oh, * may Thy * love * my hope * re- new * Burn * 
+w: pain, hast showed; For * me, on * the * a- ccur- * sed tree, * Thou * 
+w: deep- est stain; But _ Thou the _ might- _ y Sa- _ vior art, _ Nor _
+w: ne- ver rest Till _ sweet- ly _ Thou _ hast breathed _ Thy mild _ And _
+w: love hath wrought! Still _ lead me, _ lest _ I go _ a- stray; _ Di- _
+w: love my power; And _ when the _ storms _ of life _ shall cease, _ Je- _
+[V: S1V2]  E2 E | D2 B, | B,2 E3/4F// | (G E) E | E2 D/F/ | (F E) B,3/4E// |
+[V: S2V1]  C2 ^A, | B,2 G,3/4A,// | B,2 B,3/4E// | (E B,) B, | (C B,) B, | B,2 G,3/4B,// |
+[V: S2V2]  C,2 F, | B,,2 E, | E,2 E, | E,2 G,, | (A,, B,,) B,, | E,2 E, |
+[V: S1V1]  B2 c | B2 G | G2 F | F2 G | A2 B | c2 B |
+w: reign with- out a ri- val there. To Thee a- lone, dear 
+w: joy, my trea- sure, and my crown! All cold- ness from my 
+w: e'er thy heal- ing beams a- rise. O Je- sus, no- thing 
+w: in my soul like heav'n- ly fire! And day and night be 
+w: pour- est forth Thy guilt- less blood; Thy wounds u- pon my 
+w: flowed thy clean- sing blood in vain; Ah sof- ten, melt this
+w: low- ly mind in- to my breast! Nor ev- er may we
+w: rect my word, in- spire my thought; And if I fall, soon
+w: sus, in that im- por- tant hour, In death as life be
+[V: S1V2]  G2 A | G2 E | E2 E | D2 E | E2 E | E2 E |
+[V: S2V1]  E2 E | E2 B, | C2 ^A, | B,2 B, | A,2 G, | A,2 G, |
+[V: S2V2]  E,2 E, | E,2 E, | C,2 F, | B,,2 E, | C,2 E, | A,2 E, |
+[V: S1V1]  (B G) E | (G F) B | (e B) B/e/ | (e c) A | G2 F | E2 |]
+w: Lord, * I live; * My- self * to * Thee, * dear Lord, I give. 
+w: heart * re- move; * My ev- * ery * act, * word, thought, be love. 
+w: may * I see, * No- thing * de- * sire * or seek, but Thee! 
+w: all * my care * To guard * this * sa- * cred treas- ure there. 
+w: heart * im- press, * Nor aught * shall * the * lov'd stamp ef- face. 
+w: rock, _ and may _ Thy blood _ wash _ all _ these stains a- way!
+w: part- _ ed be, _ Till I _ be- _ come _ as one with Thee.
+w: may _ I hear _ Thy voice, _ and _ know _ that love is near.
+w: Thou _ my guide, _ And save _ me, _ Who _ for me hast died.
+[V: S1V2]  B,2 E | (E D) D | E2 E | E2 F | E2 D | E2 |]
+[V: S2V1]  (F, E,/F,/) G,/^A,/ | B,2 B, | (B, E) B, | (C E) C | B,2 A, | G,2 |]
+[V: S2V2]  (D, E,) C, | B,,2 B,/A,/ | G,2 G, | A,2 A,, | B,,2 B,, | E,2 |]

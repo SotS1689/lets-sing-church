@@ -1,0 +1,41 @@
+X: 1
+M: 6/8
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Bb
+[V: S1V1] [Q:1/4=90] D/ E/ =E/ F/B/ c/ | d c/ B3/2 | F/ A/ G/ E G/ | (F3/2 D3/2) |
+w: 1.~Be not dis- mayed * what- e'er be- tide, God will take care of you; * 
+w: 2.~Through days of toil _ when heart doth fail, God will take care of you; _
+w: 3.~All you may need _ He will pro- vide, God will take care of you; _
+w: 4.~No mat- ter what _ may be the test, God will take care of you; _
+[V: S1V2] B,/ C/ ^C/ D _E/ | F E/ D3/2 | E/ E/ E/ C E/ | (D3/2 B,3/2) |
+[V: S2V1] F,/ F,/ F,/ B,/F,/ A,/ | B, A,/ F,3/2 | A,/ C/ B,/ A, A,/ | (B,3/2 F,3/2) |
+[V: S2V2] B,,/ B,,/ B,,/ B,, F,/ | B, F,/ B,,3/2 | F,/ F,/ F,/ F, F,/ | B,,3 |
+[V: S1V1] D/ E/ =E/ F/B/ c/ | d c/ B3/2 | F/ A/ G/ F c/ | B3 |
+w: Be- neath His wings * of love a- bide, God will take care of you. 
+w: When dan- gers fierce _ your path as- sail, God will take care of you.
+w: No- thing you ask _ will be de- nied, God will take care of you.
+w: Lean, wear- y one, _ up- on His breast, God will take care of you.
+[V: S1V2] B,/ C/ ^C/ D _E/ | F E/ D3/2 | E/ E/ E/ E E/ | D3 |
+[V: S2V1] F,/ F,/ F,/ B,/F,/ A,/ | B, A,/ F,3/2 | A,/ C/ B,/ A, A,/ | B,3 |
+[V: S2V2] B,,/ B,,/ B,,/ B,, F,/ | B, F,/ B,,3/2 | F,/ F,/ F,/ F, F,/ | B,,3 |
+[V: S1V1] B3/2 A G/ | G F/ F3/2 | F/ A/ G/ E3/2 | E/ G/ F/ D3/2 |
+w: God will take care of you, through ev- 'ry day, o'er all the way; 
+w: God will take care of you, through ev'- ry day, o'er all the way;
+w: God will take care of you, through ev'- ry day, o'er all the way;
+w: God will take care of you, through ev'- ry day, o'er all the way;
+[V: S1V2] G3/2 F E/ | E D/ D3/2 | D/ F/ E/ C3/2 | C/ E/ D/ B,3/2 |
+[V: S2V1] B,3/2 B, B,/ | B, B,/ B,3/2 | F,/ F,/ F,/ A,3/2 | A,/ A,/ F,/ F,3/2 |
+[V: S2V2] E,3/2 E, E,/ | B,, B,,/ B,,3/2 | F,/ F,/ F,/ F,3/2 | F,/ F,/ F,/ B,,3/2 |
+[V: S1V1] F3/2 B B/ | c/B/ c/ !fermata!d3/2 | c/ B/ G/ F/B/ A/ | B3 |]
+w: He will take care * of you, God will take care * of you. 
+w: He will take care _ of you, God will take care _ of you.
+w: He will take care _ of you, God will take care _ of you.
+w: He will take care _ of you, God will take care _ of you.
+[V: S1V2] D3/2 F F/ | G G/ !fermata!^F3/2 | G/ G/ E/ D C/ | (D/B,/ E/ D3/2) |]
+[V: S2V1] B,3/2 B, B,/ | G, G,/ !fermata!A,3/2 | G,/ B,/ B,/ F, F,/ | (F,/D,/ G,/ F,3/2) |]
+[V: S2V2] B,,3/2 D, D,/ | E, E,/ !invertedfermata!D,3/2 | E,/ E,/ E,/ F, F,/ | B,,3 |]

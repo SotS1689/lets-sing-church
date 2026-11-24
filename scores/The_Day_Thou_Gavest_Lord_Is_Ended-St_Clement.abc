@@ -1,0 +1,19 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D | (B c) B | (d B) A | (G A) E | G F E | D2 D | (G A) B | A2 G | F2 D | (B c) B | (d B) A | (G A) E | G F E | (D E) F | (G B) A | (E G) F | G3 |]
+w: 1.~The day _ Thou ga- _ vest, Lord, _ is end- ed, The dark- ness falls _ at Thy be- hest; To Thee _ our morn- _ ing hymns _ a- scen- ded, Thy praise _ shall sanc- _ ti- fy _ our rest.
+w: 2.~We thank _ Thee that _ Thy church, _ un- slee- ping, While earth rolls on- _ ward in- to light, Through all _ the world _ her watch _ is keep- ing, And rests _ not now _ by day _ or night.
+w: 3.~As o’er _ each con- _ ti- nent _ and is- land The dawn leads on _ a- no- ther day, The voice _ of prayer _ is ne- _ ver si- lent, Nor dies _ the strain _ of praise _ a- way.
+w: 4.~The sun _ that bids _ us rest _ is wa- king Our breth- ren ’neath _ the we- stern sky, And hour _ by hour _ fresh lips _ are mak- ing Thy won- _ drous do- _ ings heard _ on high.
+w: 5.~So be _ it, Lord; _ Thy throne _ shall ne- ver, Like earth’s proud em- _ pires, pass a- way: Thy king- _ dom stands, _ and grows _ for- ev- er, Till all _ Thy crea- _ tures own _ Thy sway.
+[V:A] D | D E D | F2 F | E2 E | C C C | C B, D | E2 D | D ^C C | D2 D | D E D | F2 F | E2 E | C C A, | D E C | B, D E | E G D | D3 |]
+[V:T] D, | G,2 G, | A, D C | B, C A, | A, A, G, | A, B, A, | B,2 G, | E,2 A, | A,2 A, | G,2 G, | A, D C | B, C A, | A, A, F, | G,2 A, | G,2 C | C2 A, | B,3 |]
+[V:B] D, | G,,2 G, | D,2 D, | E, A,, C, | D, D, E, | F, G, F, | E,2 E, | A,,2 A,, | D,2 F, | G,2 G, | D,2 D, | E, A,, C, | D, D, C, | B,,2 D, | E, B,, C, | C, A,, D, | G,,3 |]

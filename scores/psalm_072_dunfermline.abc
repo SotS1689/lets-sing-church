@@ -1,0 +1,32 @@
+X:1
+M:4/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:F
+[V:S] F | F G A B | c c A A | d c c =B | c3 c | A c d c | (B/ G/) A G A | G F F E | F4 |]
+w: 1.~O Lord, thy judg- ments give the king, his son thy right- eous- ness. With right he shall thy peo- _ ple judge, thy poor with u- prigh- tness.
+w: 2.~The lof- ty moun- tains shall bring forth un- to the peo- ple peace; Li- kewise the lit- tle hills _ the same shall do by right- eous- ness.
+w: 3.~The peo- ple's poor ones he shall judge, the nee- dy's child- ren save; And those shall he in piec- _ es break who them op- press- èd have.
+w: 4.~They shall thee fear, while sun and moon do last, through a- ges all. Like rain on mown grass he _ shall drop, or show'rs on earth that fall.
+w: 5.~The just shall flour- ish in his days, and pros- per in his reign: He shall, while doth the moon _ en- dure, a- bun- dant peace main- tain.
+w: 6.~His large and great do- min- ion shall from sea to sea ex- tend: It from the ri- ver shall _ reach forth un- to earth's ut- most end.
+w: 7.~They in the wild- er- ness that dwell bow down be- fore him must; And they that are his e- _ ne- mies shall lick the ver- y dust.
+w: 8.~The kings of Tar- shish, and the isles, to him shall pre- sents bring; And un- to him shall of- _ fer gifts She- ba's and Se- ba's king.
+w: 9.~Yea, all the might- y kings on earth be- fore him down shall fall; And all the na- tions of _ the world do ser- vice to him shall.
+w: 10.~For he the need- y shall pre- serve, when he to him doth call; The poor al- so, and him _ that hath no help of man at all.
+w: 11.~The poor man and the in- di- gent in mer- cy he shall spare; He shall pre- serve a- live _ the souls of those that need- y are.
+w: 12.~Both from de- ceit and vi- o- lence their soul he shall set free; And in his sight right pre- _ ci- ous and dear their blood shall be.
+w: 13.~Yea, he shall live, and giv'n to him shall be of She- ba's gold: For him still shall they pray, _ and he shall dai- ly be ex- tolled.
+w: 14.~Of corn an hand- ful in the earth on tops of moun- tains high, With pros- p'rous fruit shall shake, _ like trees on Le- ba- non that be.
+w: 15.~The ci- ty shall be flou- ri- shing, her cit- i- zens a- bound In num- ber shall, like to _ the grass that grows up- on the ground.
+w: 16.~His name for ev- er shall en- dure; last like the sun it shall: Men shall be blessed in him, _ and blessed all na- tions shall him call.
+w: 17.~Now bless- ed be the Lord our God, the God of Is- ra- el, For he a- lone doth won- _ drous works, in glo- ry that ex- cel.
+w: 18.~And bless- ed be his glor- ious name to all e- ter- ni- ty: The whole earth let his glo- _ ry fill. A- men, so let it be.
+[V:A] C | C D/ E/ F F | F E F C | D/ E/ E D G/ F/ | E3 G | F G/ A/ B A | B/ G/ F E F | D A,/ B,/ C C | C4 |]
+[V:T] A, | C B, C F, | G, G, A, F, | A, G, A, D | C3 C | F _E D =E | F/ C/ B,/ D/ E C | B, F, G, G, | A,4 |]
+[V:B] F, | A, G, F, D, | C, C, F, F, | D, E, F, G, | C,3 E, | F, C, B,, C, | D,/ E,/ F, C F, | B,, D, C, C, | F,4 |]

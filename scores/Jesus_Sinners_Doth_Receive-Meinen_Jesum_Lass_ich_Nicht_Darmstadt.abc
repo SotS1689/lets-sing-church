@@ -1,0 +1,45 @@
+X: 1
+M: none
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1] [Q:1/4=120] G G F G | E F G2 | B B A d | c B A2 G2 |
+w: 1.~Je- sus sin- ners doth re- ceive; Oh, may all this say- ing pon- der
+w: 2.~We de- serve but grief and shame,\- Yet His words, rich grace re- veal- ing, 
+w: 3.~Sheep that from the fold did stray No true shep- herd e'er for- sa- keth;
+w: 4.~Come, ye sin- ners, one and all, Come, ac- cept His in- vi- ta- tion;
+w: 5.~I, a sin- ner, come to Thee With a pen- i- tent con- fes- sion;
+w: 6.~Oh, how blest it is to know: Were as scar- let my trans- gres- sion,
+w: 7.~Now my con- science is at peace, From the Law I stand ac- quit- ted;
+w: 8.~Je- sus sin- ners doth re- ceive. Al- so I have been for- giv- en;
+[V: S1V2] D ^C D D | C C D2 | D G A G | E/F/ G2 F G2 |
+[V: S2V1] B, G, A, B, | G, A, B,2 | G, D D B, | C D D2 B,2 |
+[V: S2V2] G, E, D, B,, | C, A,, G,,2 | G, G, F, G, | A, G, D,2 G,,2 |
+[V: S1V1] G G F G | E F G2 | B B A d | c B A2 G2 |
+w: Who in sin's de- lu- sions live And from God and Hea- ven wan- der!
+w: Par- don, peace, and life pro- claim; Here their ills have per- fect heal- ing 
+w: Wear- y souls that lost their way Christ, the Shep- herd, gent- ly ta- keth
+w: Come, o- bey His gra- cious call, Come and take His free sal- va- tion!
+w: Sa- vior, mer- cy show to me Grant for all my sins re- mis- sion.
+w: It shall be as white as snow By Thy blood and bit- ter Pas- sion;
+w: Christ hath pur- chased my re- lease And my ev- ery sin re- mit- ted.
+w: And when I this earth must leave, I shall find an o- pen Hea- ven.
+[V: S1V2] D ^C D D | C C D2 | D G A G | E/F/ G2 F G2 |
+[V: S2V1] B, G, A, B, | G, A, B,2 | G, D D B, | C D D2 B,2 |
+[V: S2V2] G, E, D, B,, | C, A,, G,,2 | G, G, F, G, | A, G, D,2 G,,2 |
+[V: S1V1] B A G A | B B A2 | B d c B | A A G2 |]
+w: Here is hope for all who grieve— Je- sus sin- ners doth re- ceive.
+w: Who with hum- ble hearts be- lieve\- Je- sus sin- ners doth re- ceive. 
+w: In His arms that they may live— Je- sus sin- ners doth re- ceive.
+w: Firm- ly in these words be- lieve: Je- sus sin- ners doth re- ceive.
+w: Let these words my soul re- lieve: Je- sus sin- ners doth re- ceive.
+w: For these words I now be- lieve: Je- sus sin- ners doth re- ceive.
+w: Naught re- mains my soul to grieve— Je- sus sin- ners doth re- ceive.
+w: Dy- ing, still to Him I cleave— Je- sus sin- ners doth re- ceive.
+[V: S1V2] D D E D | D D D2 | G G E/F/ G | G F G2 |]
+[V: S2V1] G, A, B, A, | G, G, F,2 | D B, C D | E D B,2 |]
+[V: S2V2] G, F, E, F, | G, B,,/C,/ D,2 | G, G,, A,, B,, | C, D, G,,2 |]

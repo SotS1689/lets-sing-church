@@ -1,0 +1,22 @@
+X:1
+M:3/4
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] B B B | A2 B | c2 F | G3 | D D D | B2 A | A3 | c c B | A2 G | F2 E | D3 | D E G | B2 A | G3 |]
+w: 1.~Lord, thee my God, I'll ear- ly seek: my soul doth thirst for thee; My flesh longs in a dry parched land, where- in no wa- ters be:
+w: 2.~That I thy po- wer may be- hold, and bright- ness of thy face, As I have seen thee he- re- tofore with- in thy ho- ly place.
+w: 3.~Since bet- ter is thy love than life, my lips thee praise shall give. I in thy name will lift my hands, and bless thee while I live.
+w: 4.~Ev'n as with mar- row and with fat my soul shall fill- èd be; Then shall my mouth with joy- ful lips sing prais- es un- to thee:
+w: 5.~When I do thee up- on my bed re- mem- ber with de- light, And when on thee I me- di- tate in watch- es of the night.
+w: 6.~In sha- dow of thy wings I'll joy; for thou mine help hast been. My soul thee fol- lows hard; and me thy right hand doth sus- tain.
+w: 7.~Who seek my soul to spill shall sink down to earth's low- est room. They by the sword shall be cut off, and fo- xes' prey be- come.
+w: 8.~Yet shall the king in God re- joice, and each one glo- ry shall That swear by him: but stopped shall be the mouth of li- ars all.
+[V:A] D D D | E2 D | (C E) D | D3 | D D D | D2 ^C | D3 | E E D | C2 ^C | D2 ^C | D3 | D D C | B,2 C | B,3 |]
+[V:T] B, B, G, | C2 G, | A,2 A, | B,3 | C B, A, | G,2 G, | F,3 | E, F, ^G, | A,2 A, | A,2 G, | F,3 | G, G, G, | G,2 F, | G,3 |]
+[V:B] G, G, B,, | C,2 B,, | A,,2 D, | G,3 | A, G, F, | G,2 E, | D,3 | A,, A,, A,, | A,,2 A,, | D,2 D, | (D,2 =C,) | B,, C, E, | D,2 D, | G,,3 |]

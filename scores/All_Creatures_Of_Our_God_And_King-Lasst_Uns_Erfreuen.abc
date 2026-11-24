@@ -1,0 +1,49 @@
+X: 1
+M: 6/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: D
+[V: S1V1] [Q:1/4=160] D2 | D E F D F G | [E4A4] D2 | D E F D F G | [E4A4]
+w: 1.~All crea- tures of our God and King Lift up your voice and with us sing, 
+w: 2.~Thou rush- ing wind that art so strong Ye clouds that sail in Hea- ven a-
+w: 3.~Thou flow- ing wa- ter, pure and clear, Make mu- sic fo- r thy Lord to
+w: 4.~Dear mo- ther earth, who day by day Un- fold- est bless- ings on o- ur
+w: 5.~And all ye men of ten- der heart, For- giv- ing o- thers, take your part,
+w: 6.~And thou most kind and gen- tle Death, Wait- ing to hush o- ur lat- est
+[V: S1V2]  A,2 | D4 D2 | (D2 C2) D2 | A, C D2 D2 | (D2 C2)
+[V: S2V1]  F,2 | F, G, A, F, B,2 | A,4 (A, B,) | A, G, A,2 B,2 | A,4
+[V: S2V2]  D,2 | D,2 D, D,/C,/ B,, E, | (A,,2 A, G,) (F, G,) | F, E, D, C, B,, E, | (A,,2 A, G,)
+[V: S1V1]  (d c) | B2 A2 d c | B2 A2 d2 | d A A G F G | [E4A4]
+w: A- lle- lu- ia! A- lle- lu- ia! Thou burn- ing sun with gol- den beam, 
+w: long, O praise Him! Al- le- lu- ia! Thou ris- ing moon, in praise re- joice,
+w: hear, O praise Him! Al- le- lu- ia! Thou fire so mas- ter- ful and bright,
+w: way, O praise Him! Al- le- lu- ia! The flowers and fruits that in thee grow,
+w: O _ sing ye! A- lle- lu- ia! Ye who long pain and sor- row bear,
+w: breath, O praise Him! Al- le- lu- ia! Thou lea- dest home the child of God,
+[V: S1V2]  A2 | (A G) F2 D E | (F E) C2 (A G) | F2 F E D2 | (D2 C2)
+[V: S2V1]  D2 | D2 D2 F, A, | (A, ^G,) A,2 D2 | D2 D A, A, G, | (E,2 A,2)
+[V: S2V2]  F,2 | G,2 D,2 B,, C, | (D, E,) A,,2 (F, E,) | D, C, B,, C, D, B,, | (A,,2 A, G,)
+[V: S1V1]  [A2d2] | [Ad] [GA] [FA] G F G | A4 (G F) | E2 D2 
+w: Thou sil- ver moon with soft- er gleam! O * praise Him! 
+w: Ye lights of eve- ning, find a voice! O _ praise Him!
+w: That giv- est man both warmth and light. O _ praise Him!
+w: Let them His glo- ry al- so show. O _ praise Him!
+w: Praise God and on Him cast your care! O _ praise Him!
+w: And Christ our Lord the way hath trod. O _ praise Him!
+[V: S1V2]  (D E) | D C D D3 | (D C F E) D2 | (D C) D2 
+[V: S2V1]  A,2 | A,2 A, D C B, | A,4  B,2 | (B, A,) A,2
+[V: S2V2]  (F, G,) | F, E, D, B, A, G, | (F, E, D, C,) (B,, A,,) | G,,2 F,,2 
+[V: S1V1] (G F) | E2 D2 d c | B2 A2 d c | B2 A2 G F | E6 | D4 |]
+w: O * praise Him! A- lle- lu- ia! A- lle- lu- ia! A- lle- lu- ia! 
+w: O _ praise Him! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia!
+w: O _ praise Him! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia!
+w: O _ praise Him! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia!
+w: O _ praise Him! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia!
+w: O _ praise Him! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia!
+[V: S1V2] D2 | (D C) B,2 F E | (F E) C2 [F2A2] | [FA] [E2G2] [B,F] B, D | (D2 C4) | A,4 |]
+[V: S2V1]  (B, A,) | (B, G,) F,2 F, A, | (A, ^G,) A,2 [F,2A,2] | (F, G,) (E, F,) G, A, | (B,2 A,2 G,2) | F,4 |]
+[V: S2V2] (E,, F,,) | (G,, A,,) B,,2 B,, C, | (D, E,) A,,2 B,, C, | (D, E,) (C, ^D,) E, F, | (G,2 A,2 A,,2) | D,4 |]

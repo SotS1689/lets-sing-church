@@ -1,0 +1,50 @@
+X:1
+M:3/4
+L:1/8
+Q:1/4=108
+%%score (S A) (T B)
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:G
+[V:S] D3/2 D1/2 | G7/2 D1/2 G3/2 A1/2 | B4 d3/2 d1/2 | d4 B3/2 G1/2 |
+w: 1.~We have heard the joy- ful sound: Je- sus saves! Je- sus
+w: 2.~Waft it on the rol- ling tide: Je- sus saves! Je- sus
+w: 3.~Sing a- bove the bat- tle strife: Je- sus saves! Je- sus
+w: 4.~Give the winds a might- y voice: Je- sus saves! Je- sus
+[V:A] B,3/2 B,1/2 | B,7/2 B,1/2 B,3/2 C1/2 | D4 D3/2 D1/2 | D4 D3/2 D1/2 |
+[V:T] G,3/2 G,1/2 | D,7/2 G,1/2 G,3/2 G,1/2 | G,4 B,3/2 B,1/2 | B,4 G,3/2 B,1/2 |
+[V:B] G,,3/2 G,,1/2 | G,,7/2 G,,1/2 G,,3/2 G,,1/2 | G,,4 G,3/2 G,1/2 | G,4 G,3/2 G,1/2 |
+[V:S] A4 D3/2 D1/2 | G7/2 D1/2 G3/2 A1/2 | B4 d3/2 d1/2 | d4 A3/2 B1/2 |
+w: saves! Spread the ti- dings all a- round: Je- sus saves! Je- sus
+w: saves! Tell to sin- ners far and wide: Je- sus saves! Je- sus
+w: saves! By His death and end- less life Je- sus saves! Je- sus
+w: saves! Let the na- tions now re- joice: Je- sus saves! Je- sus
+[V:A] F4 C3/2 C1/2 | B,7/2 B,1/2 B,3/2 C1/2 | D4 D3/2 G1/2 | F4 F3/2 F1/2 |
+[V:T] D4 F,3/2 F,1/2 | G,7/2 G,1/2 G,3/2 G,1/2 | G,4 B,3/2 B,1/2 | A,4 C3/2 D1/2 |
+[V:B] D,4 D,3/2 D,1/2 | G,,7/2 G,,1/2 G,,3/2 G,,1/2 | G,,4 G,3/2 G,1/2 | D,4 D,3/2 D,1/2 |
+[V:S] G4 G3/2 G1/2 | c7/2 c1/2 c3/2 c1/2 | c4 G3/2 A1/2 | B7/2 B1/2 d3/2 B1/2 |
+w: saves! Bear the news to ev- ery land, Climb the moun- tains, cross the
+w: saves! Sing, you i- slands of the sea; E- cho back, you o- cean
+w: saves! Shout it bright- ly through the gloom, When the heart for mer- cy
+w: saves! Shout sal- va- tion full and free; High- est hills and deep- est
+[V:A] D4 E3/2 E1/2 | E7/2 E1/2 E3/2 E1/2 | E4 D3/2 D1/2 | G7/2 G1/2 G3/2 G1/2 |
+[V:T] B,4 C3/2 C1/2 | G,7/2 G,1/2 G,3/2 G,1/2 | G,4 B,3/2 C1/2 | D7/2 D1/2 B,3/2 D1/2 |
+[V:B] G,4 C,3/2 C,1/2 | C,7/2 C,1/2 C,3/2 C,1/2 | C,4 G,3/2 G,1/2 | G,7/2 G,1/2 G,3/2 G,1/2 |
+[V:S] A4 d3/2 d1/2 | d7/2 B1/2 c3/2 d1/2 | e4 d3/2 d1/2 | d4 A3/2 B1/2 |
+w: waves; On- ward! ’tis our Lord’s com- mand; Je- sus saves! Je- sus
+w: caves; Earth shall keep her ju- bi- lee: Je- sus saves! Je- sus
+w: craves; Sing in tri- umph o’er the tomb: Je- sus saves! Je- sus
+w: caves; This our song of vic- to- ry: Je- sus saves! Je- sus
+[V:A] F4 F3/2 F1/2 | G7/2 G1/2 G3/2 G1/2 | G4 G3/2 G1/2 | F4 F3/2 F1/2 |
+[V:T] D4 A,3/2 A,1/2 | B,7/2 D1/2 C3/2 B,1/2 | C4 B,3/2 B,1/2 | A,4 C3/2 D1/2 |
+[V:B] D,4 D,3/2 D,1/2 | G,7/2 =F,1/2 E,3/2 D,1/2 | C,4 G,3/2 G,1/2 | D,4 D,3/2 D,1/2 |
+[V:S] G4 |]
+w: saves!
+w: saves!
+w: saves!
+w: saves!
+[V:A] D4 |]
+[V:T] B,4 |]
+[V:B] G,,4 |]

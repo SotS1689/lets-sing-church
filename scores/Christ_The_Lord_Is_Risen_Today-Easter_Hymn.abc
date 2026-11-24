@@ -1,0 +1,69 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=120] C E G C | F A (A G) | (E/F/G/C/ F) E/F/ | (E D) C2 |
+w: 1.~Christ the Lord is risen to- day, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 2.~Love’s re- deem- ing work is done, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 3.~Vain the stone, the watch, the seal, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 4.~Lives a- gain our glor- ious king, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 5.~Soar we now, where Christ has led, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 6.~What tho’ once we pe- rished all, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 7.~Ris’n with Him, we up- ward move, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 8.~Scarce on earth a thought be- stow, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 9.~Hid till Christ our life ap- pear, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 10.~Hail the Lord of earth and Heaven, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: 11.~King of Glo- ry, Soul of Bliss, _ Al- _ _ _ _ le- _ lu- _ ia!
+[V: S1V2]  C C D C | C F (F E) | (C2 C/B,/) C | (C B,) C2 |
+[V: S2V1]  E, G, G, E, | F, C C2 | (G,2 A,/F,/) G,/A,/ | (G,3/2 F,/) E,2 |
+[V: S2V2]  C, C, B,, C, | A,, F,, C,2 | (C,/D,/ E, D,) C,/F,,/ | G,,2 C,2 |
+[V: S1V1]  F G A G | F E (E D) | (E/F/G/C/ F) E/F/ | (E D) C2 |
+w: Sons of men and an- gels say, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Fought the fight, the bat- tle won, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Christ has burst the gates of hell, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Where, O death, is now thy sting? _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Follow- ing our ex- alt- ed head, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Part- ners in our par- ents’ fall, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Still we seek the things a- bove, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Dead to all we leave be- low, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Glor- ious in His mem- bers here, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Praise to Thee by both be given, _ Al- _ _ _ _ le- _ lu- _ ia!
+w: Ev- er- last- ing life is this, _ Al- _ _ _ _ le- _ lu- _ ia!
+[V: S1V2]  C C C C | C/B,/ C (C B,) | (C2 C/B,/) C | (C B,) C2 |
+[V: S2V1]  F, E, F, G, | A,/F,/ G, G,2 | (G,2 A,/F,/) G,/A,/ | (G,3/2 F,/) E,2 |
+[V: S2V2]  A,, C, F, E, | D, C, G,,2 | (C,/D,/ E, D,) C,/F,,/ | G,,2 C,2 |
+[V: S1V1]  B c d G | c d e2 | (B/c/d/G/ c) B/c/ | (B A) G2 |
+w: Raise your joys and tri- umphs high, Al- _ _ _ _ le- _ lu- _ ia!
+w: Lo! Our sun’s ec- lipse is o’er, Al- _ _ _ _ le- _ lu- _ ia!
+w: Death in vain for- bids His rise, Al- _ _ _ _ le- _ lu- _ ia!
+w: Dy- ing once He all doth save, Al- _ _ _ _ le- _ lu- _ ia!
+w: Made like Him, like Him we rise, Al- _ _ _ _ le- _ lu- _ ia!
+w: Se- cond life we all re- ceive, Al- _ _ _ _ le- _ lu- _ ia!
+w: Still pur- sue, and kiss the Son, Al- _ _ _ _ le- _ lu- _ ia!
+w: Heav’n our aim, and loved a- bode, Al- _ _ _ _ le- _ lu- _ ia!
+w: Joined to Him, we then shall shine, Al- _ _ _ _ le- _ lu- _ ia!
+w: Thee we greet tri- um- phant now, Al- _ _ _ _ le- _ lu- _ ia!
+w: Thee to know, Thy power to prove, Al- _ _ _ _ le- _ lu- _ ia!
+[V: S1V2]  G3/2 ^F/ G G | G F E2 | (G2 G/^F/) G | (G ^F) G2 |
+[V: S2V1]  D C B, B, | C3/2 B,/ C2 | (D2 D) D/C/ | (D3/2 C/) B,2 |
+[V: S2V2]  G,, A,, B,, G,/=F,/ | E, D, [C,2C2] | (G,/A,/ B, A,) G,/E,/ | D,2 G,,2 |
+[V: S1V1]  G/A/ B/G/ c E | F A (A G) | (c/B/c/G/ A/B/) c/d/ | (c B) c2 |]
+w: Sing _ ye _ heav’ns, and earth re- ply, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Lo! _ He _ sets in blood no more, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Christ _ has _ o- pened par- a- dise, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Where _ thy _ vic- to- ry, O grave? _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Ours _ the _ cross— the grave— the skies, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: In _ our _ heav’n- ly A- dam live, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Sea- _ ted _ on His Fa- ther’s throne, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Hid _ our _ life with Christ in God, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: All _ im- _ mor- tal, all di- vine, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Hail _ the _ res- ur- rec- tion Thou, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+w: Thus _ to _ sing, and thus to love, _ Al- _ _ _ _ _ le- _ lu- _ ia!
+[V: S1V2]  B,/C/ D/B,/ C C | C F (F E) | (E/F/G/E/ F) E/D/ | (E G/F/) E2 |]
+[V: S2V1]  G, G, G, G, | F, C C2 | (G,3/2 C/ C/D/) G,/A,/ | G,2 G,2 |]
+[V: S2V2]  G,3/2 F,/ E, C,/B,,/ | A,, F,, C,2 | (C,/D,/E,/C,/ F,/D,/) E,/F,/ | (G, G,,) C,2 |]

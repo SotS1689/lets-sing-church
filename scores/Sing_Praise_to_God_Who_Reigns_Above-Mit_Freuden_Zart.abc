@@ -1,0 +1,19 @@
+X:1
+M:3/2
+L:1/4
+Q:1/4=100
+%%score (S A) (T B)
+V:S clef=treble name=""
+V:A clef=treble
+V:T clef=bass
+V:B clef=bass
+K:D
+[V:S] D2 F G A2 | d2 c B A2 | (B3/2 A/) G F E2 | (F G) E2 D2- | D D2 F G A- | A d2 c B A- | A (B3/2 A/) G F E- | E (F G) E2 D- | D2 d2 c B | A2 d2 c B | A2 A2 D E | F2 D2 F ^G | A2 A2 B G | E2 (F G) E2 | D4- D2 |]
+w: 1.~Sing praise to God who reigns a- bove, The _ God of all cre- _ a- tion, _ The God of power, _ the God of love, _ The _ God of our _ sal- _ va- tion. _ With heal- ing balm my soul is filled And ev- ery faith- less mur- mur stilled: To God all praise and _ glo- ry. _
+w: 2.~What God's al- might- y power hath made His _ gra- cious mer- cy _ kee- peth, _ By morn- ing glow _ or eve- ning shade _ His _ watch- ful eye _ ne'er _ slee- peth; _ With- in the king- dom of His might, Lo! all is just and all is right: To God all praise and _ glo- ry. _
+w: 3.~The Lord is ne- ver far a- way, But _ through all grief dis- _ tres- sing, _ An ev- er pre- _ sent help and stay, _ Our _ peace and joy _ and _ bless- ing. _ As with a mo- ther's ten- der hand, God gent- ly leads the cho- sen band: To God all praise and _ glo- ry. _
+w: 4.~Thus, all my toil- some way a- long, I _ sing a- loud Thy _ prais- es, _ That earth may hear _ the grate- ful song _ My _ voice un- wear- _ ied _ rai- ses. _ Be joy- ful in the Lord, my heart, Both soul and bo- dy bear your part: To God all praise and _ glo- ry. _
+w: 5.~Let all who name Christ's ho- ly name Give _ God all praise and _ glo- ry; _ Let all who own _ His power pro- claim _ A- _ loud the won- _ drous _ sto- ry! _ Cast each false i- dol from its throne, For Christ is Lord, and Christ a- lone: To God all praise and _ glo- ry. _
+[V:A] A,2 D C D2 | D2 D D D2 | ^D2 E =D C2 | D2 D C D2- | D A,2 D C D- | D D2 D D D- | D ^D2 E =D C- | C D2 D C D- | D2 F2 F =F | C2 D2 E E | E2 C2 D C | D2 A,2 D D | C2 D2 D D | C2 D2 D C | D4- D2 |]
+[V:T] F,2 A, A, F,2 | A,2 A, G, F,2 | F, B, B, A, A, G, | A, B, A, A,,/ G,/ F,2- | F, F,2 A, A, F,- | F, A,2 A, G, G,- | G, F, B, B, A, A, | G, A, B, A, A,,/ G,/ F,- | F,2 B,2 A, ^G, | F,2 F,2 A, ^G, | C2 A, G, A, G, | A,2 F,2 B, B, | A, G, D =C B,2 | A, G, A, B, A, A,,/ G,/ | F,4- F,2 |]
+[V:B] D,2 D, E, F,2 | F,,2 G,, B,, D, =C, | B,,2 E, F,/ G,/ A, G, | F, E, A, A,,/ G,/ D,2- | D, D,2 D, E, F,- | F, F,,2 G,, B,, D, | =C, B,,2 E, F,/ G,/ A, | G, F, E, A, A,,/ G,/ D,- | D,2 B,,2 C, C, | F,2 B,,2 C, E, | A,2 A, G, F, E, | D,2 D, C, B,, E, | A, G, F,2 G, F, | A, G, F, E, A, A,,/ G,/ | D,4- D,2 |]

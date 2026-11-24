@@ -1,0 +1,54 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: F
+[V: S1V1] [Q:1/4=100] C F F3/2 E/ | F A (A G) | c c c3/2 B/ | A G A2 |
+w: 1.~Hark! The her- ald an- gels sing, * "Glo- ry to the new- born King; 
+w: 2.~Christ, by high- est Heav'n a- dored; _ Christ the ev- er- last- ing Lord;
+w: 3.~Hail the heav'n- ly Prince of Peace! _ Hail the Sun of Right- eous- ness!
+w: 4.~Come, De- sire of na- tions, come, _ Fix in us Thy hum- ble home;
+w: 5.~A- dam's like- ness, Lord, ef- face, _ Stamp Thine i- mage in its place:
+[V: S1V2]  C C C3/2 C/ | C F (F E) | F E D G | F E F2 | C C C3/2 C/ |
+[V: S2V1]  A, A, A,3/2 G,/ | F, C C2 | C C D D | C C C2 | A, A, A,3/2 G,/ |
+[V: S2V2]  F, F, F, C, | A,, F,, C,2 | A,, A,, B,, B,, | C, C, F,2 | F, F, F, C, |
+[V: S1V1]  C F F3/2 E/ | F A (A G) | c G G3/2 E/ | E D C2 |
+w: Peace on earth, and mer- cy mild, * God and sin- ners re- con- ciled!" 
+w: Late in time, be- hold Him come, _ Off- spring of a vir- gin's womb.
+w: Light and life to all He brings, _ Ris'n with heal- ing in His wings.
+w: Rise, the wo- man's con- qu'ring Seed, _ Bruise in us the ser- pent's head.
+w: Se- cond A- dam from a- bove, _ Re- in- state us in Thy love.
+[V: S1V2]  A, F F2 | E D E3/2 C/ | C =B, C2 |
+[V: S2V1]  F, C D2 | C D C3/2 G,/ | A, F, E,2 |
+[V: S2V2]  D, C, (=B,,3/2 G,,/) | A,, =B,, C, E, | F, G,, C,2 |
+[V: S1V1]  c c c F | B A (A G) | c c c F | B A (A G) |
+w: Joy- ful, all ye na- tions rise, * Join the tri- umph of the skies; * 
+w: Veiled in flesh the God- head see; _ Hail th'in- car- nate De- i- ty, _
+w: Mild He lays His glo- ry by, _ Born that man no more may die. _
+w: Now dis- play Thy sa- ving po- wer, Ru- ined na- ture now re- store; _
+w: Let us Thee, though lost, re- gain, _ Thee, the Life, the in- ner man: _
+[V: S1V2]  C C C F | G F (F E) | C C C F | G F (F E) |
+[V: S2V1]  C C C C | C C C2 | C C C C | C C C2 |
+[V: S2V2]  C C C A, | E, F, C,2 | C C C A, | E, F, C,2 |
+[V: S1V1]  d d d c | B A B2 | G A/B/ c3/2 F/ | F G A2 |
+w: With th'an- gel- ic host pro- claim, "Christ is * born in Beth- le- hem!" 
+w: Pleased with us in flesh to dwell, Je- sus _ our Em- man- u- el.
+w: Born to raise the sons of earth, Born to _ give them se- cond birth.
+w: Now in mys- tic un- ion join Thine to _ ours, and ours to Thine.
+w: O, to all Thy- self im- part, Formed in _ each be- liev- ing heart.
+[V: S1V2]  B B B A | G ^F G2 | E E F3/2 C/ | C E F2 |
+[V: S2V1]  D D D D | D D D2 | C C C3/2 A,/ | A, C C2 |
+[V: S2V2]  B,, B,, B,, B,, | B,, D, G,2 | B, B, A, F, | C, C, F,2 |
+[V: S1V1]  d3/2 d/ d c | B A B2 | G A/B/ c3/2 F/ | F G F2 |]
+w: Hark! the her- ald an- gels sing, "Glo- ry * to the new- born King!" 
+w: Hark! the her- ald an- gels sing, "Glo- ry _ to the new- born King!"
+w: Hark! the her- ald an- gels sing, "Glo- ry _ to the new- born King!"
+w: Hark! the her- ald an- gels sing, "Glo- ry _ to the new- born King!"
+w: Hark! the her- ald an- gels sing, "Glo- ry _ to the new- born King!"
+[V: S1V2]  B B B A | G ^F G2 | C E F3/2 F/ | C C C2 |]
+[V: S2V1]  D D D C | B, A, B,2 | C C C3/2 A,/ | A, B, A,2 |]
+[V: S2V2]  B, B, B, A, | G, ^F, (G, =F,) | E, B, A, F, | C, C, F,2 |]

@@ -1,0 +1,29 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: G
+[V: S1V1]  [Q:1/4=140] D | G G B A/G/ | A3 B/c/ | d c/B/ c B | A3
+w: 1.~The ad- vent of our _ God Our _ prayers must _ now em- ploy,
+w: 2.~The ev- er- last- ing _ Son In- _ car- nate _ deigns to be;
+w: 3.~Daugh- ter of Zi- on, _ rise To _ meet thy _ low- ly king,
+w: 4.~As judge, on clouds of _ light, He _ soon will _ come a- gain,
+w: 5.~Be- fore the daw- ning _ day Let _ sin's dark _ deeds be gone;
+w: 6.~All glo- ry to the _ Son Who _ comes to _ set us free,
+[V: S1V2]  B, | D D D D/^C/ | D3 G/F/ | G F/G/ E/F/ G | F3
+[V: S2V1]  G, | G, B, D A, | F,3 D | D D C D | D3
+[V: S2V2]  G,, | B,, G,, G, F,/E,/ | D,3 G,/A,/ | B, A,/G,/ A, G, | D,3
+[V: S1V1]  d | B G A D | G/A/ B/^c/ d3/2 d/ | e d/c/ B A | G3 |]
+w: And we must meet Him on _ His _ road With hymns of _ ho- ly joy.
+w: Him- self a ser- vant's form _ puts _ on To set His _ peo- ple free.
+w: Nor let thy faith- less heart _ des- _ pise The peace He _ comes to bring.
+w: And all His scat- tered saints _ u- _ nite With Him in _ Heaven to reign.
+w: The old man all be put _ a- _ way, The new man _ all put on.
+w: With Fa- ther, Spi- rit, ev- _ er _ One, Through all e- _ ter- ni- ty.
+[V: S1V2]  D | D D D D | D G F3/2 G/ | G G G F | D3 |]
+[V: S2V1]  A, | G, G, F, A, | B, G, A,3/2 B,/ | C D/E/ D C | B,3 |]
+[V: S2V2]  F, | G, B,, D, F, | G, E, D,3/2 G,/ | C, B,,/C,/ D, D, | G,,3 |]

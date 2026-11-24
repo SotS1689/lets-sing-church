@@ -1,0 +1,41 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: C
+[V: S1V1] [Q:1/4=110] c | c c G/A/ B | c/B/ A !fermata!G c | B A G A | (F/E/ D) !fermata!C
+w: 1.~A might- y for- * tress is * our God, a bul- wark nev- er fail- * * ing;
+w: 2.~Did we in our * own strength * con- fide, our striv- ing would be los- * * ing;
+w: 3.~And though this world, * with de- * vils filled, should threat- en to un- do * * us,
+w: 4.~That word a- bove * all earth- * ly powers, no thanks to them, a- bid- * * eth;
+[V: S1V2] E | C E D G | E ^F !fermata!G E | E C C C | (A, B,) !fermata!C
+[V: S2V1] G, | G, G, B, B, | A, D/C/ !invertedfermata!B, A, | G, F, E, E, | (F, G,) !invertedfermata!E,
+[V: S2V2] C, | E, C, G, E, | A, D, !fermata!G, A, | E, F, C, A,, | (D, G,,) !fermata!C,
+[V: S1V1] c | c c G/A/ B | c/B/ A !fermata!G c | B A G A | (F/E/ D) !fermata!C
+w: Our help- er He, * a- mid * the flood of mor- tal ills pre- vail- * * ing:
+w: Were not the right * Man on * our side, the Man of God's own choos- * * ing:
+w: We will not fear, * for God * hath willed His truth to tri- umph through * * us:
+w: The Spir- it and * the gifts * are ours through Him who with us sid- * * eth:
+[V: S1V2] E | C E D G | E ^F !fermata!G E | E C C C | (A, B,) !fermata!C
+[V: S2V1] G, | G, G, B, B, | A, D/C/ !invertedfermata!B, A, | G, F, E, E, | (F, G,) !invertedfermata!E,
+[V: S2V2] C, | E, C, G, E, | A, D, !fermata!G, A, | E, F, C, A,, | (D, G,,) !fermata!C,
+[V: S1V1] C | G A G ^F | !fermata!G C G G | A B !fermata!c B | c B A A | !fermata!G
+w: For still our an- cient foe doth seek to work us woe; His craft and power are great, 
+w: Dost ask who that may be? Christ Je- sus, it is He; Lord Sab- a- oth, His name, 
+w: The Prince of Dark- ness grim, we trem- ble not for him; His rage we can en- dure, 
+w: Let goods and kin- dred go, this mor- tal life al- so; The bo- dy they may kill: 
+[V: S1V2] C | C E D D/C/ | !fermata!B, C D E | F F !fermata!E E | C D E D/C/ | !fermata!B,
+[V: S2V1] E, | E, C B, A, | !invertedfermata!G, E, G, C | C D !invertedfermata!C G, | E,/^F,/ G, G, ^F, | !invertedfermata!G,
+[V: S2V2] C, | C, A,, B,,/C,/ D, | !fermata!G,, A,, B,, C, | F,/E,/ D, !fermata!A,, E, | A,, B,, C, D, | !fermata!G,
+[V: S1V1] A A G | A F !fermata!E c | B A G A | (F/E/ D) !fermata!C |]
+w: and, armed with cru- el hate, On earth is not his e- * * qual.
+w: from age to age the same, And He must win the bat- * * tle.
+w: for lo, his doom is sure, One lit- tle word shall fell * * him.
+w: God's truth a- bid- eth still, His king- dom is for- ev- * * er.
+[V: S1V2] F F E | E D !fermata!E C | F F F E | (D/C/ B,) !fermata!C |]
+[V: S2V1] C C3/2 ^A,/ | A, A, !invertedfermata!^G, A, | A,/B,/ C D A, | (A, G,/F,/) !invertedfermata!E, |]
+[V: S2V2] F, F,, C, | ^C, D, !fermata!E, A,, | D, C, B,, ^C, | (D, G,,) !fermata!C, |]

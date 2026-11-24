@@ -1,0 +1,21 @@
+X: 1
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+V: S2V1 clef=bass 
+V: S2V2 
+K: Eb
+[V: S1V1] [Q:1/4=100] B | G B e d | c3 B | G E G =A | B3
+w: 1.~Lord, be Thy Word my rule, In it may I re- joice;
+w: 2.~Thy pro- mi- ses my hope; Thy pro- vi- dence my guard;
+[V: S1V2]  E | E D E E | E3 F | E E E E | D3
+[V: S2V1]  G, | B, A, B, G, | A,3 F, | B, B, C C | B,3
+[V: S2V2]  E, | E, F, G, E, | A,3 D, | E, G, C, F, | B,,3 
+[V: S1V1] B | c e d c | B3 A | G B F F | E3|]
+w: Thy glo- ry be my aim, Thy ho- ly will my choice;
+w: Thine arm my strong sup- port; Thy- self my great re- ward.
+[V: S1V2] E | E B, D E | (F D E) F | E E E D | E3 |]
+[V: S2V1] B, | A, B, A, A, | (F, B,2) B, | B, B, C B,/A,/ | G,3 |]
+[V: S2V2] G, | A, G, F, E, | (D, B,, C,) D, | E, G,, A,, B,, | E,3 |]
